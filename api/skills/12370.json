@@ -1,0 +1,44 @@
+{
+    "chat_link": "[&BlIwAAA=]",
+    "description": "Strike a nearby foe with a massive swipe.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 250
+        },
+        {
+            "dmg_multiplier": 1.17,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 3,
+            "description": "Damage and condition damage taken are increased; stacks intensity.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+            "status": "Vulnerability",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 3
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/6118B1469B45E4576CF090B84B20B1A8D67F0718/103945.png",
+    "id": 12370,
+    "name": "Oakheart Swipe",
+    "professions": [],
+    "slot": "Weapon_1",
+    "type": "Monster",
+    "weapon_type": "Hammer"
+}

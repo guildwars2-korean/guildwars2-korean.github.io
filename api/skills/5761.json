@@ -1,0 +1,58 @@
+{
+    "attunement": "Earth",
+    "categories": [
+        "Glyph"
+    ],
+    "chat_link": "[&BoEWAAA=]",
+    "description": "Glyph. Revive allies around you.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 90
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Revive Targets",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "distance": 360,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [
+        "GroundTargeted"
+    ],
+    "icon": "https://render.guildwars2.com/file/044EE81D614E307B80670739F4DAF310C754BDD3/1424231.png",
+    "id": 5761,
+    "name": "Renewal of Earth",
+    "professions": [
+        "Elementalist"
+    ],
+    "slot": "Utility",
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "Incoming strike damage decreased by 33%; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+            "requires_trait": 229,
+            "status": "Protection",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "type": "Utility",
+    "weapon_type": "None"
+}

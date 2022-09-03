@@ -1,0 +1,14 @@
+{
+    "chat_link": "[&Br8pAAA=]",
+    "description": "Return to the point where Spectral Walk began.",
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/3329021651370622FBE6099FC1DE05C971164CCD/103847.png",
+    "id": 10687,
+    "name": "Spectral Recall",
+    "professions": [
+        "Necromancer"
+    ],
+    "slot": "Utility",
+    "type": "Utility",
+    "weapon_type": "None"
+}

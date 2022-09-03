@@ -1,0 +1,37 @@
+{
+    "chat_link": "[&BjQwAAA=]",
+    "description": "Call in members of your warband to assist you.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 240
+        },
+        {
+            "duration": 30,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/3817DEBC015624E0407566A94E4A659AFB6825C3/103932.png",
+    "id": 12340,
+    "name": "Warband Support",
+    "professions": [
+        "Guardian",
+        "Warrior",
+        "Engineer",
+        "Ranger",
+        "Thief",
+        "Elementalist",
+        "Mesmer",
+        "Necromancer"
+    ],
+    "slot": "Elite",
+    "type": "Elite",
+    "weapon_type": "None"
+}

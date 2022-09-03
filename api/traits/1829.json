@@ -1,0 +1,10 @@
+{
+    "description": "You can wield torches in your off hand.",
+    "icon": "https://render.guildwars2.com/file/20231A942AAF5F60E32B64649A0FD51ACE447671/1770032.png",
+    "id": 1829,
+    "name": "Torch Proficiency",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 18,
+    "tier": 0
+}

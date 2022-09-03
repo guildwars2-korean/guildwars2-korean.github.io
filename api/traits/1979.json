@@ -1,0 +1,21 @@
+{
+    "description": "Using tool belt skills grants vigor.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Endurance regeneration increased by 50%; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+            "status": "Vigor",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/7351CD5F33E20447E8CC237A1802D801B9AF16DC/1012387.png",
+    "id": 1979,
+    "name": "Optimized Activation",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 21,
+    "tier": 1
+}

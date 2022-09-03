@@ -1,0 +1,29 @@
+{
+    "chat_link": "[&BlcIAAA=]",
+    "description": "Lunge at your foe, striking them with your sword.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 600
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 8
+        },
+        {
+            "finisher_type": "Leap",
+            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+            "percent": 100,
+            "text": "Combo Finisher",
+            "type": "ComboFinisher"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/F47AFFCAC1475EB0086C32AAB5AA1A6048F52A08/102778.png",
+    "id": 2135,
+    "name": "Savage Leap"
+}

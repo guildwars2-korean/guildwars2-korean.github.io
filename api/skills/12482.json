@@ -1,0 +1,63 @@
+{
+    "chat_link": "[&BsIwAAA=]",
+    "description": "Leap to your target and cripple them. Can be followed up with Serpent's Strike.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 600
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 8
+        },
+        {
+            "dmg_multiplier": 1.8,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 50%; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+            "status": "Crippled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Serpent's Strike is available to cast.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/26B3CC91C193FDC30873937B2FB735E1B7C6A83A/103126.png",
+            "status": "Serpent's Preparation",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "finisher_type": "Leap",
+            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+            "percent": 100,
+            "text": "Combo Finisher",
+            "type": "ComboFinisher"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "flip_skill": 12622,
+    "icon": "https://render.guildwars2.com/file/F14CE8E0FBDA9F4CCDDC0290AA1D53BD732824F9/104021.png",
+    "id": 12482,
+    "name": "Monarch's Leap",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Weapon_2",
+    "type": "Weapon",
+    "weapon_type": "Sword"
+}

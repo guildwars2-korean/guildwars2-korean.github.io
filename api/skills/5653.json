@@ -1,0 +1,23 @@
+{
+    "attunement": "Air",
+    "chat_link": "[&BhUWAAA=]",
+    "description": "Detonate your air pocket to teleport to its location.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1200
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/6693297328BDDDFFE29998512E53C6DBB1A62E2B/103376.png",
+    "id": 5653,
+    "name": "Vacuum",
+    "professions": [
+        "Elementalist"
+    ],
+    "slot": "Weapon_3",
+    "type": "Weapon",
+    "weapon_type": "Trident"
+}

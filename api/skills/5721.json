@@ -1,0 +1,66 @@
+{
+    "chat_link": "[&BlkWAAA=]",
+    "description": "Encase your target in a block of solid ice. Duration is increased per stack of Water Arrow.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 30
+        },
+        {
+            "dmg_multiplier": 0.8,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 5,
+            "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+            "status": "Chilled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+            "text": "Stun",
+            "type": "Time"
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+            "text": "Duration Increase per Water Arrow Stack",
+            "type": "Time"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/140358662D0F91686AF712B15ECF1B912DBF4700/103388.png",
+    "id": 5721,
+    "name": "Deep Freeze",
+    "professions": [
+        "Thief",
+        "Mesmer",
+        "Warrior",
+        "Elementalist",
+        "Necromancer",
+        "Guardian",
+        "Ranger",
+        "Engineer",
+        "Revenant"
+    ],
+    "slot": "Weapon_5",
+    "type": "Bundle",
+    "weapon_type": "None"
+}

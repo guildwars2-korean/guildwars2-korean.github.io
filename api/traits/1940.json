@@ -1,0 +1,42 @@
+{
+    "description": "Inflicting a condition on a foe grants <c=@abilitytype>carapace</c>. Gain pulsing protection while at or above the <c=@abilitytype>carapace</c> threshold.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Increased toughness per stack.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/DC38F4623BFE773E681E37A0EAE11A364D52AACE/1012567.png",
+            "status": "Death's Carapace",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Carapace Threshold",
+            "type": "Number",
+            "value": 25
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "apply_count": 1,
+            "description": "Incoming strike damage decreased by 33%; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+            "status": "Protection",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/64FF0B91380345FD2A12A1EE730448A966725E91/1012565.png",
+    "id": 1940,
+    "name": "Corrupter's Fervor",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 2,
+    "tier": 3
+}

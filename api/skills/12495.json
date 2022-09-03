@@ -1,0 +1,86 @@
+{
+    "categories": [
+        "Spirit"
+    ],
+    "chat_link": "[&Bs8wAAA=]",
+    "description": "Spirit. Summon a stone spirit that grants protection to nearby allies.\nSpirits lose health when granting boons to allies, and they die if the summoner moves out of range.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "apply_count": 1,
+            "description": "Incoming strike damage decreased by 33%; stacks duration.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+            "status": "Protection",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 5000,
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Distance",
+            "type": "Distance"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/ECAD5F2BBF2CD2D007D876007008D7D0400D080C/1770204.png",
+            "percent": 7.5,
+            "text": "Health Loss per Interval",
+            "type": "Percent"
+        }
+    ],
+    "flags": [],
+    "flip_skill": 12595,
+    "icon": "https://render.guildwars2.com/file/65802D0CA90F904046542B78A79B48EB3745C244/103994.png",
+    "id": 12495,
+    "name": "Stone Spirit",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Utility",
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "Incoming strike damage decreased by 33%; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+            "overrides": 1,
+            "requires_trait": 1038,
+            "status": "Protection",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/ECAD5F2BBF2CD2D007D876007008D7D0400D080C/1770204.png",
+            "overrides": 6,
+            "percent": 5,
+            "requires_trait": 1038,
+            "text": "Health Loss per Interval",
+            "type": "Percent"
+        }
+    ],
+    "type": "Utility",
+    "weapon_type": "None"
+}

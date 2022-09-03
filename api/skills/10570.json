@@ -1,0 +1,55 @@
+{
+    "chat_link": "[&BkopAAA=]",
+    "description": "Immobilize your bone fiend, and it will immobilize foes.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 50
+        },
+        {
+            "dmg_multiplier": 0.25,
+            "hit_count": 2,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 2,
+            "description": "Unable to move; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+            "status": "Immobile",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/2E1AA4F827F1D6450C9F98C6EA3EB3BC020B25F2/103815.png",
+    "id": 10570,
+    "name": "Rigor Mortis",
+    "professions": [
+        "Necromancer"
+    ],
+    "slot": "Utility",
+    "traited_facts": [
+        {
+            "dmg_multiplier": 0.3125,
+            "hit_count": 2,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "overrides": 2,
+            "requires_trait": 858,
+            "text": "Damage",
+            "type": "Damage"
+        }
+    ],
+    "type": "Utility",
+    "weapon_type": "None"
+}

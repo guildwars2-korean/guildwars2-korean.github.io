@@ -1,0 +1,24 @@
+{
+    "description": "Gain concentration and expertise while affected by regeneration.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+            "target": "BoonDuration",
+            "type": "AttributeAdjust",
+            "value": 250
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/4977CD5BAF0A7B6412DCC775C3909F7D4EFE4C65/2229319.png",
+            "target": "ConditionDuration",
+            "type": "AttributeAdjust",
+            "value": 250
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/68A0B5BB7BA2BEDAD81167CFC95A9C6D551FE151/1012473.png",
+    "id": 1865,
+    "name": "Chaotic Persistence",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 45,
+    "tier": 3
+}

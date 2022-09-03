@@ -1,0 +1,18 @@
+{
+    "description": "Striking a foe with vulnerability increases your critical hit chance.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+            "percent": 2,
+            "text": "Critical Chance per Stack",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/7DED6E45A3F8CEAF782FF0443D5CF90CAC73C5EF/1012575.png",
+    "id": 2031,
+    "name": "Decimate Defenses",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 34,
+    "tier": 2
+}

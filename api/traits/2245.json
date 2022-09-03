@@ -1,0 +1,24 @@
+{
+    "description": "Dragon Slash has a lower maximum charge level but reenters Dragon Trigger if you can pay the flow cost. The cooldown on Dragonscale Defense is reset when reentering Dragon Trigger. Tactical Reload is no longer removed when Dragon Trigger ends.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+            "text": "Maximum Charge Level",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+            "text": "Flow Cost",
+            "type": "Number",
+            "value": 10
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/A2267CB3E238FF9732565CDE55CCFE02B478E575/2491551.png",
+    "id": 2245,
+    "name": "Daring Dragon",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 68,
+    "tier": 3
+}

@@ -1,0 +1,58 @@
+{
+    "chat_link": "[&BnIWAAA=]",
+    "description": "Throw your shield in a line, crippling struck foes. This attack deals bonus damage if you have barrier.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 450
+        },
+        {
+            "dmg_multiplier": 0.75,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 100,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 2,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+            "prefix": {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Bleeding",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 50%; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+            "status": "Crippled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/9BAE0DB6B1F646685CCB08045924590E2CAA72AD/103394.png",
+    "id": 5746,
+    "name": "Crippling Shield",
+    "prev_chain": 21646,
+    "professions": [],
+    "slot": "Weapon_1",
+    "type": "Weapon",
+    "weapon_type": "Sword"
+}

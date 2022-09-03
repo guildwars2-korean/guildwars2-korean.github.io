@@ -1,0 +1,62 @@
+{
+    "chat_link": "[&BnoWAAA=]",
+    "description": "Gather up debris into your tornado form and send it flying.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 1
+        },
+        {
+            "dmg_multiplier": 0.5,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "dmg_multiplier": 0.01,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "distance": 120,
+            "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
+            "text": "Knockback",
+            "type": "Distance"
+        },
+        {
+            "distance": 900,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Number of Casts",
+            "type": "Number",
+            "value": 1
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/F20A7D6B7FB71D520B4643CF120AF6A50DF7A2B0/102914.png",
+    "id": 5754,
+    "name": "Debris Tornado",
+    "professions": [
+        "Thief",
+        "Mesmer",
+        "Warrior",
+        "Elementalist",
+        "Necromancer",
+        "Guardian",
+        "Ranger",
+        "Engineer",
+        "Revenant"
+    ],
+    "slot": "Weapon_3",
+    "type": "Bundle",
+    "weapon_type": "None"
+}

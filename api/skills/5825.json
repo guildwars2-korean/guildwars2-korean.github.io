@@ -1,0 +1,61 @@
+{
+    "categories": [
+        "Gadget"
+    ],
+    "chat_link": "[&BsEWAAA=]",
+    "description": "Gadget. Spray oil behind you, knocking down foes. If underwater, foes entering the field are blinded and slowed.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 40
+        },
+        {
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/7632087376D36B0D100F1B07BE53F154BC337D7C/2440716.png",
+            "text": "Knockdown",
+            "type": "Time"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Oil Slick Duration",
+            "type": "Time"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
+            "text": "Unblockable",
+            "type": "NoData"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Number of Hits per Target",
+            "type": "Number",
+            "value": 1
+        },
+        {
+            "distance": 60,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/9A37D45CBD05C029915ED90E4F08F6B8D2DFF8AB/102816.png",
+    "id": 5825,
+    "name": "Slick Shoes",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Utility",
+    "toolbelt_skill": 5973,
+    "type": "Utility",
+    "weapon_type": "None"
+}

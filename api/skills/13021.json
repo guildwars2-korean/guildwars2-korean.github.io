@@ -1,0 +1,60 @@
+{
+    "categories": [
+        "Trick"
+    ],
+    "chat_link": "[&Bt0yAAA=]",
+    "description": "Trick. Cure conditions, then roll backward while healing and evading attacks.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 18
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 4778
+        },
+        {
+            "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+            "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+            "status": "Chilled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "description": "Movement speed decreased by 50%; stacks duration.",
+            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+            "status": "Crippled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "description": "Unable to move; stacks duration.",
+            "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+            "status": "Immobile",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+            "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+            "status": "Torment",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/C546789E0BBB6F91666B92066DEF18AA0F146B79/104068.png",
+    "id": 13021,
+    "name": "Withdraw",
+    "professions": [
+        "Thief"
+    ],
+    "slot": "Heal",
+    "type": "Heal",
+    "weapon_type": "None"
+}
