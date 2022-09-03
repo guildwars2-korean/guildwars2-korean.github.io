@@ -1,0 +1,39 @@
+{
+    "description": "Full Counter deals additional damage and grants resistance. Copy conditions on yourself to targets you hit with Full Counter.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Copied",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Copied",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "apply_count": 1,
+            "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+            "status": "Resistance",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 20,
+            "text": "Damage Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/2D0B31CB9C66442AD024195224AD6D343C733231/1770019.png",
+    "id": 2168,
+    "name": "Revenge Counter",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 61,
+    "tier": 3
+}

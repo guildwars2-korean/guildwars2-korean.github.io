@@ -1,0 +1,33 @@
+{
+    "description": "Damage reduction is increased when you gain an aura. <c=@reminder>When this triggers, the durations of all stacks are refreshed. </c>",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Incoming damage is reduced.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/07F6DDB8129A05F6DF05E6669CE00C29FF260F80/2491519.png",
+            "status": "Hardened Auras",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 2,
+            "text": "Damage reduction per stack.",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+            "text": "Maximum Stacks",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/07F6DDB8129A05F6DF05E6669CE00C29FF260F80/2491519.png",
+    "id": 2230,
+    "name": "Hardened Auras",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 67,
+    "tier": 1
+}

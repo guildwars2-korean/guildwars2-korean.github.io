@@ -1,0 +1,80 @@
+{
+    "categories": [
+        "Cantrip"
+    ],
+    "chat_link": "[&Bpr2AAA=]",
+    "description": "Cantrip. Surround nearby foes with a cage of nature they cannot escape. Enemies that were not struck are unaffected by active cages.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 35
+        },
+        {
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Attack Radius",
+            "type": "Distance"
+        },
+        {
+            "distance": 120,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Cage Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "apply_count": 1,
+            "description": "Skills and actions are faster.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+            "prefix": {
+                "icon": "https://render.guildwars2.com/file/EFC812F33C2A9ECA91F0C1F966E1715FF35E2BDF/2503729.png",
+                "status": "Unleashed",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Quickness",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+            "prefix": {
+                "icon": "https://render.guildwars2.com/file/A5E324616977BF624698CA610628B7C3D73ADB1C/2503728.png",
+                "status": "Pet Unleashed",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Resistance",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/F85F41A1F75C3F04CBAAE94EFF0D77A2219F5623/2503733.png",
+    "id": 63130,
+    "name": "Nature's Binding",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Utility",
+    "specialization": 72,
+    "type": "Utility",
+    "weapon_type": "None"
+}

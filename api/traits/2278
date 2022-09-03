@@ -1,0 +1,36 @@
+{
+    "description": "Rending Vines converts boons into conditions instead of removing them. <c=@abilitytype>Unleashed Ambush</c> skills remove boons from enemies. <c=@reminder>Cannot affect enemies more than once per skill.</c>",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Boons Converted to Conditions",
+            "type": "Number",
+            "value": 2
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Boons Converted to Conditions",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Boons Removed",
+            "type": "Number",
+            "value": 2
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/5999A42A73A5C9F829F82A0D36410BF792261426/2503637.png",
+    "id": 2278,
+    "name": "Corrupting Vines",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 72,
+    "tier": 2
+}

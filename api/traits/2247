@@ -1,0 +1,27 @@
+{
+    "description": "Gain increased outgoing damage when you gain an aura. <c=@reminder>When this triggers, refresh the duration of all stacks. </c>",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Increased outgoing strike and condition damage.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/C52EDB20EC120936089EC83C54A55A610A075652/2491522.png",
+            "status": "Empowering Auras",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+            "text": "Maximum Stacks",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/C52EDB20EC120936089EC83C54A55A610A075652/2491522.png",
+    "id": 2247,
+    "name": "Empowering Auras",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 67,
+    "tier": 2
+}

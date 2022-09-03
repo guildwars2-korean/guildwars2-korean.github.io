@@ -1,0 +1,19 @@
+{
+    "description": "Using the final round of ammo on an ammunition skill grants barrier.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+            "target": "Healing",
+            "text": "Barrier",
+            "type": "AttributeAdjust",
+            "value": 1300
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/9E3A19BD9F097F5237990A732699514134470D9A/2491546.png",
+    "id": 2253,
+    "name": "Unshakable Mountain",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 68,
+    "tier": 2
+}

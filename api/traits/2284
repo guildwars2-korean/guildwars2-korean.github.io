@@ -1,0 +1,33 @@
+{
+    "description": "A portion of condition damage is converted to healing power. Gain healing power, which is increased when wielding a scepter.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
+            "percent": 7,
+            "source": "ConditionDamage",
+            "target": "Healing",
+            "text": "Attribute Conversion",
+            "type": "BuffConversion"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
+            "target": "Healing",
+            "type": "AttributeAdjust",
+            "value": 60
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
+            "target": "Healing",
+            "text": "Additional Healing Power",
+            "type": "AttributeAdjust",
+            "value": 60
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/91D1F2C2D65D18F2F5CB02B43F6CF253F4E12043/2503644.png",
+    "id": 2284,
+    "name": "Second Opinion",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 71,
+    "tier": 1
+}

@@ -1,0 +1,49 @@
+{
+    "description": "Dragon Slash becomes unblockable, ignores blindness, and stuns foes on hit. Gain might whenever you convert flow into charges.",
+    "facts": [
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+            "text": "Stun Duration per Charge",
+            "type": "Time"
+        },
+        {
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+            "text": "Stun Duration per Charge",
+            "type": "Time"
+        },
+        {
+            "description": "Next outgoing attack misses; stacks duration.",
+            "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+            "status": "Blinded",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 2,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/1EB2252BC0787298D1C656045C627D59AE666745/2491550.png",
+    "id": 2239,
+    "name": "Unyielding Dragon",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 68,
+    "tier": 3
+}

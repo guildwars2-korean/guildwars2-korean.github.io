@@ -1,0 +1,24 @@
+{
+    "description": "All damage dealt is increased while you have fury.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 7,
+            "text": "Damage Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/566080076076F09618C36E16C0322F139EC44499/1012688.png",
+    "id": 1758,
+    "name": "Ferocious Aggression",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 3,
+    "tier": 2
+}

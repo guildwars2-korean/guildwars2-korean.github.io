@@ -1,0 +1,151 @@
+{
+    "description": "Desert Shroud becomes Sandstorm Shroud.",
+    "icon": "https://render.guildwars2.com/file/A4779F3D1924A75A58C0C100E82A0923A46C5CBD/1769968.png",
+    "id": 2123,
+    "name": "Herald of Sorrow",
+    "order": 2,
+    "skills": [
+        {
+            "chat_link": "[&BlbWAAA=]",
+            "description": "Shade. Enter the final shroud, gaining a powerful barrier and priming the shroud for a powerful detonation that damages enemies and bolsters allies.\nTargets can only be affected by this skill once per activation.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 20
+                },
+                {
+                    "apply_count": 6,
+                    "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                    "duration": 10,
+                    "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                    "status": "Torment",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 6,
+                    "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                    "duration": 5,
+                    "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                    "status": "Torment",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                    "text": "Duration",
+                    "type": "Time"
+                },
+                {
+                    "distance": 180,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                    "target": "Healing",
+                    "text": "Initial Barrier",
+                    "type": "AttributeAdjust",
+                    "value": 2188
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                    "target": "Healing",
+                    "text": "Barrier on Detonation",
+                    "type": "AttributeAdjust",
+                    "value": 842
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                    "target": "Healing",
+                    "text": "Barrier on Detonation",
+                    "type": "AttributeAdjust",
+                    "value": 650
+                },
+                {
+                    "dmg_multiplier": 3,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 2,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 3
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 2
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Boons Converted to Conditions",
+                    "type": "Number",
+                    "value": 2
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/7F20920A42951A471352CE56CBD1F15257C10757/1770200.png",
+                    "percent": 35,
+                    "text": "Life Force Cost"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/67EF1250A2BE9C00B9B3F462C00696BFC1E0BFAD/2110169.png",
+            "id": 54870,
+            "name": "Sandstorm Shroud",
+            "traited_facts": [
+                {
+                    "distance": 300,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "overrides": 4,
+                    "requires_trait": 2112,
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Critical chance increased; stacks duration.",
+                    "duration": 5,
+                    "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                    "requires_trait": 803,
+                    "status": "Fury",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "requires_trait": 1922,
+                    "text": "Conditions Removed",
+                    "type": "Number",
+                    "value": 1
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "overrides": 10,
+                    "requires_trait": 2112,
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                }
+            ]
+        }
+    ],
+    "slot": "Major",
+    "specialization": 60,
+    "tier": 2
+}

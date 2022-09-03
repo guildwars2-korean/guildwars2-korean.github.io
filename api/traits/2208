@@ -1,0 +1,30 @@
+{
+    "description": "Strike damage is increased against foes within the range threshold.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 7,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Range Threshold",
+            "type": "Number",
+            "value": 600
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/B32B3E90552D3AE773E403D6D7AA00F50F750580/2479328.png",
+    "id": 2208,
+    "name": "Mental Focus",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 66,
+    "tier": 1
+}
