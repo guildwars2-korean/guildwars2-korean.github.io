@@ -1,3 +1,43 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BhFsAAA=]",
+    "cost": 10,
+    "description": "Create a field from the Mists that blocks incoming projectiles in front of you.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 12
+        },
+        {
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Width",
+            "type": "Distance"
+        },
+        {
+            "field_type": "Dark",
+            "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+            "text": "Combo Field",
+            "type": "ComboField"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/06CBE0372AFC3AA3077DF9E57093724149EF54BA/961469.png",
+    "id": 27665,
+    "name": "Field of the Mists",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Weapon_4",
+    "type": "Weapon",
+    "weapon_type": "Hammer"
 }

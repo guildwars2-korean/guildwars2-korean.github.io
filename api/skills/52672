@@ -1,3 +1,22 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BsDNAAA=]",
+    "description": "The Dreg Shark's forceful flop knocks back foes as it readies to jump back into the sorting piles.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 100
+        },
+        {
+            "distance": 200,
+            "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
+            "text": "Knockback",
+            "type": "Distance"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+    "id": 52672,
+    "name": ""
 }

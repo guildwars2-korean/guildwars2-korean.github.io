@@ -1,3 +1,15 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BuMXAAA=]",
+    "description": "Stow your elixir gun.",
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/7342BF326738A4C5132F42CE0915D3A2184E52FB/60975.png",
+    "id": 6115,
+    "name": "Stow Elixir Gun",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Utility",
+    "toolbelt_skill": 5966,
+    "type": "Utility",
+    "weapon_type": "None"
 }

@@ -1,3 +1,49 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Bu4yAAA=]",
+    "description": "Preparation. Mark your current area with shadow magic, which can be detonated.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 60
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Unblockable",
+            "type": "Unblockable",
+            "value": true
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Base Arm Time",
+            "type": "Time"
+        },
+        {
+            "duration": 60,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Number",
+            "value": 5000
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "flip_skill": 16435,
+    "icon": "https://render.guildwars2.com/file/D62F215C68C77A2F069238A39FD8A6A135B438C1/2175068.png",
+    "id": 13038,
+    "name": "Prepare Shadow Portal",
+    "professions": [
+        "Thief"
+    ],
+    "slot": "Utility",
+    "type": "Utility",
+    "weapon_type": "None"
 }

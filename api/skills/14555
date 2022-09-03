@@ -1,3 +1,16 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Bts4AAA=]",
+    "description": "Stop blocking and gain adrenaline.",
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/F6D809292BC50B03A8E3A5F6C04201DE09A02C08/103221.png",
+    "id": 14555,
+    "name": "Adrenaline Rush",
+    "professions": [
+        "Warrior"
+    ],
+    "slot": "Weapon_4",
+    "type": "Weapon",
+    "weapon_type": "Spear"
 }

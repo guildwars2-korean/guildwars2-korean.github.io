@@ -1,3 +1,24 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BuxrAAA=]",
+    "description": "Collapse the protective barrier that formed around the tablet.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 5
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/4A6976DDEC36B5067F6D3CB2615605459E0A94EE/1013007.png",
+    "id": 27628,
+    "name": "Diminish Solace",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Utility",
+    "type": "Utility",
+    "weapon_type": "None"
 }

@@ -1,3 +1,43 @@
 {
-    "text": "too many requests"
+    "attunement": "Water",
+    "categories": [],
+    "chat_link": "[&Bub0AAA=]",
+    "description": "Chain. Slam your foe with a rush of water.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 130
+        },
+        {
+            "dmg_multiplier": 0.5,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "flip_skill": 62862,
+    "icon": "https://render.guildwars2.com/file/664C1C80D2C31756C4F2CA333A317E71CAC6C37B/2491571.png",
+    "id": 62694,
+    "name": "Water Rush",
+    "next_chain": 62862,
+    "prev_chain": 62865,
+    "professions": [
+        "Elementalist"
+    ],
+    "slot": "Weapon_1",
+    "specialization": 67,
+    "type": "Weapon",
+    "weapon_type": "Hammer"
 }

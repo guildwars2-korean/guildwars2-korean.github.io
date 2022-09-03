@@ -1,3 +1,16 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Bjy8AAA=]",
+    "description": "",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 4000
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/E1EB3BC23A10BA9150EF992B03A813F4A26217A8/103755.png",
+    "id": 48188,
+    "name": ""
 }

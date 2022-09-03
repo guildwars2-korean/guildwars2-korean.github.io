@@ -1,3 +1,69 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BjAWAAA=]",
+    "description": "Quickly roll backward, leaving behind a line of fire that burns.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "dmg_multiplier": 0.2,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+            "status": "Burning",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Duration"
+        },
+        {
+            "field_type": "Fire",
+            "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+            "text": "Combo Field",
+            "type": "ComboField"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/45A8C3A3F534C7E8E371D41C693AC87A019D2E65/103204.png",
+    "id": 5680,
+    "name": "Burning Retreat",
+    "professions": [
+        "Elementalist"
+    ],
+    "slot": "Weapon_4",
+    "specialization": 56,
+    "traited_facts": [
+        {
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "overrides": 4,
+            "requires_trait": 1510,
+            "text": "Duration",
+            "type": "Time"
+        }
+    ],
+    "type": "Weapon",
+    "weapon_type": "Staff"
 }

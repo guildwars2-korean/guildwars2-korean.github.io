@@ -1,3 +1,57 @@
 {
-    "text": "too many requests"
+    "categories": [
+        "Mantra"
+    ],
+    "chat_link": "[&BuUnAAA=]",
+    "description": "Mantra. Chant the mantra of recovery, instantly healing yourself. Receive increased healing if you are below the health threshold.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 1
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 1640
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing below 50%",
+            "type": "AttributeAdjust",
+            "value": 2620
+        },
+        {
+            "duration": 20,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "text": "Count Recharge",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+            "text": "Maximum Count",
+            "type": "Number",
+            "value": 2
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 50,
+            "text": "Health Threshold",
+            "type": "Percent"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/73CCCC9F09D026A016C5D760EA952B59C8AAF8F0/103744.png",
+    "id": 10213,
+    "name": "Mantra of Recovery",
+    "professions": [
+        "Mesmer"
+    ],
+    "slot": "Heal",
+    "type": "Heal",
+    "weapon_type": "None"
 }

@@ -1,3 +1,8 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BoHrAAA=]",
+    "description": "Deals damage and applies knockback.",
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/9875EAC10F3A93F8EF4BC40204806C6172E14494/2141735.png",
+    "id": 60289,
+    "name": "Blood Charge"
 }

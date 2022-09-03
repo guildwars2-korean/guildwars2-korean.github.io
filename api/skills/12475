@@ -1,3 +1,76 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BrswAAA=]",
+    "description": "Daze your foe with a hilt bash. Stun them if you hit from behind, and refresh your Maul ability.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 300
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 25
+        },
+        {
+            "dmg_multiplier": 0.72,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+            "text": "Daze",
+            "type": "Time"
+        },
+        {
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+            "text": "Stun",
+            "type": "Time"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/C5A7760DF1E93EFDCC5761C005CF34526801129B/103985.png",
+    "id": 12475,
+    "name": "Hilt Bash",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Weapon_5",
+    "traited_facts": [
+        {
+            "dmg_multiplier": 0.525,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "overrides": 2,
+            "requires_trait": 1047,
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+            "overrides": 3,
+            "requires_trait": 1070,
+            "text": "Daze",
+            "type": "Time"
+        },
+        {
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+            "overrides": 4,
+            "requires_trait": 1070,
+            "text": "Stun",
+            "type": "Time"
+        }
+    ],
+    "type": "Weapon",
+    "weapon_type": "Greatsword"
 }

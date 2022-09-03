@@ -1,3 +1,40 @@
 {
-    "text": "too many requests"
+    "categories": [
+        "Manipulation"
+    ],
+    "chat_link": "[&BopzAAA=]",
+    "description": "Manipulation. The next utility skill you use has significantly reduced recharge, and Mimic's recharge is increased by the original recharge of the affected skill.\nMimic's recharge cannot be reset by other mesmer skills.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 30
+        },
+        {
+            "apply_count": 1,
+            "description": "Your next utility skill will recharge faster.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/1D2BA931036005D1D84D7212970064A0A66C4977/103774.png",
+            "status": "Echo",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "text": "Recharge reduced to",
+            "type": "Time"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/6C744B3948470EF0E6422DEACDC6BFBD42B609D4/103604.png",
+    "id": 29578,
+    "name": "Mimic",
+    "professions": [
+        "Mesmer"
+    ],
+    "slot": "Utility",
+    "type": "Utility",
+    "weapon_type": "None"
 }

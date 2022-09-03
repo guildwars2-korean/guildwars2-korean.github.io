@@ -1,3 +1,40 @@
 {
-    "text": "too many requests"
+    "categories": [],
+    "chat_link": "[&BpIjAAA=]",
+    "description": "Chain. Slash your foe again.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 130
+        },
+        {
+            "dmg_multiplier": 0.725,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 3
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/C3446A6CD8E81B1A4B3E945DED582AD506ABEDC9/103647.png",
+    "id": 9106,
+    "name": "Sword Arc",
+    "next_chain": 9227,
+    "prev_chain": 9105,
+    "professions": [
+        "Guardian"
+    ],
+    "slot": "Weapon_1",
+    "type": "Weapon",
+    "weapon_type": "Sword"
 }

@@ -1,3 +1,55 @@
 {
-    "text": "too many requests"
+    "categories": [
+        "Mantra"
+    ],
+    "chat_link": "[&Bt8nAAA=]",
+    "description": "Mantra. Chant the mantra of resolve, cleansing conditions from yourself and nearby allies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 1
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Removed",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 360,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "duration": 24,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "text": "Count Recharge",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+            "text": "Maximum Count",
+            "type": "Number",
+            "value": 2
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/164A435EA2B0ADCA0BC92F09A254FD04A173DB30/103740.png",
+    "id": 10207,
+    "name": "Mantra of Resolve",
+    "professions": [
+        "Mesmer"
+    ],
+    "slot": "Utility",
+    "type": "Utility",
+    "weapon_type": "None"
 }

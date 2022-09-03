@@ -1,3 +1,37 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BkswAAA=]",
+    "description": "Summon two Hounds of Balthazar to fight at your side.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 240
+        },
+        {
+            "duration": 30,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/65113BC86C46294FD2A773E6ABED913BDD7D370C/103942.png",
+    "id": 12363,
+    "name": "Hounds of Balthazar",
+    "professions": [
+        "Guardian",
+        "Warrior",
+        "Engineer",
+        "Ranger",
+        "Thief",
+        "Elementalist",
+        "Mesmer",
+        "Necromancer"
+    ],
+    "slot": "Elite",
+    "type": "Elite",
+    "weapon_type": "None"
 }

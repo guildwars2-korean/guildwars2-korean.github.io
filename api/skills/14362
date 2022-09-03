@@ -1,3 +1,38 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Bho4AAA=]",
+    "description": "Block attacks.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 25
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/10E4931AC6BB5824CACE5A09E07E512869904DB9/102859.png",
+    "id": 14362,
+    "name": "Shield Stance",
+    "professions": [
+        "Warrior"
+    ],
+    "slot": "Weapon_5",
+    "traited_facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "requires_trait": 1376,
+            "text": "Reflects Missiles",
+            "type": "NoData"
+        }
+    ],
+    "type": "Weapon",
+    "weapon_type": "Shield"
 }

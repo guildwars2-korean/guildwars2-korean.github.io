@@ -1,3 +1,63 @@
 {
-    "text": "too many requests"
+    "categories": [
+        "Elixir"
+    ],
+    "chat_link": "[&BtgXAAA=]",
+    "description": "Elixir. Burst the orb, instantly healing your allies and creating an area of continual healing.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Impact Heal",
+            "type": "AttributeAdjust",
+            "value": 700
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Pulse Heal",
+            "type": "AttributeAdjust",
+            "value": 204
+        },
+        {
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/ACF8D7350B7D37FFE4E73D150B7F5B73243A72B1/103441.png",
+    "id": 6104,
+    "name": "Super Elixir",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Weapon_5",
+    "traited_facts": [
+        {
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "overrides": 2,
+            "requires_trait": 473,
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "duration": 12,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "overrides": 3,
+            "requires_trait": 473,
+            "text": "Duration",
+            "type": "Time"
+        }
+    ],
+    "type": "Bundle",
+    "weapon_type": "None"
 }
