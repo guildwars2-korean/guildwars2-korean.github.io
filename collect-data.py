@@ -14,6 +14,9 @@ def main():
         'skills',
     ]
 
+    save_resources(resources)
+    return
+
     for resource in resources:
         save_resource_from_api(resource)
 
