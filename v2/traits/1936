@@ -1,18 +1,20 @@
-{
-    "description": "Strike damage dealt is increased while you have vigor.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "percent": 10,
-            "text": "Damage Increase",
-            "type": "Percent"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/B9CAA4643E9B7BD8CF7D61F67CB7C2C8F3FCEE07/1012389.png",
-    "id": 1936,
-    "name": "Excessive Energy",
-    "order": 0,
-    "slot": "Minor",
-    "specialization": 21,
-    "tier": 3
-}
+[
+    {
+        "description": "Strike damage dealt is increased while you have vigor.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 10,
+                "text": "Damage Increase",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/B9CAA4643E9B7BD8CF7D61F67CB7C2C8F3FCEE07/1012389.png",
+        "id": 1936,
+        "name": "Excessive Energy",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 21,
+        "tier": 3
+    }
+]

@@ -1,8 +1,10 @@
-{
-    "chat_link": "[&Bk66AAA=]",
-    "description": "A directional explosive attack that knocks back enemies.",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
-    "id": 47694,
-    "name": "Triumph of War"
-}
+[
+    {
+        "chat_link": "[&Bk66AAA=]",
+        "description": "A directional explosive attack that knocks back enemies.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 47694,
+        "name": "Triumph of War"
+    }
+]

@@ -1,72 +1,74 @@
-{
-    "chat_link": "[&BjQxAAA=]",
-    "description": "Your spirit of nature teleports to your location and then sacrifices its health to revive and cure the conditions of nearby downed allies.\nHealth is only sacrificed if an ally is revived.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 40
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Revive Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Conditions Removed",
-            "type": "Number",
-            "value": 3
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "distance": 240,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "percent": 30,
-            "text": "Health Sacrifice per Revive",
-            "type": "Percent"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/93600AABB9DA5C7E9401D01974B8DC289976B314/104020.png",
-    "id": 12596,
-    "name": "Nature's Renewal",
-    "professions": [
-        "Ranger"
-    ],
-    "slot": "Elite",
-    "traited_facts": [
-        {
-            "distance": 360,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "overrides": 4,
-            "requires_trait": 1038,
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "apply_count": 1,
-            "description": "스킬 재사용 대기시간 단축.",
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-            "requires_trait": 1038,
-            "status": "알라크리티",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "type": "Elite",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BjQxAAA=]",
+        "description": "Your spirit of nature teleports to your location and then sacrifices its health to revive and cure the conditions of nearby downed allies.\nHealth is only sacrificed if an ally is revived.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 40
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Revive Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Conditions Removed",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 30,
+                "text": "Health Sacrifice per Revive",
+                "type": "Percent"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/93600AABB9DA5C7E9401D01974B8DC289976B314/104020.png",
+        "id": 12596,
+        "name": "Nature's Renewal",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Elite",
+        "traited_facts": [
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "overrides": 4,
+                "requires_trait": 1038,
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "apply_count": 1,
+                "description": "스킬 재사용 대기시간 단축.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+                "requires_trait": 1038,
+                "status": "알라크리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

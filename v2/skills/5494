@@ -1,41 +1,43 @@
-{
-    "chat_link": "[&BnYVAAA=]",
-    "description": "Attune to air, gaining heavy damage and control abilities.",
-    "flags": [],
-    "flip_skill": 29719,
-    "icon": "https://render.guildwars2.com/file/4857F59020DE3B0950B9C91F3D234A1C1932984A/103048.png",
-    "id": 5494,
-    "name": "Air Attunement",
-    "professions": [
-        "Elementalist"
-    ],
-    "slot": "Profession_3",
-    "traited_facts": [
-        {
-            "apply_count": 1,
-            "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-            "requires_trait": 264,
-            "status": "스위프트니스",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "requires_trait": 264,
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "distance": 240,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "requires_trait": 264,
-            "text": "Radius",
-            "type": "Distance"
-        }
-    ],
-    "type": "Profession",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BnYVAAA=]",
+        "description": "Attune to air, gaining heavy damage and control abilities.",
+        "flags": [],
+        "flip_skill": 29719,
+        "icon": "https://render.guildwars2.com/file/4857F59020DE3B0950B9C91F3D234A1C1932984A/103048.png",
+        "id": 5494,
+        "name": "Air Attunement",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Profession_3",
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                "requires_trait": 264,
+                "status": "스위프트니스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "requires_trait": 264,
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "requires_trait": 264,
+                "text": "Radius",
+                "type": "Distance"
+            }
+        ],
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

@@ -1,28 +1,30 @@
-{
-    "chat_link": "[&BtMxAAA=]",
-    "description": "Beast. Search the area for an improvised weapon.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 2000
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 30
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/7FE63F139CC1BC0EB0F1DA49066B0DE5A0CC062B/104053.png",
-    "id": 12755,
-    "name": "Forage",
-    "professions": [],
-    "slot": "Pet",
-    "type": "Pet",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BtMxAAA=]",
+        "description": "Beast. Search the area for an improvised weapon.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 2000
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/7FE63F139CC1BC0EB0F1DA49066B0DE5A0CC062B/104053.png",
+        "id": 12755,
+        "name": "Forage",
+        "professions": [],
+        "slot": "Pet",
+        "type": "Pet",
+        "weapon_type": "None"
+    }
+]

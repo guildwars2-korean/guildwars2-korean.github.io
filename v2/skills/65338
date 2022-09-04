@@ -1,16 +1,18 @@
-{
-    "chat_link": "[&Bjr/AAA=]",
-    "description": "Summons a meteor to strike the target location. Deals heavy damage that decreases with distance from the impact point.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 1800
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
-    "id": 65338,
-    "name": "Call Meteor"
-}
+[
+    {
+        "chat_link": "[&Bjr/AAA=]",
+        "description": "Summons a meteor to strike the target location. Deals heavy damage that decreases with distance from the impact point.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 1800
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 65338,
+        "name": "Call Meteor"
+    }
+]

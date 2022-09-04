@@ -1,50 +1,52 @@
-{
-    "description": "Gain kinetic charges when you use a tool belt skill. At maximum, charges gain a burst of speed.",
-    "facts": [
-        {
-            "apply_count": 1,
-            "description": "At maximum charges gain a burst of speed.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/1BE44A22FD664209636ED7E30ACF241B782E6C01/1012384.png",
-            "status": "Kinetic Charge",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "스킬과 액션이 빨라진다.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-            "status": "퀴크니스",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "이동 속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-            "status": "슈퍼스피드",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Combat Only",
-            "type": "NoData"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-            "text": "Maximum Stacks",
-            "type": "Number",
-            "value": 5
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/1BE44A22FD664209636ED7E30ACF241B782E6C01/1012384.png",
-    "id": 1856,
-    "name": "Kinetic Battery",
-    "order": 0,
-    "slot": "Major",
-    "specialization": 21,
-    "tier": 3
-}
+[
+    {
+        "description": "Gain kinetic charges when you use a tool belt skill. At maximum, charges gain a burst of speed.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "At maximum charges gain a burst of speed.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/1BE44A22FD664209636ED7E30ACF241B782E6C01/1012384.png",
+                "status": "Kinetic Charge",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "스킬과 액션이 빨라진다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+                "status": "퀴크니스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동 속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+                "status": "슈퍼스피드",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Combat Only",
+                "type": "NoData"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+                "text": "Maximum Stacks",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/1BE44A22FD664209636ED7E30ACF241B782E6C01/1012384.png",
+        "id": 1856,
+        "name": "Kinetic Battery",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 21,
+        "tier": 3
+    }
+]

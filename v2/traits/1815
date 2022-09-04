@@ -1,52 +1,54 @@
-{
-    "description": "Heal allies around yourself when using a <c=@abilitytype>Legend</c> skill. Heal allies around Ventari's Tablet when using a <c=@abilitytype>Legendary Centaur</c> skill.<br><c=@reminder>Dragon Facet skills and Ventari's Will cannot activate this trait.</c>",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "target": "Healing",
-            "text": "Centaur Skill Healing",
-            "type": "AttributeAdjust",
-            "value": 783
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "target": "Healing",
-            "text": "Centaur Skill Healing",
-            "type": "AttributeAdjust",
-            "value": 463
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "target": "Healing",
-            "text": "Other Legend Healing",
-            "type": "AttributeAdjust",
-            "value": 261
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "target": "Healing",
-            "text": "Other Legend Healing",
-            "type": "AttributeAdjust",
-            "value": 197
-        },
-        {
-            "distance": 240,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/0F2DC0620428E1235AE6DFA4F0947C5DBE2FB076/2128013.png",
-    "id": 1815,
-    "name": "Generous Abundance",
-    "order": 0,
-    "slot": "Major",
-    "specialization": 12,
-    "tier": 3
-}
+[
+    {
+        "description": "Heal allies around yourself when using a <c=@abilitytype>Legend</c> skill. Heal allies around Ventari's Tablet when using a <c=@abilitytype>Legendary Centaur</c> skill.<br><c=@reminder>Dragon Facet skills and Ventari's Will cannot activate this trait.</c>",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Centaur Skill Healing",
+                "type": "AttributeAdjust",
+                "value": 783
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Centaur Skill Healing",
+                "type": "AttributeAdjust",
+                "value": 463
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Other Legend Healing",
+                "type": "AttributeAdjust",
+                "value": 261
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Other Legend Healing",
+                "type": "AttributeAdjust",
+                "value": 197
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/0F2DC0620428E1235AE6DFA4F0947C5DBE2FB076/2128013.png",
+        "id": 1815,
+        "name": "Generous Abundance",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 12,
+        "tier": 3
+    }
+]

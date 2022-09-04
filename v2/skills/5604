@@ -1,30 +1,32 @@
-{
-    "attunement": "Water",
-    "chat_link": "[&BuQVAAA=]",
-    "description": "Launch a slow-moving homing missile.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 1200
-        },
-        {
-            "dmg_multiplier": 0.8,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/E7D2EE09EFDD51A111D500D21138F2BC0C662430/102983.png",
-    "id": 5604,
-    "name": "Water Missile",
-    "professions": [
-        "Elementalist"
-    ],
-    "slot": "Weapon_1",
-    "type": "Weapon",
-    "weapon_type": "Trident"
-}
+[
+    {
+        "attunement": "Water",
+        "chat_link": "[&BuQVAAA=]",
+        "description": "Launch a slow-moving homing missile.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "dmg_multiplier": 0.8,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/E7D2EE09EFDD51A111D500D21138F2BC0C662430/102983.png",
+        "id": 5604,
+        "name": "Water Missile",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_1",
+        "type": "Weapon",
+        "weapon_type": "Trident"
+    }
+]

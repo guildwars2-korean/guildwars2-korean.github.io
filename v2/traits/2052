@@ -1,29 +1,31 @@
-{
-    "description": "Gain concentration based on your power. When you grant superspeed to a target, also grant quickness.<br><c=@reminder>This can affect multiple targets simultaneously.</c>",
-    "facts": [
-        {
-            "apply_count": 1,
-            "description": "스킬과 액션이 빨라진다.",
-            "duration": 3,
-            "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-            "status": "퀴크니스",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
-            "percent": 10,
-            "source": "Power",
-            "target": "BoonDuration",
-            "text": "Attribute Conversion",
-            "type": "BuffConversion"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/7BC1F016DDD40D589CC4AF9A35E9A7490A0DE81A/1128520.png",
-    "id": 2052,
-    "name": "Kinetic Accelerators",
-    "order": 1,
-    "slot": "Major",
-    "specialization": 43,
-    "tier": 3
-}
+[
+    {
+        "description": "Gain concentration based on your power. When you grant superspeed to a target, also grant quickness.<br><c=@reminder>This can affect multiple targets simultaneously.</c>",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "스킬과 액션이 빨라진다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+                "status": "퀴크니스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+                "percent": 10,
+                "source": "Power",
+                "target": "BoonDuration",
+                "text": "Attribute Conversion",
+                "type": "BuffConversion"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/7BC1F016DDD40D589CC4AF9A35E9A7490A0DE81A/1128520.png",
+        "id": 2052,
+        "name": "Kinetic Accelerators",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 43,
+        "tier": 3
+    }
+]

@@ -1,73 +1,75 @@
-{
-    "categories": [
-        "Shout"
-    ],
-    "chat_link": "[&BnsjAAA=]",
-    "description": "Shout. Heal yourself and allies in a cone in front of you.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 600
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 30
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "target": "Healing",
-            "text": "Initial Self Heal",
-            "type": "AttributeAdjust",
-            "value": 2600
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "target": "Healing",
-            "text": "Self Heal per Pulse",
-            "type": "AttributeAdjust",
-            "value": 650
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "target": "Healing",
-            "text": "Allied Heal per Pulse",
-            "type": "AttributeAdjust",
-            "value": 1044
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "target": "Healing",
-            "text": "Allied Heal per Pulse",
-            "type": "AttributeAdjust",
-            "value": 1044
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Pulses",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Allied Targets",
-            "type": "Number",
-            "value": 4
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/98FF447227E81AB44D9298F0E3BD62D553972B54/103089.png",
-    "id": 9083,
-    "name": "\"Receive the Light!\"",
-    "professions": [
-        "Guardian"
-    ],
-    "slot": "Heal",
-    "type": "Heal",
-    "weapon_type": "None"
-}
+[
+    {
+        "categories": [
+            "Shout"
+        ],
+        "chat_link": "[&BnsjAAA=]",
+        "description": "Shout. Heal yourself and allies in a cone in front of you.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 600
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Initial Self Heal",
+                "type": "AttributeAdjust",
+                "value": 2600
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Self Heal per Pulse",
+                "type": "AttributeAdjust",
+                "value": 650
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Allied Heal per Pulse",
+                "type": "AttributeAdjust",
+                "value": 1044
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Allied Heal per Pulse",
+                "type": "AttributeAdjust",
+                "value": 1044
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Pulses",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Allied Targets",
+                "type": "Number",
+                "value": 4
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/98FF447227E81AB44D9298F0E3BD62D553972B54/103089.png",
+        "id": 9083,
+        "name": "\"Receive the Light!\"",
+        "professions": [
+            "Guardian"
+        ],
+        "slot": "Heal",
+        "type": "Heal",
+        "weapon_type": "None"
+    }
+]

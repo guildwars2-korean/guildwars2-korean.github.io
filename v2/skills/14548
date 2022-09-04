@@ -1,37 +1,39 @@
-{
-    "chat_link": "[&BtQ4AAA=]",
-    "description": "Stop blocking and gain adrenaline.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
-            "text": "Adrenaline",
-            "type": "Number",
-            "value": 3
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/F6D809292BC50B03A8E3A5F6C04201DE09A02C08/103221.png",
-    "id": 14548,
-    "name": "Adrenaline Rush",
-    "professions": [
-        "Warrior"
-    ],
-    "slot": "Weapon_2",
-    "traited_facts": [
-        {
-            "apply_count": 1,
-            "description": "Gain flow per second.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/15AA251708A19EC6E1CBA4B208D7502797C9D111/2604722.png",
-            "overrides": 0,
-            "requires_trait": 2226,
-            "status": "Positive Flow",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "type": "Weapon",
-    "weapon_type": "Mace"
-}
+[
+    {
+        "chat_link": "[&BtQ4AAA=]",
+        "description": "Stop blocking and gain adrenaline.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+                "text": "Adrenaline",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/F6D809292BC50B03A8E3A5F6C04201DE09A02C08/103221.png",
+        "id": 14548,
+        "name": "Adrenaline Rush",
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Weapon_2",
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "Gain flow per second.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/15AA251708A19EC6E1CBA4B208D7502797C9D111/2604722.png",
+                "overrides": 0,
+                "requires_trait": 2226,
+                "status": "Positive Flow",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Mace"
+    }
+]

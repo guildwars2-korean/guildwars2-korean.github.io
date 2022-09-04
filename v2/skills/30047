@@ -1,77 +1,79 @@
-{
-    "categories": [
-        "Shout"
-    ],
-    "chat_link": "[&Bl91AAA=]",
-    "description": "Shout. Imbue your voice with the element of air, massively increasing speed and breaking stun for nearby allies.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 30
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-            "text": "StunBreak",
-            "type": "StunBreak",
-            "value": true
-        },
-        {
-            "apply_count": 1,
-            "description": "이동 속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-            "status": "슈퍼스피드",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-            "status": "스위프트니스",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-            "status": "스태빌리티",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "distance": 600,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/0A4809D69EDAD4FC34F9D46A035096B2EA48D412/1029990.png",
-    "id": 30047,
-    "name": "\"Eye of the Storm!\"",
-    "professions": [
-        "Elementalist"
-    ],
-    "slot": "Utility",
-    "specialization": 48,
-    "type": "Utility",
-    "weapon_type": "None"
-}
+[
+    {
+        "categories": [
+            "Shout"
+        ],
+        "chat_link": "[&Bl91AAA=]",
+        "description": "Shout. Imbue your voice with the element of air, massively increasing speed and breaking stun for nearby allies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                "text": "StunBreak",
+                "type": "StunBreak",
+                "value": true
+            },
+            {
+                "apply_count": 1,
+                "description": "이동 속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+                "status": "슈퍼스피드",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                "status": "스위프트니스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "status": "스태빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/0A4809D69EDAD4FC34F9D46A035096B2EA48D412/1029990.png",
+        "id": 30047,
+        "name": "\"Eye of the Storm!\"",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Utility",
+        "specialization": 48,
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

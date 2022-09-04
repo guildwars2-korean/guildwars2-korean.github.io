@@ -1,16 +1,18 @@
-{
-    "chat_link": "[&BhXEAAA=]",
-    "description": "Blocks attacks from the front.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 6
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/DC0D06E5992B2D470C3B2318442842D6795E70E1/1948177.png",
-    "id": 50197,
-    "name": "Frontal Block"
-}
+[
+    {
+        "chat_link": "[&BhXEAAA=]",
+        "description": "Blocks attacks from the front.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 6
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/DC0D06E5992B2D470C3B2318442842D6795E70E1/1948177.png",
+        "id": 50197,
+        "name": "Frontal Block"
+    }
+]

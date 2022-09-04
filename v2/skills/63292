@@ -1,100 +1,102 @@
-{
-    "categories": [
-        "Well"
-    ],
-    "chat_link": "[&Bjz3AAA=]",
-    "description": "Well. Shadowstep to your target location and drop a well that cripples foes and heals allies.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 600
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 20
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "target": "Healing",
-            "text": "Self-Heal",
-            "type": "AttributeAdjust",
-            "value": 3560
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "target": "Healing",
-            "text": "Area Heal",
-            "type": "AttributeAdjust",
-            "value": 857
-        },
-        {
-            "apply_count": 1,
-            "description": "Movement speed decreased by 50%; stacks duration.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-            "status": "Crippled",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-            "text": "Interval",
-            "type": "Time"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Number of Impacts",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "distance": 240,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "field_type": "Dark",
-            "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-            "text": "Combo Field",
-            "type": "ComboField"
-        }
-    ],
-    "flags": [
-        "GroundTargeted",
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/BE0101D159F09B45F1CA58F5E4E7562E05B40E37/2503753.png",
-    "id": 63292,
-    "name": "Well of Gloom",
-    "professions": [
-        "Thief"
-    ],
-    "slot": "Heal",
-    "specialization": 71,
-    "traited_facts": [
-        {
-            "apply_count": 1,
-            "description": "스킬 재사용 대기시간 단축.",
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-            "requires_trait": 2285,
-            "status": "알라크리티",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "type": "Heal",
-    "weapon_type": "None"
-}
+[
+    {
+        "categories": [
+            "Well"
+        ],
+        "chat_link": "[&Bjz3AAA=]",
+        "description": "Well. Shadowstep to your target location and drop a well that cripples foes and heals allies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 600
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Self-Heal",
+                "type": "AttributeAdjust",
+                "value": 3560
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Area Heal",
+                "type": "AttributeAdjust",
+                "value": 857
+            },
+            {
+                "apply_count": 1,
+                "description": "Movement speed decreased by 50%; stacks duration.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "Crippled",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "Interval",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Number of Impacts",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "field_type": "Dark",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "Combo Field",
+                "type": "ComboField"
+            }
+        ],
+        "flags": [
+            "GroundTargeted",
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/BE0101D159F09B45F1CA58F5E4E7562E05B40E37/2503753.png",
+        "id": 63292,
+        "name": "Well of Gloom",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Heal",
+        "specialization": 71,
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "스킬 재사용 대기시간 단축.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+                "requires_trait": 2285,
+                "status": "알라크리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Heal",
+        "weapon_type": "None"
+    }
+]

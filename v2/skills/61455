@@ -1,8 +1,10 @@
-{
-    "chat_link": "[&Bg/wAAA=]",
-    "description": "",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/DAB93BF5082C34CBF59CBE3820CC6C4AEB4BE7FE/103018.png",
-    "id": 61455,
-    "name": "Greatsword Swing"
-}
+[
+    {
+        "chat_link": "[&Bg/wAAA=]",
+        "description": "",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/DAB93BF5082C34CBF59CBE3820CC6C4AEB4BE7FE/103018.png",
+        "id": 61455,
+        "name": "Greatsword Swing"
+    }
+]

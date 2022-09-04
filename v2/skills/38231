@@ -1,8 +1,10 @@
-{
-    "chat_link": "[&BleVAAA=]",
-    "description": "Samarog slams spears into the ground, stunning and creating a shockwave that radiates out from the impact point, launching targets.",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
-    "id": 38231,
-    "name": "Impaling Stab"
-}
+[
+    {
+        "chat_link": "[&BleVAAA=]",
+        "description": "Samarog slams spears into the ground, stunning and creating a shockwave that radiates out from the impact point, launching targets.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
+        "id": 38231,
+        "name": "Impaling Stab"
+    }
+]

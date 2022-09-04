@@ -1,40 +1,42 @@
-{
-    "chat_link": "[&Bk4xAAA=]",
-    "description": "Do an evasive roll around your target, striking and poisoning them.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 130
-        },
-        {
-            "dmg_multiplier": 1.5,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 2,
-            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
-            "duration": 6,
-            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-            "status": "Poisoned",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/26B3CC91C193FDC30873937B2FB735E1B7C6A83A/103126.png",
-    "id": 12622,
-    "name": "Serpent's Strike",
-    "professions": [
-        "Ranger"
-    ],
-    "slot": "Weapon_2",
-    "type": "Weapon",
-    "weapon_type": "Sword"
-}
+[
+    {
+        "chat_link": "[&Bk4xAAA=]",
+        "description": "Do an evasive roll around your target, striking and poisoning them.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "dmg_multiplier": 1.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 2,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "status": "Poisoned",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/26B3CC91C193FDC30873937B2FB735E1B7C6A83A/103126.png",
+        "id": 12622,
+        "name": "Serpent's Strike",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Weapon_2",
+        "type": "Weapon",
+        "weapon_type": "Sword"
+    }
+]

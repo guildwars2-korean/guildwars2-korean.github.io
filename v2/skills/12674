@@ -1,51 +1,53 @@
-{
-    "chat_link": "[&BoIxAAA=]",
-    "description": "Beast. Spray poisonous barbs in an arc in front of you, damaging and poisoning foes.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 900
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 30
-        },
-        {
-            "dmg_multiplier": 1,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-            "status": "Poisoned",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "finisher_type": "Projectile",
-            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
-            "percent": 20,
-            "text": "Combo Finisher",
-            "type": "ComboFinisher"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/9A033F36CC4EEB19F6FCDE440D7CCB150A169BB5/104030.png",
-    "id": 12674,
-    "name": "Poison Barbs",
-    "professions": [],
-    "slot": "Pet",
-    "type": "Pet",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BoIxAAA=]",
+        "description": "Beast. Spray poisonous barbs in an arc in front of you, damaging and poisoning foes.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "status": "Poisoned",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "finisher_type": "Projectile",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 20,
+                "text": "Combo Finisher",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/9A033F36CC4EEB19F6FCDE440D7CCB150A169BB5/104030.png",
+        "id": 12674,
+        "name": "Poison Barbs",
+        "professions": [],
+        "slot": "Pet",
+        "type": "Pet",
+        "weapon_type": "None"
+    }
+]

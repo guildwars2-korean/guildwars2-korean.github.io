@@ -1,16 +1,18 @@
-{
-    "chat_link": "[&Bo0+AAA=]",
-    "description": "A basic projectile attack.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 600
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/06B6D9999AD5DA1DF303F307116E0CC25B0D7B05/103131.png",
-    "id": 16013,
-    "name": "Spit"
-}
+[
+    {
+        "chat_link": "[&Bo0+AAA=]",
+        "description": "A basic projectile attack.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 600
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/06B6D9999AD5DA1DF303F307116E0CC25B0D7B05/103131.png",
+        "id": 16013,
+        "name": "Spit"
+    }
+]

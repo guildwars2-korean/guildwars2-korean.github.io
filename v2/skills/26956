@@ -1,17 +1,19 @@
-{
-    "categories": [
-        "LegendaryDwarf"
-    ],
-    "chat_link": "[&BkxpAAA=]",
-    "description": "Legendary Dwarf. Release the hammers to end Vengeful Hammers.",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/727BD7D6B693C1DB70D62A09E8B06C746CCD48BF/961441.png",
-    "id": 26956,
-    "name": "Release Hammers",
-    "professions": [
-        "Revenant"
-    ],
-    "slot": "Utility",
-    "type": "Utility",
-    "weapon_type": "None"
-}
+[
+    {
+        "categories": [
+            "LegendaryDwarf"
+        ],
+        "chat_link": "[&BkxpAAA=]",
+        "description": "Legendary Dwarf. Release the hammers to end Vengeful Hammers.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/727BD7D6B693C1DB70D62A09E8B06C746CCD48BF/961441.png",
+        "id": 26956,
+        "name": "Release Hammers",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

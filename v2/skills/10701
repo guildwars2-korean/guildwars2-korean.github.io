@@ -1,70 +1,72 @@
-{
-    "chat_link": "[&Bs0pAAA=]",
-    "description": "Cripple nearby foes and convert their boons into conditions. Release an Unholy Burst on foes below the health threshold.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 12
-        },
-        {
-            "dmg_multiplier": 0.88,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "Movement speed decreased by 50%; stacks duration.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-            "status": "Crippled",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Boons Converted to Conditions",
-            "type": "Number",
-            "value": 2
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Boons Converted to Conditions",
-            "type": "Number",
-            "value": 1
-        },
-        {
-            "distance": 600,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "percent": 25,
-            "text": "Health Threshold",
-            "type": "Percent"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/2A1707BB93BBF8B1A414D37BBFC5CAC90105D5DF/103567.png",
-    "id": 10701,
-    "name": "Unholy Feast",
-    "professions": [
-        "Necromancer"
-    ],
-    "slot": "Weapon_3",
-    "type": "Weapon",
-    "weapon_type": "Axe"
-}
+[
+    {
+        "chat_link": "[&Bs0pAAA=]",
+        "description": "Cripple nearby foes and convert their boons into conditions. Release an Unholy Burst on foes below the health threshold.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 12
+            },
+            {
+                "dmg_multiplier": 0.88,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Movement speed decreased by 50%; stacks duration.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "Crippled",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Boons Converted to Conditions",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Boons Converted to Conditions",
+                "type": "Number",
+                "value": 1
+            },
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 25,
+                "text": "Health Threshold",
+                "type": "Percent"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/2A1707BB93BBF8B1A414D37BBFC5CAC90105D5DF/103567.png",
+        "id": 10701,
+        "name": "Unholy Feast",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Weapon_3",
+        "type": "Weapon",
+        "weapon_type": "Axe"
+    }
+]

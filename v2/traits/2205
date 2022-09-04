@@ -1,51 +1,53 @@
-{
-    "description": "Phantasms that successfully complete their attack launch a blade at their target and grant you fury when they expire.",
-    "facts": [
-        {
-            "apply_count": 1,
-            "description": "Critical chance increased; stacks duration.",
-            "duration": 3,
-            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-            "status": "퓨리",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/D5A30DB7ABDDCDE5B8731A5FFF20E9780C9E42A2/2479330.png",
-    "id": 2205,
-    "name": "Phantasmal Blades",
-    "order": 1,
-    "skills": [
-        {
-            "chat_link": "[&BqljAAA=]",
-            "description": "Shoots a blade at the phantasm's current target.",
-            "facts": [
-                {
-                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                    "text": "Range",
-                    "type": "Range",
-                    "value": 1200
-                },
-                {
-                    "dmg_multiplier": 0.7,
-                    "hit_count": 1,
-                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                    "text": "Damage",
-                    "type": "Damage"
-                },
-                {
-                    "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
-                    "text": "Blade",
-                    "type": "NoData"
-                }
-            ],
-            "flags": [],
-            "icon": "https://render.guildwars2.com/file/F59775A05108441C09AC03C30CAD98CC049CCC28/2175058.png",
-            "id": 25513,
-            "name": "Phantasmal Blade"
-        }
-    ],
-    "slot": "Major",
-    "specialization": 66,
-    "tier": 2
-}
+[
+    {
+        "description": "Phantasms that successfully complete their attack launch a blade at their target and grant you fury when they expire.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "Critical chance increased; stacks duration.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                "status": "퓨리",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/D5A30DB7ABDDCDE5B8731A5FFF20E9780C9E42A2/2479330.png",
+        "id": 2205,
+        "name": "Phantasmal Blades",
+        "order": 1,
+        "skills": [
+            {
+                "chat_link": "[&BqljAAA=]",
+                "description": "Shoots a blade at the phantasm's current target.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                        "text": "Range",
+                        "type": "Range",
+                        "value": 1200
+                    },
+                    {
+                        "dmg_multiplier": 0.7,
+                        "hit_count": 1,
+                        "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                        "text": "Damage",
+                        "type": "Damage"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+                        "text": "Blade",
+                        "type": "NoData"
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/F59775A05108441C09AC03C30CAD98CC049CCC28/2175058.png",
+                "id": 25513,
+                "name": "Phantasmal Blade"
+            }
+        ],
+        "slot": "Major",
+        "specialization": 66,
+        "tier": 2
+    }
+]

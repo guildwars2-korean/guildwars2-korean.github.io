@@ -1,30 +1,32 @@
-{
-    "description": "<c=@abilitytype>Blades</c> inflict vulnerability on critical hits. After successfully casting a <c=@abilitytype>Bladesong</c>, increase all damage dealt for a short time. This does not stack.",
-    "facts": [
-        {
-            "apply_count": 1,
-            "description": "Damage and condition damage taken are increased; stacks intensity.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-            "status": "Vulnerability",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Damage dealt is increased.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/C4AFBAAA039152A302C15B805CAD980EA9B5D006/2479337.png",
-            "status": "Deadly Blades",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/C4AFBAAA039152A302C15B805CAD980EA9B5D006/2479337.png",
-    "id": 2204,
-    "name": "Deadly Blades",
-    "order": 0,
-    "slot": "Minor",
-    "specialization": 66,
-    "tier": 2
-}
+[
+    {
+        "description": "<c=@abilitytype>Blades</c> inflict vulnerability on critical hits. After successfully casting a <c=@abilitytype>Bladesong</c>, increase all damage dealt for a short time. This does not stack.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "Vulnerability",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Damage dealt is increased.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/C4AFBAAA039152A302C15B805CAD980EA9B5D006/2479337.png",
+                "status": "Deadly Blades",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/C4AFBAAA039152A302C15B805CAD980EA9B5D006/2479337.png",
+        "id": 2204,
+        "name": "Deadly Blades",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 66,
+        "tier": 2
+    }
+]

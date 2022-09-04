@@ -1,82 +1,84 @@
-{
-    "chat_link": "[&Bm2fAAA=]",
-    "description": "Shade. Your shades convert a condition on nearby allies into a boon.\nTargets affected by this ability can only be affected once per cast.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Conditions Converted to Boons",
-            "type": "Number",
-            "value": 1
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Conditions Converted to Boons",
-            "type": "Number",
-            "value": 2
-        },
-        {
-            "distance": 180,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 3
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 2
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/7F20920A42951A471352CE56CBD1F15257C10757/1770200.png",
-            "percent": 21,
-            "text": "Life Force Cost"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/076FD4FE99097163B3A861CDDEEE15C460E80FA8/1770537.png",
-    "id": 40813,
-    "name": "Nefarious Favor",
-    "professions": [
-        "Necromancer"
-    ],
-    "slot": "Profession_2",
-    "specialization": 60,
-    "traited_facts": [
-        {
-            "distance": 300,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "overrides": 3,
-            "requires_trait": 2112,
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "requires_trait": 2112,
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "requires_trait": 1693,
-            "text": "Boons Converted to Conditions",
-            "type": "Number",
-            "value": 1
-        }
-    ],
-    "type": "Profession",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&Bm2fAAA=]",
+        "description": "Shade. Your shades convert a condition on nearby allies into a boon.\nTargets affected by this ability can only be affected once per cast.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Conditions Converted to Boons",
+                "type": "Number",
+                "value": 1
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Conditions Converted to Boons",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/7F20920A42951A471352CE56CBD1F15257C10757/1770200.png",
+                "percent": 21,
+                "text": "Life Force Cost"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/076FD4FE99097163B3A861CDDEEE15C460E80FA8/1770537.png",
+        "id": 40813,
+        "name": "Nefarious Favor",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Profession_2",
+        "specialization": 60,
+        "traited_facts": [
+            {
+                "distance": 300,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "overrides": 3,
+                "requires_trait": 2112,
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "requires_trait": 2112,
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "requires_trait": 1693,
+                "text": "Boons Converted to Conditions",
+                "type": "Number",
+                "value": 1
+            }
+        ],
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

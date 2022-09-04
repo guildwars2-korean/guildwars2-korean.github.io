@@ -1,47 +1,49 @@
-{
-    "categories": [],
-    "chat_link": "[&BnCeAAA=]",
-    "description": "Chain. Strike your foe. This attack has increased critical-hit damage.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 130
-        },
-        {
-            "dmg_multiplier": 0.65,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
-            "percent": 15,
-            "text": "Critical Damage Increase",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 2
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/0D0AA3D1DE236ECD23425EADC0BEA7F14D950BDA/1770653.png",
-    "id": 40560,
-    "name": "Focused Slash",
-    "next_chain": 40275,
-    "prev_chain": 42745,
-    "professions": [
-        "Warrior"
-    ],
-    "slot": "Weapon_1",
-    "specialization": 61,
-    "type": "Weapon",
-    "weapon_type": "Dagger"
-}
+[
+    {
+        "categories": [],
+        "chat_link": "[&BnCeAAA=]",
+        "description": "Chain. Strike your foe. This attack has increased critical-hit damage.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "dmg_multiplier": 0.65,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+                "percent": 15,
+                "text": "Critical Damage Increase",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 2
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/0D0AA3D1DE236ECD23425EADC0BEA7F14D950BDA/1770653.png",
+        "id": 40560,
+        "name": "Focused Slash",
+        "next_chain": 40275,
+        "prev_chain": 42745,
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Weapon_1",
+        "specialization": 61,
+        "type": "Weapon",
+        "weapon_type": "Dagger"
+    }
+]

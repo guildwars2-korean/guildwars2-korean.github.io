@@ -1,87 +1,89 @@
-{
-    "categories": [
-        "Glamour"
-    ],
-    "chat_link": "[&BkcoAAA=]",
-    "description": "Glamour. Create an area that warps time, granting you and your allies quickness while slowing enemies.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 1200
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 120
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Unblockable",
-            "type": "Unblockable",
-            "value": true
-        },
-        {
-            "apply_count": 1,
-            "description": "스킬과 액션이 빨라진다.",
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-            "status": "퀴크니스",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Skills and actions are slower.",
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
-            "status": "Slow",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Duration",
-            "type": "Time"
-        },
-        {
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-            "text": "Interval",
-            "type": "Time"
-        },
-        {
-            "distance": 360,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "field_type": "Ethereal",
-            "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-            "text": "Combo Field",
-            "type": "ComboField"
-        }
-    ],
-    "flags": [
-        "GroundTargeted"
-    ],
-    "icon": "https://render.guildwars2.com/file/6A4DBEEAEDBDE616BA514F5BEB7666ED7066A3AA/103620.png",
-    "id": 10311,
-    "name": "Time Warp",
-    "professions": [
-        "Mesmer"
-    ],
-    "slot": "Elite",
-    "type": "Elite",
-    "weapon_type": "None"
-}
+[
+    {
+        "categories": [
+            "Glamour"
+        ],
+        "chat_link": "[&BkcoAAA=]",
+        "description": "Glamour. Create an area that warps time, granting you and your allies quickness while slowing enemies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 120
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Unblockable",
+                "type": "Unblockable",
+                "value": true
+            },
+            {
+                "apply_count": 1,
+                "description": "스킬과 액션이 빨라진다.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+                "status": "퀴크니스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Skills and actions are slower.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+                "status": "Slow",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Duration",
+                "type": "Time"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "Interval",
+                "type": "Time"
+            },
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "field_type": "Ethereal",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "Combo Field",
+                "type": "ComboField"
+            }
+        ],
+        "flags": [
+            "GroundTargeted"
+        ],
+        "icon": "https://render.guildwars2.com/file/6A4DBEEAEDBDE616BA514F5BEB7666ED7066A3AA/103620.png",
+        "id": 10311,
+        "name": "Time Warp",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Elite",
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

@@ -1,8 +1,10 @@
-{
-    "chat_link": "[&Boq7AAA=]",
-    "description": "",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/B5CC9DE75CF17898541694C1AD2FEB33CCE00FB2/1770100.png",
-    "id": 48010,
-    "name": "Unbridled Fear"
-}
+[
+    {
+        "chat_link": "[&Boq7AAA=]",
+        "description": "",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/B5CC9DE75CF17898541694C1AD2FEB33CCE00FB2/1770100.png",
+        "id": 48010,
+        "name": "Unbridled Fear"
+    }
+]

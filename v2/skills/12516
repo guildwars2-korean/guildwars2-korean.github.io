@@ -1,67 +1,69 @@
-{
-    "chat_link": "[&BuQwAAA=]",
-    "description": "Command. Rampage with your pet, gaining stability, fury, and swiftness. You and your pet also grant might to each other when you attack.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 75
-        },
-        {
-            "apply_count": 1,
-            "description": "Grants might to your pet when you attack.",
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/B77111BD4468FB297D560A44EE5F023425915FBF/103606.png",
-            "status": "Strength of the Pack",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Critical chance increased; stacks duration.",
-            "duration": 12,
-            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-            "status": "퓨리",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 10,
-            "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
-            "duration": 8,
-            "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-            "status": "스태빌리티",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 10,
-            "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
-            "duration": 6,
-            "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-            "status": "스태빌리티",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
-            "duration": 12,
-            "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-            "status": "스위프트니스",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/B77111BD4468FB297D560A44EE5F023425915FBF/103606.png",
-    "id": 12516,
-    "name": "\"Strength of the Pack!\"",
-    "professions": [
-        "Ranger"
-    ],
-    "slot": "Elite",
-    "type": "Elite",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BuQwAAA=]",
+        "description": "Command. Rampage with your pet, gaining stability, fury, and swiftness. You and your pet also grant might to each other when you attack.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 75
+            },
+            {
+                "apply_count": 1,
+                "description": "Grants might to your pet when you attack.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/B77111BD4468FB297D560A44EE5F023425915FBF/103606.png",
+                "status": "Strength of the Pack",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Critical chance increased; stacks duration.",
+                "duration": 12,
+                "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                "status": "퓨리",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 10,
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "status": "스태빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 10,
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "status": "스태빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
+                "duration": 12,
+                "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                "status": "스위프트니스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/B77111BD4468FB297D560A44EE5F023425915FBF/103606.png",
+        "id": 12516,
+        "name": "\"Strength of the Pack!\"",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Elite",
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

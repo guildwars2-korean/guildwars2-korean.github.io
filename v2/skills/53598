@@ -1,22 +1,24 @@
-{
-    "chat_link": "[&Bl7RAAA=]",
-    "description": "Explodes upon impact.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 900
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 4
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/467E6BF83D152F95BC5D0B3573F4D2D71F5A4BFA/102830.png",
-    "id": 53598,
-    "name": "Scatter Grenade"
-}
+[
+    {
+        "chat_link": "[&Bl7RAAA=]",
+        "description": "Explodes upon impact.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 4
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/467E6BF83D152F95BC5D0B3573F4D2D71F5A4BFA/102830.png",
+        "id": 53598,
+        "name": "Scatter Grenade"
+    }
+]

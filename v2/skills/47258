@@ -1,16 +1,18 @@
-{
-    "chat_link": "[&Bpq4AAA=]",
-    "description": "The River of Souls indiscriminately unleashes its wrath upon you and any nearby targets, dealing damage and inflicting stun.",
-    "facts": [
-        {
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
-            "text": "Stun",
-            "type": "Time"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
-    "id": 47258,
-    "name": "Soulless Torrent"
-}
+[
+    {
+        "chat_link": "[&Bpq4AAA=]",
+        "description": "The River of Souls indiscriminately unleashes its wrath upon you and any nearby targets, dealing damage and inflicting stun.",
+        "facts": [
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+                "text": "Stun",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 47258,
+        "name": "Soulless Torrent"
+    }
+]

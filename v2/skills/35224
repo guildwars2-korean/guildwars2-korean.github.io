@@ -1,88 +1,90 @@
-{
-    "chat_link": "[&BpiJAAA=]",
-    "description": "Unleash the elements from your core, firing a random elemental in all directions. Elements have differing effects based on your current tornado type.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 5
-        },
-        {
-            "dmg_multiplier": 0.75,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 5,
-            "description": "Damage and condition damage taken are increased; stacks intensity.",
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-            "prefix": {
-                "description": "Send out lightning bolts.",
-                "icon": "https://render.guildwars2.com/file/01D310FE65DBA378CBAFD13B2BFEDE59939C5153/102964.png",
-                "status": "Electrified Tornado",
-                "text": "Apply Buff/Condition"
+[
+    {
+        "chat_link": "[&BpiJAAA=]",
+        "description": "Unleash the elements from your core, firing a random elemental in all directions. Elements have differing effects based on your current tornado type.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 5
             },
-            "status": "Vulnerability",
-            "text": "Apply Buff/Condition",
-            "type": "PrefixedBuff"
-        },
-        {
-            "apply_count": 3,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-            "prefix": {
-                "description": "Send out blinding dust devils.",
-                "icon": "https://render.guildwars2.com/file/EA6A082902800CC552393F24E03240A7A7D9C511/103080.png",
-                "status": "Dust Tornado",
-                "text": "Apply Buff/Condition"
+            {
+                "dmg_multiplier": 0.75,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
             },
-            "status": "Bleeding",
-            "text": "Apply Buff/Condition",
-            "type": "PrefixedBuff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Movement speed decreased by 50%; stacks duration.",
-            "duration": 9,
-            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-            "prefix": {
-                "description": "Send out flying debris.",
-                "icon": "https://render.guildwars2.com/file/F20A7D6B7FB71D520B4643CF120AF6A50DF7A2B0/102914.png",
-                "status": "Debris Tornado",
-                "text": "Apply Buff/Condition"
+            {
+                "apply_count": 5,
+                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "prefix": {
+                    "description": "Send out lightning bolts.",
+                    "icon": "https://render.guildwars2.com/file/01D310FE65DBA378CBAFD13B2BFEDE59939C5153/102964.png",
+                    "status": "Electrified Tornado",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "Vulnerability",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
             },
-            "status": "Crippled",
-            "text": "Apply Buff/Condition",
-            "type": "PrefixedBuff"
-        },
-        {
-            "distance": 900,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/24186CEA31F5F7FCF91F080568929EE76E3D6D51/1466361.png",
-    "id": 35224,
-    "name": "Elemental Requiem",
-    "professions": [
-        "Thief",
-        "Mesmer",
-        "Warrior",
-        "Elementalist",
-        "Necromancer",
-        "Guardian",
-        "Ranger",
-        "Engineer",
-        "Revenant"
-    ],
-    "slot": "Weapon_4",
-    "type": "Bundle",
-    "weapon_type": "None"
-}
+            {
+                "apply_count": 3,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "prefix": {
+                    "description": "Send out blinding dust devils.",
+                    "icon": "https://render.guildwars2.com/file/EA6A082902800CC552393F24E03240A7A7D9C511/103080.png",
+                    "status": "Dust Tornado",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "Bleeding",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Movement speed decreased by 50%; stacks duration.",
+                "duration": 9,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "prefix": {
+                    "description": "Send out flying debris.",
+                    "icon": "https://render.guildwars2.com/file/F20A7D6B7FB71D520B4643CF120AF6A50DF7A2B0/102914.png",
+                    "status": "Debris Tornado",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "Crippled",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "distance": 900,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/24186CEA31F5F7FCF91F080568929EE76E3D6D51/1466361.png",
+        "id": 35224,
+        "name": "Elemental Requiem",
+        "professions": [
+            "Thief",
+            "Mesmer",
+            "Warrior",
+            "Elementalist",
+            "Necromancer",
+            "Guardian",
+            "Ranger",
+            "Engineer",
+            "Revenant"
+        ],
+        "slot": "Weapon_4",
+        "type": "Bundle",
+        "weapon_type": "None"
+    }
+]

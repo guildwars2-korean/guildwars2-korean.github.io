@@ -1,25 +1,27 @@
-{
-    "description": "Gain bonus power, which is increased when wielding a dagger.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
-            "target": "Power",
-            "type": "AttributeAdjust",
-            "value": 80
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
-            "target": "Power",
-            "text": "Additional Power",
-            "type": "AttributeAdjust",
-            "value": 80
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/16A01B18FBA9F8AE4878CD00DC422827A5344F75/1012738.png",
-    "id": 1245,
-    "name": "Dagger Training",
-    "order": 0,
-    "slot": "Major",
-    "specialization": 28,
-    "tier": 1
-}
+[
+    {
+        "description": "Gain bonus power, which is increased when wielding a dagger.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+                "target": "Power",
+                "type": "AttributeAdjust",
+                "value": 80
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+                "target": "Power",
+                "text": "Additional Power",
+                "type": "AttributeAdjust",
+                "value": 80
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/16A01B18FBA9F8AE4878CD00DC422827A5344F75/1012738.png",
+        "id": 1245,
+        "name": "Dagger Training",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 28,
+        "tier": 1
+    }
+]

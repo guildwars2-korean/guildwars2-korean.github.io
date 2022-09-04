@@ -1,16 +1,18 @@
-{
-    "chat_link": "[&Bpy4AAA=]",
-    "description": "((838019))",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 4000
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/5A7A35F3F260F09FE5C54111FBC219934070A00A/103946.png",
-    "id": 47260,
-    "name": ""
-}
+[
+    {
+        "chat_link": "[&Bpy4AAA=]",
+        "description": "((838019))",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 4000
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/5A7A35F3F260F09FE5C54111FBC219934070A00A/103946.png",
+        "id": 47260,
+        "name": ""
+    }
+]

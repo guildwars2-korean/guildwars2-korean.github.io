@@ -1,58 +1,60 @@
-{
-    "chat_link": "[&BkCvAAA=]",
-    "description": "Ambush. Blink to your target and unleash a series of low-damage strikes that rapidly stack vulnerability.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 600
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 1
-        },
-        {
-            "dmg_multiplier": 0.1,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "dmg_multiplier": 0.2,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Final Strike Damage",
-            "type": "Damage"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Strikes",
-            "type": "Number",
-            "value": 8
-        },
-        {
-            "apply_count": 1,
-            "description": "Damage and condition damage taken are increased; stacks intensity.",
-            "duration": 8,
-            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-            "status": "Vulnerability",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/EC61207138EEBE0408E202F27ECA7CE101274693/1770509.png",
-    "id": 44864,
-    "name": "Ambush Assault",
-    "professions": [
-        "Mesmer"
-    ],
-    "slot": "Weapon_1",
-    "specialization": 59,
-    "type": "Weapon",
-    "weapon_type": "Spear"
-}
+[
+    {
+        "chat_link": "[&BkCvAAA=]",
+        "description": "Ambush. Blink to your target and unleash a series of low-damage strikes that rapidly stack vulnerability.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 600
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 1
+            },
+            {
+                "dmg_multiplier": 0.1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 0.2,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Final Strike Damage",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Strikes",
+                "type": "Number",
+                "value": 8
+            },
+            {
+                "apply_count": 1,
+                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "Vulnerability",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/EC61207138EEBE0408E202F27ECA7CE101274693/1770509.png",
+        "id": 44864,
+        "name": "Ambush Assault",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Weapon_1",
+        "specialization": 59,
+        "type": "Weapon",
+        "weapon_type": "Spear"
+    }
+]

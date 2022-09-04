@@ -1,38 +1,40 @@
-{
-    "chat_link": "[&BsVoAAA=]",
-    "cost": 5,
-    "description": "Legendary Centaur. Summon a protective barrier around the tablet that blocks enemy projectiles. \n\nIf this skill is empowered, it also grants protection to allies around the tablet.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 5
-        },
-        {
-            "distance": 240,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "field_type": "Light",
-            "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-            "text": "Combo Field",
-            "type": "ComboField"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "flip_skill": 27628,
-    "icon": "https://render.guildwars2.com/file/D5B16367CFE84826CCC80E92EE785F202AE9F200/1013017.png",
-    "id": 26821,
-    "name": "Protective Solace",
-    "professions": [
-        "Revenant"
-    ],
-    "slot": "Utility",
-    "type": "Utility",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BsVoAAA=]",
+        "cost": 5,
+        "description": "Legendary Centaur. Summon a protective barrier around the tablet that blocks enemy projectiles. \n\nIf this skill is empowered, it also grants protection to allies around the tablet.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 5
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "field_type": "Light",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "Combo Field",
+                "type": "ComboField"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 27628,
+        "icon": "https://render.guildwars2.com/file/D5B16367CFE84826CCC80E92EE785F202AE9F200/1013017.png",
+        "id": 26821,
+        "name": "Protective Solace",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

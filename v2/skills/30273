@@ -1,128 +1,130 @@
-{
-    "categories": [
-        "Trap"
-    ],
-    "chat_link": "[&BkF2AAA=]",
-    "description": "Trap. Lay a trap that pulls enemies and creates a barrier that holds them in.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 180
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 75
-        },
-        {
-            "dmg_multiplier": 2.4,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 10,
-            "description": "가하는 데미지가 증가한다(강도 중첩).",
-            "duration": 8,
-            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-            "status": "마이트",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Skills and actions are slower.",
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
-            "status": "Slow",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Skills and actions are slower.",
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
-            "status": "Slow",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "distance": 180,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Trigger Radius",
-            "type": "Distance"
-        },
-        {
-            "distance": 240,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Attack Radius",
-            "type": "Distance"
-        },
-        {
-            "distance": 120,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Maw Barrier Radius",
-            "type": "Distance"
-        },
-        {
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Maw Barrier Duration",
-            "type": "Time"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Maximum Wall Hits",
-            "type": "Number",
-            "value": 10
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/71FF4F27E1404DAD3EB1A63A4214A9797F740810/1024103.png",
-    "id": 30273,
-    "name": "Dragon's Maw",
-    "professions": [
-        "Guardian"
-    ],
-    "slot": "Elite",
-    "specialization": 27,
-    "traited_facts": [
-        {
-            "apply_count": 1,
-            "description": "Skills and actions are slower.",
-            "duration": 6,
-            "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
-            "overrides": 4,
-            "requires_trait": 1898,
-            "status": "Slow",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Skills and actions are slower.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
-            "overrides": 5,
-            "requires_trait": 1898,
-            "status": "Slow",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "type": "Elite",
-    "weapon_type": "None"
-}
+[
+    {
+        "categories": [
+            "Trap"
+        ],
+        "chat_link": "[&BkF2AAA=]",
+        "description": "Trap. Lay a trap that pulls enemies and creates a barrier that holds them in.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 180
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 75
+            },
+            {
+                "dmg_multiplier": 2.4,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 10,
+                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Skills and actions are slower.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+                "status": "Slow",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Skills and actions are slower.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+                "status": "Slow",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Trigger Radius",
+                "type": "Distance"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Attack Radius",
+                "type": "Distance"
+            },
+            {
+                "distance": 120,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Maw Barrier Radius",
+                "type": "Distance"
+            },
+            {
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Maw Barrier Duration",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Maximum Wall Hits",
+                "type": "Number",
+                "value": 10
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/71FF4F27E1404DAD3EB1A63A4214A9797F740810/1024103.png",
+        "id": 30273,
+        "name": "Dragon's Maw",
+        "professions": [
+            "Guardian"
+        ],
+        "slot": "Elite",
+        "specialization": 27,
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "Skills and actions are slower.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+                "overrides": 4,
+                "requires_trait": 1898,
+                "status": "Slow",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Skills and actions are slower.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+                "overrides": 5,
+                "requires_trait": 1898,
+                "status": "Slow",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

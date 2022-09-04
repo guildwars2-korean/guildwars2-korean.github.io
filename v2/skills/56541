@@ -1,8 +1,10 @@
-{
-    "chat_link": "[&Bt3cAAA=]",
-    "description": "Debris left over from an exploded pylon. Deals damage in an area.",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
-    "id": 56541,
-    "name": "Pylon Debris Field"
-}
+[
+    {
+        "chat_link": "[&Bt3cAAA=]",
+        "description": "Debris left over from an exploded pylon. Deals damage in an area.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 56541,
+        "name": "Pylon Debris Field"
+    }
+]

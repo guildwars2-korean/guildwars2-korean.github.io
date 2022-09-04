@@ -1,25 +1,27 @@
-{
-    "chat_link": "[&Br/UAAA=]",
-    "description": "Applies bleeding to foes who are vulnerable.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 130
-        },
-        {
-            "apply_count": 3,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 15,
-            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-            "status": "Bleeding",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/CECBFA1662D837E8A526E475A1E701679A2662BA/103125.png",
-    "id": 54463,
-    "name": "Scurvy Prick"
-}
+[
+    {
+        "chat_link": "[&Br/UAAA=]",
+        "description": "Applies bleeding to foes who are vulnerable.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "apply_count": 3,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 15,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "Bleeding",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/CECBFA1662D837E8A526E475A1E701679A2662BA/103125.png",
+        "id": 54463,
+        "name": "Scurvy Prick"
+    }
+]

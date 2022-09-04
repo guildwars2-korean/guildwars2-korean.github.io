@@ -1,8 +1,10 @@
-{
-    "chat_link": "[&Bv+SAAA=]",
-    "description": "A sweeping attack that knocks targets back.",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/27B5B77D01775FE93D91FDACB004C3D206370F5B/819847.png",
-    "id": 37631,
-    "name": "Orbital Sweep"
-}
+[
+    {
+        "chat_link": "[&Bv+SAAA=]",
+        "description": "A sweeping attack that knocks targets back.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/27B5B77D01775FE93D91FDACB004C3D206370F5B/819847.png",
+        "id": 37631,
+        "name": "Orbital Sweep"
+    }
+]

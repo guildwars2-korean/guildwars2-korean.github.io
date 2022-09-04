@@ -1,80 +1,82 @@
-{
-    "chat_link": "[&Bn6pAAA=]",
-    "description": "Mark a target, causing your initiative attacks to generate malice when they hit or critically hit your mark. Lose all malice when the mark ends or when this skill is recast on a new target.\nMalice is only gained once per skill use.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 1500
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 25
-        },
-        {
-            "duration": 30,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Duration",
-            "type": "Time"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/5E50F7555EC3E9D7373B35C5FC73F24E74573459/1983628.png",
-            "text": "Maximum Malice",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/5E50F7555EC3E9D7373B35C5FC73F24E74573459/1983628.png",
-            "text": "Malice Gained upon Hit",
-            "type": "Number",
-            "value": 1
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/5E50F7555EC3E9D7373B35C5FC73F24E74573459/1983628.png",
-            "text": "Malice Gained upon Critical Hit",
-            "type": "Number",
-            "value": 1
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/3ECEA70D0DCDAF65E0069263D005507ADBF95A62/1770609.png",
-    "id": 43390,
-    "name": "Deadeye's Mark",
-    "professions": [
-        "Thief"
-    ],
-    "slot": "Profession_1",
-    "specialization": 58,
-    "traited_facts": [
-        {
-            "apply_count": 5,
-            "description": "Damage and condition damage taken are increased; stacks intensity.",
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-            "requires_trait": 1169,
-            "status": "Vulnerability",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "requires_trait": 1163,
-            "text": "Number of Allied Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/5E50F7555EC3E9D7373B35C5FC73F24E74573459/1983628.png",
-            "overrides": 3,
-            "requires_trait": 2111,
-            "text": "Maximum Malice",
-            "type": "Number",
-            "value": 7
-        }
-    ],
-    "type": "Profession",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&Bn6pAAA=]",
+        "description": "Mark a target, causing your initiative attacks to generate malice when they hit or critically hit your mark. Lose all malice when the mark ends or when this skill is recast on a new target.\nMalice is only gained once per skill use.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 1500
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 25
+            },
+            {
+                "duration": 30,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Duration",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/5E50F7555EC3E9D7373B35C5FC73F24E74573459/1983628.png",
+                "text": "Maximum Malice",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/5E50F7555EC3E9D7373B35C5FC73F24E74573459/1983628.png",
+                "text": "Malice Gained upon Hit",
+                "type": "Number",
+                "value": 1
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/5E50F7555EC3E9D7373B35C5FC73F24E74573459/1983628.png",
+                "text": "Malice Gained upon Critical Hit",
+                "type": "Number",
+                "value": 1
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/3ECEA70D0DCDAF65E0069263D005507ADBF95A62/1770609.png",
+        "id": 43390,
+        "name": "Deadeye's Mark",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Profession_1",
+        "specialization": 58,
+        "traited_facts": [
+            {
+                "apply_count": 5,
+                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "requires_trait": 1169,
+                "status": "Vulnerability",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "requires_trait": 1163,
+                "text": "Number of Allied Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/5E50F7555EC3E9D7373B35C5FC73F24E74573459/1983628.png",
+                "overrides": 3,
+                "requires_trait": 2111,
+                "text": "Maximum Malice",
+                "type": "Number",
+                "value": 7
+            }
+        ],
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

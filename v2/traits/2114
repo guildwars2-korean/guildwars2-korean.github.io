@@ -1,24 +1,26 @@
-{
-    "description": "Photon Forge reduces incoming damage but has increased passive heat generation.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "percent": 15,
-            "text": "Damage Reduced",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
-            "percent": 1,
-            "text": "Bonus Heat per Second",
-            "type": "Percent"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/3994F02CE07262B156C90E9143F2720ADF2DB0FD/1769927.png",
-    "id": 2114,
-    "name": "Light Density Amplifier",
-    "order": 0,
-    "slot": "Major",
-    "specialization": 57,
-    "tier": 1
-}
+[
+    {
+        "description": "Photon Forge reduces incoming damage but has increased passive heat generation.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 15,
+                "text": "Damage Reduced",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+                "percent": 1,
+                "text": "Bonus Heat per Second",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/3994F02CE07262B156C90E9143F2720ADF2DB0FD/1769927.png",
+        "id": 2114,
+        "name": "Light Density Amplifier",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 57,
+        "tier": 1
+    }
+]

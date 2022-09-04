@@ -1,39 +1,41 @@
-{
-    "description": "Regeneration heals for more. Gain regeneration when struck while below the health threshold.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 10
-        },
-        {
-            "apply_count": 1,
-            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
-            "duration": 8,
-            "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
-            "status": "리제네레이션",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "percent": 20,
-            "text": "Increased Regenerative Healing",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "percent": 50,
-            "text": "Health Threshold",
-            "type": "Percent"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/ED0E15AFDDD1F944A09A561B290A1BCB36F799E1/1058541.png",
-    "id": 1813,
-    "name": "Elder's Respite",
-    "order": 0,
-    "slot": "Major",
-    "specialization": 52,
-    "tier": 1
-}
+[
+    {
+        "description": "Regeneration heals for more. Gain regeneration when struck while below the health threshold.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "apply_count": 1,
+                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "status": "리제네레이션",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 20,
+                "text": "Increased Regenerative Healing",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 50,
+                "text": "Health Threshold",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/ED0E15AFDDD1F944A09A561B290A1BCB36F799E1/1058541.png",
+        "id": 1813,
+        "name": "Elder's Respite",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 52,
+        "tier": 1
+    }
+]

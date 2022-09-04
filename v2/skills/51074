@@ -1,8 +1,10 @@
-{
-    "chat_link": "[&BoLHAAA=]",
-    "description": "Projectile formed of living shadow.",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/0F9DAB04690C9A01C80DEEE8D5792937F4EF6DC4/103642.png",
-    "id": 51074,
-    "name": "Shade Dart"
-}
+[
+    {
+        "chat_link": "[&BoLHAAA=]",
+        "description": "Projectile formed of living shadow.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/0F9DAB04690C9A01C80DEEE8D5792937F4EF6DC4/103642.png",
+        "id": 51074,
+        "name": "Shade Dart"
+    }
+]

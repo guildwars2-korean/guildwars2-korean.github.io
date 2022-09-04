@@ -1,79 +1,81 @@
-{
-    "chat_link": "[&BqR3AAA=]",
-    "description": "Form your arrows into a barrier, and deal damage at the location.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 1200
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 40
-        },
-        {
-            "dmg_multiplier": 0.25,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Initial Damage",
-            "type": "Damage"
-        },
-        {
-            "dmg_multiplier": 2.2,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Final Impact Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "Movement speed decreased by 50%; stacks duration.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-            "status": "Crippled",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Ring Duration",
-            "type": "Time"
-        },
-        {
-            "distance": 360,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Maximum Number of Barriers",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Number of Impacts",
-            "type": "Number",
-            "value": 4
-        }
-    ],
-    "flags": [
-        "GroundTargeted",
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/BA2C3116B20CF142F70D18394E377A043D3E0E96/1012873.png",
-    "id": 30628,
-    "name": "Hunter's Ward",
-    "professions": [
-        "Guardian"
-    ],
-    "slot": "Weapon_5",
-    "specialization": 27,
-    "type": "Weapon",
-    "weapon_type": "Longbow"
-}
+[
+    {
+        "chat_link": "[&BqR3AAA=]",
+        "description": "Form your arrows into a barrier, and deal damage at the location.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 40
+            },
+            {
+                "dmg_multiplier": 0.25,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Initial Damage",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 2.2,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Final Impact Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Movement speed decreased by 50%; stacks duration.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "Crippled",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Ring Duration",
+                "type": "Time"
+            },
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Maximum Number of Barriers",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Number of Impacts",
+                "type": "Number",
+                "value": 4
+            }
+        ],
+        "flags": [
+            "GroundTargeted",
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/BA2C3116B20CF142F70D18394E377A043D3E0E96/1012873.png",
+        "id": 30628,
+        "name": "Hunter's Ward",
+        "professions": [
+            "Guardian"
+        ],
+        "slot": "Weapon_5",
+        "specialization": 27,
+        "type": "Weapon",
+        "weapon_type": "Longbow"
+    }
+]

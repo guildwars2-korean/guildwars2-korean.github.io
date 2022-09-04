@@ -1,73 +1,75 @@
-{
-    "categories": [
-        "Physical"
-    ],
-    "chat_link": "[&Bmh3AAA=]",
-    "description": "Physical. Fire a dazing dagger at your enemy. If this ability interrupts a skill, that skill's recharge is increased.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 900
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 1
-        },
-        {
-            "dmg_multiplier": 0.55,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-            "text": "Daze",
-            "type": "Time"
-        },
-        {
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-            "text": "Skill cooldown increase.",
-            "type": "Time"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-            "text": "Maximum Count",
-            "type": "Number",
-            "value": 3
-        },
-        {
-            "duration": 20,
-            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-            "text": "Count Recharge",
-            "type": "Time"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/F3F3FD0EFBEE58CDE70B290C380C1D4102E9600B/1058630.png",
-    "id": 30568,
-    "name": "Distracting Daggers",
-    "professions": [
-        "Thief"
-    ],
-    "slot": "Utility",
-    "specialization": 7,
-    "traited_facts": [
-        {
-            "duration": 16,
-            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-            "overrides": 6,
-            "requires_trait": 1949,
-            "text": "Count Recharge",
-            "type": "Time"
-        }
-    ],
-    "type": "Utility",
-    "weapon_type": "None"
-}
+[
+    {
+        "categories": [
+            "Physical"
+        ],
+        "chat_link": "[&Bmh3AAA=]",
+        "description": "Physical. Fire a dazing dagger at your enemy. If this ability interrupts a skill, that skill's recharge is increased.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 1
+            },
+            {
+                "dmg_multiplier": 0.55,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+                "text": "Daze",
+                "type": "Time"
+            },
+            {
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "text": "Skill cooldown increase.",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+                "text": "Maximum Count",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "duration": 20,
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "text": "Count Recharge",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/F3F3FD0EFBEE58CDE70B290C380C1D4102E9600B/1058630.png",
+        "id": 30568,
+        "name": "Distracting Daggers",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Utility",
+        "specialization": 7,
+        "traited_facts": [
+            {
+                "duration": 16,
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "overrides": 6,
+                "requires_trait": 1949,
+                "text": "Count Recharge",
+                "type": "Time"
+            }
+        ],
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

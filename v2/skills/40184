@@ -1,104 +1,106 @@
-{
-    "chat_link": "[&BvicAAA=]",
-    "description": "Ambush. Release a vortex of chaos energy that inflicts damaging conditions on foes. Allies near the caster gain boons.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 1200
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 1
-        },
-        {
-            "dmg_multiplier": 0.6,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
-            "duration": 8,
-            "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-            "status": "Torment",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 8,
-            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-            "status": "Bleeding",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Damage received on skill activation; stacks intensity.",
-            "duration": 8,
-            "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-            "status": "Confusion",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Damage received on skill activation; stacks intensity.",
-            "duration": 3,
-            "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-            "status": "Confusion",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "distance": 360,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Ally Boon Radius",
-            "type": "Distance"
-        },
-        {
-            "apply_count": 1,
-            "description": "스킬 재사용 대기시간 단축.",
-            "duration": 3,
-            "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-            "status": "알라크리티",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 8,
-            "description": "가하는 데미지가 증가한다(강도 중첩).",
-            "duration": 15,
-            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-            "status": "마이트",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/0E2D7DB6FB4C0A9F681759099DE5D794A04914BF/1770510.png",
-    "id": 40184,
-    "name": "Chaos Vortex",
-    "professions": [
-        "Mesmer"
-    ],
-    "slot": "Weapon_1",
-    "specialization": 59,
-    "type": "Weapon",
-    "weapon_type": "Staff"
-}
+[
+    {
+        "chat_link": "[&BvicAAA=]",
+        "description": "Ambush. Release a vortex of chaos energy that inflicts damaging conditions on foes. Allies near the caster gain boons.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 1
+            },
+            {
+                "dmg_multiplier": 0.6,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "status": "Torment",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "Bleeding",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Damage received on skill activation; stacks intensity.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                "status": "Confusion",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Damage received on skill activation; stacks intensity.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                "status": "Confusion",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Ally Boon Radius",
+                "type": "Distance"
+            },
+            {
+                "apply_count": 1,
+                "description": "스킬 재사용 대기시간 단축.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+                "status": "알라크리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 8,
+                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "duration": 15,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/0E2D7DB6FB4C0A9F681759099DE5D794A04914BF/1770510.png",
+        "id": 40184,
+        "name": "Chaos Vortex",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Weapon_1",
+        "specialization": 59,
+        "type": "Weapon",
+        "weapon_type": "Staff"
+    }
+]

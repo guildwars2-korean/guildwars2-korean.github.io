@@ -1,24 +1,26 @@
-{
-    "description": "Bleeding you apply deals increased damage. Stock a <c=@abilitytype>blade</c> after applying enough stacks of bleeding to foes.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "percent": 25,
-            "text": "Damage Increase",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Bleeding Stacks per Blade",
-            "type": "Number",
-            "value": 5
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/D014E41E176D3B0B3B1168FF1A53DF6DE9D30D34/2479334.png",
-    "id": 2223,
-    "name": "Bloodsong",
-    "order": 2,
-    "slot": "Major",
-    "specialization": 66,
-    "tier": 3
-}
+[
+    {
+        "description": "Bleeding you apply deals increased damage. Stock a <c=@abilitytype>blade</c> after applying enough stacks of bleeding to foes.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 25,
+                "text": "Damage Increase",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Bleeding Stacks per Blade",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/D014E41E176D3B0B3B1168FF1A53DF6DE9D30D34/2479334.png",
+        "id": 2223,
+        "name": "Bloodsong",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 66,
+        "tier": 3
+    }
+]

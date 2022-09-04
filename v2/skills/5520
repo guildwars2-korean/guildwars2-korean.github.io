@@ -1,53 +1,55 @@
-{
-    "chat_link": "[&BpAVAAA=]",
-    "description": "Protect yourself with frost armor that reduces incoming damage by 10%. While active, it chills foes that hit you. Each attacker can be affected by this only once per second.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 10
-        },
-        {
-            "apply_count": 1,
-            "description": "Chill foes that strike you (only once per second for each attacker); incoming damage is reduced by 10%.",
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/719B80E35C276D68EF0AABB79126CF4CD42E3AF6/2261522.png",
-            "status": "Frost Aura",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Chill foes that strike you (only once per second for each attacker); incoming damage is reduced by 10%.",
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/719B80E35C276D68EF0AABB79126CF4CD42E3AF6/2261522.png",
-            "status": "Frost Aura",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-            "status": "Chilled",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "flip_skill": 51646,
-    "icon": "https://render.guildwars2.com/file/0D5599084DE820990E9F6D5A6853900553B205BC/103077.png",
-    "id": 5520,
-    "name": "Frost Aura",
-    "professions": [
-        "Elementalist"
-    ],
-    "slot": "Weapon_4",
-    "specialization": 56,
-    "type": "Weapon",
-    "weapon_type": "Dagger"
-}
+[
+    {
+        "chat_link": "[&BpAVAAA=]",
+        "description": "Protect yourself with frost armor that reduces incoming damage by 10%. While active, it chills foes that hit you. Each attacker can be affected by this only once per second.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "apply_count": 1,
+                "description": "Chill foes that strike you (only once per second for each attacker); incoming damage is reduced by 10%.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/719B80E35C276D68EF0AABB79126CF4CD42E3AF6/2261522.png",
+                "status": "Frost Aura",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Chill foes that strike you (only once per second for each attacker); incoming damage is reduced by 10%.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/719B80E35C276D68EF0AABB79126CF4CD42E3AF6/2261522.png",
+                "status": "Frost Aura",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "status": "Chilled",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 51646,
+        "icon": "https://render.guildwars2.com/file/0D5599084DE820990E9F6D5A6853900553B205BC/103077.png",
+        "id": 5520,
+        "name": "Frost Aura",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_4",
+        "specialization": 56,
+        "type": "Weapon",
+        "weapon_type": "Dagger"
+    }
+]

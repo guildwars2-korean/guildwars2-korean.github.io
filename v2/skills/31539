@@ -1,8 +1,10 @@
-{
-    "chat_link": "[&BjN7AAA=]",
-    "description": "",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/E44968569772D66EC291A9F4EB071036776B05F2/1128560.png",
-    "id": 31539,
-    "name": "Unstable Pylon"
-}
+[
+    {
+        "chat_link": "[&BjN7AAA=]",
+        "description": "",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/E44968569772D66EC291A9F4EB071036776B05F2/1128560.png",
+        "id": 31539,
+        "name": "Unstable Pylon"
+    }
+]

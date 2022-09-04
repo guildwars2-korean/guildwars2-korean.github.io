@@ -1,32 +1,34 @@
-{
-    "chat_link": "[&BhgzAAA=]",
-    "description": "Stealth into the depths.",
-    "dual_wield": "None",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 20
-        },
-        {
-            "apply_count": 1,
-            "description": "Currently invisible. Ends if you deal damage.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
-            "status": "Stealth",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/317BE10A960E59E65F341518792F71101422E8B4/103762.png",
-    "id": 13080,
-    "name": "Vanish in the Deep",
-    "professions": [
-        "Thief"
-    ],
-    "slot": "Downed_3",
-    "type": "Weapon",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BhgzAAA=]",
+        "description": "Stealth into the depths.",
+        "dual_wield": "None",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "apply_count": 1,
+                "description": "Currently invisible. Ends if you deal damage.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+                "status": "Stealth",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/317BE10A960E59E65F341518792F71101422E8B4/103762.png",
+        "id": 13080,
+        "name": "Vanish in the Deep",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Downed_3",
+        "type": "Weapon",
+        "weapon_type": "None"
+    }
+]

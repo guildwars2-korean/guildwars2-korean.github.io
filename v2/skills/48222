@@ -1,8 +1,10 @@
-{
-    "chat_link": "[&Bl68AAA=]",
-    "description": "Call upon the fury of Balthazar to annihilate foes.",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
-    "id": 48222,
-    "name": "Wings of Rage"
-}
+[
+    {
+        "chat_link": "[&Bl68AAA=]",
+        "description": "Call upon the fury of Balthazar to annihilate foes.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 48222,
+        "name": "Wings of Rage"
+    }
+]

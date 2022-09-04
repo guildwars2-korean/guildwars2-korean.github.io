@@ -1,70 +1,72 @@
-{
-    "description": "Your power is increased. While in Harbinger Shroud, you gain an aura that pulses each interval to damage and cripple nearby enemies.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
-            "target": "Power",
-            "type": "AttributeAdjust",
-            "value": 240
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
-            "target": "Power",
-            "type": "AttributeAdjust",
-            "value": 240
-        },
-        {
-            "duration": 3,
-            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-            "text": "Interval",
-            "type": "Time"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/CDF71E71761E7997794E193A97FFC315E36CF1E7/2479344.png",
-    "id": 2218,
-    "name": "Cascading Corruption",
-    "order": 0,
-    "skills": [
-        {
-            "chat_link": "[&BsT0AAA=]",
-            "description": "Damage and cripple nearby enemies.",
-            "facts": [
-                {
-                    "distance": 180,
-                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                    "text": "Radius",
-                    "type": "Distance"
-                },
-                {
-                    "dmg_multiplier": 1,
-                    "hit_count": 1,
-                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                    "text": "Damage",
-                    "type": "Damage"
-                },
-                {
-                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                    "text": "Number of Targets",
-                    "type": "Number",
-                    "value": 5
-                },
-                {
-                    "apply_count": 1,
-                    "description": "Movement speed decreased by 50%; stacks duration.",
-                    "duration": 3,
-                    "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                    "status": "Crippled",
-                    "text": "Apply Buff/Condition",
-                    "type": "Buff"
-                }
-            ],
-            "flags": [],
-            "icon": "https://render.guildwars2.com/file/9875EAC10F3A93F8EF4BC40204806C6172E14494/2141735.png",
-            "id": 62660,
-            "name": "Cascading Corruption"
-        }
-    ],
-    "slot": "Major",
-    "specialization": 64,
-    "tier": 3
-}
+[
+    {
+        "description": "Your power is increased. While in Harbinger Shroud, you gain an aura that pulses each interval to damage and cripple nearby enemies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+                "target": "Power",
+                "type": "AttributeAdjust",
+                "value": 240
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+                "target": "Power",
+                "type": "AttributeAdjust",
+                "value": 240
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "Interval",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/CDF71E71761E7997794E193A97FFC315E36CF1E7/2479344.png",
+        "id": 2218,
+        "name": "Cascading Corruption",
+        "order": 0,
+        "skills": [
+            {
+                "chat_link": "[&BsT0AAA=]",
+                "description": "Damage and cripple nearby enemies.",
+                "facts": [
+                    {
+                        "distance": 180,
+                        "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                        "text": "Radius",
+                        "type": "Distance"
+                    },
+                    {
+                        "dmg_multiplier": 1,
+                        "hit_count": 1,
+                        "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                        "text": "Damage",
+                        "type": "Damage"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "text": "Number of Targets",
+                        "type": "Number",
+                        "value": 5
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "Movement speed decreased by 50%; stacks duration.",
+                        "duration": 3,
+                        "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                        "status": "Crippled",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/9875EAC10F3A93F8EF4BC40204806C6172E14494/2141735.png",
+                "id": 62660,
+                "name": "Cascading Corruption"
+            }
+        ],
+        "slot": "Major",
+        "specialization": 64,
+        "tier": 3
+    }
+]

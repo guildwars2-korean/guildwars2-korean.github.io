@@ -1,67 +1,69 @@
-{
-    "categories": [
-        "Stance"
-    ],
-    "chat_link": "[&BrKyAAA=]",
-    "description": "Stance. Break stun, then spin and briefly evade attacks.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-            "text": "StunBreak",
-            "type": "StunBreak",
-            "value": true
-        },
-        {
-            "apply_count": 1,
-            "description": "이동 속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-            "status": "슈퍼스피드",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-            "text": "Maximum Count",
-            "type": "Number",
-            "value": 2
-        },
-        {
-            "duration": 40,
-            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-            "text": "Count Recharge",
-            "type": "Time"
-        },
-        {
-            "duration": 75,
-            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-            "text": "Count Recharge",
-            "type": "Time"
-        },
-        {
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/9F19DB1D3E1629390F2360F2D866651BBC0F6155/1938788.png",
-            "text": "Evade",
-            "type": "Time"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/B8B80EA35608B9ED219934A0586109F8ACD494A8/1770331.png",
-    "id": 45746,
-    "name": "Twist of Fate",
-    "professions": [
-        "Elementalist"
-    ],
-    "slot": "Utility",
-    "specialization": 56,
-    "type": "Utility",
-    "weapon_type": "None"
-}
+[
+    {
+        "categories": [
+            "Stance"
+        ],
+        "chat_link": "[&BrKyAAA=]",
+        "description": "Stance. Break stun, then spin and briefly evade attacks.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                "text": "StunBreak",
+                "type": "StunBreak",
+                "value": true
+            },
+            {
+                "apply_count": 1,
+                "description": "이동 속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+                "status": "슈퍼스피드",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+                "text": "Maximum Count",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "duration": 40,
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "text": "Count Recharge",
+                "type": "Time"
+            },
+            {
+                "duration": 75,
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "text": "Count Recharge",
+                "type": "Time"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/9F19DB1D3E1629390F2360F2D866651BBC0F6155/1938788.png",
+                "text": "Evade",
+                "type": "Time"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/B8B80EA35608B9ED219934A0586109F8ACD494A8/1770331.png",
+        "id": 45746,
+        "name": "Twist of Fate",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Utility",
+        "specialization": 56,
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

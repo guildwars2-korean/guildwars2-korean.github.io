@@ -1,45 +1,47 @@
-{
-    "description": "Deal increased strike damage while you have stability, swiftness, or superspeed. This damage increase compounds for each boon you have.",
-    "facts": [
-        {
-            "apply_count": 1,
-            "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-            "status": "스태빌리티",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-            "status": "스위프트니스",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "이동 속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-            "status": "슈퍼스피드",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "percent": 5,
-            "text": "Damage per Boon",
-            "type": "Percent"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/FA6A0040D703B2FBF19B4592A63F3D7C2555FE02/2175049.png",
-    "id": 1860,
-    "name": "Object in Motion",
-    "order": 2,
-    "slot": "Major",
-    "specialization": 43,
-    "tier": 2
-}
+[
+    {
+        "description": "Deal increased strike damage while you have stability, swiftness, or superspeed. This damage increase compounds for each boon you have.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "status": "스태빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                "status": "스위프트니스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동 속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+                "status": "슈퍼스피드",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 5,
+                "text": "Damage per Boon",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/FA6A0040D703B2FBF19B4592A63F3D7C2555FE02/2175049.png",
+        "id": 1860,
+        "name": "Object in Motion",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 43,
+        "tier": 2
+    }
+]

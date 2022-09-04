@@ -1,18 +1,20 @@
-{
-    "description": "When you cast a cantrip, gain a random new stolen skill.<br><c=@reminder>(Requires a marked target. Overwrites existing stolen skills.)</c>",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Stolen Skill Uses",
-            "type": "Number",
-            "value": 1
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/72377B6191DEF64EA87DEEA70BFB7699937D6207/1770002.png",
-    "id": 2136,
-    "name": "One in the Chamber",
-    "order": 2,
-    "slot": "Major",
-    "specialization": 58,
-    "tier": 1
-}
+[
+    {
+        "description": "When you cast a cantrip, gain a random new stolen skill.<br><c=@reminder>(Requires a marked target. Overwrites existing stolen skills.)</c>",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Stolen Skill Uses",
+                "type": "Number",
+                "value": 1
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/72377B6191DEF64EA87DEEA70BFB7699937D6207/1770002.png",
+        "id": 2136,
+        "name": "One in the Chamber",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 58,
+        "tier": 1
+    }
+]

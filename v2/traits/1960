@@ -1,27 +1,29 @@
-{
-    "description": "Reflect projectiles after a successful evasion.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 1.5
-        },
-        {
-            "apply_count": 1,
-            "description": "Reflects incoming projectiles.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/CED3F1AE9294F9C5045DA8017F25170CE87C0AE2/103726.png",
-            "status": "Mirror",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/34EDDCE436BD4A20F8F2B7674D24A5A53D56A4B9/1012502.png",
-    "id": 1960,
-    "name": "Evasive Mirror",
-    "order": 1,
-    "slot": "Major",
-    "specialization": 1,
-    "tier": 2
-}
+[
+    {
+        "description": "Reflect projectiles after a successful evasion.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 1.5
+            },
+            {
+                "apply_count": 1,
+                "description": "Reflects incoming projectiles.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/CED3F1AE9294F9C5045DA8017F25170CE87C0AE2/103726.png",
+                "status": "Mirror",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/34EDDCE436BD4A20F8F2B7674D24A5A53D56A4B9/1012502.png",
+        "id": 1960,
+        "name": "Evasive Mirror",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 1,
+        "tier": 2
+    }
+]

@@ -1,27 +1,29 @@
-{
-    "description": "Deal increased strike damage to crippled foes. Justice's passive effect cripples enemies.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "percent": 10,
-            "text": "Damage Increase",
-            "type": "Percent"
-        },
-        {
-            "apply_count": 1,
-            "description": "Movement speed decreased by 50%; stacks duration.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-            "status": "Crippled",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/31A6960A7357773373CA55D61FC1A62C532EE621/1012391.png",
-    "id": 1835,
-    "name": "Zealot's Aggression",
-    "order": 1,
-    "slot": "Major",
-    "specialization": 27,
-    "tier": 2
-}
+[
+    {
+        "description": "Deal increased strike damage to crippled foes. Justice's passive effect cripples enemies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 10,
+                "text": "Damage Increase",
+                "type": "Percent"
+            },
+            {
+                "apply_count": 1,
+                "description": "Movement speed decreased by 50%; stacks duration.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "Crippled",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/31A6960A7357773373CA55D61FC1A62C532EE621/1012391.png",
+        "id": 1835,
+        "name": "Zealot's Aggression",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 27,
+        "tier": 2
+    }
+]

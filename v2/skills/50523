@@ -1,17 +1,19 @@
-{
-    "chat_link": "[&BlvFAAA=]",
-    "description": "Leap attack that knocks down foes.",
-    "facts": [
-        {
-            "finisher_type": "Leap",
-            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
-            "percent": 100,
-            "text": "Combo Finisher",
-            "type": "ComboFinisher"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
-    "id": 50523,
-    "name": "Pulverizing Leap"
-}
+[
+    {
+        "chat_link": "[&BlvFAAA=]",
+        "description": "Leap attack that knocks down foes.",
+        "facts": [
+            {
+                "finisher_type": "Leap",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "Combo Finisher",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 50523,
+        "name": "Pulverizing Leap"
+    }
+]

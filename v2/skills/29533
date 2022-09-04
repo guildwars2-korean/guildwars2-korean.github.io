@@ -1,82 +1,84 @@
-{
-    "attunement": "Fire",
-    "chat_link": "[&Bl1zAAA=]",
-    "description": "Release a fiery torrent that burns enemies.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 30
-        },
-        {
-            "dmg_multiplier": 0.66,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 3,
-            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-            "status": "Burning",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "distance": 180,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "duration": 8,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Duration",
-            "type": "Time"
-        },
-        {
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-            "text": "Interval",
-            "type": "Time"
-        },
-        {
-            "distance": 600,
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Distance",
-            "type": "Distance"
-        },
-        {
-            "field_type": "Fire",
-            "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-            "text": "Combo Field",
-            "type": "ComboField"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/9E33D36DB142E4F9C7C21CA9CD06D76B000FE506/1029999.png",
-    "id": 29533,
-    "name": "Wildfire",
-    "professions": [
-        "Elementalist"
-    ],
-    "slot": "Weapon_5",
-    "specialization": 48,
-    "traited_facts": [
-        {
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "overrides": 4,
-            "requires_trait": 1510,
-            "text": "Duration",
-            "type": "Time"
-        }
-    ],
-    "type": "Weapon",
-    "weapon_type": "Warhorn"
-}
+[
+    {
+        "attunement": "Fire",
+        "chat_link": "[&Bl1zAAA=]",
+        "description": "Release a fiery torrent that burns enemies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "dmg_multiplier": 0.66,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "Burning",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Duration",
+                "type": "Time"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "Interval",
+                "type": "Time"
+            },
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Distance",
+                "type": "Distance"
+            },
+            {
+                "field_type": "Fire",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "Combo Field",
+                "type": "ComboField"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/9E33D36DB142E4F9C7C21CA9CD06D76B000FE506/1029999.png",
+        "id": 29533,
+        "name": "Wildfire",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_5",
+        "specialization": 48,
+        "traited_facts": [
+            {
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "overrides": 4,
+                "requires_trait": 1510,
+                "text": "Duration",
+                "type": "Time"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Warhorn"
+    }
+]

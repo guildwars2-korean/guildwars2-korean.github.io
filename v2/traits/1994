@@ -1,66 +1,68 @@
-{
-    "description": "Gain access to physical skills. Your maximum endurance threshold is increased, while Steal is replaced with Swipe.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Endurance Threshold Increase",
-            "type": "Number",
-            "value": 50
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/0CDF226340671D9E0BAA3BBD6904CAD9DB6780C2/1058555.png",
-    "id": 1994,
-    "name": "Physical Supremacy",
-    "order": 0,
-    "skills": [
-        {
-            "chat_link": "[&BvfWAAA=]",
-            "description": "Shadowstep to your foe and steal from them.",
-            "facts": [
-                {
-                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                    "text": "Range",
-                    "type": "Range",
-                    "value": 600
-                },
-                {
-                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-                    "text": "Recharge",
-                    "type": "Recharge",
-                    "value": 25
-                },
-                {
-                    "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
-                    "text": "Unblockable",
-                    "type": "NoData"
-                }
-            ],
-            "flags": [],
-            "icon": "https://render.guildwars2.com/file/07B49B4F1BB7613332987FBCEC39E24A0EAD01F6/2128021.png",
-            "id": 55031,
-            "name": "Swipe",
-            "traited_facts": [
-                {
-                    "apply_count": 5,
-                    "description": "Damage and condition damage taken are increased; stacks intensity.",
-                    "duration": 10,
-                    "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-                    "requires_trait": 1169,
-                    "status": "Vulnerability",
-                    "text": "Apply Buff/Condition",
-                    "type": "Buff"
-                },
-                {
-                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                    "requires_trait": 1163,
-                    "text": "Number of Allied Targets",
-                    "type": "Number",
-                    "value": 5
-                }
-            ]
-        }
-    ],
-    "slot": "Minor",
-    "specialization": 7,
-    "tier": 1
-}
+[
+    {
+        "description": "Gain access to physical skills. Your maximum endurance threshold is increased, while Steal is replaced with Swipe.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Endurance Threshold Increase",
+                "type": "Number",
+                "value": 50
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/0CDF226340671D9E0BAA3BBD6904CAD9DB6780C2/1058555.png",
+        "id": 1994,
+        "name": "Physical Supremacy",
+        "order": 0,
+        "skills": [
+            {
+                "chat_link": "[&BvfWAAA=]",
+                "description": "Shadowstep to your foe and steal from them.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                        "text": "Range",
+                        "type": "Range",
+                        "value": 600
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                        "text": "Recharge",
+                        "type": "Recharge",
+                        "value": 25
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
+                        "text": "Unblockable",
+                        "type": "NoData"
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/07B49B4F1BB7613332987FBCEC39E24A0EAD01F6/2128021.png",
+                "id": 55031,
+                "name": "Swipe",
+                "traited_facts": [
+                    {
+                        "apply_count": 5,
+                        "description": "Damage and condition damage taken are increased; stacks intensity.",
+                        "duration": 10,
+                        "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                        "requires_trait": 1169,
+                        "status": "Vulnerability",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "requires_trait": 1163,
+                        "text": "Number of Allied Targets",
+                        "type": "Number",
+                        "value": 5
+                    }
+                ]
+            }
+        ],
+        "slot": "Minor",
+        "specialization": 7,
+        "tier": 1
+    }
+]

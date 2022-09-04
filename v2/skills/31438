@@ -1,38 +1,40 @@
-{
-    "chat_link": "[&Bs56AAA=]",
-    "description": "Throw energy at your target, slowing them.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 900
-        },
-        {
-            "dmg_multiplier": 1.5,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "Skills and actions are slower.",
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
-            "status": "Slow",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/6DB27A68383B91A6E34ABA04BDF2402342B95EF8/961414.png",
-    "id": 31438,
-    "name": "Essence Sap",
-    "professions": [],
-    "slot": "Profession_2",
-    "type": "Profession",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&Bs56AAA=]",
+        "description": "Throw energy at your target, slowing them.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "dmg_multiplier": 1.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Skills and actions are slower.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+                "status": "Slow",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/6DB27A68383B91A6E34ABA04BDF2402342B95EF8/961414.png",
+        "id": 31438,
+        "name": "Essence Sap",
+        "professions": [],
+        "slot": "Profession_2",
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

@@ -1,53 +1,55 @@
-{
-    "chat_link": "[&BvIwAAA=]",
-    "description": "Retreat backward, leaving a blinding trail in your wake.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 18
-        },
-        {
-            "dmg_multiplier": 0.2,
-            "hit_count": 7,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "Movement speed decreased by 50%; stacks duration.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-            "status": "Crippled",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Next outgoing attack misses; stacks duration.",
-            "duration": 6,
-            "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
-            "status": "Blinded",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/800AA1369302797053E8E1EA3F95F63DF3EB2202/103133.png",
-    "id": 12530,
-    "name": "Ink Blast",
-    "professions": [
-        "Ranger"
-    ],
-    "slot": "Weapon_5",
-    "type": "Weapon",
-    "weapon_type": "Speargun"
-}
+[
+    {
+        "chat_link": "[&BvIwAAA=]",
+        "description": "Retreat backward, leaving a blinding trail in your wake.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 18
+            },
+            {
+                "dmg_multiplier": 0.2,
+                "hit_count": 7,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Movement speed decreased by 50%; stacks duration.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "Crippled",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Next outgoing attack misses; stacks duration.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "status": "Blinded",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/800AA1369302797053E8E1EA3F95F63DF3EB2202/103133.png",
+        "id": 12530,
+        "name": "Ink Blast",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Weapon_5",
+        "type": "Weapon",
+        "weapon_type": "Speargun"
+    }
+]

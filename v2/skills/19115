@@ -1,83 +1,85 @@
-{
-    "categories": [
-        "Mark"
-    ],
-    "chat_link": "[&BqtKAAA=]",
-    "description": "Mark. Inscribe a mark that inflicts fear on foes when triggered.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 1200
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 18
-        },
-        {
-            "dmg_multiplier": 3,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "Involuntary retreat; unable to act; stacks duration.",
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/30307A6E766D74B6EB09EDA12A4A2DE50E4D76F4/102869.png",
-            "status": "Fear",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "distance": 240,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Blast Radius",
-            "type": "Number",
-            "value": 300
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        }
-    ],
-    "flags": [
-        "GroundTargeted",
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/0D7FDAA90B6C043A31333E630C55C8547CC09EC2/103821.png",
-    "id": 19115,
-    "name": "Reaper's Mark",
-    "professions": [
-        "Necromancer"
-    ],
-    "slot": "Weapon_5",
-    "traited_facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "percent": 3,
-            "requires_trait": 898,
-            "text": "Life Force",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
-            "requires_trait": 898,
-            "text": "Unblockable",
-            "type": "NoData"
-        }
-    ],
-    "type": "Weapon",
-    "weapon_type": "Staff"
-}
+[
+    {
+        "categories": [
+            "Mark"
+        ],
+        "chat_link": "[&BqtKAAA=]",
+        "description": "Mark. Inscribe a mark that inflicts fear on foes when triggered.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 18
+            },
+            {
+                "dmg_multiplier": 3,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Involuntary retreat; unable to act; stacks duration.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/30307A6E766D74B6EB09EDA12A4A2DE50E4D76F4/102869.png",
+                "status": "Fear",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Blast Radius",
+                "type": "Number",
+                "value": 300
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "GroundTargeted",
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/0D7FDAA90B6C043A31333E630C55C8547CC09EC2/103821.png",
+        "id": 19115,
+        "name": "Reaper's Mark",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Weapon_5",
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 3,
+                "requires_trait": 898,
+                "text": "Life Force",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
+                "requires_trait": 898,
+                "text": "Unblockable",
+                "type": "NoData"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Staff"
+    }
+]

@@ -1,23 +1,25 @@
-{
-    "chat_link": "[&BmKyAAA=]",
-    "description": "Return to your starting point and leave behind a clone at your previous location.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 1200
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/4207F22EF8410BC56062A40BA839287CC327AA6C/1770517.png",
-    "id": 45666,
-    "name": "Mirage Retreat",
-    "professions": [
-        "Mesmer"
-    ],
-    "slot": "Utility",
-    "specialization": 59,
-    "type": "Utility",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BmKyAAA=]",
+        "description": "Return to your starting point and leave behind a clone at your previous location.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 1200
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/4207F22EF8410BC56062A40BA839287CC327AA6C/1770517.png",
+        "id": 45666,
+        "name": "Mirage Retreat",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Utility",
+        "specialization": 59,
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

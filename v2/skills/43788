@@ -1,66 +1,68 @@
-{
-    "chat_link": "[&BgyrAAA=]",
-    "description": "Calls lightning to a small area.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 1200
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 15
-        },
-        {
-            "dmg_multiplier": 0.5,
-            "hit_count": 5,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 5,
-            "description": "Damage and condition damage taken are increased; stacks intensity.",
-            "duration": 6,
-            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-            "status": "Vulnerability",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "distance": 180,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Pulses",
-            "type": "Number",
-            "value": 5
-        }
-    ],
-    "flags": [
-        "GroundTargeted",
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/731C0827CBB7E4015F3C45B4C49C58B42416BFA8/1770576.png",
-    "id": 43788,
-    "name": "Call Lightning",
-    "professions": [
-        "Ranger"
-    ],
-    "slot": "Profession_1",
-    "specialization": 55,
-    "type": "Profession",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BgyrAAA=]",
+        "description": "Calls lightning to a small area.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 15
+            },
+            {
+                "dmg_multiplier": 0.5,
+                "hit_count": 5,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 5,
+                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "Vulnerability",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Pulses",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "GroundTargeted",
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/731C0827CBB7E4015F3C45B4C49C58B42416BFA8/1770576.png",
+        "id": 43788,
+        "name": "Call Lightning",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Profession_1",
+        "specialization": 55,
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

@@ -1,59 +1,61 @@
-{
-    "categories": [
-        "Physical"
-    ],
-    "chat_link": "[&BpR4AAA=]",
-    "description": "Physical. Strike your enemy multiple times. If all attacks hit, gain access to Palm Strike.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 130
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 20
-        },
-        {
-            "dmg_multiplier": 0.75,
-            "hit_count": 5,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "Damage and condition damage taken are increased; stacks intensity.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-            "status": "Vulnerability",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "You can use Palm Strike.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/3B267195CECDF50705092272D0190CA9A391B507/1058631.png",
-            "status": "Palm Strike",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/3B267195CECDF50705092272D0190CA9A391B507/1058631.png",
-    "id": 30868,
-    "name": "Fist Flurry",
-    "professions": [
-        "Thief"
-    ],
-    "slot": "Utility",
-    "specialization": 7,
-    "type": "Utility",
-    "weapon_type": "None"
-}
+[
+    {
+        "categories": [
+            "Physical"
+        ],
+        "chat_link": "[&BpR4AAA=]",
+        "description": "Physical. Strike your enemy multiple times. If all attacks hit, gain access to Palm Strike.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "dmg_multiplier": 0.75,
+                "hit_count": 5,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "Vulnerability",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "You can use Palm Strike.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/3B267195CECDF50705092272D0190CA9A391B507/1058631.png",
+                "status": "Palm Strike",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/3B267195CECDF50705092272D0190CA9A391B507/1058631.png",
+        "id": 30868,
+        "name": "Fist Flurry",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Utility",
+        "specialization": 7,
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

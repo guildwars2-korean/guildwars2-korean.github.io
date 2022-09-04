@@ -1,69 +1,71 @@
-{
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 3
-        },
-        {
-            "apply_count": 1,
-            "description": "Kalla's legend inspires you, increasing all damage dealt; stacks intensity.",
-            "duration": 8,
-            "icon": "https://render.guildwars2.com/file/4DDE151C71EDB6120E3454036C4C3504EADB02D8/1770161.png",
-            "status": "Kalla's Fervor",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "distance": 240,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Allied Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "apply_count": 1,
-            "description": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
-            "status": "레졸루션",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
-            "status": "리제네레이션",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/14C869BDBD96052543726D78CCBA241DC20F9308/1769990.png",
-    "id": 2120,
-    "name": "Wrought-Iron Will",
-    "order": 2,
-    "slot": "Major",
-    "specialization": 63,
-    "tier": 1,
-    "traited_facts": [
-        {
-            "apply_count": 1,
-            "description": "Kalla's legend inspires you, increasing all damage dealt; stacks intensity.",
-            "duration": 12,
-            "icon": "https://render.guildwars2.com/file/4DDE151C71EDB6120E3454036C4C3504EADB02D8/1770161.png",
-            "overrides": 1,
-            "requires_trait": 2100,
-            "status": "Improved Kalla's Fervor",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ]
-}
+[
+    {
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 3
+            },
+            {
+                "apply_count": 1,
+                "description": "Kalla's legend inspires you, increasing all damage dealt; stacks intensity.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/4DDE151C71EDB6120E3454036C4C3504EADB02D8/1770161.png",
+                "status": "Kalla's Fervor",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Allied Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+                "status": "레졸루션",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "status": "리제네레이션",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/14C869BDBD96052543726D78CCBA241DC20F9308/1769990.png",
+        "id": 2120,
+        "name": "Wrought-Iron Will",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 63,
+        "tier": 1,
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "Kalla's legend inspires you, increasing all damage dealt; stacks intensity.",
+                "duration": 12,
+                "icon": "https://render.guildwars2.com/file/4DDE151C71EDB6120E3454036C4C3504EADB02D8/1770161.png",
+                "overrides": 1,
+                "requires_trait": 2100,
+                "status": "Improved Kalla's Fervor",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ]
+    }
+]

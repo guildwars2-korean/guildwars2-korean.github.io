@@ -1,28 +1,30 @@
-{
-    "description": "Your active attunement is now applied to your main hand, with the old attunement moving to your off hand. Attunement recharges are reduced. Gain access to <c=@abilitytype>Dual Attack</c> and the <c=@abilitytype>Stance</c> utility types.",
-    "facts": [
-        {
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-            "text": "Recharge Time",
-            "type": "Time"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/B0707EB06310175FC0CAB50C68C113F4D5B3912E/1769924.png",
-    "id": 2109,
-    "name": "Weaver",
-    "order": 0,
-    "slot": "Minor",
-    "specialization": 56,
-    "tier": 1,
-    "traited_facts": [
-        {
-            "duration": 3,
-            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-            "overrides": 0,
-            "requires_trait": 2004,
-            "text": "Recharge Time",
-            "type": "Time"
-        }
-    ]
-}
+[
+    {
+        "description": "Your active attunement is now applied to your main hand, with the old attunement moving to your off hand. Attunement recharges are reduced. Gain access to <c=@abilitytype>Dual Attack</c> and the <c=@abilitytype>Stance</c> utility types.",
+        "facts": [
+            {
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "text": "Recharge Time",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/B0707EB06310175FC0CAB50C68C113F4D5B3912E/1769924.png",
+        "id": 2109,
+        "name": "Weaver",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 56,
+        "tier": 1,
+        "traited_facts": [
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "overrides": 0,
+                "requires_trait": 2004,
+                "text": "Recharge Time",
+                "type": "Time"
+            }
+        ]
+    }
+]

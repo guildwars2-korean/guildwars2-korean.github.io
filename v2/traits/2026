@@ -1,51 +1,53 @@
-{
-    "description": "Reduces duration of movement-impairing conditions. Additional reduction while in reaper's shroud.",
-    "facts": [
-        {
-            "apply_count": 1,
-            "description": "Unable to move; stacks duration.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-            "status": "Immobile",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Movement speed decreased by 50%; stacks duration.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-            "status": "Crippled",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-            "status": "Chilled",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "percent": 33,
-            "text": "Duration Decreased",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "percent": 66,
-            "text": "Duration Decreased in Reaper's Shroud",
-            "type": "Percent"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/03263B08082BDC390C0C38019CFF1F73B8CE077E/1012572.png",
-    "id": 2026,
-    "name": "Relentless Pursuit",
-    "order": 2,
-    "slot": "Major",
-    "specialization": 34,
-    "tier": 1
-}
+[
+    {
+        "description": "Reduces duration of movement-impairing conditions. Additional reduction while in reaper's shroud.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "Unable to move; stacks duration.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "Immobile",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Movement speed decreased by 50%; stacks duration.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "Crippled",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "status": "Chilled",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "percent": 33,
+                "text": "Duration Decreased",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "percent": 66,
+                "text": "Duration Decreased in Reaper's Shroud",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/03263B08082BDC390C0C38019CFF1F73B8CE077E/1012572.png",
+        "id": 2026,
+        "name": "Relentless Pursuit",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 34,
+        "tier": 1
+    }
+]

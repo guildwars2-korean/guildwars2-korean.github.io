@@ -1,27 +1,29 @@
-{
-    "description": "Gain might when you gain fury.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 2
-        },
-        {
-            "apply_count": 3,
-            "description": "가하는 데미지가 증가한다(강도 중첩).",
-            "duration": 8,
-            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-            "status": "마이트",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/0BD04FC849006C57DA6C42C00F03C00D5DD70C72/1012726.png",
-    "id": 1209,
-    "name": "Assassin's Fury",
-    "order": 0,
-    "slot": "Major",
-    "specialization": 35,
-    "tier": 1
-}
+[
+    {
+        "description": "Gain might when you gain fury.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 2
+            },
+            {
+                "apply_count": 3,
+                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/0BD04FC849006C57DA6C42C00F03C00D5DD70C72/1012726.png",
+        "id": 1209,
+        "name": "Assassin's Fury",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 35,
+        "tier": 1
+    }
+]

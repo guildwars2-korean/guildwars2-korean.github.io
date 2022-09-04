@@ -1,16 +1,18 @@
-{
-    "chat_link": "[&BgMGAAA=]",
-    "description": "A lunging melee attack.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 130
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/4CF36C6EF1F0FF18484518D57233E1AFEA3B3669/103045.png",
-    "id": 1539,
-    "name": "Stab"
-}
+[
+    {
+        "chat_link": "[&BgMGAAA=]",
+        "description": "A lunging melee attack.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 130
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/4CF36C6EF1F0FF18484518D57233E1AFEA3B3669/103045.png",
+        "id": 1539,
+        "name": "Stab"
+    }
+]

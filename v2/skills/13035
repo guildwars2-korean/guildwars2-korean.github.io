@@ -1,37 +1,39 @@
-{
-    "categories": [
-        "Trick"
-    ],
-    "chat_link": "[&BusyAAA=]",
-    "description": "Trick. Evade backward to regenerate initiative and recover from crippled, chilled, and immobilized.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 35
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-            "text": "StunBreak",
-            "type": "StunBreak",
-            "value": true
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Initiative Gain",
-            "type": "Number",
-            "value": 6
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/FD592C06013BE57465909F062937D6B6FC5DD407/104072.png",
-    "id": 13035,
-    "name": "Roll for Initiative",
-    "professions": [
-        "Thief"
-    ],
-    "slot": "Utility",
-    "type": "Utility",
-    "weapon_type": "None"
-}
+[
+    {
+        "categories": [
+            "Trick"
+        ],
+        "chat_link": "[&BusyAAA=]",
+        "description": "Trick. Evade backward to regenerate initiative and recover from crippled, chilled, and immobilized.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 35
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                "text": "StunBreak",
+                "type": "StunBreak",
+                "value": true
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Initiative Gain",
+                "type": "Number",
+                "value": 6
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/FD592C06013BE57465909F062937D6B6FC5DD407/104072.png",
+        "id": 13035,
+        "name": "Roll for Initiative",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

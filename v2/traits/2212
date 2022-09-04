@@ -1,21 +1,23 @@
-{
-    "description": "<c=@abilitytype>Bladesongs</c> grant aegis.",
-    "facts": [
-        {
-            "apply_count": 1,
-            "description": "다음으로 받는 공격을 막는다(지속시간 중첩).",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
-            "status": "이지스",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/72A0FCF7DE6E277E1160AA50F7C1E30BF2394CA0/2479326.png",
-    "id": 2212,
-    "name": "Bladeturn Refrain",
-    "order": 0,
-    "slot": "Major",
-    "specialization": 66,
-    "tier": 1
-}
+[
+    {
+        "description": "<c=@abilitytype>Bladesongs</c> grant aegis.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "다음으로 받는 공격을 막는다(지속시간 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
+                "status": "이지스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/72A0FCF7DE6E277E1160AA50F7C1E30BF2394CA0/2479326.png",
+        "id": 2212,
+        "name": "Bladeturn Refrain",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 66,
+        "tier": 1
+    }
+]

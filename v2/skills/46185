@@ -1,69 +1,71 @@
-{
-    "attunement": "Fire",
-    "chat_link": "[&Bmm0AAA=]",
-    "description": "Gain a shield of earth, then release a molten burst from your location.",
-    "dual_attunement": "Earth",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 12
-        },
-        {
-            "apply_count": 1,
-            "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-            "status": "스태빌리티",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "dmg_multiplier": 1.33,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 8,
-            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-            "status": "Burning",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
-            "target": "Healing",
-            "text": "Barrier",
-            "type": "AttributeAdjust",
-            "value": 1418
-        },
-        {
-            "distance": 240,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/1D2B6C0E62CDD259A2264DC5D21419441061D4A2/1770384.png",
-    "id": 46185,
-    "name": "Molten Burst",
-    "professions": [
-        "Elementalist"
-    ],
-    "slot": "Weapon_3",
-    "specialization": 56,
-    "type": "Weapon",
-    "weapon_type": "Trident"
-}
+[
+    {
+        "attunement": "Fire",
+        "chat_link": "[&Bmm0AAA=]",
+        "description": "Gain a shield of earth, then release a molten burst from your location.",
+        "dual_attunement": "Earth",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 12
+            },
+            {
+                "apply_count": 1,
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "status": "스태빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "dmg_multiplier": 1.33,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "Burning",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "Barrier",
+                "type": "AttributeAdjust",
+                "value": 1418
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D2B6C0E62CDD259A2264DC5D21419441061D4A2/1770384.png",
+        "id": 46185,
+        "name": "Molten Burst",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_3",
+        "specialization": 56,
+        "type": "Weapon",
+        "weapon_type": "Trident"
+    }
+]

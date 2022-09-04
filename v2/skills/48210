@@ -1,16 +1,18 @@
-{
-    "chat_link": "[&BlK8AAA=]",
-    "description": "Dhuum slams his scythe on the ground, creating a soul-shattering explosion after which he pulls targets toward him. Targets hit by the initial attack will have their souls ripped out of their bodies. Failure to reunite body and soul means death.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 4000
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/5A7A35F3F260F09FE5C54111FBC219934070A00A/103946.png",
-    "id": 48210,
-    "name": "Greater Death Mark"
-}
+[
+    {
+        "chat_link": "[&BlK8AAA=]",
+        "description": "Dhuum slams his scythe on the ground, creating a soul-shattering explosion after which he pulls targets toward him. Targets hit by the initial attack will have their souls ripped out of their bodies. Failure to reunite body and soul means death.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 4000
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/5A7A35F3F260F09FE5C54111FBC219934070A00A/103946.png",
+        "id": 48210,
+        "name": "Greater Death Mark"
+    }
+]

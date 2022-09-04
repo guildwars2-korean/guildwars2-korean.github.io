@@ -1,64 +1,66 @@
-{
-    "chat_link": "[&BoAjAAA=]",
-    "description": "Breathe magical flames that damage foes and cure conditions on allies. Inflicts burning on the final attack.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 400
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 15
-        },
-        {
-            "dmg_multiplier": 0.4,
-            "hit_count": 10,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 3
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Pulses",
-            "type": "Number",
-            "value": 10
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Conditions Removed",
-            "type": "Number",
-            "value": 1
-        },
-        {
-            "apply_count": 2,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-            "status": "Burning",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/FC0E030F7E67C4C62F0A6717B9F1B80012A6F1C7/103127.png",
-    "id": 9088,
-    "name": "Cleansing Flame",
-    "professions": [
-        "Guardian"
-    ],
-    "slot": "Weapon_5",
-    "type": "Weapon",
-    "weapon_type": "Torch"
-}
+[
+    {
+        "chat_link": "[&BoAjAAA=]",
+        "description": "Breathe magical flames that damage foes and cure conditions on allies. Inflicts burning on the final attack.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 400
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 15
+            },
+            {
+                "dmg_multiplier": 0.4,
+                "hit_count": 10,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Pulses",
+                "type": "Number",
+                "value": 10
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Conditions Removed",
+                "type": "Number",
+                "value": 1
+            },
+            {
+                "apply_count": 2,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "Burning",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/FC0E030F7E67C4C62F0A6717B9F1B80012A6F1C7/103127.png",
+        "id": 9088,
+        "name": "Cleansing Flame",
+        "professions": [
+            "Guardian"
+        ],
+        "slot": "Weapon_5",
+        "type": "Weapon",
+        "weapon_type": "Torch"
+    }
+]

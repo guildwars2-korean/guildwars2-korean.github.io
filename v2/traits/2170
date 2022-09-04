@@ -1,81 +1,83 @@
-{
-    "description": "Gain barrier when activating a <c=@abilitytype>Stance</c>. Activate Lesser Stone Resonance when struck while below the health threshold.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 70
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "percent": 50,
-            "text": "Health Threshold",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
-            "target": "Healing",
-            "text": "Barrier",
-            "type": "AttributeAdjust",
-            "value": 680
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/BE23D1F64BA73B9837C87A2059EA531BBE65D52B/1769920.png",
-    "id": 2170,
-    "name": "Bolstered Elements",
-    "order": 2,
-    "skills": [
-        {
-            "categories": [
-                "Stance"
-            ],
-            "chat_link": "[&BqGnAAA=]",
-            "description": "Stance. Enter an earthen state, gaining barrier periodically over the course of the stance.",
-            "facts": [
-                {
-                    "apply_count": 1,
-                    "description": "Periodically gain shield.",
-                    "duration": 5,
-                    "icon": "https://render.guildwars2.com/file/FD3E5345025CBBB73C3F04E1997EDCBDD09C08F3/1770329.png",
-                    "status": "Stone Resonance",
-                    "text": "Apply Buff/Condition",
-                    "type": "Buff"
-                },
-                {
-                    "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
-                    "target": "Healing",
-                    "text": "Barrier",
-                    "type": "AttributeAdjust",
-                    "value": 1069
-                },
-                {
-                    "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
-                    "target": "Healing",
-                    "text": "Barrier",
-                    "type": "AttributeAdjust",
-                    "value": 535
-                },
-                {
-                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                    "text": "Pulses",
-                    "type": "Number",
-                    "value": 5
-                },
-                {
-                    "duration": 1,
-                    "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                    "text": "Interval",
-                    "type": "Time"
-                }
-            ],
-            "flags": [],
-            "icon": "https://render.guildwars2.com/file/FD3E5345025CBBB73C3F04E1997EDCBDD09C08F3/1770329.png",
-            "id": 42913,
-            "name": "Lesser Stone Resonance"
-        }
-    ],
-    "slot": "Major",
-    "specialization": 56,
-    "tier": 2
-}
+[
+    {
+        "description": "Gain barrier when activating a <c=@abilitytype>Stance</c>. Activate Lesser Stone Resonance when struck while below the health threshold.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 70
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 50,
+                "text": "Health Threshold",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "Barrier",
+                "type": "AttributeAdjust",
+                "value": 680
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/BE23D1F64BA73B9837C87A2059EA531BBE65D52B/1769920.png",
+        "id": 2170,
+        "name": "Bolstered Elements",
+        "order": 2,
+        "skills": [
+            {
+                "categories": [
+                    "Stance"
+                ],
+                "chat_link": "[&BqGnAAA=]",
+                "description": "Stance. Enter an earthen state, gaining barrier periodically over the course of the stance.",
+                "facts": [
+                    {
+                        "apply_count": 1,
+                        "description": "Periodically gain shield.",
+                        "duration": 5,
+                        "icon": "https://render.guildwars2.com/file/FD3E5345025CBBB73C3F04E1997EDCBDD09C08F3/1770329.png",
+                        "status": "Stone Resonance",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                        "target": "Healing",
+                        "text": "Barrier",
+                        "type": "AttributeAdjust",
+                        "value": 1069
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                        "target": "Healing",
+                        "text": "Barrier",
+                        "type": "AttributeAdjust",
+                        "value": 535
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                        "text": "Pulses",
+                        "type": "Number",
+                        "value": 5
+                    },
+                    {
+                        "duration": 1,
+                        "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                        "text": "Interval",
+                        "type": "Time"
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/FD3E5345025CBBB73C3F04E1997EDCBDD09C08F3/1770329.png",
+                "id": 42913,
+                "name": "Lesser Stone Resonance"
+            }
+        ],
+        "slot": "Major",
+        "specialization": 56,
+        "tier": 2
+    }
+]

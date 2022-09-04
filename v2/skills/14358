@@ -1,40 +1,42 @@
-{
-    "categories": [],
-    "chat_link": "[&BhY4AAA=]",
-    "description": "Chain. Bash your foe.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 130
-        },
-        {
-            "dmg_multiplier": 0.9,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 3
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "flip_skill": 14384,
-    "icon": "https://render.guildwars2.com/file/C3BAD7D3D29FB64654985F0AB8FEA7713BE375E9/103178.png",
-    "id": 14358,
-    "name": "Hammer Swing",
-    "next_chain": 14384,
-    "professions": [
-        "Warrior"
-    ],
-    "slot": "Weapon_1",
-    "type": "Weapon",
-    "weapon_type": "Hammer"
-}
+[
+    {
+        "categories": [],
+        "chat_link": "[&BhY4AAA=]",
+        "description": "Chain. Bash your foe.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "dmg_multiplier": 0.9,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 14384,
+        "icon": "https://render.guildwars2.com/file/C3BAD7D3D29FB64654985F0AB8FEA7713BE375E9/103178.png",
+        "id": 14358,
+        "name": "Hammer Swing",
+        "next_chain": 14384,
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Weapon_1",
+        "type": "Weapon",
+        "weapon_type": "Hammer"
+    }
+]

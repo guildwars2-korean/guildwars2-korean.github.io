@@ -1,8 +1,10 @@
-{
-    "chat_link": "[&BondAAA=]",
-    "description": "",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/E4296B04B9E4E491E45C0A9C080C96E83824AE32/1862657.png",
-    "id": 56713,
-    "name": "Bonus Inspiration"
-}
+[
+    {
+        "chat_link": "[&BondAAA=]",
+        "description": "",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/E4296B04B9E4E491E45C0A9C080C96E83824AE32/1862657.png",
+        "id": 56713,
+        "name": "Bonus Inspiration"
+    }
+]

@@ -1,58 +1,60 @@
-{
-    "chat_link": "[&BpW/AAA=]",
-    "description": "Release purifying vapors to cleanse conditions from allies near you at each interval.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 15
-        },
-        {
-            "duration": 3,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Duration",
-            "type": "Time"
-        },
-        {
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-            "text": "Interval",
-            "type": "Time"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Conditions Removed per Pulse",
-            "type": "Number",
-            "value": 1
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Pulses",
-            "type": "Number",
-            "value": 4
-        },
-        {
-            "distance": 300,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "field_type": "Water",
-            "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-            "text": "Combo Field",
-            "type": "ComboField"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/4A5B72C612F4EEFE57E20E020EA82ED0219952E9/1983629.png",
-    "id": 49045,
-    "name": "Cleansing Field",
-    "professions": [
-        "Engineer"
-    ],
-    "slot": "Weapon_3",
-    "type": "Bundle",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BpW/AAA=]",
+        "description": "Release purifying vapors to cleanse conditions from allies near you at each interval.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 15
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Duration",
+                "type": "Time"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "Interval",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Conditions Removed per Pulse",
+                "type": "Number",
+                "value": 1
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Pulses",
+                "type": "Number",
+                "value": 4
+            },
+            {
+                "distance": 300,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "field_type": "Water",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "Combo Field",
+                "type": "ComboField"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/4A5B72C612F4EEFE57E20E020EA82ED0219952E9/1983629.png",
+        "id": 49045,
+        "name": "Cleansing Field",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Weapon_3",
+        "type": "Bundle",
+        "weapon_type": "None"
+    }
+]

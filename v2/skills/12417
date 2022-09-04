@@ -1,38 +1,40 @@
-{
-    "chat_link": "[&BoEwAAA=]",
-    "description": "Summon a wurm to fight for you.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 60
-        },
-        {
-            "duration": 45,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Duration",
-            "type": "Time"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/A5E0D8CC61B209520261FC07B8E2AC40F9CFAF7A/103969.png",
-    "id": 12417,
-    "name": "Call Wurm",
-    "professions": [
-        "Guardian",
-        "Warrior",
-        "Engineer",
-        "Ranger",
-        "Thief",
-        "Elementalist",
-        "Mesmer",
-        "Necromancer"
-    ],
-    "slot": "Utility",
-    "toolbelt_skill": 12438,
-    "type": "Utility",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BoEwAAA=]",
+        "description": "Summon a wurm to fight for you.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 60
+            },
+            {
+                "duration": 45,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Duration",
+                "type": "Time"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/A5E0D8CC61B209520261FC07B8E2AC40F9CFAF7A/103969.png",
+        "id": 12417,
+        "name": "Call Wurm",
+        "professions": [
+            "Guardian",
+            "Warrior",
+            "Engineer",
+            "Ranger",
+            "Thief",
+            "Elementalist",
+            "Mesmer",
+            "Necromancer"
+        ],
+        "slot": "Utility",
+        "toolbelt_skill": 12438,
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

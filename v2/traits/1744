@@ -1,63 +1,65 @@
-{
-    "description": "Damaging conditions you apply last longer.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "percent": 10,
-            "text": "Duration Increase",
-            "type": "Percent"
-        },
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-            "status": "Bleeding",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-            "status": "Burning",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Damage received on skill activation; stacks intensity.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-            "status": "Confusion",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-            "status": "Poisoned",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-            "status": "Torment",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/55BD4591B1B25C2151B7C804C56E05EEA24FEA17/1012677.png",
-    "id": 1744,
-    "name": "Yearning Empowerment",
-    "order": 0,
-    "slot": "Minor",
-    "specialization": 14,
-    "tier": 3
-}
+[
+    {
+        "description": "Damaging conditions you apply last longer.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "percent": 10,
+                "text": "Duration Increase",
+                "type": "Percent"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "Bleeding",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "Burning",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Damage received on skill activation; stacks intensity.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                "status": "Confusion",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "status": "Poisoned",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "status": "Torment",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/55BD4591B1B25C2151B7C804C56E05EEA24FEA17/1012677.png",
+        "id": 1744,
+        "name": "Yearning Empowerment",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 14,
+        "tier": 3
+    }
+]

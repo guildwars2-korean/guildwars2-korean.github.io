@@ -1,8 +1,10 @@
-{
-    "chat_link": "[&BpKGAAA=]",
-    "description": "",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/93A3056DB159317C28972799036140B39A77009E/1377824.png",
-    "id": 34450,
-    "name": "Unstable Blood Magic"
-}
+[
+    {
+        "chat_link": "[&BpKGAAA=]",
+        "description": "",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/93A3056DB159317C28972799036140B39A77009E/1377824.png",
+        "id": 34450,
+        "name": "Unstable Blood Magic"
+    }
+]

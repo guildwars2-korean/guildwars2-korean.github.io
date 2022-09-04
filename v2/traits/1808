@@ -1,21 +1,23 @@
-{
-    "description": "Your first attack when entering combat applies vulnerability. This ability is refreshed when you use an elite skill.",
-    "facts": [
-        {
-            "apply_count": 5,
-            "description": "Damage and condition damage taken are increased; stacks intensity.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-            "status": "Vulnerability",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/B8463001BF6D75546EBB63E094720AF1EEA12E44/1029964.png",
-    "id": 1808,
-    "name": "Expose Defenses",
-    "order": 0,
-    "slot": "Minor",
-    "specialization": 15,
-    "tier": 1
-}
+[
+    {
+        "description": "Your first attack when entering combat applies vulnerability. This ability is refreshed when you use an elite skill.",
+        "facts": [
+            {
+                "apply_count": 5,
+                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "Vulnerability",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/B8463001BF6D75546EBB63E094720AF1EEA12E44/1029964.png",
+        "id": 1808,
+        "name": "Expose Defenses",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 15,
+        "tier": 1
+    }
+]

@@ -1,70 +1,72 @@
-{
-    "attunement": "Earth",
-    "chat_link": "[&Bjr1AAA=]",
-    "description": "Smash your hammer into the ground to bleed and immobilize your enemies.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 30
-        },
-        {
-            "distance": 240,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "dmg_multiplier": 1.3,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "Unable to move; stacks duration.",
-            "duration": 3,
-            "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-            "status": "Immobile",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 5,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-            "status": "Bleeding",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "finisher_type": "Blast",
-            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
-            "percent": 100,
-            "text": "Combo Finisher",
-            "type": "ComboFinisher"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/4DFDAF76F9FAADE9E47F93A497B7E62953EC2E47/2491589.png",
-    "id": 62778,
-    "name": "Ground Pound",
-    "professions": [
-        "Elementalist"
-    ],
-    "slot": "Weapon_5",
-    "specialization": 67,
-    "type": "Weapon",
-    "weapon_type": "Hammer"
-}
+[
+    {
+        "attunement": "Earth",
+        "chat_link": "[&Bjr1AAA=]",
+        "description": "Smash your hammer into the ground to bleed and immobilize your enemies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "dmg_multiplier": 1.3,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Unable to move; stacks duration.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "Immobile",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 5,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "Bleeding",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "finisher_type": "Blast",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "Combo Finisher",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/4DFDAF76F9FAADE9E47F93A497B7E62953EC2E47/2491589.png",
+        "id": 62778,
+        "name": "Ground Pound",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_5",
+        "specialization": 67,
+        "type": "Weapon",
+        "weapon_type": "Hammer"
+    }
+]

@@ -1,63 +1,65 @@
-{
-    "description": "Reduces recharge of staff skills. Daze nearby foes when you swap to staff.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 8
-        },
-        {
-            "apply_count": 1,
-            "description": "Unable to activate skills.",
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-            "status": "Daze",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "distance": 300,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Combat Only",
-            "type": "NoData"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-            "percent": 20,
-            "text": "Recharge Reduced",
-            "type": "Percent"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/65C6E74A0A26786A243867FB79C63DAF0650CEDB/1128532.png",
-    "id": 1935,
-    "name": "Primal Echoes",
-    "order": 2,
-    "slot": "Major",
-    "specialization": 5,
-    "tier": 1,
-    "traited_facts": [
-        {
-            "apply_count": 1,
-            "description": "Unable to activate skills.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-            "overrides": 1,
-            "requires_trait": 1070,
-            "status": "Daze",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ]
-}
+[
+    {
+        "description": "Reduces recharge of staff skills. Daze nearby foes when you swap to staff.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 8
+            },
+            {
+                "apply_count": 1,
+                "description": "Unable to activate skills.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+                "status": "Daze",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 300,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Combat Only",
+                "type": "NoData"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "percent": 20,
+                "text": "Recharge Reduced",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/65C6E74A0A26786A243867FB79C63DAF0650CEDB/1128532.png",
+        "id": 1935,
+        "name": "Primal Echoes",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 5,
+        "tier": 1,
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "Unable to activate skills.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+                "overrides": 1,
+                "requires_trait": 1070,
+                "status": "Daze",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ]
+    }
+]

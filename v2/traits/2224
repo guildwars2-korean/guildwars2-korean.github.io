@@ -1,33 +1,35 @@
-{
-    "description": "Gain energy and fury when you switch attunements. <c=@reminder>Energy can only be gained while in combat. </c>",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Energy Gain",
-            "type": "Number",
-            "value": 2
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Energy Gain",
-            "type": "Number",
-            "value": 3
-        },
-        {
-            "apply_count": 1,
-            "description": "Critical chance increased; stacks duration.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-            "status": "퓨리",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/FBE5C807BE540522A044043B040427A117AF38CF/2491521.png",
-    "id": 2224,
-    "name": "Energized Elements",
-    "order": 2,
-    "slot": "Major",
-    "specialization": 67,
-    "tier": 1
-}
+[
+    {
+        "description": "Gain energy and fury when you switch attunements. <c=@reminder>Energy can only be gained while in combat. </c>",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Energy Gain",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Energy Gain",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "apply_count": 1,
+                "description": "Critical chance increased; stacks duration.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                "status": "퓨리",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/FBE5C807BE540522A044043B040427A117AF38CF/2491521.png",
+        "id": 2224,
+        "name": "Energized Elements",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 67,
+        "tier": 1
+    }
+]

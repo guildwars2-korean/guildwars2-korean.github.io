@@ -1,41 +1,43 @@
-{
-    "chat_link": "[&BqOwAAA=]",
-    "description": "Cancel Photon Forge and begin cooling after a delay. Cooling effectiveness increases over time.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 6
-        },
-        {
-            "duration": 3,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Cooling Delay",
-            "type": "Time"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
-            "percent": 5,
-            "text": "Heat Lost per Second",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
-            "percent": 10,
-            "text": "Improved Heat Lost per Second",
-            "type": "Percent"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/1636E109EC414F0933B2763D772A3E3F1216B6DA/1770390.png",
-    "id": 45219,
-    "name": "Deactivate Photon Forge",
-    "professions": [
-        "Engineer"
-    ],
-    "slot": "Profession_5",
-    "specialization": 57,
-    "type": "Profession",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BqOwAAA=]",
+        "description": "Cancel Photon Forge and begin cooling after a delay. Cooling effectiveness increases over time.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 6
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Cooling Delay",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+                "percent": 5,
+                "text": "Heat Lost per Second",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+                "percent": 10,
+                "text": "Improved Heat Lost per Second",
+                "type": "Percent"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1636E109EC414F0933B2763D772A3E3F1216B6DA/1770390.png",
+        "id": 45219,
+        "name": "Deactivate Photon Forge",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Profession_5",
+        "specialization": 57,
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

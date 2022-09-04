@@ -1,66 +1,68 @@
-{
-    "chat_link": "[&Bi4WAAA=]",
-    "description": "Envelop yourself in a fiery shield that burns foes and grants might each time you are struck (cooldown of 1 second per attacker).",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 25
-        },
-        {
-            "apply_count": 1,
-            "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/2E7050E44690AFE0A396FA0DAD526699392743F3/2261521.png",
-            "status": "Fire Aura",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "가하는 데미지가 증가한다(강도 중첩).",
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-            "status": "마이트",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-            "status": "Burning",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "flip_skill": 51711,
-    "icon": "https://render.guildwars2.com/file/2AE8672D7A08BB4129B6F0F40C2BC10642D55C28/102884.png",
-    "id": 5678,
-    "name": "Fire Shield",
-    "professions": [
-        "Elementalist"
-    ],
-    "slot": "Weapon_5",
-    "specialization": 56,
-    "traited_facts": [
-        {
-            "apply_count": 1,
-            "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/2E7050E44690AFE0A396FA0DAD526699392743F3/2261521.png",
-            "overrides": 1,
-            "requires_trait": 340,
-            "status": "Fire Aura",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "type": "Weapon",
-    "weapon_type": "Focus"
-}
+[
+    {
+        "chat_link": "[&Bi4WAAA=]",
+        "description": "Envelop yourself in a fiery shield that burns foes and grants might each time you are struck (cooldown of 1 second per attacker).",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 25
+            },
+            {
+                "apply_count": 1,
+                "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/2E7050E44690AFE0A396FA0DAD526699392743F3/2261521.png",
+                "status": "Fire Aura",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "Burning",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 51711,
+        "icon": "https://render.guildwars2.com/file/2AE8672D7A08BB4129B6F0F40C2BC10642D55C28/102884.png",
+        "id": 5678,
+        "name": "Fire Shield",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_5",
+        "specialization": 56,
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/2E7050E44690AFE0A396FA0DAD526699392743F3/2261521.png",
+                "overrides": 1,
+                "requires_trait": 340,
+                "status": "Fire Aura",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Focus"
+    }
+]

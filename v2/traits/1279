@@ -1,74 +1,76 @@
-{
-    "description": "Stealing inflicts poison. While in the downed state, your attacks apply poison.",
-    "facts": [
-        {
-            "apply_count": 2,
-            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-            "status": "Poisoned",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-            "status": "Poisoned",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-            "status": "Poisoned",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/0FEE00DFE899386F321C0F719EC70FED03AB03E7/1012747.png",
-    "id": 1279,
-    "name": "Serpent's Touch",
-    "order": 0,
-    "slot": "Minor",
-    "specialization": 28,
-    "tier": 1,
-    "traited_facts": [
-        {
-            "apply_count": 3,
-            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-            "overrides": 0,
-            "requires_trait": 1291,
-            "status": "Poisoned",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 2,
-            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-            "overrides": 1,
-            "requires_trait": 1291,
-            "status": "Poisoned",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 2,
-            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-            "overrides": 2,
-            "requires_trait": 1291,
-            "status": "Poisoned",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ]
-}
+[
+    {
+        "description": "Stealing inflicts poison. While in the downed state, your attacks apply poison.",
+        "facts": [
+            {
+                "apply_count": 2,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "status": "Poisoned",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "status": "Poisoned",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "status": "Poisoned",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/0FEE00DFE899386F321C0F719EC70FED03AB03E7/1012747.png",
+        "id": 1279,
+        "name": "Serpent's Touch",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 28,
+        "tier": 1,
+        "traited_facts": [
+            {
+                "apply_count": 3,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "overrides": 0,
+                "requires_trait": 1291,
+                "status": "Poisoned",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "overrides": 1,
+                "requires_trait": 1291,
+                "status": "Poisoned",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "overrides": 2,
+                "requires_trait": 1291,
+                "status": "Poisoned",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ]
+    }
+]

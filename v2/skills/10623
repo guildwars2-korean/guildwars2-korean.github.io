@@ -1,44 +1,46 @@
-{
-    "chat_link": "[&Bn8pAAA=]",
-    "description": "Send a devouring surge toward your enemy.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 1200
-        },
-        {
-            "dmg_multiplier": 0.25,
-            "hit_count": 2,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 2,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-            "status": "Bleeding",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "percent": 2,
-            "text": "Life Force",
-            "type": "Percent"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/0431C9A3056FD294630DE0CA9B900DE2580CA016/103830.png",
-    "id": 10623,
-    "name": "Crimson Tide",
-    "professions": [
-        "Necromancer"
-    ],
-    "slot": "Weapon_1",
-    "type": "Weapon",
-    "weapon_type": "Trident"
-}
+[
+    {
+        "chat_link": "[&Bn8pAAA=]",
+        "description": "Send a devouring surge toward your enemy.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "dmg_multiplier": 0.25,
+                "hit_count": 2,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 2,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "Bleeding",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 2,
+                "text": "Life Force",
+                "type": "Percent"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/0431C9A3056FD294630DE0CA9B900DE2580CA016/103830.png",
+        "id": 10623,
+        "name": "Crimson Tide",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Weapon_1",
+        "type": "Weapon",
+        "weapon_type": "Trident"
+    }
+]

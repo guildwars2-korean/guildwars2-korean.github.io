@@ -1,86 +1,88 @@
-{
-    "attunement": "Earth",
-    "chat_link": "[&BpUVAAA=]",
-    "description": "Use the earth to launch yourself into the air and strike foes in a small radius. Deliver a larger ring of earthen spikes upon impact.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 6
-        },
-        {
-            "dmg_multiplier": 0.33,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Initial Damage",
-            "type": "Damage"
-        },
-        {
-            "dmg_multiplier": 1.5,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Final Impact Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 3,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 6,
-            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-            "status": "Bleeding",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Movement speed decreased by 50%; stacks duration.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-            "status": "Crippled",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Number of Impacts",
-            "type": "Number",
-            "value": 2
-        },
-        {
-            "distance": 180,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Initial Radius",
-            "type": "Distance"
-        },
-        {
-            "distance": 240,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Final Impact",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Blocks Missiles",
-            "type": "NoData"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/0AFCBDA61E7BE315E50FE567B23632C803BF02A3/103107.png",
-    "id": 5525,
-    "name": "Ring of Earth",
-    "professions": [
-        "Elementalist"
-    ],
-    "slot": "Weapon_2",
-    "type": "Weapon",
-    "weapon_type": "Dagger"
-}
+[
+    {
+        "attunement": "Earth",
+        "chat_link": "[&BpUVAAA=]",
+        "description": "Use the earth to launch yourself into the air and strike foes in a small radius. Deliver a larger ring of earthen spikes upon impact.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 6
+            },
+            {
+                "dmg_multiplier": 0.33,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Initial Damage",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 1.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Final Impact Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 3,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "Bleeding",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Movement speed decreased by 50%; stacks duration.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "Crippled",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Number of Impacts",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Initial Radius",
+                "type": "Distance"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Final Impact",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Blocks Missiles",
+                "type": "NoData"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/0AFCBDA61E7BE315E50FE567B23632C803BF02A3/103107.png",
+        "id": 5525,
+        "name": "Ring of Earth",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_2",
+        "type": "Weapon",
+        "weapon_type": "Dagger"
+    }
+]

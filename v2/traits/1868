@@ -1,18 +1,20 @@
-{
-    "description": "Becoming a celestial avatar removes conditions from you.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Conditions Removed",
-            "type": "Number",
-            "value": 13
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/5851BCCB60F70B42FEC1FF4E05F8C90722C2DB90/1128530.png",
-    "id": 1868,
-    "name": "Druidic Clarity",
-    "order": 0,
-    "slot": "Major",
-    "specialization": 5,
-    "tier": 1
-}
+[
+    {
+        "description": "Becoming a celestial avatar removes conditions from you.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Conditions Removed",
+                "type": "Number",
+                "value": 13
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/5851BCCB60F70B42FEC1FF4E05F8C90722C2DB90/1128530.png",
+        "id": 1868,
+        "name": "Druidic Clarity",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 5,
+        "tier": 1
+    }
+]

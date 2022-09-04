@@ -1,29 +1,31 @@
-{
-    "chat_link": "[&Bn84AAA=]",
-    "description": "Punch your foe.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 150
-        },
-        {
-            "dmg_multiplier": 1,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/33FDE413BAEA18E219924D2C31DC4A0CDE6D3237/104123.png",
-    "id": 14463,
-    "name": "Punch",
-    "professions": [
-        "Warrior"
-    ],
-    "slot": "Downed_1",
-    "type": "Weapon",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&Bn84AAA=]",
+        "description": "Punch your foe.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 150
+            },
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/33FDE413BAEA18E219924D2C31DC4A0CDE6D3237/104123.png",
+        "id": 14463,
+        "name": "Punch",
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Downed_1",
+        "type": "Weapon",
+        "weapon_type": "None"
+    }
+]

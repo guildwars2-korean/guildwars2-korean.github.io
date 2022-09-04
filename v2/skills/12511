@@ -1,56 +1,58 @@
-{
-    "chat_link": "[&Bt8wAAA=]",
-    "description": "Push back your foe with a point-blank shot. The closer they are, the farther it pushes them back.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 1200
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 15
-        },
-        {
-            "dmg_multiplier": 0.8,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "distance": 600,
-            "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
-            "text": "Maximum Knockback",
-            "type": "Distance"
-        },
-        {
-            "distance": 100,
-            "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
-            "text": "Minimum Knockback",
-            "type": "Distance"
-        },
-        {
-            "finisher_type": "Projectile",
-            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
-            "percent": 100,
-            "text": "Combo Finisher",
-            "type": "ComboFinisher"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/0C976CDCD10C3A7F4E54CABDC09ABEB6C1CB230D/103251.png",
-    "id": 12511,
-    "name": "Point-Blank Shot",
-    "professions": [
-        "Ranger"
-    ],
-    "slot": "Weapon_4",
-    "type": "Weapon",
-    "weapon_type": "Longbow"
-}
+[
+    {
+        "chat_link": "[&Bt8wAAA=]",
+        "description": "Push back your foe with a point-blank shot. The closer they are, the farther it pushes them back.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 15
+            },
+            {
+                "dmg_multiplier": 0.8,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
+                "text": "Maximum Knockback",
+                "type": "Distance"
+            },
+            {
+                "distance": 100,
+                "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
+                "text": "Minimum Knockback",
+                "type": "Distance"
+            },
+            {
+                "finisher_type": "Projectile",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "Combo Finisher",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/0C976CDCD10C3A7F4E54CABDC09ABEB6C1CB230D/103251.png",
+        "id": 12511,
+        "name": "Point-Blank Shot",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Weapon_4",
+        "type": "Weapon",
+        "weapon_type": "Longbow"
+    }
+]

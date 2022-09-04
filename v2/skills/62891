@@ -1,15 +1,17 @@
-{
-    "chat_link": "[&Bqv1AAA=]",
-    "description": "Invoke the power of the legendary champions Archemorus and Saint Viktor.",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/E1910F4C5C74E0B00AB262D2D3DBA3FB51BE90CA/2491626.png",
-    "id": 62891,
-    "name": "Legendary Alliance Stance",
-    "professions": [
-        "Revenant"
-    ],
-    "slot": "Profession_1",
-    "specialization": 69,
-    "type": "Profession",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&Bqv1AAA=]",
+        "description": "Invoke the power of the legendary champions Archemorus and Saint Viktor.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/E1910F4C5C74E0B00AB262D2D3DBA3FB51BE90CA/2491626.png",
+        "id": 62891,
+        "name": "Legendary Alliance Stance",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Profession_1",
+        "specialization": 69,
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

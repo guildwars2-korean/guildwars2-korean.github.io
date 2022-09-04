@@ -1,19 +1,21 @@
-{
-    "chat_link": "[&BpZFAAA=]",
-    "description": "Become surrounded in a magnetic shield that reflects projectiles.",
-    "facts": [
-        {
-            "apply_count": 1,
-            "description": "Reflect projectiles with magnetic energy.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/33D27C7FE0017F70749DE84576F56F381DDF0C30/2261524.png",
-            "status": "Magnetic Aura",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/206FCC2A05035FDB306AB5136E5F3AC0FC6467F3/103395.png",
-    "id": 17814,
-    "name": "Magnetic Aura"
-}
+[
+    {
+        "chat_link": "[&BpZFAAA=]",
+        "description": "Become surrounded in a magnetic shield that reflects projectiles.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "Reflect projectiles with magnetic energy.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/33D27C7FE0017F70749DE84576F56F381DDF0C30/2261524.png",
+                "status": "Magnetic Aura",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/206FCC2A05035FDB306AB5136E5F3AC0FC6467F3/103395.png",
+        "id": 17814,
+        "name": "Magnetic Aura"
+    }
+]

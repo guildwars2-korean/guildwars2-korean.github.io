@@ -1,44 +1,46 @@
-{
-    "chat_link": "[&BrX/AAA=]",
-    "description": "Mai Trin unleashes a flurry of attacks with her sword, teleporting before each strike.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 170
-        },
-        {
-            "dmg_multiplier": 0.2,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "가하는 데미지가 증가한다(강도 중첩).",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-            "status": "마이트",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Number of Hits",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/9F19DB1D3E1629390F2360F2D866651BBC0F6155/1938788.png",
-            "text": "Evade",
-            "type": "Time"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/A1E252A0C9F506B73465E09919D119D706702DD8/1013004.png",
-    "id": 65461,
-    "name": "Unrelenting Assault"
-}
+[
+    {
+        "chat_link": "[&BrX/AAA=]",
+        "description": "Mai Trin unleashes a flurry of attacks with her sword, teleporting before each strike.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 170
+            },
+            {
+                "dmg_multiplier": 0.2,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Number of Hits",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/9F19DB1D3E1629390F2360F2D866651BBC0F6155/1938788.png",
+                "text": "Evade",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/A1E252A0C9F506B73465E09919D119D706702DD8/1013004.png",
+        "id": 65461,
+        "name": "Unrelenting Assault"
+    }
+]

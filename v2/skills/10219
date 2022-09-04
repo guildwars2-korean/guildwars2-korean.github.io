@@ -1,45 +1,47 @@
-{
-    "chat_link": "[&BusnAAA=]",
-    "description": "Shoot a beam at your foe. The farther away they are, the more damage you deal.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 1200
-        },
-        {
-            "dmg_multiplier": 0.367,
-            "hit_count": 3,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Maximum Damage",
-            "type": "Damage"
-        },
-        {
-            "dmg_multiplier": 0.267,
-            "hit_count": 3,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Minimum Damage",
-            "type": "Damage"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 3
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "flip_skill": 44241,
-    "icon": "https://render.guildwars2.com/file/0F9E5C7DD5545290E3D41B5603FC0327EB9E6725/103615.png",
-    "id": 10219,
-    "name": "Spatial Surge",
-    "professions": [
-        "Mesmer"
-    ],
-    "slot": "Weapon_1",
-    "type": "Weapon",
-    "weapon_type": "Greatsword"
-}
+[
+    {
+        "chat_link": "[&BusnAAA=]",
+        "description": "Shoot a beam at your foe. The farther away they are, the more damage you deal.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "dmg_multiplier": 0.367,
+                "hit_count": 3,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Maximum Damage",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 0.267,
+                "hit_count": 3,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Minimum Damage",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 44241,
+        "icon": "https://render.guildwars2.com/file/0F9E5C7DD5545290E3D41B5603FC0327EB9E6725/103615.png",
+        "id": 10219,
+        "name": "Spatial Surge",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Weapon_1",
+        "type": "Weapon",
+        "weapon_type": "Greatsword"
+    }
+]

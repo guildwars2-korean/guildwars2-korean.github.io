@@ -1,47 +1,49 @@
-{
-    "categories": [
-        "LegendaryDwarf"
-    ],
-    "chat_link": "[&BkdtAAA=]",
-    "cost": 40,
-    "description": "Legendary Dwarf. Channel the power of the Rite of the Great Dwarf to turn yourself and nearby allies to stone to reduce incoming damage.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-            "text": "StunBreak",
-            "type": "StunBreak",
-            "value": true
-        },
-        {
-            "apply_count": 1,
-            "description": "Gain 50% damage reduction. You are still susceptible to conditions and control effects.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/D8AEB219F1A057F3F4E47E5E54A12BBABFC8474F/961437.png",
-            "status": "Rite of the Great Dwarf",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "distance": 600,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/D8AEB219F1A057F3F4E47E5E54A12BBABFC8474F/961437.png",
-    "id": 27975,
-    "name": "Rite of the Great Dwarf",
-    "professions": [
-        "Revenant"
-    ],
-    "slot": "Elite",
-    "type": "Elite",
-    "weapon_type": "None"
-}
+[
+    {
+        "categories": [
+            "LegendaryDwarf"
+        ],
+        "chat_link": "[&BkdtAAA=]",
+        "cost": 40,
+        "description": "Legendary Dwarf. Channel the power of the Rite of the Great Dwarf to turn yourself and nearby allies to stone to reduce incoming damage.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                "text": "StunBreak",
+                "type": "StunBreak",
+                "value": true
+            },
+            {
+                "apply_count": 1,
+                "description": "Gain 50% damage reduction. You are still susceptible to conditions and control effects.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/D8AEB219F1A057F3F4E47E5E54A12BBABFC8474F/961437.png",
+                "status": "Rite of the Great Dwarf",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/D8AEB219F1A057F3F4E47E5E54A12BBABFC8474F/961437.png",
+        "id": 27975,
+        "name": "Rite of the Great Dwarf",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Elite",
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

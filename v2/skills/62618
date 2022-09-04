@@ -1,87 +1,89 @@
-{
-    "chat_link": "[&Bpr0AAA=]",
-    "description": "Manifest flames that damage enemies on an interval.\n\nActivating this ability destroys other active Willbender Flames effects.",
-    "facts": [
-        {
-            "dmg_multiplier": 0.22,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 3
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Number of Impacts",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-            "text": "Interval",
-            "type": "Time"
-        },
-        {
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Duration",
-            "type": "Time"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/9EBC7246D94A4742CFA576CE553C019D93EA92F5/2479370.png",
-    "id": 62618,
-    "name": "Willbender Flames",
-    "professions": [
-        "Guardian"
-    ],
-    "slot": "Profession_1",
-    "specialization": 65,
-    "traited_facts": [
-        {
-            "dmg_multiplier": 0.44,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "overrides": 0,
-            "requires_trait": 2190,
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "requires_trait": 2187,
-            "target": "Healing",
-            "text": "Healing",
-            "type": "AttributeAdjust",
-            "value": 277
-        },
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-            "requires_trait": 2191,
-            "status": "Burning",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-            "requires_trait": 2191,
-            "status": "Burning",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "type": "Profession",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&Bpr0AAA=]",
+        "description": "Manifest flames that damage enemies on an interval.\n\nActivating this ability destroys other active Willbender Flames effects.",
+        "facts": [
+            {
+                "dmg_multiplier": 0.22,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Number of Impacts",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "Interval",
+                "type": "Time"
+            },
+            {
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Duration",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/9EBC7246D94A4742CFA576CE553C019D93EA92F5/2479370.png",
+        "id": 62618,
+        "name": "Willbender Flames",
+        "professions": [
+            "Guardian"
+        ],
+        "slot": "Profession_1",
+        "specialization": 65,
+        "traited_facts": [
+            {
+                "dmg_multiplier": 0.44,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "overrides": 0,
+                "requires_trait": 2190,
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "requires_trait": 2187,
+                "target": "Healing",
+                "text": "Healing",
+                "type": "AttributeAdjust",
+                "value": 277
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "requires_trait": 2191,
+                "status": "Burning",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "requires_trait": 2191,
+                "status": "Burning",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

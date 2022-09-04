@@ -1,55 +1,57 @@
-{
-    "chat_link": "[&BngWAAA=]",
-    "description": "Electrify your tornado form and make it shoot lightning.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 1
-        },
-        {
-            "dmg_multiplier": 1.25,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "distance": 900,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Number of Casts",
-            "type": "Number",
-            "value": 3
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Number of Bounces",
-            "type": "Number",
-            "value": 3
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/01D310FE65DBA378CBAFD13B2BFEDE59939C5153/102964.png",
-    "id": 5752,
-    "name": "Electrified Tornado",
-    "professions": [
-        "Thief",
-        "Mesmer",
-        "Warrior",
-        "Elementalist",
-        "Necromancer",
-        "Guardian",
-        "Ranger",
-        "Engineer",
-        "Revenant"
-    ],
-    "slot": "Weapon_1",
-    "type": "Bundle",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BngWAAA=]",
+        "description": "Electrify your tornado form and make it shoot lightning.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 1
+            },
+            {
+                "dmg_multiplier": 1.25,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "distance": 900,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Number of Casts",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Number of Bounces",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/01D310FE65DBA378CBAFD13B2BFEDE59939C5153/102964.png",
+        "id": 5752,
+        "name": "Electrified Tornado",
+        "professions": [
+            "Thief",
+            "Mesmer",
+            "Warrior",
+            "Elementalist",
+            "Necromancer",
+            "Guardian",
+            "Ranger",
+            "Engineer",
+            "Revenant"
+        ],
+        "slot": "Weapon_1",
+        "type": "Bundle",
+        "weapon_type": "None"
+    }
+]

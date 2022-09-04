@@ -1,53 +1,55 @@
-{
-    "categories": [
-        "Elixir"
-    ],
-    "chat_link": "[&BuUWAAA=]",
-    "description": "Elixir. Drink Elixir S to shrink yourself, recover from stun, and evade attacks.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 60
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-            "text": "StunBreak",
-            "type": "StunBreak",
-            "value": true
-        },
-        {
-            "duration": 3,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Duration",
-            "type": "Time"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Prevents Capture-Point Contribution",
-            "type": "NoData"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/0E9264100B0A6A13395EF6083534E6DFB64C0BD8/103415.png",
-    "id": 5861,
-    "name": "Elixir S",
-    "professions": [
-        "Engineer"
-    ],
-    "slot": "Utility",
-    "toolbelt_skill": 6084,
-    "traited_facts": [
-        {
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "overrides": 2,
-            "requires_trait": 473,
-            "text": "Duration",
-            "type": "Time"
-        }
-    ],
-    "type": "Utility",
-    "weapon_type": "None"
-}
+[
+    {
+        "categories": [
+            "Elixir"
+        ],
+        "chat_link": "[&BuUWAAA=]",
+        "description": "Elixir. Drink Elixir S to shrink yourself, recover from stun, and evade attacks.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 60
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                "text": "StunBreak",
+                "type": "StunBreak",
+                "value": true
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Duration",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Prevents Capture-Point Contribution",
+                "type": "NoData"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/0E9264100B0A6A13395EF6083534E6DFB64C0BD8/103415.png",
+        "id": 5861,
+        "name": "Elixir S",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Utility",
+        "toolbelt_skill": 6084,
+        "traited_facts": [
+            {
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "overrides": 2,
+                "requires_trait": 473,
+                "text": "Duration",
+                "type": "Time"
+            }
+        ],
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

@@ -1,31 +1,33 @@
-{
-    "chat_link": "[&Bg10AAA=]",
-    "description": "Shroud. Detonate your armor to make foes around you flee in fear.",
-    "facts": [
-        {
-            "apply_count": 1,
-            "description": "Involuntary retreat; unable to act; stacks duration.",
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/30307A6E766D74B6EB09EDA12A4A2DE50E4D76F4/102869.png",
-            "status": "Fear",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "distance": 360,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/780206747069014A400CE6D9922AF5E81EAAA52C/1012936.png",
-    "id": 29709,
-    "name": "Terrify",
-    "professions": [
-        "Necromancer"
-    ],
-    "slot": "Downed_3",
-    "type": "Profession",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&Bg10AAA=]",
+        "description": "Shroud. Detonate your armor to make foes around you flee in fear.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "Involuntary retreat; unable to act; stacks duration.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/30307A6E766D74B6EB09EDA12A4A2DE50E4D76F4/102869.png",
+                "status": "Fear",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/780206747069014A400CE6D9922AF5E81EAAA52C/1012936.png",
+        "id": 29709,
+        "name": "Terrify",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Downed_3",
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

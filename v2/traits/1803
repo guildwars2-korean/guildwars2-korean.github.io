@@ -1,36 +1,38 @@
-{
-    "description": "Deal increased strike damage with active upkeep skills.<br><c=@reminder>Herald upkeep skills grant less damage but can be stacked.</c>",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "percent": 15,
-            "text": "Damage Increase",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "percent": 13,
-            "text": "Damage Increase",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "percent": 5,
-            "text": "Herald Skill Damage Increase",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "percent": 3,
-            "text": "Herald Skill Damage Increase",
-            "type": "Percent"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/A079965EF4C4DC29C0C1EA115E403FD0DE0A07F3/1012680.png",
-    "id": 1803,
-    "name": "Forceful Persistence",
-    "order": 2,
-    "slot": "Major",
-    "specialization": 52,
-    "tier": 3
-}
+[
+    {
+        "description": "Deal increased strike damage with active upkeep skills.<br><c=@reminder>Herald upkeep skills grant less damage but can be stacked.</c>",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 15,
+                "text": "Damage Increase",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 13,
+                "text": "Damage Increase",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 5,
+                "text": "Herald Skill Damage Increase",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 3,
+                "text": "Herald Skill Damage Increase",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/A079965EF4C4DC29C0C1EA115E403FD0DE0A07F3/1012680.png",
+        "id": 1803,
+        "name": "Forceful Persistence",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 52,
+        "tier": 3
+    }
+]

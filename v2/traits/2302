@@ -1,27 +1,29 @@
-{
-    "description": "Gain increased strike damage for each round of ammunition spent.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-            "text": "Maximum Stacks",
-            "type": "Number",
-            "value": 10
-        },
-        {
-            "apply_count": 1,
-            "description": "Damage increase per stack.",
-            "duration": 15,
-            "icon": "https://render.guildwars2.com/file/630362D11956CB69199DE9CE0EEA03232DC9DA38/2491547.png",
-            "status": "Fierce as Fire",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/630362D11956CB69199DE9CE0EEA03232DC9DA38/2491547.png",
-    "id": 2302,
-    "name": "Fierce as Fire",
-    "order": 1,
-    "slot": "Major",
-    "specialization": 68,
-    "tier": 2
-}
+[
+    {
+        "description": "Gain increased strike damage for each round of ammunition spent.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+                "text": "Maximum Stacks",
+                "type": "Number",
+                "value": 10
+            },
+            {
+                "apply_count": 1,
+                "description": "Damage increase per stack.",
+                "duration": 15,
+                "icon": "https://render.guildwars2.com/file/630362D11956CB69199DE9CE0EEA03232DC9DA38/2491547.png",
+                "status": "Fierce as Fire",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/630362D11956CB69199DE9CE0EEA03232DC9DA38/2491547.png",
+        "id": 2302,
+        "name": "Fierce as Fire",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 68,
+        "tier": 2
+    }
+]

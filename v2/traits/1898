@@ -1,33 +1,35 @@
-{
-    "description": "<c=@abilitytype>Traps</c> gain reduced recharge and slow enemies.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-            "percent": 20,
-            "text": "Recharge Reduced",
-            "type": "Percent"
-        },
-        {
-            "apply_count": 1,
-            "description": "Skills and actions are slower.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
-            "status": "Slow",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/43E37B57D967722DE15C6033DDF10BE663D10201/1012390.png",
-    "id": 1898,
-    "name": "Piercing Light",
-    "order": 0,
-    "slot": "Major",
-    "specialization": 27,
-    "tier": 1
-}
+[
+    {
+        "description": "<c=@abilitytype>Traps</c> gain reduced recharge and slow enemies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "percent": 20,
+                "text": "Recharge Reduced",
+                "type": "Percent"
+            },
+            {
+                "apply_count": 1,
+                "description": "Skills and actions are slower.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+                "status": "Slow",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/43E37B57D967722DE15C6033DDF10BE663D10201/1012390.png",
+        "id": 1898,
+        "name": "Piercing Light",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 27,
+        "tier": 1
+    }
+]

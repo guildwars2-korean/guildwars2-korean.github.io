@@ -1,68 +1,70 @@
-{
-    "categories": [
-        "DualWield"
-    ],
-    "chat_link": "[&BtgyAAA=]",
-    "description": "Dual Wield. Evade and stab your foe.",
-    "dual_wield": "Dagger",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 130
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Unblockable",
-            "type": "Unblockable",
-            "value": true
-        },
-        {
-            "dmg_multiplier": 0.8,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 3
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "flip_skill": 13007,
-    "icon": "https://render.guildwars2.com/file/CEE3C39A075B0363FE04370BDDB0BDDBF8AD0712/103112.png",
-    "id": 13016,
-    "initiative": 4,
-    "name": "Flanking Strike",
-    "professions": [
-        "Thief"
-    ],
-    "slot": "Weapon_3",
-    "traited_facts": [
-        {
-            "dmg_multiplier": 0.88,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "overrides": 2,
-            "requires_trait": 1192,
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "requires_trait": 1238,
-            "target": "Healing",
-            "text": "Healing",
-            "type": "AttributeAdjust",
-            "value": 407
-        }
-    ],
-    "type": "Weapon",
-    "weapon_type": "Sword"
-}
+[
+    {
+        "categories": [
+            "DualWield"
+        ],
+        "chat_link": "[&BtgyAAA=]",
+        "description": "Dual Wield. Evade and stab your foe.",
+        "dual_wield": "Dagger",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Unblockable",
+                "type": "Unblockable",
+                "value": true
+            },
+            {
+                "dmg_multiplier": 0.8,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 13007,
+        "icon": "https://render.guildwars2.com/file/CEE3C39A075B0363FE04370BDDB0BDDBF8AD0712/103112.png",
+        "id": 13016,
+        "initiative": 4,
+        "name": "Flanking Strike",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Weapon_3",
+        "traited_facts": [
+            {
+                "dmg_multiplier": 0.88,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "overrides": 2,
+                "requires_trait": 1192,
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "requires_trait": 1238,
+                "target": "Healing",
+                "text": "Healing",
+                "type": "AttributeAdjust",
+                "value": 407
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Sword"
+    }
+]

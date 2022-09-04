@@ -1,134 +1,136 @@
-{
-    "description": "Invoking a legend grants boons to nearby allies based on the legend that was invoked.",
-    "facts": [
-        {
-            "apply_count": 2,
-            "description": "가하는 데미지가 증가한다(강도 중첩).",
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-            "prefix": {
-                "description": "Currently invoking the power of Shiro Tagachi.",
-                "icon": "https://render.guildwars2.com/file/67CDD35F6BC3072E0837715A5E0A90646529BAA2/1030005.png",
-                "status": "Legendary Assassin Stance",
-                "text": "Apply Buff/Condition"
+[
+    {
+        "description": "Invoking a legend grants boons to nearby allies based on the legend that was invoked.",
+        "facts": [
+            {
+                "apply_count": 2,
+                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "prefix": {
+                    "description": "Currently invoking the power of Shiro Tagachi.",
+                    "icon": "https://render.guildwars2.com/file/67CDD35F6BC3072E0837715A5E0A90646529BAA2/1030005.png",
+                    "status": "Legendary Assassin Stance",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
             },
-            "status": "마이트",
-            "text": "Apply Buff/Condition",
-            "type": "PrefixedBuff"
-        },
-        {
-            "apply_count": 1,
-            "description": "데미지를 주지않는 컨디션의 효과를 무시한다(지속시간 중첩).",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
-            "prefix": {
-                "description": "Invoke the power of the legendary demon Mallyx the Unyielding.",
-                "icon": "https://render.guildwars2.com/file/1A1407F7D34E5ED41B59A25F39EBF728CC926423/961413.png",
-                "status": "Legendary Demon Stance",
-                "text": "Apply Buff/Condition"
+            {
+                "apply_count": 1,
+                "description": "데미지를 주지않는 컨디션의 효과를 무시한다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+                "prefix": {
+                    "description": "Invoke the power of the legendary demon Mallyx the Unyielding.",
+                    "icon": "https://render.guildwars2.com/file/1A1407F7D34E5ED41B59A25F39EBF728CC926423/961413.png",
+                    "status": "Legendary Demon Stance",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "레지스턴스",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
             },
-            "status": "레지스턴스",
-            "text": "Apply Buff/Condition",
-            "type": "PrefixedBuff"
-        },
-        {
-            "apply_count": 1,
-            "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
-            "duration": 3,
-            "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-            "prefix": {
-                "description": "Currently invoking the power of King Jalis Ironhammer.",
-                "icon": "https://render.guildwars2.com/file/03C66FA8A89697A0C4D309484172080E3A1141EF/961410.png",
-                "status": "Legendary Dwarf Stance",
-                "text": "Apply Buff/Condition"
+            {
+                "apply_count": 1,
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "prefix": {
+                    "description": "Currently invoking the power of King Jalis Ironhammer.",
+                    "icon": "https://render.guildwars2.com/file/03C66FA8A89697A0C4D309484172080E3A1141EF/961410.png",
+                    "status": "Legendary Dwarf Stance",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "스태빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
             },
-            "status": "스태빌리티",
-            "text": "Apply Buff/Condition",
-            "type": "PrefixedBuff"
-        },
-        {
-            "apply_count": 1,
-            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
-            "prefix": {
-                "description": "Currently invoking the power of Ventari.",
-                "icon": "https://render.guildwars2.com/file/0E091B41C047DD5A1BCA6B9193C73E6B29524C5D/1983636.png",
-                "status": "Legendary Centaur Stance",
-                "text": "Apply Buff/Condition"
+            {
+                "apply_count": 1,
+                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "prefix": {
+                    "description": "Currently invoking the power of Ventari.",
+                    "icon": "https://render.guildwars2.com/file/0E091B41C047DD5A1BCA6B9193C73E6B29524C5D/1983636.png",
+                    "status": "Legendary Centaur Stance",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "리제네레이션",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
             },
-            "status": "리제네레이션",
-            "text": "Apply Buff/Condition",
-            "type": "PrefixedBuff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Incoming strike damage decreased by 33%; stacks duration.",
-            "duration": 3,
-            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-            "prefix": {
-                "description": "Currently invoking the power of Glint.",
-                "icon": "https://render.guildwars2.com/file/32F8A52E3D27E3B404976092AFD7585533B7E77E/1983635.png",
-                "status": "Legendary Dragon Stance",
-                "text": "Apply Buff/Condition"
+            {
+                "apply_count": 1,
+                "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "prefix": {
+                    "description": "Currently invoking the power of Glint.",
+                    "icon": "https://render.guildwars2.com/file/32F8A52E3D27E3B404976092AFD7585533B7E77E/1983635.png",
+                    "status": "Legendary Dragon Stance",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "프로텍션",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
             },
-            "status": "프로텍션",
-            "text": "Apply Buff/Condition",
-            "type": "PrefixedBuff"
-        },
-        {
-            "apply_count": 1,
-            "description": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
-            "prefix": {
-                "description": "Currently invoking the power of Kalla Scorchrazor.",
-                "icon": "https://render.guildwars2.com/file/6B3205EF5ED0802DB74BBF7F0CAE04FAA2089B74/1770592.png",
-                "status": "Legendary Renegade Stance",
-                "text": "Apply Buff/Condition"
+            {
+                "apply_count": 1,
+                "description": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+                "prefix": {
+                    "description": "Currently invoking the power of Kalla Scorchrazor.",
+                    "icon": "https://render.guildwars2.com/file/6B3205EF5ED0802DB74BBF7F0CAE04FAA2089B74/1770592.png",
+                    "status": "Legendary Renegade Stance",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "레졸루션",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
             },
-            "status": "레졸루션",
-            "text": "Apply Buff/Condition",
-            "type": "PrefixedBuff"
-        },
-        {
-            "apply_count": 1,
-            "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
-            "prefix": {
-                "description": "Currently invoking the power of Archemorus and Saint Viktor.",
-                "icon": "https://render.guildwars2.com/file/E1910F4C5C74E0B00AB262D2D3DBA3FB51BE90CA/2491626.png",
-                "status": "Legendary Alliance Stance",
-                "text": "Apply Buff/Condition"
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+                "prefix": {
+                    "description": "Currently invoking the power of Archemorus and Saint Viktor.",
+                    "icon": "https://render.guildwars2.com/file/E1910F4C5C74E0B00AB262D2D3DBA3FB51BE90CA/2491626.png",
+                    "status": "Legendary Alliance Stance",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "비거",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
             },
-            "status": "비거",
-            "text": "Apply Buff/Condition",
-            "type": "PrefixedBuff"
-        },
-        {
-            "distance": 240,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Allied Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Combat Only",
-            "type": "NoData"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/62279406A52F47A00CE7BFFB43D405907A67A60F/1012681.png",
-    "id": 1774,
-    "name": "Spirit Boon",
-    "order": 0,
-    "slot": "Major",
-    "specialization": 3,
-    "tier": 2
-}
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Allied Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Combat Only",
+                "type": "NoData"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/62279406A52F47A00CE7BFFB43D405907A67A60F/1012681.png",
+        "id": 1774,
+        "name": "Spirit Boon",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 3,
+        "tier": 2
+    }
+]

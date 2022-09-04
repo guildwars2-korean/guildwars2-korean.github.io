@@ -1,25 +1,27 @@
-{
-    "chat_link": "[&BgIAAQA=]",
-    "description": "Sweeping attack.",
-    "facts": [
-        {
-            "apply_count": 2,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 3,
-            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-            "status": "Burning",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "distance": 100,
-            "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
-            "text": "Knockback",
-            "type": "Distance"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
-    "id": 65538,
-    "name": "Ember Sweep"
-}
+[
+    {
+        "chat_link": "[&BgIAAQA=]",
+        "description": "Sweeping attack.",
+        "facts": [
+            {
+                "apply_count": 2,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "Burning",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 100,
+                "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
+                "text": "Knockback",
+                "type": "Distance"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 65538,
+        "name": "Ember Sweep"
+    }
+]

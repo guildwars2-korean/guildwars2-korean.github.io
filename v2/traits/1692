@@ -1,54 +1,56 @@
-{
-    "description": "Entering shroud transfers conditions from allies to you. Exiting shroud consumes conditions currently on you and converts them to life force.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Conditions Transferred",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Conditions Consumed",
-            "type": "Number",
-            "value": 3
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Conditions Consumed",
-            "type": "Number",
-            "value": 2
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "percent": 7,
-            "text": "Life Force per Condition",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "percent": 3,
-            "text": "Life Force per Condition",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "distance": 600,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/0F286EE6A91BB2E628DD2703EE5E3E35070AFD0E/1012541.png",
-    "id": 1692,
-    "name": "Unholy Martyr",
-    "order": 1,
-    "slot": "Major",
-    "specialization": 19,
-    "tier": 3
-}
+[
+    {
+        "description": "Entering shroud transfers conditions from allies to you. Exiting shroud consumes conditions currently on you and converts them to life force.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Conditions Transferred",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Conditions Consumed",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Conditions Consumed",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 7,
+                "text": "Life Force per Condition",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 3,
+                "text": "Life Force per Condition",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/0F286EE6A91BB2E628DD2703EE5E3E35070AFD0E/1012541.png",
+        "id": 1692,
+        "name": "Unholy Martyr",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 19,
+        "tier": 3
+    }
+]

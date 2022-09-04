@@ -1,8 +1,10 @@
-{
-    "chat_link": "[&BrDNAAA=]",
-    "description": "Deals damage to all foes outside of the platform section who are targeted by Pulverize.",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
-    "id": 52656,
-    "name": "Tremor"
-}
+[
+    {
+        "chat_link": "[&BrDNAAA=]",
+        "description": "Deals damage to all foes outside of the platform section who are targeted by Pulverize.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 52656,
+        "name": "Tremor"
+    }
+]

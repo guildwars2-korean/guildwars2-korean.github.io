@@ -1,55 +1,57 @@
-{
-    "categories": [
-        "Deception"
-    ],
-    "chat_link": "[&BmOnAAA=]",
-    "description": "Deception. Shadowstep and unleash an attack that blinds your target and nearby foes. You may reactivate this skill to return to your original position.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 900
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 25
-        },
-        {
-            "dmg_multiplier": 1.5,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "Next outgoing attack misses; stacks duration.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
-            "status": "Blinded",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "distance": 240,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        }
-    ],
-    "flags": [],
-    "flip_skill": 45666,
-    "icon": "https://render.guildwars2.com/file/729819F719FB5C6AA8F171993968B9276A803EDA/1770516.png",
-    "id": 42851,
-    "name": "Mirage Advance",
-    "professions": [
-        "Mesmer"
-    ],
-    "slot": "Utility",
-    "specialization": 59,
-    "type": "Utility",
-    "weapon_type": "None"
-}
+[
+    {
+        "categories": [
+            "Deception"
+        ],
+        "chat_link": "[&BmOnAAA=]",
+        "description": "Deception. Shadowstep and unleash an attack that blinds your target and nearby foes. You may reactivate this skill to return to your original position.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 25
+            },
+            {
+                "dmg_multiplier": 1.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Next outgoing attack misses; stacks duration.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "status": "Blinded",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            }
+        ],
+        "flags": [],
+        "flip_skill": 45666,
+        "icon": "https://render.guildwars2.com/file/729819F719FB5C6AA8F171993968B9276A803EDA/1770516.png",
+        "id": 42851,
+        "name": "Mirage Advance",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Utility",
+        "specialization": 59,
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

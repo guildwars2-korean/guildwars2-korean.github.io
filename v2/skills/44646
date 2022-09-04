@@ -1,117 +1,119 @@
-{
-    "chat_link": "[&BmauAAA=]",
-    "description": "Exceed. Create a holographic arena that grants you boons while inside of it. When activated above the heat threshold, the radius and duration are increased. Allies gain boons at reduced duration.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 45
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
-            "text": "<c=@abilitytype>Heat Threshold</c>",
-            "type": "Number",
-            "value": 50
-        },
-        {
-            "distance": 240,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "<c=@abilitytype>Radius Increase</c>",
-            "type": "Number",
-            "value": 120
-        },
-        {
-            "duration": 8,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Duration",
-            "type": "Time"
-        },
-        {
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Duration",
-            "type": "Time"
-        },
-        {
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "<c=@abilitytype>Duration Increase</c>",
-            "type": "Time"
-        },
-        {
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "<c=@abilitytype>Duration Increase</c>",
-            "type": "Time"
-        },
-        {
-            "apply_count": 1,
-            "description": "Critical chance increased; stacks duration.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-            "status": "퓨리",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Incoming strike damage decreased by 33%; stacks duration.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-            "status": "프로텍션",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
-            "status": "리제네레이션",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-            "text": "Boon Application Interval",
-            "type": "Time"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "percent": 50,
-            "text": "Ally Boon Duration",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Allied Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "field_type": "Light",
-            "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-            "text": "Combo Field",
-            "type": "ComboField"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/9F73BFABF402EA04A606DC39A635DC91D1700BE6/1770410.png",
-    "id": 44646,
-    "name": "Hard Light Arena",
-    "professions": [
-        "Engineer"
-    ],
-    "slot": "Utility",
-    "specialization": 57,
-    "toolbelt_skill": 41843,
-    "type": "Utility",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BmauAAA=]",
+        "description": "Exceed. Create a holographic arena that grants you boons while inside of it. When activated above the heat threshold, the radius and duration are increased. Allies gain boons at reduced duration.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 45
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+                "text": "<c=@abilitytype>Heat Threshold</c>",
+                "type": "Number",
+                "value": 50
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "<c=@abilitytype>Radius Increase</c>",
+                "type": "Number",
+                "value": 120
+            },
+            {
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Duration",
+                "type": "Time"
+            },
+            {
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Duration",
+                "type": "Time"
+            },
+            {
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "<c=@abilitytype>Duration Increase</c>",
+                "type": "Time"
+            },
+            {
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "<c=@abilitytype>Duration Increase</c>",
+                "type": "Time"
+            },
+            {
+                "apply_count": 1,
+                "description": "Critical chance increased; stacks duration.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                "status": "퓨리",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "status": "프로텍션",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "status": "리제네레이션",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "Boon Application Interval",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "percent": 50,
+                "text": "Ally Boon Duration",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Allied Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "field_type": "Light",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "Combo Field",
+                "type": "ComboField"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/9F73BFABF402EA04A606DC39A635DC91D1700BE6/1770410.png",
+        "id": 44646,
+        "name": "Hard Light Arena",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Utility",
+        "specialization": 57,
+        "toolbelt_skill": 41843,
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

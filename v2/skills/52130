@@ -1,37 +1,39 @@
-{
-    "chat_link": "[&BqLLAAA=]",
-    "description": "A vortex that roams the platform, inflicting damage and allowing the largos to more easily hunt its prey.",
-    "facts": [
-        {
-            "apply_count": 1,
-            "description": "As you become more waterlogged, you become more susceptible to the largos' water magic. If you become fully waterlogged at maximum stacks, you will be assassinated.",
-            "duration": 15,
-            "icon": "https://render.guildwars2.com/file/FB5C627D1A6A46807AF77165604A27FE804B056F/2039793.png",
-            "status": "Waterlogged",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-            "status": "Chilled",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Skills and actions are slower.",
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
-            "status": "Slow",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
-    "id": 52130,
-    "name": "Aquatic Vortex"
-}
+[
+    {
+        "chat_link": "[&BqLLAAA=]",
+        "description": "A vortex that roams the platform, inflicting damage and allowing the largos to more easily hunt its prey.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "As you become more waterlogged, you become more susceptible to the largos' water magic. If you become fully waterlogged at maximum stacks, you will be assassinated.",
+                "duration": 15,
+                "icon": "https://render.guildwars2.com/file/FB5C627D1A6A46807AF77165604A27FE804B056F/2039793.png",
+                "status": "Waterlogged",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "status": "Chilled",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Skills and actions are slower.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+                "status": "Slow",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 52130,
+        "name": "Aquatic Vortex"
+    }
+]

@@ -1,34 +1,36 @@
-{
-    "chat_link": "[&BuowAAA=]",
-    "description": "Block incoming attacks. If an attack is blocked, Counterattack Kick can be used.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 15
-        },
-        {
-            "apply_count": 1,
-            "description": "Counterattack with a powerful kick.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/AD43D7CDEBF83C23B799E94A649794181F6208DA/103124.png",
-            "status": "Counter Ready",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "flip_skill": 12523,
-    "icon": "https://render.guildwars2.com/file/16D60B57A2F495EE963811A305079790AC090E1B/104000.png",
-    "id": 12522,
-    "name": "Counterattack",
-    "professions": [
-        "Ranger"
-    ],
-    "slot": "Weapon_4",
-    "type": "Weapon",
-    "weapon_type": "Greatsword"
-}
+[
+    {
+        "chat_link": "[&BuowAAA=]",
+        "description": "Block incoming attacks. If an attack is blocked, Counterattack Kick can be used.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 15
+            },
+            {
+                "apply_count": 1,
+                "description": "Counterattack with a powerful kick.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/AD43D7CDEBF83C23B799E94A649794181F6208DA/103124.png",
+                "status": "Counter Ready",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 12523,
+        "icon": "https://render.guildwars2.com/file/16D60B57A2F495EE963811A305079790AC090E1B/104000.png",
+        "id": 12522,
+        "name": "Counterattack",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Weapon_4",
+        "type": "Weapon",
+        "weapon_type": "Greatsword"
+    }
+]

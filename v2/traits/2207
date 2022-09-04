@@ -1,28 +1,30 @@
-{
-    "description": "Gain fury when you activate Bladesong Sorrow. Fury increases your expertise.",
-    "facts": [
-        {
-            "apply_count": 1,
-            "description": "Critical chance increased; stacks duration.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-            "status": "퓨리",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/4977CD5BAF0A7B6412DCC775C3909F7D4EFE4C65/2229319.png",
-            "target": "ConditionDuration",
-            "text": "Expertise granted by fury",
-            "type": "AttributeAdjust",
-            "value": 150
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/0409B10E0D9E42C80EABE235E94F500F45301551/2479331.png",
-    "id": 2207,
-    "name": "Sharpening Sorrow",
-    "order": 2,
-    "slot": "Major",
-    "specialization": 66,
-    "tier": 2
-}
+[
+    {
+        "description": "Gain fury when you activate Bladesong Sorrow. Fury increases your expertise.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "Critical chance increased; stacks duration.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                "status": "퓨리",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/4977CD5BAF0A7B6412DCC775C3909F7D4EFE4C65/2229319.png",
+                "target": "ConditionDuration",
+                "text": "Expertise granted by fury",
+                "type": "AttributeAdjust",
+                "value": 150
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/0409B10E0D9E42C80EABE235E94F500F45301551/2479331.png",
+        "id": 2207,
+        "name": "Sharpening Sorrow",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 66,
+        "tier": 2
+    }
+]

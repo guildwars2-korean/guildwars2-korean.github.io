@@ -1,45 +1,47 @@
-{
-    "description": "When healing yourself, nearby allies are also healed. Gain healing power based on a portion of your power.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 10
-        },
-        {
-            "distance": 300,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "target": "Healing",
-            "text": "Healing",
-            "type": "AttributeAdjust",
-            "value": 532
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
-            "percent": 13,
-            "source": "Power",
-            "target": "Healing",
-            "text": "Attribute Conversion",
-            "type": "BuffConversion"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/090D289158520416A4402EBE9C92257E1309020D/1012533.png",
-    "id": 1915,
-    "name": "Healing Prism",
-    "order": 0,
-    "slot": "Minor",
-    "specialization": 23,
-    "tier": 3
-}
+[
+    {
+        "description": "When healing yourself, nearby allies are also healed. Gain healing power based on a portion of your power.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "distance": 300,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Healing",
+                "type": "AttributeAdjust",
+                "value": 532
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
+                "percent": 13,
+                "source": "Power",
+                "target": "Healing",
+                "text": "Attribute Conversion",
+                "type": "BuffConversion"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/090D289158520416A4402EBE9C92257E1309020D/1012533.png",
+        "id": 1915,
+        "name": "Healing Prism",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 23,
+        "tier": 3
+    }
+]

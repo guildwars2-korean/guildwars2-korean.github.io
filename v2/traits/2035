@@ -1,138 +1,140 @@
-{
-    "description": "Your <c=@abilitytype>Shatter</c> skills are improved.",
-    "facts": [
-        {
-            "apply_count": 1,
-            "description": "Increases critical-hit chance by 25%.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/52619C5D4F9A61C8F37A0705AE36602F19E164C2/103732.png",
-            "status": "Mind Wrack",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Cripples foes on hit.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/B8E57C1F08727AF8C39066160B93D175B6A3B9BA/103731.png",
-            "status": "Cry of Frustration",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Strikes up to five targets within range.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/0BD64508BF40EFFF3299DFA3D1A63BF2F941A4C9/103769.png",
-            "status": "Diversion",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Reflects Projectiles",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/D0969802A76808ACD65A56A6D54F2A40E355F7C3/103284.png",
-            "status": "Distortion",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/E625ADB94CF699763B23A7A82E255B55A44C1B16/1012517.png",
-    "id": 2035,
-    "name": "Master of Fragmentation",
-    "order": 1,
-    "slot": "Major",
-    "specialization": 24,
-    "tier": 3,
-    "traited_facts": [
-        {
-            "apply_count": 1,
-            "description": "Increases critical-hit chance by 25%.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/656A0C59523A4D9D935316EA93F1EA6247C32106/2479382.png",
-            "overrides": 0,
-            "requires_trait": 2216,
-            "status": "Bladesong Harmony",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Increases critical-hit chance by 25%.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/14090D7A6472AB06125662EB12E6EC51EDE2EEBB/2175059.png",
-            "overrides": 0,
-            "requires_trait": 2030,
-            "status": "Split Second",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Cripples foes on hit.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/EF9223543A66B8B5A8FD1C4BC4E7A218277C15C4/2479383.png",
-            "overrides": 1,
-            "requires_trait": 2216,
-            "status": "Bladesong Sorrow",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Cripples foes on hit.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/F59775A05108441C09AC03C30CAD98CC049CCC28/2175058.png",
-            "overrides": 1,
-            "requires_trait": 2030,
-            "status": "Rewinder",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Strikes up to five targets within range.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/D96E115ADAB14D610215EC185C3C21B4611DC292/2479381.png",
-            "overrides": 2,
-            "requires_trait": 2216,
-            "status": "Bladesong Dissonance",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Strikes up to five targets within range.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/3A0CF805A4359A10766D1DD04FF0E7D20A05BD17/2175060.png",
-            "overrides": 2,
-            "requires_trait": 2030,
-            "status": "Time Sink",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Duration increased by 1 second.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/040192EDDE9D2492D2428027E50DFC12B9044D39/2479384.png",
-            "overrides": 3,
-            "requires_trait": 2216,
-            "status": "Bladeturn Requiem",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Base duration increased by 1 second.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/9E7CE10D0E447973F2D9175CF16A103BD076D04B/1012882.png",
-            "overrides": 3,
-            "requires_trait": 2030,
-            "status": "Continuum Shift",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ]
-}
+[
+    {
+        "description": "Your <c=@abilitytype>Shatter</c> skills are improved.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "Increases critical-hit chance by 25%.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/52619C5D4F9A61C8F37A0705AE36602F19E164C2/103732.png",
+                "status": "Mind Wrack",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Cripples foes on hit.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/B8E57C1F08727AF8C39066160B93D175B6A3B9BA/103731.png",
+                "status": "Cry of Frustration",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Strikes up to five targets within range.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/0BD64508BF40EFFF3299DFA3D1A63BF2F941A4C9/103769.png",
+                "status": "Diversion",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Reflects Projectiles",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/D0969802A76808ACD65A56A6D54F2A40E355F7C3/103284.png",
+                "status": "Distortion",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/E625ADB94CF699763B23A7A82E255B55A44C1B16/1012517.png",
+        "id": 2035,
+        "name": "Master of Fragmentation",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 24,
+        "tier": 3,
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "Increases critical-hit chance by 25%.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/656A0C59523A4D9D935316EA93F1EA6247C32106/2479382.png",
+                "overrides": 0,
+                "requires_trait": 2216,
+                "status": "Bladesong Harmony",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Increases critical-hit chance by 25%.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/14090D7A6472AB06125662EB12E6EC51EDE2EEBB/2175059.png",
+                "overrides": 0,
+                "requires_trait": 2030,
+                "status": "Split Second",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Cripples foes on hit.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/EF9223543A66B8B5A8FD1C4BC4E7A218277C15C4/2479383.png",
+                "overrides": 1,
+                "requires_trait": 2216,
+                "status": "Bladesong Sorrow",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Cripples foes on hit.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/F59775A05108441C09AC03C30CAD98CC049CCC28/2175058.png",
+                "overrides": 1,
+                "requires_trait": 2030,
+                "status": "Rewinder",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Strikes up to five targets within range.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/D96E115ADAB14D610215EC185C3C21B4611DC292/2479381.png",
+                "overrides": 2,
+                "requires_trait": 2216,
+                "status": "Bladesong Dissonance",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Strikes up to five targets within range.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/3A0CF805A4359A10766D1DD04FF0E7D20A05BD17/2175060.png",
+                "overrides": 2,
+                "requires_trait": 2030,
+                "status": "Time Sink",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Duration increased by 1 second.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/040192EDDE9D2492D2428027E50DFC12B9044D39/2479384.png",
+                "overrides": 3,
+                "requires_trait": 2216,
+                "status": "Bladeturn Requiem",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Base duration increased by 1 second.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/9E7CE10D0E447973F2D9175CF16A103BD076D04B/1012882.png",
+                "overrides": 3,
+                "requires_trait": 2030,
+                "status": "Continuum Shift",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ]
+    }
+]

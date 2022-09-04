@@ -1,8 +1,10 @@
-{
-    "chat_link": "[&BlXqAAA=]",
-    "description": "Deals damage.",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
-    "id": 59989,
-    "name": "Ice Tempest"
-}
+[
+    {
+        "chat_link": "[&BlXqAAA=]",
+        "description": "Deals damage.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 59989,
+        "name": "Ice Tempest"
+    }
+]

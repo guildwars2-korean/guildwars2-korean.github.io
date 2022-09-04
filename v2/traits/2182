@@ -1,29 +1,31 @@
-{
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "percent": 50,
-            "text": "Duration Increase",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "percent": 4,
-            "text": "Condition Damage Reduced",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius Increase",
-            "type": "Number",
-            "value": 120
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/2374691454FF114724B41E1BF0CD98ECA645380A/1769996.png",
-    "id": 2182,
-    "name": "Righteous Rebel",
-    "order": 2,
-    "slot": "Major",
-    "specialization": 63,
-    "tier": 3
-}
+[
+    {
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "percent": 50,
+                "text": "Duration Increase",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 4,
+                "text": "Condition Damage Reduced",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius Increase",
+                "type": "Number",
+                "value": 120
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/2374691454FF114724B41E1BF0CD98ECA645380A/1769996.png",
+        "id": 2182,
+        "name": "Righteous Rebel",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 63,
+        "tier": 3
+    }
+]

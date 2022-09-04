@@ -1,8 +1,10 @@
-{
-    "chat_link": "[&BlLvAAA=]",
-    "description": "",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/6003B9BAF49D80F30D13E40453C145BF1159572B/103017.png",
-    "id": 61266,
-    "name": "Uppercut"
-}
+[
+    {
+        "chat_link": "[&BlLvAAA=]",
+        "description": "",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/6003B9BAF49D80F30D13E40453C145BF1159572B/103017.png",
+        "id": 61266,
+        "name": "Uppercut"
+    }
+]

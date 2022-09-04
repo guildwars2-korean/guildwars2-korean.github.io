@@ -48,7 +48,7 @@ def translate_item(param):
     origin_item_text = read_item(origin_item_path)
 
     translated_item_path = './{}/{}/{}'.format(translated_dir_name, resource, item_id)
-    translated_item_text = json.loads(get_custom_transalted_text(origin_item_text, dictionary_for_translation))
+    translated_item_text = [json.loads(get_custom_transalted_text(origin_item_text, dictionary_for_translation))]
     translated_resource_dir = './{}/{}'.format(translated_dir_name, resource)
     create_dir(translated_resource_dir)
     save_item(translated_item_path, translated_item_text)

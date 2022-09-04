@@ -1,44 +1,46 @@
-{
-    "description": "Your concentration is increased. Gain additional concentration while above the health threshold.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
-            "target": "BoonDuration",
-            "type": "AttributeAdjust",
-            "value": 120
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
-            "target": "BoonDuration",
-            "type": "AttributeAdjust",
-            "value": 60
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
-            "target": "BoonDuration",
-            "text": "Additional Concentration",
-            "type": "AttributeAdjust",
-            "value": 120
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
-            "target": "BoonDuration",
-            "text": "Additional Concentration",
-            "type": "AttributeAdjust",
-            "value": 60
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "percent": 90,
-            "text": "Health Threshold",
-            "type": "Percent"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/410EF84D7D37FBE72E1D2AB026249E1050CD70AF/2207774.png",
-    "id": 1938,
-    "name": "Gathered Focus",
-    "order": 0,
-    "slot": "Minor",
-    "specialization": 48,
-    "tier": 2
-}
+[
+    {
+        "description": "Your concentration is increased. Gain additional concentration while above the health threshold.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+                "target": "BoonDuration",
+                "type": "AttributeAdjust",
+                "value": 120
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+                "target": "BoonDuration",
+                "type": "AttributeAdjust",
+                "value": 60
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+                "target": "BoonDuration",
+                "text": "Additional Concentration",
+                "type": "AttributeAdjust",
+                "value": 120
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+                "target": "BoonDuration",
+                "text": "Additional Concentration",
+                "type": "AttributeAdjust",
+                "value": 60
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 90,
+                "text": "Health Threshold",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/410EF84D7D37FBE72E1D2AB026249E1050CD70AF/2207774.png",
+        "id": 1938,
+        "name": "Gathered Focus",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 48,
+        "tier": 2
+    }
+]

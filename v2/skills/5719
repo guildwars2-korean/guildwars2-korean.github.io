@@ -1,83 +1,85 @@
-{
-    "chat_link": "[&BlcWAAA=]",
-    "description": "Leap at your foe with a flaming attack that causes burning.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 550
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 15
-        },
-        {
-            "dmg_multiplier": 1.5,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 8,
-            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-            "status": "Burning",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "After using a Lava Axe ability, your next Lava Axe attack fires twice.",
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/0D0451ADE6BA5B4864DF0A0DE62108AA45914747/103339.png",
-            "status": "Fired Up!",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "finisher_type": "Leap",
-            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
-            "percent": 100,
-            "text": "Combo Finisher",
-            "type": "ComboFinisher"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/E50F019B7F732677016F959C67CB0EF7EC462D75/103386.png",
-    "id": 5719,
-    "name": "Flame Leap",
-    "professions": [
-        "Thief",
-        "Mesmer",
-        "Warrior",
-        "Elementalist",
-        "Necromancer",
-        "Guardian",
-        "Ranger",
-        "Engineer",
-        "Revenant"
-    ],
-    "slot": "Weapon_5",
-    "traited_facts": [
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-            "overrides": 3,
-            "requires_trait": 296,
-            "status": "Burning",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "type": "Bundle",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BlcWAAA=]",
+        "description": "Leap at your foe with a flaming attack that causes burning.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 550
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 15
+            },
+            {
+                "dmg_multiplier": 1.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "Burning",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "After using a Lava Axe ability, your next Lava Axe attack fires twice.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/0D0451ADE6BA5B4864DF0A0DE62108AA45914747/103339.png",
+                "status": "Fired Up!",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "finisher_type": "Leap",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "Combo Finisher",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/E50F019B7F732677016F959C67CB0EF7EC462D75/103386.png",
+        "id": 5719,
+        "name": "Flame Leap",
+        "professions": [
+            "Thief",
+            "Mesmer",
+            "Warrior",
+            "Elementalist",
+            "Necromancer",
+            "Guardian",
+            "Ranger",
+            "Engineer",
+            "Revenant"
+        ],
+        "slot": "Weapon_5",
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "overrides": 3,
+                "requires_trait": 296,
+                "status": "Burning",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Bundle",
+        "weapon_type": "None"
+    }
+]

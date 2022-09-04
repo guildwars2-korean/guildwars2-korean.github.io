@@ -1,38 +1,40 @@
-{
-    "description": "Deal damage and gain life when stealing. This attack cannot critically hit enemies.",
-    "facts": [
-        {
-            "dmg_multiplier": 1.5,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "dmg_multiplier": 0.75,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "target": "Healing",
-            "text": "Healing",
-            "type": "AttributeAdjust",
-            "value": 1980
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/63015872E20761F5E76F803A90666FBE4E262BC9/536051.png",
-            "text": "Cannot Critical Hit",
-            "type": "NoData"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/CF71C3B0EF58A1A4D7E5EC11B6EB10FB990F3C16/1012739.png",
-    "id": 1276,
-    "name": "Mug",
-    "order": 1,
-    "slot": "Major",
-    "specialization": 28,
-    "tier": 1
-}
+[
+    {
+        "description": "Deal damage and gain life when stealing. This attack cannot critically hit enemies.",
+        "facts": [
+            {
+                "dmg_multiplier": 1.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 0.75,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Healing",
+                "type": "AttributeAdjust",
+                "value": 1980
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/63015872E20761F5E76F803A90666FBE4E262BC9/536051.png",
+                "text": "Cannot Critical Hit",
+                "type": "NoData"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/CF71C3B0EF58A1A4D7E5EC11B6EB10FB990F3C16/1012739.png",
+        "id": 1276,
+        "name": "Mug",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 28,
+        "tier": 1
+    }
+]

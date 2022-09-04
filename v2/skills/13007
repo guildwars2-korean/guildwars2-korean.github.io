@@ -1,89 +1,91 @@
-{
-    "categories": [
-        "DualWield"
-    ],
-    "chat_link": "[&Bs8yAAA=]",
-    "description": "Dual Wield. Stab your foe and steal boons from them. Deals increased damage if it hits a foe with no boons.",
-    "dual_wield": "Dagger",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 130
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Unblockable",
-            "type": "Unblockable",
-            "value": true
-        },
-        {
-            "dmg_multiplier": 1.6,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "dmg_multiplier": 1.3,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Boons Stolen",
-            "type": "Number",
-            "value": 2
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "percent": 20,
-            "text": "Damage Increase",
-            "type": "Percent"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/01E5F13EA2E13B0A01540BFF9837299FEF20CF2C/575653.png",
-    "id": 13007,
-    "initiative": 2,
-    "name": "Larcenous Strike",
-    "professions": [
-        "Thief"
-    ],
-    "slot": "Weapon_3",
-    "traited_facts": [
-        {
-            "dmg_multiplier": 1.76,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "overrides": 2,
-            "requires_trait": 1192,
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "dmg_multiplier": 1.43,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "overrides": 3,
-            "requires_trait": 1192,
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "requires_trait": 1238,
-            "target": "Healing",
-            "text": "Healing",
-            "type": "AttributeAdjust",
-            "value": 102
-        }
-    ],
-    "type": "Weapon",
-    "weapon_type": "Sword"
-}
+[
+    {
+        "categories": [
+            "DualWield"
+        ],
+        "chat_link": "[&Bs8yAAA=]",
+        "description": "Dual Wield. Stab your foe and steal boons from them. Deals increased damage if it hits a foe with no boons.",
+        "dual_wield": "Dagger",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Unblockable",
+                "type": "Unblockable",
+                "value": true
+            },
+            {
+                "dmg_multiplier": 1.6,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 1.3,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Boons Stolen",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 20,
+                "text": "Damage Increase",
+                "type": "Percent"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/01E5F13EA2E13B0A01540BFF9837299FEF20CF2C/575653.png",
+        "id": 13007,
+        "initiative": 2,
+        "name": "Larcenous Strike",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Weapon_3",
+        "traited_facts": [
+            {
+                "dmg_multiplier": 1.76,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "overrides": 2,
+                "requires_trait": 1192,
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 1.43,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "overrides": 3,
+                "requires_trait": 1192,
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "requires_trait": 1238,
+                "target": "Healing",
+                "text": "Healing",
+                "type": "AttributeAdjust",
+                "value": 102
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Sword"
+    }
+]

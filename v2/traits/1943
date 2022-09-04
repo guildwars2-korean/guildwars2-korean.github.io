@@ -1,24 +1,26 @@
-{
-    "description": "Shield of Courage gains increased radius and duration.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "percent": 33,
-            "text": "Radius Increase",
-            "type": "Percent"
-        },
-        {
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Duration Increase",
-            "type": "Time"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/2EA7776741C1A4213757DC139FED6B340C50E7AB/1012394.png",
-    "id": 1943,
-    "name": "Bulwark",
-    "order": 2,
-    "slot": "Major",
-    "specialization": 27,
-    "tier": 2
-}
+[
+    {
+        "description": "Shield of Courage gains increased radius and duration.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 33,
+                "text": "Radius Increase",
+                "type": "Percent"
+            },
+            {
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Duration Increase",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/2EA7776741C1A4213757DC139FED6B340C50E7AB/1012394.png",
+        "id": 1943,
+        "name": "Bulwark",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 27,
+        "tier": 2
+    }
+]

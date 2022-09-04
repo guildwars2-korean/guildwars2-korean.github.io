@@ -1,148 +1,150 @@
-{
-    "categories": [
-        "Shout"
-    ],
-    "chat_link": "[&BhB1AAA=]",
-    "description": "Shout. Shout and infuse your allies with arcane energy. Allies who would take lethal damage while this is active ignore the deathblow and are healed instead. If the effect expires naturally, grant an aura based on your current attunement.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 75
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "target": "Healing",
-            "text": "Healing",
-            "type": "AttributeAdjust",
-            "value": 2836
-        },
-        {
-            "apply_count": 1,
-            "description": "Ignore the next lethal blow and receive healing.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/7B1B6E07A10B0FE8CED391354390EE993F51C3F7/1029984.png",
-            "status": "Rebound",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Critical chance increased; stacks duration.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-            "status": "퓨리",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/2E7050E44690AFE0A396FA0DAD526699392743F3/2261521.png",
-            "prefix": {
-                "description": "Cast fire spells.",
-                "icon": "https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png",
-                "status": "Fire Attunement",
-                "text": "Apply Buff/Condition"
+[
+    {
+        "categories": [
+            "Shout"
+        ],
+        "chat_link": "[&BhB1AAA=]",
+        "description": "Shout. Shout and infuse your allies with arcane energy. Allies who would take lethal damage while this is active ignore the deathblow and are healed instead. If the effect expires naturally, grant an aura based on your current attunement.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 75
             },
-            "status": "Fire Aura",
-            "text": "Apply Buff/Condition",
-            "type": "PrefixedBuff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Chill foes that strike you (only once per second for each attacker); incoming damage is reduced by 10%.",
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/719B80E35C276D68EF0AABB79126CF4CD42E3AF6/2261522.png",
-            "prefix": {
-                "description": "Cast water spells.",
-                "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
-                "status": "Water Attunement",
-                "text": "Apply Buff/Condition"
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Healing",
+                "type": "AttributeAdjust",
+                "value": 2836
             },
-            "status": "Frost Aura",
-            "text": "Apply Buff/Condition",
-            "type": "PrefixedBuff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Stun nearby attacking foes with an electric shock (only once per 2 seconds for each attacker).",
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/79F60BF40AB3F306E7367CF3479A4163F76F3944/2261527.png",
-            "prefix": {
-                "description": "Cast air spells.",
-                "icon": "https://render.guildwars2.com/file/4857F59020DE3B0950B9C91F3D234A1C1932984A/103048.png",
-                "status": "Air Attunement",
-                "text": "Apply Buff/Condition"
+            {
+                "apply_count": 1,
+                "description": "Ignore the next lethal blow and receive healing.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/7B1B6E07A10B0FE8CED391354390EE993F51C3F7/1029984.png",
+                "status": "Rebound",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
             },
-            "status": "Shocking Aura",
-            "text": "Apply Buff/Condition",
-            "type": "PrefixedBuff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Reflect projectiles with magnetic energy.",
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/33D27C7FE0017F70749DE84576F56F381DDF0C30/2261524.png",
-            "prefix": {
-                "description": "Cast earth spells.",
-                "icon": "https://render.guildwars2.com/file/4B8056D9BD080DC8E74AE6A57B2B383A2D4265C9/102870.png",
-                "status": "Earth Attunement",
-                "text": "Apply Buff/Condition"
+            {
+                "apply_count": 1,
+                "description": "Critical chance increased; stacks duration.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                "status": "퓨리",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
             },
-            "status": "Magnetic Aura",
-            "text": "Apply Buff/Condition",
-            "type": "PrefixedBuff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Allied Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Allied Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "distance": 600,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/7B1B6E07A10B0FE8CED391354390EE993F51C3F7/1029984.png",
-    "id": 29968,
-    "name": "\"Rebound!\"",
-    "professions": [
-        "Elementalist"
-    ],
-    "slot": "Elite",
-    "specialization": 48,
-    "traited_facts": [
-        {
-            "apply_count": 1,
-            "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/2E7050E44690AFE0A396FA0DAD526699392743F3/2261521.png",
-            "overrides": 4,
-            "prefix": {
-                "description": "Cast fire spells.",
-                "icon": "https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png",
-                "status": "Fire Attunement",
-                "text": "Apply Buff/Condition"
+            {
+                "apply_count": 1,
+                "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/2E7050E44690AFE0A396FA0DAD526699392743F3/2261521.png",
+                "prefix": {
+                    "description": "Cast fire spells.",
+                    "icon": "https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png",
+                    "status": "Fire Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "Fire Aura",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
             },
-            "requires_trait": 340,
-            "status": "Fire Aura",
-            "text": "Apply Buff/Condition",
-            "type": "PrefixedBuff"
-        }
-    ],
-    "type": "Elite",
-    "weapon_type": "None"
-}
+            {
+                "apply_count": 1,
+                "description": "Chill foes that strike you (only once per second for each attacker); incoming damage is reduced by 10%.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/719B80E35C276D68EF0AABB79126CF4CD42E3AF6/2261522.png",
+                "prefix": {
+                    "description": "Cast water spells.",
+                    "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
+                    "status": "Water Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "Frost Aura",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Stun nearby attacking foes with an electric shock (only once per 2 seconds for each attacker).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/79F60BF40AB3F306E7367CF3479A4163F76F3944/2261527.png",
+                "prefix": {
+                    "description": "Cast air spells.",
+                    "icon": "https://render.guildwars2.com/file/4857F59020DE3B0950B9C91F3D234A1C1932984A/103048.png",
+                    "status": "Air Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "Shocking Aura",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Reflect projectiles with magnetic energy.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/33D27C7FE0017F70749DE84576F56F381DDF0C30/2261524.png",
+                "prefix": {
+                    "description": "Cast earth spells.",
+                    "icon": "https://render.guildwars2.com/file/4B8056D9BD080DC8E74AE6A57B2B383A2D4265C9/102870.png",
+                    "status": "Earth Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "Magnetic Aura",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Allied Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Allied Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/7B1B6E07A10B0FE8CED391354390EE993F51C3F7/1029984.png",
+        "id": 29968,
+        "name": "\"Rebound!\"",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Elite",
+        "specialization": 48,
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/2E7050E44690AFE0A396FA0DAD526699392743F3/2261521.png",
+                "overrides": 4,
+                "prefix": {
+                    "description": "Cast fire spells.",
+                    "icon": "https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png",
+                    "status": "Fire Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "requires_trait": 340,
+                "status": "Fire Aura",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            }
+        ],
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

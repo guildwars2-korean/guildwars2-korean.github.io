@@ -1,69 +1,71 @@
-{
-    "chat_link": "[&BqttAAA=]",
-    "description": "Legendary Dragon. Consume. Consume Facet of Chaos, releasing chaotic winds damaging and knocking back foes while granting superspeed to allies. Facet of Chaos will be disabled while this skill is recharging.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 450
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 20
-        },
-        {
-            "dmg_multiplier": 2,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "이동 속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-            "status": "슈퍼스피드",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "distance": 360,
-            "icon": "https://render.guildwars2.com/file/B4087CEB5CC006172E0A09DADC5452807A0CA3F7/2440712.png",
-            "text": "Launch",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/055C20EB05B2EA1561E1CF2F297277EC6F07FA75/1012985.png",
-    "id": 28075,
-    "name": "Chaotic Release",
-    "professions": [
-        "Revenant"
-    ],
-    "slot": "Elite",
-    "specialization": 52,
-    "traited_facts": [
-        {
-            "apply_count": 1,
-            "description": "Pulse protection to nearby allies every few seconds.",
-            "duration": 6,
-            "icon": "https://render.guildwars2.com/file/E5F7EC66C065EAB56631BA0CD1CF6F4D03B89270/1012986.png",
-            "requires_trait": 1772,
-            "status": "Facet of Chaos",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "type": "Elite",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BqttAAA=]",
+        "description": "Legendary Dragon. Consume. Consume Facet of Chaos, releasing chaotic winds damaging and knocking back foes while granting superspeed to allies. Facet of Chaos will be disabled while this skill is recharging.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 450
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "dmg_multiplier": 2,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동 속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+                "status": "슈퍼스피드",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B4087CEB5CC006172E0A09DADC5452807A0CA3F7/2440712.png",
+                "text": "Launch",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/055C20EB05B2EA1561E1CF2F297277EC6F07FA75/1012985.png",
+        "id": 28075,
+        "name": "Chaotic Release",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Elite",
+        "specialization": 52,
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "Pulse protection to nearby allies every few seconds.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/E5F7EC66C065EAB56631BA0CD1CF6F4D03B89270/1012986.png",
+                "requires_trait": 1772,
+                "status": "Facet of Chaos",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

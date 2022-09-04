@@ -1,23 +1,25 @@
-{
-    "chat_link": "[&BmgwAAA=]",
-    "description": "Shape-shift back from norn wolf form.",
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/756D5AF0BCA8900AD098D69436FA4EDB0D1E7AB5/103958.png",
-    "id": 12392,
-    "name": "Release the Wolf",
-    "professions": [
-        "Guardian",
-        "Warrior",
-        "Engineer",
-        "Ranger",
-        "Thief",
-        "Elementalist",
-        "Mesmer",
-        "Necromancer"
-    ],
-    "slot": "Elite",
-    "type": "Elite",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BmgwAAA=]",
+        "description": "Shape-shift back from norn wolf form.",
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/756D5AF0BCA8900AD098D69436FA4EDB0D1E7AB5/103958.png",
+        "id": 12392,
+        "name": "Release the Wolf",
+        "professions": [
+            "Guardian",
+            "Warrior",
+            "Engineer",
+            "Ranger",
+            "Thief",
+            "Elementalist",
+            "Mesmer",
+            "Necromancer"
+        ],
+        "slot": "Elite",
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

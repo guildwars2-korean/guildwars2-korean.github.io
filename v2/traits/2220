@@ -1,25 +1,27 @@
-{
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
-            "percent": 13,
-            "source": "Vitality",
-            "target": "BoonDuration",
-            "text": "Attribute Conversion",
-            "type": "BuffConversion"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/D8652B66081F580A082807C9DF4E743A75D038FF/2479342.png",
-    "id": 2220,
-    "name": "Twisted Medicine",
-    "order": 1,
-    "slot": "Major",
-    "specialization": 64,
-    "tier": 2
-}
+[
+    {
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+                "percent": 13,
+                "source": "Vitality",
+                "target": "BoonDuration",
+                "text": "Attribute Conversion",
+                "type": "BuffConversion"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/D8652B66081F580A082807C9DF4E743A75D038FF/2479342.png",
+        "id": 2220,
+        "name": "Twisted Medicine",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 64,
+        "tier": 2
+    }
+]

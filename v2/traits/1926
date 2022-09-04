@@ -1,24 +1,26 @@
-{
-    "description": "Deal bonus strike damage based on your distance to the enemy.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "percent": 5,
-            "text": "Minimum Bonus Damage",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "percent": 15,
-            "text": "Maximum Bonus Damage",
-            "type": "Percent"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/0F1A24AA6542E9ECAF1DE84D96A84ED0A5ED9759/1012400.png",
-    "id": 1926,
-    "name": "Pure of Sight",
-    "order": 0,
-    "slot": "Minor",
-    "specialization": 27,
-    "tier": 3
-}
+[
+    {
+        "description": "Deal bonus strike damage based on your distance to the enemy.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 5,
+                "text": "Minimum Bonus Damage",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 15,
+                "text": "Maximum Bonus Damage",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/0F1A24AA6542E9ECAF1DE84D96A84ED0A5ED9759/1012400.png",
+        "id": 1926,
+        "name": "Pure of Sight",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 27,
+        "tier": 3
+    }
+]

@@ -1,55 +1,57 @@
-{
-    "chat_link": "[&Bjl3AAA=]",
-    "description": "Restore health to allies with several pulses of healing energy. Heals more for each boon on the ally.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 600
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "target": "Healing",
-            "text": "Base Healing",
-            "type": "AttributeAdjust",
-            "value": 70
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "target": "Healing",
-            "text": "Base Healing",
-            "type": "AttributeAdjust",
-            "value": 70
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "target": "Healing",
-            "text": "Healing for Each Boon",
-            "type": "AttributeAdjust",
-            "value": 11
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Pulses",
-            "type": "Number",
-            "value": 3
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/94A7A5711A4922DFF3BCB701D770D3BB06EE0A59/1012852.png",
-    "id": 30521,
-    "name": "Med Blaster",
-    "professions": [
-        "Engineer"
-    ],
-    "slot": "Weapon_1",
-    "type": "Bundle",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&Bjl3AAA=]",
+        "description": "Restore health to allies with several pulses of healing energy. Heals more for each boon on the ally.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 600
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Base Healing",
+                "type": "AttributeAdjust",
+                "value": 70
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Base Healing",
+                "type": "AttributeAdjust",
+                "value": 70
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Healing for Each Boon",
+                "type": "AttributeAdjust",
+                "value": 11
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Pulses",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/94A7A5711A4922DFF3BCB701D770D3BB06EE0A59/1012852.png",
+        "id": 30521,
+        "name": "Med Blaster",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Weapon_1",
+        "type": "Bundle",
+        "weapon_type": "None"
+    }
+]

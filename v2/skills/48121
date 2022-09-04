@@ -1,16 +1,18 @@
-{
-    "chat_link": "[&Bvm7AAA=]",
-    "description": "Arcing damage from a nearby ally.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 4000
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/2E2837AB65D4283DD23673CB21450A9CC5D2F07F/103384.png",
-    "id": 48121,
-    "name": "Arcing Affliction"
-}
+[
+    {
+        "chat_link": "[&Bvm7AAA=]",
+        "description": "Arcing damage from a nearby ally.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 4000
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/2E2837AB65D4283DD23673CB21450A9CC5D2F07F/103384.png",
+        "id": 48121,
+        "name": "Arcing Affliction"
+    }
+]

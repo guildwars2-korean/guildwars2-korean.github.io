@@ -1,23 +1,25 @@
-{
-    "chat_link": "[&Blr8AAA=]",
-    "description": "The sniper fires a ricocheting bullet at the target, dealing heavy damage and bouncing to nearby enemies, increasing in damage after each bounce.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 8000
-        },
-        {
-            "finisher_type": "Projectile",
-            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
-            "percent": 100,
-            "text": "Combo Finisher",
-            "type": "ComboFinisher"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/170FEF0C80AE0E4FBF3FEAF05FF11871D242F346/2221493.png",
-    "id": 64602,
-    "name": "Jade Ricochet"
-}
+[
+    {
+        "chat_link": "[&Blr8AAA=]",
+        "description": "The sniper fires a ricocheting bullet at the target, dealing heavy damage and bouncing to nearby enemies, increasing in damage after each bounce.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 8000
+            },
+            {
+                "finisher_type": "Projectile",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "Combo Finisher",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/170FEF0C80AE0E4FBF3FEAF05FF11871D242F346/2221493.png",
+        "id": 64602,
+        "name": "Jade Ricochet"
+    }
+]

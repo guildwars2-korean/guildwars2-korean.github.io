@@ -1,50 +1,52 @@
-{
-    "chat_link": "[&Bvn2AAA=]",
-    "description": "Unleashed Ambush. Fire arrows at your target and other enemies near your target. Striking an enemy reduces the recharge of other longbow skills.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 1500
-        },
-        {
-            "dmg_multiplier": 1.2,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "duration": 3,
-            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-            "text": "First-Hit Recharge Reduction",
-            "type": "Time"
-        },
-        {
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-            "text": "Additional-Hit Recharge Reduction",
-            "type": "Time"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/AF7A96BB16BD9453059730A6B5EF437E7C72AB3A/2565749.png",
-    "id": 63225,
-    "name": "Multishot",
-    "professions": [
-        "Ranger"
-    ],
-    "slot": "Weapon_1",
-    "specialization": 72,
-    "type": "Weapon",
-    "weapon_type": "Longbow"
-}
+[
+    {
+        "chat_link": "[&Bvn2AAA=]",
+        "description": "Unleashed Ambush. Fire arrows at your target and other enemies near your target. Striking an enemy reduces the recharge of other longbow skills.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 1500
+            },
+            {
+                "dmg_multiplier": 1.2,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "text": "First-Hit Recharge Reduction",
+                "type": "Time"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "text": "Additional-Hit Recharge Reduction",
+                "type": "Time"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/AF7A96BB16BD9453059730A6B5EF437E7C72AB3A/2565749.png",
+        "id": 63225,
+        "name": "Multishot",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Weapon_1",
+        "specialization": 72,
+        "type": "Weapon",
+        "weapon_type": "Longbow"
+    }
+]

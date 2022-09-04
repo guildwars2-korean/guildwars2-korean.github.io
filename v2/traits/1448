@@ -1,18 +1,20 @@
-{
-    "description": "<c=@abilitytype>Burst</c> skills restore endurance on hit.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Endurance Gained",
-            "type": "Number",
-            "value": 15
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/7255D994BB1A14AE2B6CB55BA121B0597ABC6415/1012820.png",
-    "id": 1448,
-    "name": "Building Momentum",
-    "order": 0,
-    "slot": "Minor",
-    "specialization": 4,
-    "tier": 2
-}
+[
+    {
+        "description": "<c=@abilitytype>Burst</c> skills restore endurance on hit.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Endurance Gained",
+                "type": "Number",
+                "value": 15
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/7255D994BB1A14AE2B6CB55BA121B0597ABC6415/1012820.png",
+        "id": 1448,
+        "name": "Building Momentum",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 4,
+        "tier": 2
+    }
+]

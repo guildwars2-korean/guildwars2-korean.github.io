@@ -1,8 +1,10 @@
-{
-    "chat_link": "[&BqmVAAA=]",
-    "description": "Cairn swings its left hand back, creating an expanding fan of projectiles that drag targets back.",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/E43730AD49A903C3A1B4F27E41DE04EA51A775EC/156636.png",
-    "id": 38313,
-    "name": "Meteor Swarm"
-}
+[
+    {
+        "chat_link": "[&BqmVAAA=]",
+        "description": "Cairn swings its left hand back, creating an expanding fan of projectiles that drag targets back.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/E43730AD49A903C3A1B4F27E41DE04EA51A775EC/156636.png",
+        "id": 38313,
+        "name": "Meteor Swarm"
+    }
+]

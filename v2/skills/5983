@@ -1,50 +1,52 @@
-{
-    "chat_link": "[&Bl8XAAA=]",
-    "description": "Use your rocket boots to do an explosive kick that burns foes.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 300
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 15
-        },
-        {
-            "dmg_multiplier": 1,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 2,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 8,
-            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-            "status": "Burning",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/183D3C1B6E1931B1D1EDCB3A236D7DFF77A19DD0/103465.png",
-    "id": 5983,
-    "name": "Rocket Kick",
-    "professions": [
-        "Engineer"
-    ],
-    "slot": "Toolbelt",
-    "type": "Toolbelt",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&Bl8XAAA=]",
+        "description": "Use your rocket boots to do an explosive kick that burns foes.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 300
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 15
+            },
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 2,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "Burning",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/183D3C1B6E1931B1D1EDCB3A236D7DFF77A19DD0/103465.png",
+        "id": 5983,
+        "name": "Rocket Kick",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Toolbelt",
+        "type": "Toolbelt",
+        "weapon_type": "None"
+    }
+]

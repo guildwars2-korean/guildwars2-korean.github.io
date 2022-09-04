@@ -1,15 +1,17 @@
-{
-    "chat_link": "[&BlopAAA=]",
-    "description": "You cannot use skills while transformed.",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/A9050BAB0847390C0112694321B0F6AEDF7AE1FB/102804.png",
-    "id": 10586,
-    "name": "Locked",
-    "professions": [
-        "Engineer",
-        "Necromancer"
-    ],
-    "slot": "Profession_1",
-    "type": "Profession",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BlopAAA=]",
+        "description": "You cannot use skills while transformed.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/A9050BAB0847390C0112694321B0F6AEDF7AE1FB/102804.png",
+        "id": 10586,
+        "name": "Locked",
+        "professions": [
+            "Engineer",
+            "Necromancer"
+        ],
+        "slot": "Profession_1",
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

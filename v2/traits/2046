@@ -1,30 +1,32 @@
-{
-    "description": "Berserk mode increases power and condition damage but reduces toughness.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
-            "target": "Power",
-            "type": "AttributeAdjust",
-            "value": 300
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
-            "target": "ConditionDamage",
-            "type": "AttributeAdjust",
-            "value": 300
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/432C0F04F740C1377E6D5D56640B57083C031216/2229324.png",
-            "target": "Toughness",
-            "type": "AttributeAdjust",
-            "value": -300
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/A6EDB2AE070A9F43B60067771C21B251F86A49EE/1029977.png",
-    "id": 2046,
-    "name": "Fatal Frenzy",
-    "order": 0,
-    "slot": "Minor",
-    "specialization": 18,
-    "tier": 3
-}
+[
+    {
+        "description": "Berserk mode increases power and condition damage but reduces toughness.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+                "target": "Power",
+                "type": "AttributeAdjust",
+                "value": 300
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+                "target": "ConditionDamage",
+                "type": "AttributeAdjust",
+                "value": 300
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/432C0F04F740C1377E6D5D56640B57083C031216/2229324.png",
+                "target": "Toughness",
+                "type": "AttributeAdjust",
+                "value": -300
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/A6EDB2AE070A9F43B60067771C21B251F86A49EE/1029977.png",
+        "id": 2046,
+        "name": "Fatal Frenzy",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 18,
+        "tier": 3
+    }
+]

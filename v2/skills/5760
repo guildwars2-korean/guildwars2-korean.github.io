@@ -1,58 +1,60 @@
-{
-    "attunement": "Air",
-    "categories": [
-        "Glyph"
-    ],
-    "chat_link": "[&BoAWAAA=]",
-    "description": "Glyph. Revive and teleport an ally to your location.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 900
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 90
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Revive Targets",
-            "type": "Number",
-            "value": 1
-        },
-        {
-            "distance": 180,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        }
-    ],
-    "flags": [
-        "GroundTargeted"
-    ],
-    "icon": "https://render.guildwars2.com/file/E30F0C419DB4BD6A09E764442B223AFD4C7F9199/1424230.png",
-    "id": 5760,
-    "name": "Renewal of Air",
-    "professions": [
-        "Elementalist"
-    ],
-    "slot": "Utility",
-    "traited_facts": [
-        {
-            "apply_count": 1,
-            "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-            "requires_trait": 229,
-            "status": "스위프트니스",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "type": "Utility",
-    "weapon_type": "None"
-}
+[
+    {
+        "attunement": "Air",
+        "categories": [
+            "Glyph"
+        ],
+        "chat_link": "[&BoAWAAA=]",
+        "description": "Glyph. Revive and teleport an ally to your location.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 90
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Revive Targets",
+                "type": "Number",
+                "value": 1
+            },
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            }
+        ],
+        "flags": [
+            "GroundTargeted"
+        ],
+        "icon": "https://render.guildwars2.com/file/E30F0C419DB4BD6A09E764442B223AFD4C7F9199/1424230.png",
+        "id": 5760,
+        "name": "Renewal of Air",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Utility",
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                "requires_trait": 229,
+                "status": "스위프트니스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

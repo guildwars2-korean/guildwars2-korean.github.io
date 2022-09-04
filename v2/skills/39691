@@ -1,8 +1,10 @@
-{
-    "chat_link": "[&BgubAAA=]",
-    "description": "Discharges solar energy, knocking back foes in its path. This attack can be jumped over.",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
-    "id": 39691,
-    "name": "Solar Discharge"
-}
+[
+    {
+        "chat_link": "[&BgubAAA=]",
+        "description": "Discharges solar energy, knocking back foes in its path. This attack can be jumped over.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 39691,
+        "name": "Solar Discharge"
+    }
+]

@@ -1,51 +1,53 @@
-{
-    "description": "Reduces duration of movement-impairing conditions. Your movement speed is increased as long as you have none of these conditions.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "percent": 33,
-            "text": "Movement Speed Increase",
-            "type": "Percent"
-        },
-        {
-            "apply_count": 1,
-            "description": "Unable to move; stacks duration.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-            "status": "Immobile",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Movement speed decreased by 50%; stacks duration.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-            "status": "Crippled",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
-            "duration": 0,
-            "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-            "status": "Chilled",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "percent": 33,
-            "text": "Duration Decreased",
-            "type": "Percent"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/5F953BAC2C7EB3340B4EAA9A7D9633320BAB29A6/1128535.png",
-    "id": 2056,
-    "name": "Natural Stride",
-    "order": 2,
-    "slot": "Major",
-    "specialization": 5,
-    "tier": 2
-}
+[
+    {
+        "description": "Reduces duration of movement-impairing conditions. Your movement speed is increased as long as you have none of these conditions.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 33,
+                "text": "Movement Speed Increase",
+                "type": "Percent"
+            },
+            {
+                "apply_count": 1,
+                "description": "Unable to move; stacks duration.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "Immobile",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Movement speed decreased by 50%; stacks duration.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "Crippled",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "status": "Chilled",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "percent": 33,
+                "text": "Duration Decreased",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/5F953BAC2C7EB3340B4EAA9A7D9633320BAB29A6/1128535.png",
+        "id": 2056,
+        "name": "Natural Stride",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 5,
+        "tier": 2
+    }
+]

@@ -1,33 +1,35 @@
-{
-    "categories": [
-        "Physical"
-    ],
-    "chat_link": "[&BjJ4AAA=]",
-    "description": "Physical. Cause a rupture that deals massive damage when this skill ends. This ability cannot critically hit.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Unblockable",
-            "type": "Unblockable",
-            "value": true
-        },
-        {
-            "dmg_multiplier": 3.28,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "dmg_multiplier": 0.75,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/96580AB413D9791D53D45093063F54CD9F56C513/1058634.png",
-    "id": 30770,
-    "name": "Pulmonary Impact"
-}
+[
+    {
+        "categories": [
+            "Physical"
+        ],
+        "chat_link": "[&BjJ4AAA=]",
+        "description": "Physical. Cause a rupture that deals massive damage when this skill ends. This ability cannot critically hit.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Unblockable",
+                "type": "Unblockable",
+                "value": true
+            },
+            {
+                "dmg_multiplier": 3.28,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 0.75,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/96580AB413D9791D53D45093063F54CD9F56C513/1058634.png",
+        "id": 30770,
+        "name": "Pulmonary Impact"
+    }
+]

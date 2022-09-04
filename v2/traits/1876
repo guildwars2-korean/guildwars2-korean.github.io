@@ -1,66 +1,68 @@
-{
-    "description": "Cast Lesser Signet of Vampirism when you inflict bleeding on a foe that already has at least three stacks of bleeding.",
-    "icon": "https://render.guildwars2.com/file/E44619EFE79BCAE2030E0A3A1CDBAE411A062403/1012536.png",
-    "id": 1876,
-    "name": "Blood Bond",
-    "order": 2,
-    "skills": [
-        {
-            "categories": [
-                "Signet"
-            ],
-            "chat_link": "[&BsZ0AAA=]",
-            "description": "Signet Active: Mark a foe. Allied players will siphon life from that enemy.",
-            "facts": [
-                {
-                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                    "text": "Range",
-                    "type": "Range",
-                    "value": 1200
-                },
-                {
-                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-                    "text": "Recharge",
-                    "type": "Recharge",
-                    "value": 16
-                },
-                {
-                    "apply_count": 5,
-                    "description": "Life is siphoned when struck by players.",
-                    "duration": 6,
-                    "icon": "https://render.guildwars2.com/file/F62121A2D713A4CD5FDA3E5C734408EF3306BED4/699529.png",
-                    "status": "Vampiric Mark",
-                    "text": "Apply Buff/Condition",
-                    "type": "Buff"
-                },
-                {
-                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                    "target": "Power",
-                    "text": "Active Life Siphon Damage",
-                    "type": "AttributeAdjust",
-                    "value": 163
-                },
-                {
-                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                    "target": "Healing",
-                    "text": "Active Life Siphon Heal",
-                    "type": "AttributeAdjust",
-                    "value": 470
-                },
-                {
-                    "duration": 1,
-                    "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                    "text": "Active Life Siphon Cooldown",
-                    "type": "Time"
-                }
-            ],
-            "flags": [],
-            "icon": "https://render.guildwars2.com/file/F62121A2D713A4CD5FDA3E5C734408EF3306BED4/699529.png",
-            "id": 29894,
-            "name": "Lesser Signet of Vampirism"
-        }
-    ],
-    "slot": "Major",
-    "specialization": 19,
-    "tier": 1
-}
+[
+    {
+        "description": "Cast Lesser Signet of Vampirism when you inflict bleeding on a foe that already has at least three stacks of bleeding.",
+        "icon": "https://render.guildwars2.com/file/E44619EFE79BCAE2030E0A3A1CDBAE411A062403/1012536.png",
+        "id": 1876,
+        "name": "Blood Bond",
+        "order": 2,
+        "skills": [
+            {
+                "categories": [
+                    "Signet"
+                ],
+                "chat_link": "[&BsZ0AAA=]",
+                "description": "Signet Active: Mark a foe. Allied players will siphon life from that enemy.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                        "text": "Range",
+                        "type": "Range",
+                        "value": 1200
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                        "text": "Recharge",
+                        "type": "Recharge",
+                        "value": 16
+                    },
+                    {
+                        "apply_count": 5,
+                        "description": "Life is siphoned when struck by players.",
+                        "duration": 6,
+                        "icon": "https://render.guildwars2.com/file/F62121A2D713A4CD5FDA3E5C734408EF3306BED4/699529.png",
+                        "status": "Vampiric Mark",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                        "target": "Power",
+                        "text": "Active Life Siphon Damage",
+                        "type": "AttributeAdjust",
+                        "value": 163
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                        "target": "Healing",
+                        "text": "Active Life Siphon Heal",
+                        "type": "AttributeAdjust",
+                        "value": 470
+                    },
+                    {
+                        "duration": 1,
+                        "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                        "text": "Active Life Siphon Cooldown",
+                        "type": "Time"
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/F62121A2D713A4CD5FDA3E5C734408EF3306BED4/699529.png",
+                "id": 29894,
+                "name": "Lesser Signet of Vampirism"
+            }
+        ],
+        "slot": "Major",
+        "specialization": 19,
+        "tier": 1
+    }
+]

@@ -1,32 +1,34 @@
-{
-    "description": "Upon using a <c=@abilitytype>Beast</c> ability, your pet's next attack will inflict poison; your poison damage is increased.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "percent": 25,
-            "text": "Damage Increase",
-            "type": "Percent"
-        },
-        {
-            "apply_count": 2,
-            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
-            "duration": 8,
-            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-            "status": "Poisoned",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Combat Only",
-            "type": "NoData"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/31F8DA3B6BEE52B1AC76FEE0C10E4A075F5524DA/1012662.png",
-    "id": 1701,
-    "name": "Poison Master",
-    "order": 2,
-    "slot": "Major",
-    "specialization": 33,
-    "tier": 3
-}
+[
+    {
+        "description": "Upon using a <c=@abilitytype>Beast</c> ability, your pet's next attack will inflict poison; your poison damage is increased.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 25,
+                "text": "Damage Increase",
+                "type": "Percent"
+            },
+            {
+                "apply_count": 2,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "status": "Poisoned",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Combat Only",
+                "type": "NoData"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/31F8DA3B6BEE52B1AC76FEE0C10E4A075F5524DA/1012662.png",
+        "id": 1701,
+        "name": "Poison Master",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 33,
+        "tier": 3
+    }
+]

@@ -1,16 +1,18 @@
-{
-    "chat_link": "[&BnSVAAA=]",
-    "description": "Samarog turns allies against each other, dealing damage to those who choose not to flee from affected allies in time. You chose poorly.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 6000
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/0917C0B5F14C0140109E99F477DD322FD7040109/103130.png",
-    "id": 38260,
-    "name": "Inevitable Betrayal"
-}
+[
+    {
+        "chat_link": "[&BnSVAAA=]",
+        "description": "Samarog turns allies against each other, dealing damage to those who choose not to flee from affected allies in time. You chose poorly.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 6000
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/0917C0B5F14C0140109E99F477DD322FD7040109/103130.png",
+        "id": 38260,
+        "name": "Inevitable Betrayal"
+    }
+]

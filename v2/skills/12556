@@ -1,56 +1,58 @@
-{
-    "chat_link": "[&BgwxAAA=]",
-    "description": "Deliver a final poisonous attack.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 150
-        },
-        {
-            "dmg_multiplier": 1.25,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
-            "duration": 6,
-            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-            "status": "Poisoned",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 3
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/780678EFDE1B3118207655C565F60E236022AEAF/103783.png",
-    "id": 12556,
-    "name": "Toxic Strike",
-    "prev_chain": 12555,
-    "professions": [
-        "Ranger"
-    ],
-    "slot": "Weapon_1",
-    "traited_facts": [
-        {
-            "dmg_multiplier": 1.05,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "overrides": 1,
-            "requires_trait": 1047,
-            "text": "Damage",
-            "type": "Damage"
-        }
-    ],
-    "type": "Weapon",
-    "weapon_type": "Spear"
-}
+[
+    {
+        "chat_link": "[&BgwxAAA=]",
+        "description": "Deliver a final poisonous attack.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 150
+            },
+            {
+                "dmg_multiplier": 1.25,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "status": "Poisoned",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/780678EFDE1B3118207655C565F60E236022AEAF/103783.png",
+        "id": 12556,
+        "name": "Toxic Strike",
+        "prev_chain": 12555,
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Weapon_1",
+        "traited_facts": [
+            {
+                "dmg_multiplier": 1.05,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "overrides": 1,
+                "requires_trait": 1047,
+                "text": "Damage",
+                "type": "Damage"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Spear"
+    }
+]

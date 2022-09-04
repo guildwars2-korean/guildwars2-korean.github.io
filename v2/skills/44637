@@ -1,48 +1,50 @@
-{
-    "chat_link": "[&Bl2uAAA=]",
-    "description": "Release all of your woven elements and end your Weave Self stance, causing gravity itself to unravel around you.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Unblockable",
-            "type": "Unblockable",
-            "value": true
-        },
-        {
-            "dmg_multiplier": 0.75,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "duration": 3,
-            "icon": "https://render.guildwars2.com/file/18F6E20EB4F7A812FD2C13723F130166BC54C6D1/2440713.png",
-            "text": "Float",
-            "type": "Time"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "distance": 360,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/33DBB3D7536A4D4E4A3B0CB60CB1FEE2E8F20A15/1770327.png",
-    "id": 44637,
-    "name": "Tailored Victory",
-    "professions": [
-        "Elementalist"
-    ],
-    "slot": "Elite",
-    "specialization": 56,
-    "type": "Elite",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&Bl2uAAA=]",
+        "description": "Release all of your woven elements and end your Weave Self stance, causing gravity itself to unravel around you.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Unblockable",
+                "type": "Unblockable",
+                "value": true
+            },
+            {
+                "dmg_multiplier": 0.75,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/18F6E20EB4F7A812FD2C13723F130166BC54C6D1/2440713.png",
+                "text": "Float",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/33DBB3D7536A4D4E4A3B0CB60CB1FEE2E8F20A15/1770327.png",
+        "id": 44637,
+        "name": "Tailored Victory",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Elite",
+        "specialization": 56,
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

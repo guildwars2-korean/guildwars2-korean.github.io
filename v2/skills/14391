@@ -1,49 +1,51 @@
-{
-    "chat_link": "[&Bjc4AAA=]",
-    "description": "Rally and fight normally for a brief time. You have a chance to fully rally if you kill an enemy. When the vengeance ends, you are defeated.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 20
-        },
-        {
-            "duration": 15,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Vengeance Duration",
-            "type": "Time"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "percent": 25,
-            "text": "Percent",
-            "type": "Percent"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Prevents Capture-Point Contribution",
-            "type": "NoData"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/4EDE3CEDF8BE6153441B25F69AD4DEF55BF627F6/102847.png",
-    "id": 14391,
-    "name": "Vengeance",
-    "professions": [
-        "Warrior"
-    ],
-    "slot": "Downed_3",
-    "traited_facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "overrides": 2,
-            "percent": 100,
-            "requires_trait": 1381,
-            "text": "Percent",
-            "type": "Percent"
-        }
-    ],
-    "type": "Weapon",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&Bjc4AAA=]",
+        "description": "Rally and fight normally for a brief time. You have a chance to fully rally if you kill an enemy. When the vengeance ends, you are defeated.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "duration": 15,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Vengeance Duration",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 25,
+                "text": "Percent",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Prevents Capture-Point Contribution",
+                "type": "NoData"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/4EDE3CEDF8BE6153441B25F69AD4DEF55BF627F6/102847.png",
+        "id": 14391,
+        "name": "Vengeance",
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Downed_3",
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "overrides": 2,
+                "percent": 100,
+                "requires_trait": 1381,
+                "text": "Percent",
+                "type": "Percent"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "None"
+    }
+]

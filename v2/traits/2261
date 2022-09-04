@@ -1,27 +1,29 @@
-{
-    "description": "Dragon Slash heals you for a percentage of the damage dealt. Gain protection whenever you convert flow into charges.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-            "percent": 8,
-            "text": "Healing",
-            "type": "Percent"
-        },
-        {
-            "apply_count": 1,
-            "description": "Incoming strike damage decreased by 33%; stacks duration.",
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-            "status": "프로텍션",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/EFD50422C974522BEC9FAF95006FF71DBD711BEC/2491549.png",
-    "id": 2261,
-    "name": "Immortal Dragon",
-    "order": 0,
-    "slot": "Major",
-    "specialization": 68,
-    "tier": 3
-}
+[
+    {
+        "description": "Dragon Slash heals you for a percentage of the damage dealt. Gain protection whenever you convert flow into charges.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "percent": 8,
+                "text": "Healing",
+                "type": "Percent"
+            },
+            {
+                "apply_count": 1,
+                "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "status": "프로텍션",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/EFD50422C974522BEC9FAF95006FF71DBD711BEC/2491549.png",
+        "id": 2261,
+        "name": "Immortal Dragon",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 68,
+        "tier": 3
+    }
+]

@@ -1,51 +1,53 @@
-{
-    "attunement": "Earth",
-    "chat_link": "[&BkioAAA=]",
-    "description": "Attack enemies with a second vicious attack.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 130
-        },
-        {
-            "dmg_multiplier": 0.9,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "Deals damage every second; stacks intensity.",
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-            "status": "Bleeding",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 3
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "flip_skill": 46024,
-    "icon": "https://render.guildwars2.com/file/0D06CA7F9D03A4166900C4003DBB0EE910736A08/1770359.png",
-    "id": 43080,
-    "name": "Crystalline Strike",
-    "next_chain": 46024,
-    "prev_chain": 43616,
-    "professions": [
-        "Elementalist"
-    ],
-    "slot": "Weapon_1",
-    "specialization": 56,
-    "type": "Weapon",
-    "weapon_type": "Sword"
-}
+[
+    {
+        "attunement": "Earth",
+        "chat_link": "[&BkioAAA=]",
+        "description": "Attack enemies with a second vicious attack.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "dmg_multiplier": 0.9,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; stacks intensity.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "Bleeding",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 46024,
+        "icon": "https://render.guildwars2.com/file/0D06CA7F9D03A4166900C4003DBB0EE910736A08/1770359.png",
+        "id": 43080,
+        "name": "Crystalline Strike",
+        "next_chain": 46024,
+        "prev_chain": 43616,
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_1",
+        "specialization": 56,
+        "type": "Weapon",
+        "weapon_type": "Sword"
+    }
+]

@@ -1,7 +1,9 @@
-{
-    "chat_link": "[&BpXHAAA=]",
-    "description": "",
-    "flags": [],
-    "id": 51093,
-    "name": "Agonizing Rune"
-}
+[
+    {
+        "chat_link": "[&BpXHAAA=]",
+        "description": "",
+        "flags": [],
+        "id": 51093,
+        "name": "Agonizing Rune"
+    }
+]

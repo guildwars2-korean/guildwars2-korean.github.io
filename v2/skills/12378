@@ -1,40 +1,42 @@
-{
-    "chat_link": "[&BlowAAA=]",
-    "description": "Beseech Kormir to remove one condition from your allies at the target location.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 900
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 30
-        },
-        {
-            "distance": 240,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/4117925E9B319F3317DAF70AF9BC717D39FB78CD/103940.png",
-    "id": 12378,
-    "name": "Blessing of Kormir",
-    "professions": [
-        "Engineer"
-    ],
-    "slot": "Toolbelt",
-    "type": "Toolbelt",
-    "weapon_type": "None"
-}
+[
+    {
+        "chat_link": "[&BlowAAA=]",
+        "description": "Beseech Kormir to remove one condition from your allies at the target location.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/4117925E9B319F3317DAF70AF9BC717D39FB78CD/103940.png",
+        "id": 12378,
+        "name": "Blessing of Kormir",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Toolbelt",
+        "type": "Toolbelt",
+        "weapon_type": "None"
+    }
+]

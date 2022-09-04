@@ -1,51 +1,53 @@
-{
-    "description": "<c=@abilitytype>Commands</c> apply additional boons around you and gain reduced recharge.",
-    "facts": [
-        {
-            "apply_count": 1,
-            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
-            "status": "리제네레이션",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
-            "status": "리제네레이션",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "apply_count": 1,
-            "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
-            "duration": 10,
-            "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-            "status": "스위프트니스",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "distance": 600,
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "text": "Boon Radius",
-            "type": "Distance"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-            "percent": 20,
-            "text": "Recharge Reduced",
-            "type": "Percent"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/BE4759B39AD22947535D1F1E3B090D180F200BA0/1012608.png",
-    "id": 1606,
-    "name": "Resounding Timbre",
-    "order": 2,
-    "slot": "Major",
-    "specialization": 32,
-    "tier": 1
-}
+[
+    {
+        "description": "<c=@abilitytype>Commands</c> apply additional boons around you and gain reduced recharge.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "status": "리제네레이션",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "status": "리제네레이션",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                "status": "스위프트니스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Boon Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "percent": 20,
+                "text": "Recharge Reduced",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/BE4759B39AD22947535D1F1E3B090D180F200BA0/1012608.png",
+        "id": 1606,
+        "name": "Resounding Timbre",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 32,
+        "tier": 1
+    }
+]

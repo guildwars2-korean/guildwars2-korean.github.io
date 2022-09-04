@@ -1,16 +1,18 @@
-{
-    "chat_link": "[&BlUIAAA=]",
-    "description": "Strike your foe with a final powerful thrust.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 130
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/71EB0DF5243A382A100E5ACB0870994D59BC47B7/103005.png",
-    "id": 2133,
-    "name": "Final Thrust"
-}
+[
+    {
+        "chat_link": "[&BlUIAAA=]",
+        "description": "Strike your foe with a final powerful thrust.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 130
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/71EB0DF5243A382A100E5ACB0870994D59BC47B7/103005.png",
+        "id": 2133,
+        "name": "Final Thrust"
+    }
+]

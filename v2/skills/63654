@@ -1,29 +1,31 @@
-{
-    "chat_link": "[&Bqb4AAA=]",
-    "description": "The sniper fires a ricocheting bullet at the target, dealing heavy damage and bouncing to nearby enemies, increasing in damage after each bounce.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 8000
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "text": "Unblockable",
-            "type": "Unblockable",
-            "value": true
-        },
-        {
-            "finisher_type": "Projectile",
-            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
-            "percent": 100,
-            "text": "Combo Finisher",
-            "type": "ComboFinisher"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/0BBCF4AA44BEBDCFFE2D2E08C7A699310807B605/2221494.png",
-    "id": 63654,
-    "name": "Jade Ricochet"
-}
+[
+    {
+        "chat_link": "[&Bqb4AAA=]",
+        "description": "The sniper fires a ricocheting bullet at the target, dealing heavy damage and bouncing to nearby enemies, increasing in damage after each bounce.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 8000
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Unblockable",
+                "type": "Unblockable",
+                "value": true
+            },
+            {
+                "finisher_type": "Projectile",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "Combo Finisher",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/0BBCF4AA44BEBDCFFE2D2E08C7A699310807B605/2221494.png",
+        "id": 63654,
+        "name": "Jade Ricochet"
+    }
+]

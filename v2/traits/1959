@@ -1,77 +1,79 @@
-{
-    "description": "You gain access to the function gyro, which replaces your tool belt skill 5. Gain access to <c=@abilitytype>Gyro</c> skills.",
-    "icon": "https://render.guildwars2.com/file/62D43252CCF835C6A32113E9BD450A5CAC2E3E1E/1128527.png",
-    "id": 1959,
-    "name": "Function Gyro",
-    "order": 0,
-    "skills": [
-        {
-            "chat_link": "[&BljeAAA=]",
-            "description": "Create a lightning field at the specified point. Then summon gyros to finish foes and revive allies within the field. The recharge of this skill is increased for each gyro created beyond the first.\nInterrupted gyros are destroyed.",
-            "facts": [
-                {
-                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                    "text": "Range",
-                    "type": "Range",
-                    "value": 600
-                },
-                {
-                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-                    "text": "Recharge",
-                    "type": "Recharge",
-                    "value": 25
-                },
-                {
-                    "dmg_multiplier": 1,
-                    "hit_count": 1,
-                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                    "text": "Damage",
-                    "type": "Damage"
-                },
-                {
-                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                    "text": "Number of Targets",
-                    "type": "Number",
-                    "value": 3
-                },
-                {
-                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                    "text": "Number of Allied Targets",
-                    "type": "Number",
-                    "value": 3
-                },
-                {
-                    "duration": 5,
-                    "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                    "text": "Field Duration",
-                    "type": "Time"
-                },
-                {
-                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                    "percent": 50,
-                    "text": "Recharge increase per gyro",
-                    "type": "Percent"
-                },
-                {
-                    "distance": 240,
-                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                    "text": "Radius",
-                    "type": "Distance"
-                },
-                {
-                    "field_type": "Lightning",
-                    "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-                    "text": "Combo Field",
-                    "type": "ComboField"
-                }
-            ],
-            "flags": [],
-            "icon": "https://render.guildwars2.com/file/42BCB9C83B05D048C0E0BA1804F13D6FAC180DCD/2175057.png",
-            "id": 56920,
-            "name": "Function Gyro"
-        }
-    ],
-    "slot": "Minor",
-    "specialization": 43,
-    "tier": 1
-}
+[
+    {
+        "description": "You gain access to the function gyro, which replaces your tool belt skill 5. Gain access to <c=@abilitytype>Gyro</c> skills.",
+        "icon": "https://render.guildwars2.com/file/62D43252CCF835C6A32113E9BD450A5CAC2E3E1E/1128527.png",
+        "id": 1959,
+        "name": "Function Gyro",
+        "order": 0,
+        "skills": [
+            {
+                "chat_link": "[&BljeAAA=]",
+                "description": "Create a lightning field at the specified point. Then summon gyros to finish foes and revive allies within the field. The recharge of this skill is increased for each gyro created beyond the first.\nInterrupted gyros are destroyed.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                        "text": "Range",
+                        "type": "Range",
+                        "value": 600
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                        "text": "Recharge",
+                        "type": "Recharge",
+                        "value": 25
+                    },
+                    {
+                        "dmg_multiplier": 1,
+                        "hit_count": 1,
+                        "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                        "text": "Damage",
+                        "type": "Damage"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "text": "Number of Targets",
+                        "type": "Number",
+                        "value": 3
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "text": "Number of Allied Targets",
+                        "type": "Number",
+                        "value": 3
+                    },
+                    {
+                        "duration": 5,
+                        "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                        "text": "Field Duration",
+                        "type": "Time"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                        "percent": 50,
+                        "text": "Recharge increase per gyro",
+                        "type": "Percent"
+                    },
+                    {
+                        "distance": 240,
+                        "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                        "text": "Radius",
+                        "type": "Distance"
+                    },
+                    {
+                        "field_type": "Lightning",
+                        "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                        "text": "Combo Field",
+                        "type": "ComboField"
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/42BCB9C83B05D048C0E0BA1804F13D6FAC180DCD/2175057.png",
+                "id": 56920,
+                "name": "Function Gyro"
+            }
+        ],
+        "slot": "Minor",
+        "specialization": 43,
+        "tier": 1
+    }
+]

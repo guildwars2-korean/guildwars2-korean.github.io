@@ -1,8 +1,10 @@
-{
-    "chat_link": "[&Bpj8AAA=]",
-    "description": "",
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/6DDE245C59EB022E39EE0827161FFB77C0F04CD0/1029981.png",
-    "id": 64664,
-    "name": "Painterly Stance"
-}
+[
+    {
+        "chat_link": "[&Bpj8AAA=]",
+        "description": "",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/6DDE245C59EB022E39EE0827161FFB77C0F04CD0/1029981.png",
+        "id": 64664,
+        "name": "Painterly Stance"
+    }
+]

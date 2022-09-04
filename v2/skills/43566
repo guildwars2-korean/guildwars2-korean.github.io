@@ -1,111 +1,113 @@
-{
-    "categories": [
-        "Burst"
-    ],
-    "chat_link": "[&Bi6qAAA=]",
-    "cost": 10,
-    "description": "Burst. Leap at your foe with a devastating attack. Effect increases with adrenaline level.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 300
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 8
-        },
-        {
-            "apply_count": 5,
-            "description": "가하는 데미지가 증가한다(강도 중첩).",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-            "status": "마이트",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "dmg_multiplier": 2,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "apply_count": 1,
-            "description": "가하는 데미지가 증가한다(강도 중첩).",
-            "duration": 5,
-            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-            "status": "마이트",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "dmg_multiplier": 2,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "finisher_type": "Leap",
-            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
-            "percent": 100,
-            "text": "Combo Finisher",
-            "type": "ComboFinisher"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/EA325CADCFA2EEF9E2427DD415402E056A6D6CB3/103230.png",
-    "id": 43566,
-    "name": "Eviscerate",
-    "professions": [
-        "Warrior"
-    ],
-    "slot": "Profession_1",
-    "specialization": 61,
-    "traited_facts": [
-        {
-            "apply_count": 1,
-            "description": "7% increased strike damage per stack.",
-            "duration": 15,
-            "icon": "https://render.guildwars2.com/file/A795EE78B8DAA836F3C0650CFC037BB71D3517BA/1012816.png",
-            "requires_trait": 1437,
-            "status": "Berserker's Power",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        },
-        {
-            "dmg_multiplier": 2.14,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "overrides": 3,
-            "requires_trait": 1657,
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-            "requires_trait": 1649,
-            "text": "Conditions Removed",
-            "type": "Number",
-            "value": 1
-        },
-        {
-            "dmg_multiplier": 1.4263,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "overrides": 5,
-            "requires_trait": 1657,
-            "text": "Damage",
-            "type": "Damage"
-        }
-    ],
-    "type": "Profession",
-    "weapon_type": "Axe"
-}
+[
+    {
+        "categories": [
+            "Burst"
+        ],
+        "chat_link": "[&Bi6qAAA=]",
+        "cost": 10,
+        "description": "Burst. Leap at your foe with a devastating attack. Effect increases with adrenaline level.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 300
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 8
+            },
+            {
+                "apply_count": 5,
+                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "dmg_multiplier": 2,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "dmg_multiplier": 2,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "finisher_type": "Leap",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "Combo Finisher",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/EA325CADCFA2EEF9E2427DD415402E056A6D6CB3/103230.png",
+        "id": 43566,
+        "name": "Eviscerate",
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Profession_1",
+        "specialization": 61,
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "7% increased strike damage per stack.",
+                "duration": 15,
+                "icon": "https://render.guildwars2.com/file/A795EE78B8DAA836F3C0650CFC037BB71D3517BA/1012816.png",
+                "requires_trait": 1437,
+                "status": "Berserker's Power",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "dmg_multiplier": 2.14,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "overrides": 3,
+                "requires_trait": 1657,
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "requires_trait": 1649,
+                "text": "Conditions Removed",
+                "type": "Number",
+                "value": 1
+            },
+            {
+                "dmg_multiplier": 1.4263,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "overrides": 5,
+                "requires_trait": 1657,
+                "text": "Damage",
+                "type": "Damage"
+            }
+        ],
+        "type": "Profession",
+        "weapon_type": "Axe"
+    }
+]

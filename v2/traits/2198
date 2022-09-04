@@ -1,42 +1,44 @@
-{
-    "description": "Killing a foe extends the duration of Courage, up to the maximum duration. You cannot be downed while Courage is active. Courage no longer grants aegis, and its initial duration is reduced.\n",
-    "facts": [
-        {
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Courage Duration Decrease",
-            "type": "Time"
-        },
-        {
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Courage Increase per Kill",
-            "type": "Time"
-        },
-        {
-            "duration": 1,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Courage Increase per Kill",
-            "type": "Time"
-        },
-        {
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Maximum Allowed Increase",
-            "type": "Time"
-        },
-        {
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-            "text": "Maximum Allowed Increase",
-            "type": "Time"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/6640F790796D719F4F7EB5077900AAFCB6A02DB9/2479322.png",
-    "id": 2198,
-    "name": "Deathless Courage",
-    "order": 2,
-    "slot": "Major",
-    "specialization": 65,
-    "tier": 3
-}
+[
+    {
+        "description": "Killing a foe extends the duration of Courage, up to the maximum duration. You cannot be downed while Courage is active. Courage no longer grants aegis, and its initial duration is reduced.\n",
+        "facts": [
+            {
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Courage Duration Decrease",
+                "type": "Time"
+            },
+            {
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Courage Increase per Kill",
+                "type": "Time"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Courage Increase per Kill",
+                "type": "Time"
+            },
+            {
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Maximum Allowed Increase",
+                "type": "Time"
+            },
+            {
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Maximum Allowed Increase",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/6640F790796D719F4F7EB5077900AAFCB6A02DB9/2479322.png",
+        "id": 2198,
+        "name": "Deathless Courage",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 65,
+        "tier": 3
+    }
+]

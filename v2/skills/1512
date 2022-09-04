@@ -1,22 +1,24 @@
-{
-    "chat_link": "[&BugFAAA=]",
-    "description": "A basic projectile attack.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 1200
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 2
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/55AE93040FAA580E46FD9DF6CB09195232F3DA1C/102923.png",
-    "id": 1512,
-    "name": "Shoot"
-}
+[
+    {
+        "chat_link": "[&BugFAAA=]",
+        "description": "A basic projectile attack.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 2
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/55AE93040FAA580E46FD9DF6CB09195232F3DA1C/102923.png",
+        "id": 1512,
+        "name": "Shoot"
+    }
+]

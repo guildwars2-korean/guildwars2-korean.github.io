@@ -1,43 +1,45 @@
-{
-    "chat_link": "[&Bln2AAA=]",
-    "description": "Unleashed Ambush.Spin and strike foes repeatedly. The final attack creates a spore under targets it strikes.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 170
-        },
-        {
-            "dmg_multiplier": 0.7,
-            "hit_count": 3,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-            "text": "Number of Targets",
-            "type": "Number",
-            "value": 5
-        },
-        {
-            "finisher_type": "Whirl",
-            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
-            "percent": 100,
-            "text": "Combo Finisher",
-            "type": "ComboFinisher"
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/E80F113FF83F26A6A5FFDEF5EE050FA6A0135840/2565752.png",
-    "id": 63065,
-    "name": "Vicious Pike",
-    "professions": [
-        "Ranger"
-    ],
-    "slot": "Weapon_1",
-    "specialization": 72,
-    "type": "Weapon",
-    "weapon_type": "Spear"
-}
+[
+    {
+        "chat_link": "[&Bln2AAA=]",
+        "description": "Unleashed Ambush.Spin and strike foes repeatedly. The final attack creates a spore under targets it strikes.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 170
+            },
+            {
+                "dmg_multiplier": 0.7,
+                "hit_count": 3,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Targets",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "finisher_type": "Whirl",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "Combo Finisher",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/E80F113FF83F26A6A5FFDEF5EE050FA6A0135840/2565752.png",
+        "id": 63065,
+        "name": "Vicious Pike",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Weapon_1",
+        "specialization": 72,
+        "type": "Weapon",
+        "weapon_type": "Spear"
+    }
+]

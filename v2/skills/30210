@@ -1,62 +1,64 @@
-{
-    "chat_link": "[&BgJ2AAA=]",
-    "description": "Attack your foes with stealth, knocking enemies down.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 130
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 1
-        },
-        {
-            "dmg_multiplier": 0.65,
-            "hit_count": 1,
-            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage",
-            "type": "Damage"
-        },
-        {
-            "duration": 2,
-            "icon": "https://render.guildwars2.com/file/7632087376D36B0D100F1B07BE53F154BC337D7C/2440716.png",
-            "text": "Knockdown",
-            "type": "Time"
-        },
-        {
-            "duration": 4,
-            "icon": "https://render.guildwars2.com/file/7632087376D36B0D100F1B07BE53F154BC337D7C/2440716.png",
-            "text": "Knockdown",
-            "type": "Time"
-        }
-    ],
-    "flags": [
-        "NoUnderwater"
-    ],
-    "icon": "https://render.guildwars2.com/file/24CD7E636FADCB6F0CFE07F0B0CA21010FD223E6/1058623.png",
-    "id": 30210,
-    "name": "Hook Strike",
-    "professions": [
-        "Thief"
-    ],
-    "slot": "Weapon_1",
-    "specialization": 7,
-    "traited_facts": [
-        {
-            "apply_count": 1,
-            "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
-            "duration": 3,
-            "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
-            "requires_trait": 1284,
-            "status": "Weakness",
-            "text": "Apply Buff/Condition",
-            "type": "Buff"
-        }
-    ],
-    "type": "Weapon",
-    "weapon_type": "Staff"
-}
+[
+    {
+        "chat_link": "[&BgJ2AAA=]",
+        "description": "Attack your foes with stealth, knocking enemies down.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 1
+            },
+            {
+                "dmg_multiplier": 0.65,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage",
+                "type": "Damage"
+            },
+            {
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/7632087376D36B0D100F1B07BE53F154BC337D7C/2440716.png",
+                "text": "Knockdown",
+                "type": "Time"
+            },
+            {
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/7632087376D36B0D100F1B07BE53F154BC337D7C/2440716.png",
+                "text": "Knockdown",
+                "type": "Time"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/24CD7E636FADCB6F0CFE07F0B0CA21010FD223E6/1058623.png",
+        "id": 30210,
+        "name": "Hook Strike",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Weapon_1",
+        "specialization": 7,
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                "requires_trait": 1284,
+                "status": "Weakness",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Staff"
+    }
+]

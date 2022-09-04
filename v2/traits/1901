@@ -1,24 +1,26 @@
-{
-    "description": "Heal skills are recharged when you are struck while below the health threshold.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-            "text": "Recharge",
-            "type": "Recharge",
-            "value": 120
-        },
-        {
-            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-            "percent": 25,
-            "text": "Health Threshold",
-            "type": "Percent"
-        }
-    ],
-    "icon": "https://render.guildwars2.com/file/F1660BB6D1DD0CBAEE97C46A6856BA072D2A6464/1012367.png",
-    "id": 1901,
-    "name": "Automated Medical Response",
-    "order": 1,
-    "slot": "Major",
-    "specialization": 47,
-    "tier": 1
-}
+[
+    {
+        "description": "Heal skills are recharged when you are struck while below the health threshold.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 120
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 25,
+                "text": "Health Threshold",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/F1660BB6D1DD0CBAEE97C46A6856BA072D2A6464/1012367.png",
+        "id": 1901,
+        "name": "Automated Medical Response",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 47,
+        "tier": 1
+    }
+]

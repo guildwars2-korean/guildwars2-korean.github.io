@@ -1,17 +1,19 @@
-{
-    "categories": [],
-    "chat_link": "[&BlQIAAA=]",
-    "description": "Chain. Bleed your foe with a gash.",
-    "facts": [
-        {
-            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-            "text": "Range",
-            "type": "Range",
-            "value": 130
-        }
-    ],
-    "flags": [],
-    "icon": "https://render.guildwars2.com/file/44563D2C3BDCEB1524D2DB0F23713347CDE93D32/103004.png",
-    "id": 2132,
-    "name": "Gash"
-}
+[
+    {
+        "categories": [],
+        "chat_link": "[&BlQIAAA=]",
+        "description": "Chain. Bleed your foe with a gash.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "Range",
+                "type": "Range",
+                "value": 130
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/44563D2C3BDCEB1524D2DB0F23713347CDE93D32/103004.png",
+        "id": 2132,
+        "name": "Gash"
+    }
+]
