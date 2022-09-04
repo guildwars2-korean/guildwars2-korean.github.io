@@ -14,6 +14,7 @@ def main():
     resources = [
         'traits',
         'skills',
+        'specializations'
     ]
 
     save_resources(resources)

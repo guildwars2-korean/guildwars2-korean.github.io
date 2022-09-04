@@ -1,0 +1,26 @@
+[
+    {
+        "background": "https://render.guildwars2.com/file/6943976957615E2337BE6B38292BAEB23C2BAAB9/1012103.png",
+        "elite": false,
+        "icon": "https://render.guildwars2.com/file/B62E5512754BEB1D0116B1DB3B6FA0ECA4DD630C/1012027.png",
+        "id": 20,
+        "major_traits": [
+            1160,
+            1293,
+            1284,
+            1297,
+            1130,
+            1300,
+            1134,
+            1135,
+            1162
+        ],
+        "minor_traits": [
+            1294,
+            1136,
+            1705
+        ],
+        "name": "Shadow Arts",
+        "profession": "Thief"
+    }
+]
