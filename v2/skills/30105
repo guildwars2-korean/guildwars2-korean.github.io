@@ -27,10 +27,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+                "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-                "status": "Chilled",
+                "status": "냉기",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -42,10 +42,10 @@
             },
             {
                 "apply_count": 2,
-                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-                "status": "스태빌리티",
+                "status": "견고",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

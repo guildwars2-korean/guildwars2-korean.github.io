@@ -7,7 +7,7 @@
                 "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
-                "status": "비거",
+                "status": "활력",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

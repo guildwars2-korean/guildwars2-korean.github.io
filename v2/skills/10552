@@ -19,10 +19,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다(세기 중첩).",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                "status": "Bleeding",
+                "status": "출혈",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -31,7 +31,7 @@
                 "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-                "status": "Poisoned",
+                "status": "중독",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -50,12 +50,12 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다(세기 중첩).",
                 "duration": 7,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
                 "overrides": 2,
                 "requires_trait": 801,
-                "status": "Bleeding",
+                "status": "출혈",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -66,7 +66,7 @@
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
                 "overrides": 3,
                 "requires_trait": 801,
-                "status": "Poisoned",
+                "status": "중독",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

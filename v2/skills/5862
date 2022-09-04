@@ -20,19 +20,19 @@
             },
             {
                 "apply_count": 1,
-                "description": "스킬과 액션이 빨라진다.",
+                "description": "스킬 시전과 행동이 빨라진다.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-                "status": "퀴크니스",
+                "status": "급속",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 2,
-                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-                "status": "스태빌리티",
+                "status": "견고",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -41,7 +41,7 @@
                 "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
-                "status": "비거",
+                "status": "활력",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -58,23 +58,23 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "스킬과 액션이 빨라진다.",
+                "description": "스킬 시전과 행동이 빨라진다.",
                 "duration": 7,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
                 "overrides": 2,
                 "requires_trait": 473,
-                "status": "퀴크니스",
+                "status": "급속",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 2,
-                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
                 "duration": 7,
                 "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
                 "overrides": 3,
                 "requires_trait": 473,
-                "status": "스태빌리티",
+                "status": "견고",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -85,7 +85,7 @@
                 "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
                 "overrides": 4,
                 "requires_trait": 473,
-                "status": "비거",
+                "status": "활력",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

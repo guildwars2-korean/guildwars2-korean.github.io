@@ -24,19 +24,19 @@
             },
             {
                 "apply_count": 1,
-                "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
+                "description": "이동속도가 33% 증가한다(지속시간 중첩).",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-                "status": "스위프트니스",
+                "status": "신속",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 5,
-                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "description": "데미지가 증가한다(세기 중첩).",
                 "duration": 15,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "마이트",
+                "status": "강력",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -99,21 +99,21 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "스킬 재사용 대기시간 단축.",
+                "description": "스킬 재사용 대기시간이 단축된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
                 "requires_trait": 1942,
-                "status": "알라크리티",
+                "status": "민첩",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "스킬과 액션이 빨라진다.",
+                "description": "스킬 시전과 행동이 빨라진다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
                 "requires_trait": 2022,
-                "status": "퀴크니스",
+                "status": "급속",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

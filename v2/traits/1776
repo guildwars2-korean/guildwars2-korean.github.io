@@ -3,9 +3,9 @@
         "description": "Movement skills remove immobilizing conditions.",
         "facts": [
             {
-                "description": "Unable to move; stacks duration.",
+                "description": "이동할 수 없다(지속시간 중첩).",
                 "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                "status": "Immobile",
+                "status": "속박",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

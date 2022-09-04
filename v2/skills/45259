@@ -19,10 +19,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
+                "description": "이동속도가 33% 증가한다(지속시간 중첩).",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-                "status": "스위프트니스",
+                "status": "신속",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

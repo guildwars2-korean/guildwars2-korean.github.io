@@ -5,10 +5,10 @@
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Next outgoing attack misses; stacks duration.",
+                "description": "다음 공격이 빗나간다(지속시간 중첩).",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
-                "status": "Blinded",
+                "status": "실명",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

@@ -16,7 +16,7 @@
             },
             {
                 "apply_count": 1,
-                "description": "크리티컬 확률이 25% 증가한다(지속시간 중첩).",
+                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
                 "prefix": {
@@ -25,7 +25,7 @@
                     "status": "Charge",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "퓨리",
+                "status": "분노",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
@@ -40,7 +40,7 @@
                     "status": "Call of Valor",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "레지스턴스",
+                "status": "저항",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }

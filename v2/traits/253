@@ -16,7 +16,7 @@
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다(세기 중첩).",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                 "prefix": {
@@ -25,13 +25,13 @@
                     "status": "Fire Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Burning",
+                "status": "화상",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "description": "받는 데미지가 증가한다(세기 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
                 "prefix": {
@@ -40,13 +40,13 @@
                     "status": "Water Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Vulnerability",
+                "status": "취약",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
                 "prefix": {
@@ -55,13 +55,13 @@
                     "status": "Air Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Weakness",
+                "status": "약화",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다(세기 중첩).",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
                 "prefix": {
@@ -70,7 +70,7 @@
                     "status": "Earth Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Bleeding",
+                "status": "출혈",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }

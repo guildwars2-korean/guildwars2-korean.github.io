@@ -23,19 +23,19 @@
             },
             {
                 "apply_count": 1,
-                "description": "이동 속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "description": "이동속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-                "status": "슈퍼스피드",
+                "status": "초신속",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Unable to move; stacks duration.",
+                "description": "이동할 수 없다(지속시간 중첩).",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                "status": "Immobile",
+                "status": "속박",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

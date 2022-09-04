@@ -44,7 +44,7 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 229,
-                "status": "리제네레이션",
+                "status": "재생력",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }

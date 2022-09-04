@@ -11,37 +11,37 @@
             },
             {
                 "apply_count": 1,
-                "description": "크리티컬 확률이 25% 증가한다(지속시간 중첩).",
+                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-                "status": "퓨리",
+                "status": "분노",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "크리티컬 확률이 25% 증가한다(지속시간 중첩).",
+                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-                "status": "퓨리",
+                "status": "분노",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 6,
-                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "description": "데미지가 증가한다(세기 중첩).",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "마이트",
+                "status": "강력",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
+                "description": "이동속도가 33% 증가한다(지속시간 중첩).",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-                "status": "스위프트니스",
+                "status": "신속",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -53,10 +53,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
-                "status": "Weakness",
+                "status": "약화",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -91,7 +91,7 @@
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
                 "requires_trait": 964,
-                "status": "리제네레이션",
+                "status": "재생력",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

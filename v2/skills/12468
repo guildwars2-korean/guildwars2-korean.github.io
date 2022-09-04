@@ -27,7 +27,7 @@
                 "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-                "status": "Poisoned",
+                "status": "중독",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -47,7 +47,7 @@
                 "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
                 "duration": 7,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-                "status": "Poisoned",
+                "status": "중독",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -70,7 +70,7 @@
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
                 "overrides": 6,
                 "requires_trait": 1912,
-                "status": "Poisoned",
+                "status": "중독",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

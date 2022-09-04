@@ -27,28 +27,28 @@
             },
             {
                 "apply_count": 3,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다(세기 중첩).",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "Burning",
+                "status": "화상",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+                "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-                "status": "Chilled",
+                "status": "냉기",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
-                "status": "Weakness",
+                "status": "약화",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -89,11 +89,11 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "스킬과 액션이 빨라진다.",
+                "description": "스킬 시전과 행동이 빨라진다.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
                 "requires_trait": 1772,
-                "status": "퀴크니스",
+                "status": "급속",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

@@ -24,10 +24,10 @@
             },
             {
                 "apply_count": 4,
-                "description": "스킬 재사용 대기시간 단축.",
+                "description": "스킬 재사용 대기시간이 단축된다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-                "status": "알라크리티",
+                "status": "민첩",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -72,12 +72,12 @@
             },
             {
                 "apply_count": 6,
-                "description": "스킬 재사용 대기시간 단축.",
+                "description": "스킬 재사용 대기시간이 단축된다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
                 "overrides": 3,
                 "requires_trait": 2182,
-                "status": "알라크리티",
+                "status": "민첩",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

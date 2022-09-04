@@ -38,28 +38,28 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "스킬과 액션이 빨라진다.",
+                        "description": "스킬 시전과 행동이 빨라진다.",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-                        "status": "퀴크니스",
+                        "status": "급속",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "스킬과 액션이 빨라진다.",
+                        "description": "스킬 시전과 행동이 빨라진다.",
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-                        "status": "퀴크니스",
+                        "status": "급속",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 8,
-                        "description": "Damage and condition damage taken are increased; stacks intensity.",
+                        "description": "받는 데미지가 증가한다(세기 중첩).",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-                        "status": "Vulnerability",
+                        "status": "취약",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }
@@ -108,10 +108,10 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+                        "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
-                        "status": "Weakness",
+                        "status": "약화",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }
@@ -146,28 +146,28 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "Skills and actions are slower.",
+                        "description": "스킬 시전과 행동이 느려진다.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
-                        "status": "Slow",
+                        "status": "둔화",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 2,
-                        "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                        "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                        "status": "Torment",
+                        "status": "고통",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                        "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                        "status": "Torment",
+                        "status": "고통",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }
@@ -231,19 +231,19 @@
                     },
                     {
                         "apply_count": 2,
-                        "description": "Deals damage every second; stacks intensity.",
+                        "description": "매초 데미지를 준다(세기 중첩).",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                        "status": "Burning",
+                        "status": "화상",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+                        "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-                        "status": "Chilled",
+                        "status": "냉기",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }
@@ -296,19 +296,19 @@
                     },
                     {
                         "apply_count": 2,
-                        "description": "Deals damage every second; stacks intensity.",
+                        "description": "매초 데미지를 준다(세기 중첩).",
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                        "status": "Bleeding",
+                        "status": "출혈",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 2,
-                        "description": "Deals damage every second; stacks intensity.",
+                        "description": "매초 데미지를 준다(세기 중첩).",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                        "status": "Bleeding",
+                        "status": "출혈",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }

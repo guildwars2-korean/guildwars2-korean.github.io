@@ -18,7 +18,7 @@
             },
             {
                 "apply_count": 5,
-                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "description": "받는 데미지가 증가한다(세기 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
                 "prefix": {
@@ -27,13 +27,13 @@
                     "status": "Electrified Tornado",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Vulnerability",
+                "status": "취약",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 3,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다(세기 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
                 "prefix": {
@@ -42,13 +42,13 @@
                     "status": "Dust Tornado",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Bleeding",
+                "status": "출혈",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Movement speed decreased by 50%; stacks duration.",
+                "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
                 "duration": 9,
                 "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
                 "prefix": {
@@ -57,7 +57,7 @@
                     "status": "Debris Tornado",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Crippled",
+                "status": "불구",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },

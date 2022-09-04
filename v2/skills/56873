@@ -35,10 +35,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "Skills and actions are slower.",
+                "description": "스킬 시전과 행동이 느려진다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
-                "status": "Slow",
+                "status": "둔화",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -55,11 +55,11 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "크리티컬 확률이 25% 증가한다(지속시간 중첩).",
+                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
                 "requires_trait": 1687,
-                "status": "퓨리",
+                "status": "분노",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

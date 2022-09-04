@@ -43,37 +43,37 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "Deals damage every second; stacks intensity.",
+                        "description": "매초 데미지를 준다(세기 중첩).",
                         "duration": 4,
                         "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                        "status": "Burning",
+                        "status": "화상",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Deals damage every second; stacks intensity.",
+                        "description": "매초 데미지를 준다(세기 중첩).",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                        "status": "Burning",
+                        "status": "화상",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Movement speed decreased by 50%; stacks duration.",
+                        "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                        "status": "Crippled",
+                        "status": "불구",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Movement speed decreased by 50%; stacks duration.",
+                        "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                        "status": "Crippled",
+                        "status": "불구",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -127,23 +127,23 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "Deals damage every second; stacks intensity.",
+                        "description": "매초 데미지를 준다(세기 중첩).",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                         "overrides": 4,
                         "requires_trait": 1686,
-                        "status": "Burning",
+                        "status": "화상",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Deals damage every second; stacks intensity.",
+                        "description": "매초 데미지를 준다(세기 중첩).",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                         "overrides": 5,
                         "requires_trait": 1686,
-                        "status": "Burning",
+                        "status": "화상",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -160,21 +160,21 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "Next outgoing attack misses; stacks duration.",
+                        "description": "다음 공격이 빗나간다(지속시간 중첩).",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
                         "requires_trait": 572,
-                        "status": "Blinded",
+                        "status": "실명",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 3,
-                        "description": "가하는 데미지가 증가한다(강도 중첩).",
+                        "description": "데미지가 증가한다(세기 중첩).",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                         "requires_trait": 621,
-                        "status": "마이트",
+                        "status": "강력",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -244,9 +244,9 @@
                         "value": 2
                     },
                     {
-                        "description": "Unable to move; stacks duration.",
+                        "description": "이동할 수 없다(지속시간 중첩).",
                         "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                        "status": "Immobile",
+                        "status": "속박",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -285,11 +285,11 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "Unable to move; stacks duration.",
+                        "description": "이동할 수 없다(지속시간 중첩).",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
                         "requires_trait": 1911,
-                        "status": "Immobile",
+                        "status": "속박",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -310,7 +310,7 @@
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
                         "requires_trait": 621,
-                        "status": "리제네레이션",
+                        "status": "재생력",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -338,10 +338,10 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "다음으로 받는 공격을 막는다(지속시간 중첩).",
+                        "description": "다음 공격을 한번 막는다(지속시간 중첩).",
                         "duration": 20,
                         "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
-                        "status": "이지스",
+                        "status": "방호",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -390,7 +390,7 @@
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
                         "requires_trait": 621,
-                        "status": "프로텍션",
+                        "status": "보호",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },

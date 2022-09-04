@@ -24,10 +24,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
-                "status": "Weakness",
+                "status": "약화",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

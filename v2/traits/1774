@@ -4,7 +4,7 @@
         "facts": [
             {
                 "apply_count": 2,
-                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "description": "데미지가 증가한다(세기 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "prefix": {
@@ -13,7 +13,7 @@
                     "status": "Legendary Assassin Stance",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "마이트",
+                "status": "강력",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
@@ -28,13 +28,13 @@
                     "status": "Legendary Demon Stance",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "레지스턴스",
+                "status": "저항",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
                 "prefix": {
@@ -43,7 +43,7 @@
                     "status": "Legendary Dwarf Stance",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "스태빌리티",
+                "status": "견고",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
@@ -58,7 +58,7 @@
                     "status": "Legendary Centaur Stance",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "리제네레이션",
+                "status": "재생력",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
@@ -73,13 +73,13 @@
                     "status": "Legendary Dragon Stance",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "프로텍션",
+                "status": "보호",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
+                "description": "받는 상태이상 데미지가 33% 감소한다(지속시간 중첩).",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
                 "prefix": {
@@ -88,7 +88,7 @@
                     "status": "Legendary Renegade Stance",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "레졸루션",
+                "status": "결의",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
@@ -103,7 +103,7 @@
                     "status": "Legendary Alliance Stance",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "비거",
+                "status": "활력",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },

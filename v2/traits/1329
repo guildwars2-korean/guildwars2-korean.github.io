@@ -25,7 +25,7 @@
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다(세기 중첩).",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                 "prefix": {
@@ -34,13 +34,13 @@
                     "status": "Dual Shot",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Burning",
+                "status": "화상",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다(세기 중첩).",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
                 "prefix": {
@@ -49,7 +49,7 @@
                     "status": "Mariner's Shot",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Bleeding",
+                "status": "출혈",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }

@@ -37,28 +37,28 @@
             },
             {
                 "apply_count": 1,
-                "description": "Movement speed decreased by 50%; stacks duration.",
+                "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                "status": "Crippled",
+                "status": "불구",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Next outgoing attack misses; stacks duration.",
+                "description": "다음 공격이 빗나간다(지속시간 중첩).",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
-                "status": "Blinded",
+                "status": "실명",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Skills and actions are slower.",
+                "description": "스킬 시전과 행동이 느려진다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
-                "status": "Slow",
+                "status": "둔화",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -83,12 +83,12 @@
             },
             {
                 "apply_count": 1,
-                "description": "Movement speed decreased by 50%; stacks duration.",
+                "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
                 "overrides": 5,
                 "requires_trait": 1679,
-                "status": "Crippled",
+                "status": "불구",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

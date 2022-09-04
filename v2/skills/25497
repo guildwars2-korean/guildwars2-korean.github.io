@@ -43,7 +43,7 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 229,
-                "status": "프로텍션",
+                "status": "보호",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }

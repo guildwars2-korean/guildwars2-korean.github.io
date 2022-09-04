@@ -39,19 +39,19 @@
             },
             {
                 "apply_count": 8,
-                "description": "Damage received on skill activation; stacks intensity.",
+                "description": "스킬 시전시 데미지를 받는다(세기 중첩).",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-                "status": "Confusion",
+                "status": "혼란",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 4,
-                "description": "Damage received on skill activation; stacks intensity.",
+                "description": "스킬 시전시 데미지를 받는다(세기 중첩).",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-                "status": "Confusion",
+                "status": "혼란",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

@@ -28,7 +28,7 @@
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
                 "requires_trait": 264,
-                "status": "프로텍션",
+                "status": "보호",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

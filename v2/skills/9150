@@ -29,19 +29,19 @@
             },
             {
                 "apply_count": 1,
-                "description": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
+                "description": "받는 상태이상 데미지가 33% 감소한다(지속시간 중첩).",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
-                "status": "레졸루션",
+                "status": "결의",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다(세기 중첩).",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "Burning",
+                "status": "화상",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -80,12 +80,12 @@
             },
             {
                 "apply_count": 1,
-                "description": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
+                "description": "받는 상태이상 데미지가 33% 감소한다(지속시간 중첩).",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
                 "overrides": 3,
                 "requires_trait": 604,
-                "status": "레졸루션",
+                "status": "결의",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

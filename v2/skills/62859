@@ -12,10 +12,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+                "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-                "status": "Chilled",
+                "status": "냉기",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -54,11 +54,11 @@
             },
             {
                 "apply_count": 10,
-                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "description": "데미지가 증가한다(세기 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "requires_trait": 2232,
-                "status": "마이트",
+                "status": "강력",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -68,7 +68,7 @@
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
                 "requires_trait": 2232,
-                "status": "프로텍션",
+                "status": "보호",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

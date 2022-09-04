@@ -21,7 +21,7 @@
                 "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
-                "status": "비거",
+                "status": "활력",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -80,7 +80,7 @@
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
                 "requires_trait": 1471,
-                "status": "레지스턴스",
+                "status": "저항",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

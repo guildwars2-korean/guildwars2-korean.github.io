@@ -30,14 +30,14 @@
                 "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
-                "status": "비거",
+                "status": "활력",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
-                "description": "Unable to move; stacks duration.",
+                "description": "이동할 수 없다(지속시간 중첩).",
                 "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                "status": "Immobile",
+                "status": "속박",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

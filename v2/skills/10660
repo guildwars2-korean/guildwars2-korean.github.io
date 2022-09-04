@@ -17,10 +17,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "Involuntary retreat; unable to act; stacks duration.",
+                "description": "공포에 질려 도망간다(지속시간 중첩).",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/30307A6E766D74B6EB09EDA12A4A2DE50E4D76F4/102869.png",
-                "status": "Fear",
+                "status": "공포",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -30,7 +30,7 @@
         ],
         "icon": "https://render.guildwars2.com/file/484FB273323BC7A2E89597D3BF7A219717540DC4/103842.png",
         "id": 10660,
-        "name": "Fear",
+        "name": "공포",
         "professions": [
             "Necromancer"
         ],

@@ -38,28 +38,28 @@
             },
             {
                 "apply_count": 2,
-                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "description": "데미지가 증가한다(세기 중첩).",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "마이트",
+                "status": "강력",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 2,
-                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "description": "데미지가 증가한다(세기 중첩).",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "마이트",
+                "status": "강력",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "이동 속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "description": "이동속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-                "status": "슈퍼스피드",
+                "status": "초신속",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

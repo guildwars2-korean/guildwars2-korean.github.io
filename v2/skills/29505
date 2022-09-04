@@ -20,7 +20,7 @@
                 "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-                "status": "프로텍션",
+                "status": "보호",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -60,11 +60,11 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "이동 속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "description": "이동속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
                 "duration": 7,
                 "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
                 "requires_trait": 2014,
-                "status": "슈퍼스피드",
+                "status": "초신속",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

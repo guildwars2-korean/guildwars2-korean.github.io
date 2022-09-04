@@ -11,19 +11,19 @@
             },
             {
                 "apply_count": 1,
-                "description": "Movement speed decreased by 50%; stacks duration.",
+                "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                "status": "Crippled",
+                "status": "불구",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Unable to move; stacks duration.",
+                "description": "이동할 수 없다(지속시간 중첩).",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                "status": "Immobile",
+                "status": "속박",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -57,11 +57,11 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "스킬 재사용 대기시간 단축.",
+                "description": "스킬 재사용 대기시간이 단축된다.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
                 "requires_trait": 1038,
-                "status": "알라크리티",
+                "status": "민첩",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

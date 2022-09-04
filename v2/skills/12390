@@ -11,10 +11,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "크리티컬 확률이 25% 증가한다(지속시간 중첩).",
+                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-                "status": "퓨리",
+                "status": "분노",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -23,7 +23,7 @@
                 "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
-                "status": "리제네레이션",
+                "status": "재생력",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

@@ -26,7 +26,7 @@
                 "description": "데미지를 주지않는 컨디션의 효과를 무시한다(지속시간 중첩).",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
-                "status": "레지스턴스",
+                "status": "저항",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

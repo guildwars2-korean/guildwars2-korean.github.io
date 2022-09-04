@@ -26,7 +26,7 @@
                     "status": "Tome of Resolve",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "리제네레이션",
+                "status": "재생력",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
@@ -41,7 +41,7 @@
                     "status": "Tome of Resolve",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "리제네레이션",
+                "status": "재생력",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
@@ -56,7 +56,7 @@
                     "status": "Tome of Courage",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "프로텍션",
+                "status": "보호",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
@@ -71,7 +71,7 @@
                     "status": "Tome of Courage",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "프로텍션",
+                "status": "보호",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }

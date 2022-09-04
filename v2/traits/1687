@@ -4,7 +4,7 @@
         "facts": [
             {
                 "apply_count": 5,
-                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "description": "데미지가 증가한다(세기 중첩).",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "prefix": {
@@ -13,13 +13,13 @@
                     "status": "Mind Wrack",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "마이트",
+                "status": "강력",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 3,
-                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "description": "데미지가 증가한다(세기 중첩).",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "prefix": {
@@ -28,7 +28,7 @@
                     "status": "Mind Wrack",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "마이트",
+                "status": "강력",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
@@ -43,13 +43,13 @@
                     "status": "Cry of Frustration",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "비거",
+                "status": "활력",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "크리티컬 확률이 25% 증가한다(지속시간 중첩).",
+                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
                 "prefix": {
@@ -58,7 +58,7 @@
                     "status": "Diversion",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "퓨리",
+                "status": "분노",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
@@ -73,25 +73,25 @@
                     "status": "Distortion",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "리제네레이션",
+                "status": "재생력",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-                "status": "스태빌리티",
+                "status": "견고",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-                "status": "스태빌리티",
+                "status": "견고",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -106,7 +106,7 @@
         "traited_facts": [
             {
                 "apply_count": 5,
-                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "description": "데미지가 증가한다(세기 중첩).",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "overrides": 0,
@@ -117,13 +117,13 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2216,
-                "status": "마이트",
+                "status": "강력",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 5,
-                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "description": "데미지가 증가한다(세기 중첩).",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "overrides": 0,
@@ -134,13 +134,13 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2030,
-                "status": "마이트",
+                "status": "강력",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 3,
-                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "description": "데미지가 증가한다(세기 중첩).",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "overrides": 1,
@@ -151,13 +151,13 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2216,
-                "status": "마이트",
+                "status": "강력",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 3,
-                "description": "가하는 데미지가 증가한다(강도 중첩).",
+                "description": "데미지가 증가한다(세기 중첩).",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "overrides": 1,
@@ -168,7 +168,7 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2030,
-                "status": "마이트",
+                "status": "강력",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
@@ -185,7 +185,7 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2216,
-                "status": "비거",
+                "status": "활력",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
@@ -202,13 +202,13 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2030,
-                "status": "비거",
+                "status": "활력",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "크리티컬 확률이 25% 증가한다(지속시간 중첩).",
+                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
                 "overrides": 3,
@@ -219,13 +219,13 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2216,
-                "status": "퓨리",
+                "status": "분노",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "크리티컬 확률이 25% 증가한다(지속시간 중첩).",
+                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
                 "overrides": 3,
@@ -236,7 +236,7 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2030,
-                "status": "퓨리",
+                "status": "분노",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
@@ -253,7 +253,7 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2216,
-                "status": "리제네레이션",
+                "status": "재생력",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
@@ -270,7 +270,7 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2030,
-                "status": "레지스턴스",
+                "status": "저항",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }
