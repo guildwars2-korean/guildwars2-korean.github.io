@@ -10,19 +10,19 @@
         },
         {
             "apply_count": 1,
-            "description": "Gain health every second; stacks duration.",
+            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
             "duration": 6,
             "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
-            "status": "Regeneration",
+            "status": "리제네레이션",
             "text": "Apply Buff/Condition",
             "type": "Buff"
         },
         {
             "apply_count": 1,
-            "description": "Endurance regeneration increased by 50%; stacks duration.",
+            "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
             "duration": 6,
             "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
-            "status": "Vigor",
+            "status": "비거",
             "text": "Apply Buff/Condition",
             "type": "Buff"
         }

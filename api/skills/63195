@@ -40,7 +40,7 @@
         },
         {
             "apply_count": 8,
-            "description": "Increased outgoing damage; stacks intensity.",
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
             "duration": 10,
             "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
             "prefix": {
@@ -48,13 +48,13 @@
                 "status": "Unleashed",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Might",
+            "status": "마이트",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
         {
             "apply_count": 1,
-            "description": "Gain health every second; stacks duration.",
+            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
             "duration": 6,
             "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
             "prefix": {
@@ -62,7 +62,7 @@
                 "status": "Pet Unleashed",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Regeneration",
+            "status": "리제네레이션",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         }

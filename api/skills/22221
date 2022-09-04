@@ -1,3 +1,8 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Bs1WAAA=]",
+    "description": "An earthquake occasionally erupts beneath players and enemies, damaging and knocking them all back.",
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/04602EF098071D0E7679000E91DA18C4A5233F1A/681255.png",
+    "id": 22221,
+    "name": "Mistlock Instability: Earthquake"
 }

@@ -1,3 +1,16 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Bg69AAA=]",
+    "description": "Dhuum pulls foes toward him, consuming them if they fail to escape.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 4000
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/2EEFD00E64453F2AFB1E716A0D145FB93C06B037/1635230.png",
+    "id": 48398,
+    "name": "Cataclysmic Cycle"
 }

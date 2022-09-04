@@ -20,7 +20,7 @@
         },
         {
             "apply_count": 3,
-            "description": "Increased outgoing damage; stacks intensity.",
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
             "duration": 20,
             "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
             "prefix": {
@@ -29,13 +29,13 @@
                 "status": "Fire Attunement",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Might",
+            "status": "마이트",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
         {
             "apply_count": 1,
-            "description": "Gain health every second; stacks duration.",
+            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
             "duration": 10,
             "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
             "prefix": {
@@ -44,13 +44,13 @@
                 "status": "Water Attunement",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Regeneration",
+            "status": "리제네레이션",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
         {
             "apply_count": 1,
-            "description": "Movement speed increased by 33%; stacks duration.",
+            "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
             "duration": 10,
             "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
             "prefix": {
@@ -59,7 +59,7 @@
                 "status": "Air Attunement",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Swiftness",
+            "status": "스위프트니스",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
@@ -74,7 +74,7 @@
                 "status": "Earth Attunement",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Protection",
+            "status": "프로텍션",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         }
@@ -108,7 +108,7 @@
     "traited_facts": [
         {
             "apply_count": 4,
-            "description": "Increased outgoing damage; stacks intensity.",
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
             "duration": 20,
             "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
             "overrides": 2,
@@ -119,13 +119,13 @@
                 "text": "Apply Buff/Condition"
             },
             "requires_trait": 229,
-            "status": "Might",
+            "status": "마이트",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
         {
             "apply_count": 1,
-            "description": "Gain health every second; stacks duration.",
+            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
             "duration": 20,
             "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
             "overrides": 3,
@@ -136,13 +136,13 @@
                 "text": "Apply Buff/Condition"
             },
             "requires_trait": 229,
-            "status": "Regeneration",
+            "status": "리제네레이션",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
         {
             "apply_count": 1,
-            "description": "Movement speed increased by 33%; stacks duration.",
+            "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
             "duration": 20,
             "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
             "overrides": 4,
@@ -153,7 +153,7 @@
                 "text": "Apply Buff/Condition"
             },
             "requires_trait": 229,
-            "status": "Swiftness",
+            "status": "스위프트니스",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
@@ -170,7 +170,7 @@
                 "text": "Apply Buff/Condition"
             },
             "requires_trait": 229,
-            "status": "Protection",
+            "status": "프로텍션",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         }

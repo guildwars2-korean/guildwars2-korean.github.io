@@ -27,16 +27,16 @@
             "description": "Critical chance increased; stacks duration.",
             "duration": 1,
             "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-            "status": "Fury",
+            "status": "퓨리",
             "text": "Apply Buff/Condition",
             "type": "Buff"
         },
         {
             "apply_count": 1,
-            "description": "Skills and actions are faster.",
+            "description": "스킬과 액션이 빨라진다.",
             "duration": 1,
             "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-            "status": "Quickness",
+            "status": "퀴크니스",
             "text": "Apply Buff/Condition",
             "type": "Buff"
         },
@@ -88,28 +88,28 @@
             "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
             "overrides": 3,
             "requires_trait": 2251,
-            "status": "Fury",
+            "status": "퓨리",
             "text": "Apply Buff/Condition",
             "type": "Buff"
         },
         {
             "apply_count": 1,
-            "description": "Skills and actions are faster.",
+            "description": "스킬과 액션이 빨라진다.",
             "duration": 2,
             "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
             "overrides": 4,
             "requires_trait": 2251,
-            "status": "Quickness",
+            "status": "퀴크니스",
             "text": "Apply Buff/Condition",
             "type": "Buff"
         },
         {
             "apply_count": 1,
-            "description": "Skills and actions are faster.",
+            "description": "스킬과 액션이 빨라진다.",
             "duration": 5,
             "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
             "requires_trait": 2234,
-            "status": "Quickness",
+            "status": "퀴크니스",
             "text": "Apply Buff/Condition",
             "type": "Buff"
         },
@@ -119,7 +119,7 @@
             "duration": 5,
             "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
             "requires_trait": 2234,
-            "status": "Fury",
+            "status": "퓨리",
             "text": "Apply Buff/Condition",
             "type": "Buff"
         },

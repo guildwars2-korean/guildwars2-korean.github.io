@@ -1,3 +1,22 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Br68AAA=]",
+    "description": "Launch an orb that bounces between foes and applies conditions.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1200
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 1
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/0C9C043BFFC0773E390D19462444ABEB02FD4C01/103100.png",
+    "id": 48318,
+    "name": "Winds of Chaos"
 }

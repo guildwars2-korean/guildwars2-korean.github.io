@@ -1,3 +1,36 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Bk0oAAA=]",
+    "description": "Evade while delivering a powerful final attack.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 150
+        },
+        {
+            "dmg_multiplier": 1,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 3
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/07EC312A152C19E306FD75A34B20C5C7D024AFB2/103779.png",
+    "id": 10317,
+    "name": "Evasive Strike",
+    "prev_chain": 10316,
+    "professions": [
+        "Mesmer"
+    ],
+    "slot": "Weapon_1",
+    "type": "Weapon",
+    "weapon_type": "Spear"
 }

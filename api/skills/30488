@@ -1,3 +1,64 @@
 {
-    "text": "too many requests"
+    "categories": [
+        "Shout"
+    ],
+    "chat_link": "[&Bhh3AAA=]",
+    "description": "Shout. Heal yourself, gain life force, and strike foes around you, absorbing additional life force from each foe struck.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "dmg_multiplier": 0.5,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 4555
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 5,
+            "text": "Life Force",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 3,
+            "text": "Life Force per Hit",
+            "type": "Percent"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/53CF76526440F5987FA3E2CCDC9A2F2799CB26A8/1012929.png",
+    "id": 30488,
+    "name": "\"Your Soul Is Mine!\"",
+    "professions": [
+        "Necromancer"
+    ],
+    "slot": "Heal",
+    "specialization": 34,
+    "type": "Heal",
+    "weapon_type": "None"
 }

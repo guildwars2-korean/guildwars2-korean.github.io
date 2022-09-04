@@ -1,3 +1,42 @@
 {
-    "text": "too many requests"
+    "categories": [],
+    "chat_link": "[&BjIoAAA=]",
+    "description": "Chain. Shoot a second bolt of energy at your target.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        },
+        {
+            "dmg_multiplier": 0.5,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+            "status": "Torment",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "flip_skill": 10291,
+    "icon": "https://render.guildwars2.com/file/09C73FBE6CFA6AEFEF9A440AC162F2F5E8227867/103557.png",
+    "id": 10290,
+    "name": "Ether Blast",
+    "professions": [
+        "Mesmer"
+    ],
+    "slot": "Weapon_1",
+    "type": "Weapon",
+    "weapon_type": "Scepter"
 }

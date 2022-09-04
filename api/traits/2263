@@ -9,7 +9,7 @@
         },
         {
             "apply_count": 1,
-            "description": "Skills and actions are faster.",
+            "description": "스킬과 액션이 빨라진다.",
             "duration": 3,
             "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
             "prefix": {
@@ -17,7 +17,7 @@
                 "status": "Unleashed",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Quickness",
+            "status": "퀴크니스",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
@@ -31,7 +31,7 @@
                 "status": "Pet Unleashed",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Stability",
+            "status": "스태빌리티",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         }

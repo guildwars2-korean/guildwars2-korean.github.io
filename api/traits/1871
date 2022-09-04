@@ -9,7 +9,7 @@
         },
         {
             "apply_count": 1,
-            "description": "Endurance regeneration increased by 50%; stacks duration.",
+            "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
             "duration": 10,
             "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
             "prefix": {
@@ -18,7 +18,7 @@
                 "status": "Bleeding",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Vigor",
+            "status": "비거",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
@@ -33,13 +33,13 @@
                 "status": "Blinded",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Fury",
+            "status": "퓨리",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
         {
             "apply_count": 1,
-            "description": "Block the next incoming attack; stacks duration.",
+            "description": "다음으로 받는 공격을 막는다(지속시간 중첩).",
             "duration": 5,
             "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
             "prefix": {
@@ -48,13 +48,13 @@
                 "status": "Burning",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Aegis",
+            "status": "이지스",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
         {
             "apply_count": 1,
-            "description": "Skills recharge faster.",
+            "description": "스킬 재사용 대기시간 단축.",
             "duration": 3,
             "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
             "prefix": {
@@ -63,13 +63,13 @@
                 "status": "Chilled",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Alacrity",
+            "status": "알라크리티",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
         {
             "apply_count": 1,
-            "description": "Incoming condition damage decreased by 33%; stacks duration.",
+            "description": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
             "duration": 5,
             "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
             "prefix": {
@@ -78,13 +78,13 @@
                 "status": "Confusion",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Resolution",
+            "status": "레졸루션",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
         {
             "apply_count": 1,
-            "description": "Movement speed increased by 33%; stacks duration.",
+            "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
             "duration": 10,
             "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
             "prefix": {
@@ -93,7 +93,7 @@
                 "status": "Crippled",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Swiftness",
+            "status": "스위프트니스",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
@@ -108,13 +108,13 @@
                 "status": "Fear",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Stability",
+            "status": "스태빌리티",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
         {
             "apply_count": 1,
-            "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+            "description": "데미지를 주지않는 컨디션의 효과를 무시한다(지속시간 중첩).",
             "duration": 2,
             "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
             "prefix": {
@@ -123,13 +123,13 @@
                 "status": "Immobile",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Resistance",
+            "status": "레지스턴스",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
         {
             "apply_count": 1,
-            "description": "Gain health every second; stacks duration.",
+            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
             "duration": 5,
             "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
             "prefix": {
@@ -138,13 +138,13 @@
                 "status": "Poisoned",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Regeneration",
+            "status": "리제네레이션",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
         {
             "apply_count": 1,
-            "description": "Skills and actions are faster.",
+            "description": "스킬과 액션이 빨라진다.",
             "duration": 3,
             "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
             "prefix": {
@@ -153,7 +153,7 @@
                 "status": "Slow",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Quickness",
+            "status": "퀴크니스",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
@@ -168,13 +168,13 @@
                 "status": "Taunt",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Stability",
+            "status": "스태빌리티",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
         {
             "apply_count": 3,
-            "description": "Increased outgoing damage; stacks intensity.",
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
             "duration": 10,
             "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
             "prefix": {
@@ -183,7 +183,7 @@
                 "status": "Torment",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Might",
+            "status": "마이트",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
@@ -198,13 +198,13 @@
                 "status": "Vulnerability",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Protection",
+            "status": "프로텍션",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
         {
             "apply_count": 3,
-            "description": "Increased outgoing damage; stacks intensity.",
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
             "duration": 10,
             "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
             "prefix": {
@@ -213,7 +213,7 @@
                 "status": "Weakness",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Might",
+            "status": "마이트",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },

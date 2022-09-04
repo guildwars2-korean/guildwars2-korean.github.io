@@ -1,3 +1,57 @@
 {
-    "text": "too many requests"
+    "categories": [
+        "LegendaryAssassin"
+    ],
+    "chat_link": "[&Bj56AAA=]",
+    "cost": 50,
+    "description": "Legendary Assassin. Call upon the Jade Wind to turn nearby enemies into jade, stunning them for a short duration.",
+    "facts": [
+        {
+            "dmg_multiplier": 1.5,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+            "text": "Jade Duration",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/93F6019F04E9F802E658963C79772D979731CE9B/1012987.png",
+    "id": 31294,
+    "name": "Jade Winds",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Elite",
+    "traited_facts": [
+        {
+            "apply_count": 2,
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "requires_trait": 1765,
+            "status": "마이트",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "type": "Elite",
+    "weapon_type": "None"
 }

@@ -55,10 +55,10 @@
                 },
                 {
                     "apply_count": 2,
-                    "description": "Increased outgoing damage; stacks intensity.",
+                    "description": "가하는 데미지가 증가한다(강도 중첩).",
                     "duration": 16,
                     "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                    "status": "Might",
+                    "status": "마이트",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 },
@@ -128,19 +128,19 @@
                 },
                 {
                     "apply_count": 1,
-                    "description": "Gain health every second; stacks duration.",
+                    "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
                     "duration": 8,
                     "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
-                    "status": "Regeneration",
+                    "status": "리제네레이션",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 },
                 {
                     "apply_count": 1,
-                    "description": "Endurance regeneration increased by 50%; stacks duration.",
+                    "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
                     "duration": 5,
                     "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
-                    "status": "Vigor",
+                    "status": "비거",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 },
@@ -354,7 +354,7 @@
                     "description": "Incoming strike damage decreased by 33%; stacks duration.",
                     "duration": 1,
                     "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-                    "status": "Protection",
+                    "status": "프로텍션",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 },
@@ -363,7 +363,7 @@
                     "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
                     "duration": 4,
                     "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-                    "status": "Stability",
+                    "status": "스태빌리티",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 },
@@ -427,7 +427,7 @@
                     "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
                     "overrides": 7,
                     "requires_trait": 1902,
-                    "status": "Stability",
+                    "status": "스태빌리티",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 }

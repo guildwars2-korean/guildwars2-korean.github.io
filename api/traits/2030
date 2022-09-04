@@ -68,11 +68,11 @@
             "traited_facts": [
                 {
                     "apply_count": 5,
-                    "description": "Increased outgoing damage; stacks intensity.",
+                    "description": "가하는 데미지가 증가한다(강도 중첩).",
                     "duration": 8,
                     "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                     "requires_trait": 1687,
-                    "status": "Might",
+                    "status": "마이트",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 },
@@ -150,11 +150,11 @@
             "traited_facts": [
                 {
                     "apply_count": 1,
-                    "description": "Endurance regeneration increased by 50%; stacks duration.",
+                    "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
                     "duration": 8,
                     "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
                     "requires_trait": 1687,
-                    "status": "Vigor",
+                    "status": "비거",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 },
@@ -243,7 +243,7 @@
                     "duration": 10,
                     "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
                     "requires_trait": 1687,
-                    "status": "Fury",
+                    "status": "퓨리",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 },
@@ -329,11 +329,11 @@
             "traited_facts": [
                 {
                     "apply_count": 1,
-                    "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+                    "description": "데미지를 주지않는 컨디션의 효과를 무시한다(지속시간 중첩).",
                     "duration": 3,
                     "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
                     "requires_trait": 1687,
-                    "status": "Resistance",
+                    "status": "레지스턴스",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 },

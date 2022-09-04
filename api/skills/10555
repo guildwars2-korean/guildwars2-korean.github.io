@@ -18,28 +18,28 @@
             "dmg_multiplier": 3.125,
             "hit_count": 1,
             "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage\u2014Three Boons",
+            "text": "Damage—Three Boons",
             "type": "Damage"
         },
         {
             "dmg_multiplier": 2.75,
             "hit_count": 1,
             "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage\u2014Two Boons",
+            "text": "Damage—Two Boons",
             "type": "Damage"
         },
         {
             "dmg_multiplier": 2.375,
             "hit_count": 1,
             "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage\u2014One Boon",
+            "text": "Damage—One Boon",
             "type": "Damage"
         },
         {
             "dmg_multiplier": 2,
             "hit_count": 1,
             "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-            "text": "Damage\u2014No Boons",
+            "text": "Damage—No Boons",
             "type": "Damage"
         },
         {

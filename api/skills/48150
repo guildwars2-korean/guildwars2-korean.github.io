@@ -1,3 +1,22 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Bha8AAA=]",
+    "description": "The Eye's gaze locks on you, dealing damage as long as you remain in its sight.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1600
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 30
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/BCEB22C05BD13F226612C81339AF9A7647F7B454/103229.png",
+    "id": 48150,
+    "name": "Deep Abyss"
 }

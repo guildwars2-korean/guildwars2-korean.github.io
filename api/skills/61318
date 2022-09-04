@@ -1,3 +1,16 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BobvAAA=]",
+    "description": "Charges the target location, damaging enemies along the path.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 30000
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/6A247111740A3B5C0E2FAF1D3591D105113D0308/103196.png",
+    "id": 61318,
+    "name": "Elemental Surge"
 }

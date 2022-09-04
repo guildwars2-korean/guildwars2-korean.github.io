@@ -1,3 +1,38 @@
 {
-    "text": "too many requests"
+    "categories": [],
+    "chat_link": "[&BgJzAAA=]",
+    "description": "Chain. Shroud. Cleave foes in front of you. This skill inherits traits from Life Blast.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 170
+        },
+        {
+            "dmg_multiplier": 0.9,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 3
+        }
+    ],
+    "flags": [],
+    "flip_skill": 29458,
+    "icon": "https://render.guildwars2.com/file/59F9500BD4CABD990B6C4E68A458805268A1941A/1012933.png",
+    "id": 29442,
+    "name": "Life Rend",
+    "next_chain": 29458,
+    "professions": [
+        "Necromancer"
+    ],
+    "slot": "Downed_1",
+    "type": "Profession",
+    "weapon_type": "None"
 }

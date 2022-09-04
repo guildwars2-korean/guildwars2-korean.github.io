@@ -1,3 +1,62 @@
 {
-    "text": "too many requests"
+    "categories": [
+        "Physical"
+    ],
+    "chat_link": "[&Bp70AAA=]",
+    "description": "Physical. Guard yourself with light, negating the next incoming strike and healing you instead, even if the strike would have been lethal. If an effect causes damage that would be lethal, that damage will be negated and you will be healed instead. If no attacks or lethal damage are negated, you will be healed for the lowest set amount.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 2
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Heal If Attacked",
+            "type": "AttributeAdjust",
+            "value": 4264
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Heal if no attacks are reversed.",
+            "type": "AttributeAdjust",
+            "value": 2132
+        },
+        {
+            "apply_count": 1,
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/769AAD7FC9A2EDDD5658514C7717940BA5DEB5D1/2479366.png",
+            "status": "Reversal of Fortune",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "text": "Count Recharge",
+            "type": "Time"
+        },
+        {
+            "duration": 20,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "text": "Count Recharge",
+            "type": "Time"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/769AAD7FC9A2EDDD5658514C7717940BA5DEB5D1/2479366.png",
+    "id": 62622,
+    "name": "Reversal of Fortune",
+    "professions": [
+        "Guardian"
+    ],
+    "slot": "Heal",
+    "specialization": 65,
+    "type": "Heal",
+    "weapon_type": "None"
 }

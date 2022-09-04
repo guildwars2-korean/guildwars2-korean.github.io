@@ -1,3 +1,25 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BpdFAAA=]",
+    "description": "Leave a trail of glue behind you that hampers enemy movement.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Unable to move; stacks duration.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+            "status": "Immobile",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/9A37D45CBD05C029915ED90E4F08F6B8D2DFF8AB/102816.png",
+    "id": 17815,
+    "name": "Glue Trail"
 }

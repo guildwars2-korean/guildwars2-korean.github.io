@@ -9,10 +9,10 @@
         },
         {
             "apply_count": 1,
-            "description": "Skills recharge faster.",
+            "description": "스킬 재사용 대기시간 단축.",
             "duration": 7,
             "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-            "status": "Alacrity",
+            "status": "알라크리티",
             "text": "Apply Buff/Condition",
             "type": "Buff"
         },

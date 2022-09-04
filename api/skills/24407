@@ -1,3 +1,69 @@
 {
-    "text": "too many requests"
+    "attunement": "Fire",
+    "categories": [
+        "Glyph"
+    ],
+    "chat_link": "[&BldfAAA=]",
+    "description": "Glyph. Revive an ally; you're revived the next time you're downed.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 90
+        },
+        {
+            "apply_count": 1,
+            "description": "Will revive when downed.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/3D61BEC4D7F15D070666D7DF355EDC07E4D023A8/1424232.png",
+            "status": "Renewal of Fire",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Revive Targets",
+            "type": "Number",
+            "value": 1
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/E32109BA04DE3CE0F2A8E30324D235910B739BFC/103354.png",
+    "id": 24407,
+    "name": "Renewal of Fire",
+    "professions": [
+        "Elementalist"
+    ],
+    "slot": "Utility",
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "requires_trait": 229,
+            "status": "마이트",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 3,
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "requires_trait": 229,
+            "status": "마이트",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "type": "Utility",
+    "weapon_type": "None"
 }

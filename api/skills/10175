@@ -1,3 +1,90 @@
 {
-    "text": "too many requests"
+    "categories": [
+        "Phantasm"
+    ],
+    "chat_link": "[&Br8nAAA=]",
+    "description": "Phantasm. Fire multiple crippling bullets at your target and summon an illusion that unloads its pistols on your target.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1200
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "dmg_multiplier": 0.33,
+            "hit_count": 3,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "dmg_multiplier": 0.115,
+            "hit_count": 8,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Illusion Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 3,
+            "description": "Movement speed decreased by 50%; stacks duration.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+            "status": "Crippled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "dmg_multiplier": 0.1,
+            "hit_count": 8,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Illusion Damage",
+            "type": "Damage"
+        },
+        {
+            "finisher_type": "Projectile",
+            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+            "percent": 20,
+            "text": "Combo Finisher",
+            "type": "ComboFinisher"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/B19B18E1D8314AA63BF9A7C7E0C561624BB2D97E/103724.png",
+    "id": 10175,
+    "name": "Phantasmal Duelist",
+    "professions": [
+        "Mesmer"
+    ],
+    "slot": "Weapon_4",
+    "traited_facts": [
+        {
+            "dmg_multiplier": 0.132,
+            "hit_count": 8,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "overrides": 3,
+            "requires_trait": 682,
+            "text": "Illusion Damage",
+            "type": "Damage"
+        },
+        {
+            "dmg_multiplier": 0.115,
+            "hit_count": 8,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "overrides": 5,
+            "requires_trait": 682,
+            "text": "Illusion Damage",
+            "type": "Damage"
+        }
+    ],
+    "type": "Weapon",
+    "weapon_type": "Pistol"
 }

@@ -1,3 +1,8 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Bie9AAA=]",
+    "description": "Summon a meteor to strike a random enemy.",
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+    "id": 48423,
+    "name": "Call Meteor"
 }

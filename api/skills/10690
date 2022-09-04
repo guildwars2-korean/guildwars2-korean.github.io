@@ -45,11 +45,11 @@
     "traited_facts": [
         {
             "apply_count": 1,
-            "description": "Increased outgoing damage; stacks intensity.",
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
             "duration": 15,
             "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
             "requires_trait": 913,
-            "status": "Might",
+            "status": "마이트",
             "text": "Apply Buff/Condition",
             "type": "Buff"
         },

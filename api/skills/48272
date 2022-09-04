@@ -1,3 +1,16 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BpC8AAA=]",
+    "description": "Explodes in an eruption of energy that deals massive damage to all foes.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 400
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/02A02091B1EBDB782719EB6AE56F01E6372C500D/103091.png",
+    "id": 48272,
+    "name": "Bombshell"
 }

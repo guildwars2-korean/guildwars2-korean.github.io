@@ -94,21 +94,21 @@
                 },
                 {
                     "apply_count": 3,
-                    "description": "Increased outgoing damage; stacks intensity.",
+                    "description": "가하는 데미지가 증가한다(강도 중첩).",
                     "duration": 5,
                     "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                     "requires_trait": 621,
-                    "status": "Might",
+                    "status": "마이트",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 },
                 {
                     "apply_count": 1,
-                    "description": "Incoming condition damage decreased by 33%; stacks duration.",
+                    "description": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
                     "duration": 3,
                     "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
                     "requires_trait": 604,
-                    "status": "Resolution",
+                    "status": "레졸루션",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 },
@@ -165,21 +165,21 @@
                 },
                 {
                     "apply_count": 1,
-                    "description": "Gain health every second; stacks duration.",
+                    "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
                     "duration": 5,
                     "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
                     "requires_trait": 621,
-                    "status": "Regeneration",
+                    "status": "리제네레이션",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 },
                 {
                     "apply_count": 1,
-                    "description": "Incoming condition damage decreased by 33%; stacks duration.",
+                    "description": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
                     "duration": 3,
                     "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
                     "requires_trait": 604,
-                    "status": "Resolution",
+                    "status": "레졸루션",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 },
@@ -220,10 +220,10 @@
                 },
                 {
                     "apply_count": 1,
-                    "description": "Block the next incoming attack; stacks duration.",
+                    "description": "다음으로 받는 공격을 막는다(지속시간 중첩).",
                     "duration": 0,
                     "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
-                    "status": "Aegis",
+                    "status": "이지스",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 },
@@ -261,17 +261,17 @@
                     "duration": 5,
                     "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
                     "requires_trait": 621,
-                    "status": "Protection",
+                    "status": "프로텍션",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 },
                 {
                     "apply_count": 1,
-                    "description": "Incoming condition damage decreased by 33%; stacks duration.",
+                    "description": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
                     "duration": 3,
                     "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
                     "requires_trait": 604,
-                    "status": "Resolution",
+                    "status": "레졸루션",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 },
@@ -281,7 +281,7 @@
                     "duration": 4,
                     "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
                     "requires_trait": 612,
-                    "status": "Stability",
+                    "status": "스태빌리티",
                     "text": "Apply Buff/Condition",
                     "type": "Buff"
                 },

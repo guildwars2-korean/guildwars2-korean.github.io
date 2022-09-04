@@ -1,3 +1,16 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BvfaAAA=]",
+    "description": "Sabir unleashes a line of electricity that knocks foes back.",
+    "facts": [
+        {
+            "distance": 350,
+            "icon": "https://render.guildwars2.com/file/B4087CEB5CC006172E0A09DADC5452807A0CA3F7/2440712.png",
+            "text": "Launch",
+            "type": "Distance"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/E43730AD49A903C3A1B4F27E41DE04EA51A775EC/156636.png",
+    "id": 56055,
+    "name": "Dynamic Deterrent"
 }

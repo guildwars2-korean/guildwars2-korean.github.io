@@ -1,3 +1,8 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BoS3AAA=]",
+    "description": "Confuses and teleports an enemy into the air.",
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+    "id": 46980,
+    "name": "Portal Trap"
 }

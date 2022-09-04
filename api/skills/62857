@@ -1,3 +1,49 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Bon1AAA=]",
+    "cost": 30,
+    "description": "((996108))",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 300
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 8
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+            "text": "((996198))",
+            "type": "Number",
+            "value": 30
+        },
+        {
+            "dmg_multiplier": 5,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/7E57E419ADBB0D0FCD47FC99FDE43234232E0D06/1770647.png",
+    "id": 62857,
+    "name": "((996787))",
+    "professions": [
+        "Warrior"
+    ],
+    "slot": "Profession_2",
+    "specialization": 68,
+    "type": "Profession",
+    "weapon_type": "None"
 }

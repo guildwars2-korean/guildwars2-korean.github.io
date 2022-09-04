@@ -1,3 +1,27 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Bmu6AAA=]",
+    "description": "Your skin freezes through as death takes hold.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1000
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 10
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/FC9D41631677D8A9A9AE437E1B01357F60B595F9/1824230.png",
+            "text": "Break Barrier",
+            "type": "NoData"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+    "id": 47723,
+    "name": "Frozen Demise"
 }

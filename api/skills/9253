@@ -22,16 +22,16 @@
             "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
             "duration": 2,
             "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-            "status": "Stability",
+            "status": "스태빌리티",
             "text": "Apply Buff/Condition",
             "type": "Buff"
         },
         {
             "apply_count": 1,
-            "description": "Incoming condition damage decreased by 33%; stacks duration.",
+            "description": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
             "duration": 2,
             "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
-            "status": "Resolution",
+            "status": "레졸루션",
             "text": "Apply Buff/Condition",
             "type": "Buff"
         },

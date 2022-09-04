@@ -1,3 +1,52 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Bt53AAA=]",
+    "description": "Drop a delayed explosive pack at your foe's location.",
+    "facts": [
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "dmg_multiplier": 2,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Explosion Delay",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
+            "text": "Explosion",
+            "type": "NoData"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/FF66C9731A6BC608AB185F98BE5F07E43AEACD36/103534.png",
+    "id": 30686,
+    "name": "Long-Fused Powder Pack",
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "Damage and condition damage taken are increased; stacks intensity.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+            "requires_trait": 517,
+            "status": "Vulnerability",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ]
 }

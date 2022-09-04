@@ -1,3 +1,16 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Buy7AAA=]",
+    "description": "Icy fingers rip through the ground, bursting and driving shrapnel into nearby foes.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1000
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/6FA3B95C9E040C54F1BC20ED2727FA1FE24B0296/103639.png",
+    "id": 48108,
+    "name": "King's Wrath"
 }

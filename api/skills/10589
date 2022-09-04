@@ -1,3 +1,44 @@
 {
-    "text": "too many requests"
+    "categories": [
+        "Minion"
+    ],
+    "chat_link": "[&Bl0pAAA=]",
+    "description": "Minion. Summon a shadow fiend to attack foes.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 24
+        },
+        {
+            "dmg_multiplier": 0.3,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        }
+    ],
+    "flags": [],
+    "flip_skill": 10590,
+    "icon": "https://render.guildwars2.com/file/79FD0497A0BD625E0AD19A3A93C60946CB6C46E1/103819.png",
+    "id": 10589,
+    "name": "Summon Shadow Fiend",
+    "professions": [
+        "Necromancer"
+    ],
+    "slot": "Utility",
+    "traited_facts": [
+        {
+            "dmg_multiplier": 0.375,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "overrides": 1,
+            "requires_trait": 858,
+            "text": "Damage",
+            "type": "Damage"
+        }
+    ],
+    "type": "Utility",
+    "weapon_type": "None"
 }

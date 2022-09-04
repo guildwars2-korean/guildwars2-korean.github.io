@@ -1,3 +1,16 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BgK9AAA=]",
+    "description": "A damaging scythe attack that applies bleeding.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 500
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/2ECDC80E365C9147A05C50490BF3DFE6FAE009FE/1012993.png",
+    "id": 48386,
+    "name": "Scythe Swipe"
 }

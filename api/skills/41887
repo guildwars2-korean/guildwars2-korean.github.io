@@ -1,3 +1,16 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Bp+jAAA=]",
+    "description": "Damage your foe with a forceful peck.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 125
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/21256E39B31EE59195E1FA61FE417A2FE434EFEB/103241.png",
+    "id": 41887,
+    "name": "Peck"
 }

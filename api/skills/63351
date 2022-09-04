@@ -1,3 +1,36 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Bnf3AAA=]",
+    "description": "Hurl a bolt that hinders foes and helps allies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/C7F90ED7C6D2944A3258CFF1B75CC2D4EE36384A/2503746.png",
+    "id": 63351,
+    "initiative": 3,
+    "name": "Shadow Sap",
+    "professions": [
+        "Thief"
+    ],
+    "slot": "Weapon_2",
+    "specialization": 71,
+    "traited_facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "requires_trait": 1238,
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 306
+        }
+    ],
+    "type": "Weapon",
+    "weapon_type": "Scepter"
 }

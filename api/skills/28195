@@ -1,3 +1,16 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BiNuAAA=]",
+    "description": "Invoke the power of the legendary centaur Ventari.",
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/6CFF31B50AA00CAF3D35A02562964802B55AD292/1024105.png",
+    "id": 28195,
+    "name": "Legendary Centaur Stance",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Profession_1",
+    "type": "Profession",
+    "weapon_type": "None"
 }

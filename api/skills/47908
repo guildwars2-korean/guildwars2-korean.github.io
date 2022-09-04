@@ -1,3 +1,16 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BiS7AAA=]",
+    "description": "The ground erupts with deadly skeletal fingers that deal damage and corrupt boons.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Boons Converted to Conditions",
+            "type": "Number",
+            "value": 1
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+    "id": 47908,
+    "name": "Fingers of the Dead"
 }

@@ -1,3 +1,25 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BqHHAAA=]",
+    "description": "Shadowsteps to its target, then strikes to apply knockdown and Vampiric Infection.",
+    "facts": [
+        {
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/7632087376D36B0D100F1B07BE53F154BC337D7C/2440716.png",
+            "text": "Knockdown",
+            "type": "Time"
+        },
+        {
+            "apply_count": 1,
+            "description": "Transfers health to source every second. Stacks intensity.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/A35F4434E6CAEF5623F7FB9FE3A5E9A103E40FCD/514408.png",
+            "status": "Vampiric Infection",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+    "id": 51105,
+    "name": "Bloody Leap"
 }

@@ -1,3 +1,8 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BmyUAAA=]",
+    "description": "Samarog's Impaling Stab creates a shockwave that damages and launches targets.",
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
+    "id": 37996,
+    "name": "Shockwave"
 }

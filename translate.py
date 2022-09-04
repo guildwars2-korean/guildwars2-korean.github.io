@@ -1,3 +1,4 @@
+import copy
 from multiprocessing import Pool
 import json
 import os
@@ -5,34 +6,31 @@ import os
 
 num_of_processes = 32
 
-origin_dir = 'origin'
-translated_dir = 'api'
+origin_dir_name = 'origin'
+translated_dir_name = 'api'
 ignore_file_name = 'index.html'
 dictionary_file_name = 'dictionary.json'
 
 def get_dictionary():
-    with open('./{}'.format(dictionary_file_name), 'r') as f:
-        origin_dictionary = json.load(f)
-        post_processed_dictionary = {}
-        for k, v in origin_dictionary.items():
-            post_processed_dictionary['"{}"'.format(k)] = '"{}"'.format(v)
-        return post_processed_dictionary
-        
+    with open('./{}'.format(dictionary_file_name), 'r', encoding='UTF-8') as f:
+        return json.load(f)
 
 dictionary_for_translation = get_dictionary()
 
 def main():
+    translated_dir = './{}'.format(translated_dir_name)
+    create_dir(translated_dir)
     resources = get_resources()
     for resource in resources:
         translate_resource(resource)
 
 def get_resources():
-    resources = os.listdir('./{}'.format(origin_dir))
+    resources = os.listdir('./{}'.format(origin_dir_name))
     resources.remove(ignore_file_name)
     return resources
 
 def get_item_ids_by_resource(resource):
-    items = os.listdir('./{}/{}'.format(origin_dir, resource))
+    items = os.listdir('./{}/{}'.format(origin_dir_name, resource))
     items.remove(ignore_file_name)
     return items
 
@@ -46,20 +44,35 @@ def translate_item(param):
     resource = param[0]
     item_id = param[1]
 
-    origin_item_path = './{}/{}/{}'.format(origin_dir, resource, item_id)
+    origin_item_path = './{}/{}/{}'.format(origin_dir_name, resource, item_id)
     origin_item_text = read_item(origin_item_path)
 
-    translated_item_path = './{}/{}/{}'.format(translated_dir, resource, item_id)
-    translated_item_text = origin_item_text.translate(dictionary_for_translation)
+    translated_item_path = './{}/{}/{}'.format(translated_dir_name, resource, item_id)
+    translated_item_text = json.loads(get_custom_transalted_text(origin_item_text, dictionary_for_translation))
+    translated_resource_dir = './{}/{}'.format(translated_dir_name, resource)
+    create_dir(translated_resource_dir)
     save_item(translated_item_path, translated_item_text)
+
+def get_custom_transalted_text(origin_text, dictionary):
+    copied_text = copy.deepcopy(origin_text)
+    for k, v in dictionary.items():
+        copied_text = copied_text.replace('\"{}\"'.format(k), '\"{}\"'.format(v))
+    return copied_text
 
 def read_item(item_path):
     with open(item_path, 'r') as f:
         return f.read()
 
 def save_item(item_path, item):
-    with open(item_path, 'w') as f:
-        json.dump(item, f, indent=4, sort_keys=True)
+    with open(item_path, 'w', encoding='UTF-8') as f:
+        json.dump(item, f, indent=4, sort_keys=True, ensure_ascii=False)
+
+def create_dir(dir_name):
+    try:
+        if not os.path.exists(dir_name):
+            os.makedirs(dir_name)
+    except OSError:
+        print('[Error] Create directory : {}'.format(dir_name))
 
 
 if __name__ == '__main__':

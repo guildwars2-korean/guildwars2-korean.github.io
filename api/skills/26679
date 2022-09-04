@@ -1,3 +1,111 @@
 {
-    "text": "too many requests"
+    "categories": [
+        "LegendaryDwarf"
+    ],
+    "chat_link": "[&BjdoAAA=]",
+    "cost": 10,
+    "description": "Legendary Dwarf. Launch a chain at your target and at foes around your target. When the chain connects with a foe, it slows and taunts them. You take less damage from taunted foes.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 600
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 15
+        },
+        {
+            "dmg_multiplier": 0.5,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 33,
+            "text": "Damage Reduced",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Take less damage from taunted foes.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/B244F19EA9F09D96D175BC0C2BC402A23D0EEFA5/961439.png",
+            "status": "Forced Engagement",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Take less damage from taunted foes.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/B244F19EA9F09D96D175BC0C2BC402A23D0EEFA5/961439.png",
+            "status": "Forced Engagement",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Involuntarily attack foes.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/02EED459AD65FAF7DF32A260E479C625070841B9/1228472.png",
+            "status": "Taunt",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Involuntarily attack foes.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/02EED459AD65FAF7DF32A260E479C625070841B9/1228472.png",
+            "status": "Taunt",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Skills and actions are slower.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+            "status": "Slow",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Skills and actions are slower.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+            "status": "Slow",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 180,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Additional Chains Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/B244F19EA9F09D96D175BC0C2BC402A23D0EEFA5/961439.png",
+    "id": 26679,
+    "name": "Forced Engagement",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Utility",
+    "type": "Utility",
+    "weapon_type": "None"
 }

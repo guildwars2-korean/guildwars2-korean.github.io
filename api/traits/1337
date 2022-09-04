@@ -1,5 +1,5 @@
 {
-    "description": "You have a chance to inflict bleeding on\u00a0critical hits, and bleeds\u00a0that you apply last longer.",
+    "description": "You have a chance to inflict bleeding on critical hits, and bleeds that you apply last longer.",
     "facts": [
         {
             "apply_count": 1,

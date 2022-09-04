@@ -29,7 +29,7 @@
                         "status": "Legendary Assassin Stance",
                         "text": "Apply Buff/Condition"
                     },
-                    "status": "Facet of Nature\u2014Assassin",
+                    "status": "Facet of Nature—Assassin",
                     "text": "Apply Buff/Condition",
                     "type": "PrefixedBuff"
                 },
@@ -44,7 +44,7 @@
                         "status": "Legendary Centaur Stance",
                         "text": "Apply Buff/Condition"
                     },
-                    "status": "Facet of Nature\u2014Centaur",
+                    "status": "Facet of Nature—Centaur",
                     "text": "Apply Buff/Condition",
                     "type": "PrefixedBuff"
                 },
@@ -59,7 +59,7 @@
                         "status": "Legendary Demon Stance",
                         "text": "Apply Buff/Condition"
                     },
-                    "status": "Facet of Nature\u2014Demon",
+                    "status": "Facet of Nature—Demon",
                     "text": "Apply Buff/Condition",
                     "type": "PrefixedBuff"
                 },
@@ -74,7 +74,7 @@
                         "status": "Legendary Dwarf Stance",
                         "text": "Apply Buff/Condition"
                     },
-                    "status": "Facet of Nature\u2014Dwarf",
+                    "status": "Facet of Nature—Dwarf",
                     "text": "Apply Buff/Condition",
                     "type": "PrefixedBuff"
                 },
@@ -89,7 +89,7 @@
                         "status": "Legendary Dragon Stance",
                         "text": "Apply Buff/Condition"
                     },
-                    "status": "Facet of Nature\u2014Dragon",
+                    "status": "Facet of Nature—Dragon",
                     "text": "Apply Buff/Condition",
                     "type": "PrefixedBuff"
                 },

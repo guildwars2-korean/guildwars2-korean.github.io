@@ -1,3 +1,60 @@
 {
-    "text": "too many requests"
+    "categories": [
+        "Physical"
+    ],
+    "chat_link": "[&BsB2AAA=]",
+    "description": "Physical. Channel your energy to gain endurance and health per pulse. Heal for more if your endurance is full.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Heal if Endurance is Full",
+            "type": "AttributeAdjust",
+            "value": 2440
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 1840
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Endurance Gained",
+            "type": "Number",
+            "value": 15
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Endurance Gained",
+            "type": "Number",
+            "value": 25
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Pulses",
+            "type": "Number",
+            "value": 3
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/AA5F2B2C68423A9A2CACFD6DFB74F05228E0A2B2/1058620.png",
+    "id": 30400,
+    "name": "Channeled Vigor",
+    "professions": [
+        "Thief"
+    ],
+    "slot": "Heal",
+    "specialization": 7,
+    "type": "Heal",
+    "weapon_type": "None"
 }

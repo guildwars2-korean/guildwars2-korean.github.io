@@ -1,3 +1,54 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Bl6XAAA=]",
+    "description": "Detonate your supply crate turrets.",
+    "facts": [
+        {
+            "dmg_multiplier": 2,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "distance": 120,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "finisher_type": "Blast",
+            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+            "percent": 100,
+            "text": "Combo Finisher",
+            "type": "ComboFinisher"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/09EB220BF078A6F961E0B0D4F9969669F276DF50/103447.png",
+    "id": 38750,
+    "name": "Detonate Supply Crate Turrets",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Elite",
+    "toolbelt_skill": 30588,
+    "traited_facts": [
+        {
+            "dmg_multiplier": 2.2,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "overrides": 0,
+            "requires_trait": 429,
+            "text": "Damage",
+            "type": "Damage"
+        }
+    ],
+    "type": "Elite",
+    "weapon_type": "None"
 }

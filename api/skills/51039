@@ -1,3 +1,28 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Bl/HAAA=]",
+    "description": "Destroys tiles and chains attacks to allies who are struck by the blast. Applies agony, daze, and knockback.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Unable to activate skills.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+            "status": "Daze",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity; reduces incoming healing and barrier application by 70% per stack; damage is reduced by agony resistance.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/C0B3EB17FEA2B0C4481333F36AA619EB9ABD1CD6/514400.png",
+            "status": "Agony",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/B0ECF22AA1463C960EA65020D2B27C932D0996C0/681257.png",
+    "id": 51039,
+    "name": "Disintegration Blast"
 }

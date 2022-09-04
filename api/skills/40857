@@ -1,3 +1,22 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BpmfAAA=]",
+    "description": "A basic melee attack.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 130
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 8
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/4CF36C6EF1F0FF18484518D57233E1AFEA3B3669/103045.png",
+    "id": 40857,
+    "name": "Deadly Kick"
 }

@@ -1,3 +1,23 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&Bo31AAA=]",
+    "description": "Put your gunsaber away and return to your normal weapon set. Changes to your weapon recharge rate affect this skill.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 10
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/21C87D14E3A3C298C909A003614102F0FA48979A/2491644.png",
+    "id": 62861,
+    "name": "Sheathe Gunsaber",
+    "professions": [
+        "Warrior"
+    ],
+    "slot": "Profession_1",
+    "specialization": 68,
+    "type": "Profession",
+    "weapon_type": "None"
 }

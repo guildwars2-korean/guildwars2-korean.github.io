@@ -1,3 +1,65 @@
 {
-    "text": "too many requests"
+    "categories": [
+        "Glamour"
+    ],
+    "chat_link": "[&Bu7EAAA=]",
+    "description": "Glamour. Create a wall that grants stealth to you and your allies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 72
+        },
+        {
+            "apply_count": 1,
+            "description": "Currently invisible. Ends if you deal damage.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+            "status": "Stealth",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Curtain Duration",
+            "type": "Time"
+        },
+        {
+            "field_type": "Light",
+            "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+            "text": "Combo Field",
+            "type": "ComboField"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/BA0BFC7465492CDE157741087CCA3D932F4E6542/103729.png",
+    "id": 50414,
+    "name": "Veil",
+    "professions": [
+        "Mesmer"
+    ],
+    "slot": "Utility",
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "Currently invisible. Ends if you deal damage.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+            "overrides": 2,
+            "requires_trait": 674,
+            "status": "Stealth",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "type": "Utility",
+    "weapon_type": "None"
 }

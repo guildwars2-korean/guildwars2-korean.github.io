@@ -70,7 +70,7 @@
             "flags": [],
             "icon": "https://render.guildwars2.com/file/F42AE073CD260A5A14BE304D2D60EBA7F2F8FF64/1770398.png",
             "id": 44260,
-            "name": "Light Strike\u2014Storm"
+            "name": "Light Strike—Storm"
         },
         {
             "chat_link": "[&BuulAAA=]",
@@ -123,7 +123,7 @@
             "flags": [],
             "icon": "https://render.guildwars2.com/file/427D5FB516D8E05016AA4AB8B228D40CA3226CE1/1770399.png",
             "id": 42475,
-            "name": "Bright Slash\u2014Storm"
+            "name": "Bright Slash—Storm"
         },
         {
             "chat_link": "[&BtSiAAA=]",
@@ -176,7 +176,7 @@
             "flags": [],
             "icon": "https://render.guildwars2.com/file/EF04A72D9336FE56EC730E460C114CAD2B04080E/1770400.png",
             "id": 41684,
-            "name": "Flash Cutter\u2014Storm"
+            "name": "Flash Cutter—Storm"
         }
     ],
     "slot": "Major",

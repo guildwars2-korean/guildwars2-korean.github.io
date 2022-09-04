@@ -1,3 +1,82 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BtWnAAA=]",
+    "description": "Create a holographic launch pad and leap to your foe. The pad remains behind for a short duration, granting increased movement speed to allies who touch it.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 600
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 2
+        },
+        {
+            "dmg_multiplier": 1.8,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+            "percent": 7,
+            "text": "Heat Gained",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+            "status": "스위프트니스",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "finisher_type": "Leap",
+            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+            "percent": 100,
+            "text": "Combo Finisher",
+            "type": "ComboFinisher"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/0D3F3B9BC209457B9C09D1C30B35122EA7C4FDE1/1770401.png",
+    "id": 42965,
+    "name": "Holo Leap",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Downed_2",
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "Movement speed is greatly increased. Maximum duration: 10s",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+            "overrides": 4,
+            "requires_trait": 2091,
+            "status": "Superspeed",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "type": "Weapon",
+    "weapon_type": "None"
 }

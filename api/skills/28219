@@ -1,3 +1,62 @@
 {
-    "text": "too many requests"
+    "categories": [
+        "LegendaryDemon"
+    ],
+    "chat_link": "[&BjtuAAA=]",
+    "cost": 5,
+    "description": "Legendary Demon. Heal yourself. Heal more for each condition currently applied to you.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 30
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 4600
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Heal per Condition",
+            "type": "AttributeAdjust",
+            "value": 596
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/0A970C1378D6FEA27195425C05B2E6726E447167/961456.png",
+    "id": 28219,
+    "name": "Empowering Misery",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Heal",
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "데미지를 주지않는 컨디션의 효과를 무시한다(지속시간 중첩).",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+            "requires_trait": 1789,
+            "status": "레지스턴스",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "데미지를 주지않는 컨디션의 효과를 무시한다(지속시간 중첩).",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+            "requires_trait": 1789,
+            "status": "레지스턴스",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "type": "Heal",
+    "weapon_type": "None"
 }

@@ -19,10 +19,10 @@
         },
         {
             "apply_count": 1,
-            "description": "Block the next incoming attack; stacks duration.",
+            "description": "다음으로 받는 공격을 막는다(지속시간 중첩).",
             "duration": 20,
             "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
-            "status": "Aegis",
+            "status": "이지스",
             "text": "Apply Buff/Condition",
             "type": "Buff"
         },
@@ -60,7 +60,7 @@
             "duration": 5,
             "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
             "requires_trait": 621,
-            "status": "Protection",
+            "status": "프로텍션",
             "text": "Apply Buff/Condition",
             "type": "Buff"
         },
@@ -70,7 +70,7 @@
             "duration": 4,
             "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
             "requires_trait": 612,
-            "status": "Stability",
+            "status": "스태빌리티",
             "text": "Apply Buff/Condition",
             "type": "Buff"
         },

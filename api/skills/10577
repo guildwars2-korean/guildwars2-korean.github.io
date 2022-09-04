@@ -1,3 +1,23 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BlEpAAA=]",
+    "description": "Sacrifice your blood fiend to heal yourself.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 3960
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/5D3ABA007906D715CE6CA70D5EE9029ACA0A10B5/103816.png",
+    "id": 10577,
+    "name": "Taste of Death",
+    "professions": [
+        "Necromancer"
+    ],
+    "slot": "Heal",
+    "type": "Heal",
+    "weapon_type": "None"
 }

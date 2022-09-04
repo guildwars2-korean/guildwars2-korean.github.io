@@ -56,7 +56,7 @@
             "duration": 10,
             "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
             "requires_trait": 1687,
-            "status": "Fury",
+            "status": "퓨리",
             "text": "Apply Buff/Condition",
             "type": "Buff"
         },

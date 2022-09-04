@@ -1,3 +1,19 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BqLFAAA=]",
+    "description": "A Lightning strike that dazes foes.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Unable to activate skills.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+            "status": "Daze",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+    "id": 50594,
+    "name": "Lightning Storm"
 }

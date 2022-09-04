@@ -1,3 +1,16 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BinMAAA=]",
+    "description": "If Qadim's defiance is not broken, he summons forth a powerful attack that damages and knocks back players.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 2200
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/0917C0B5F14C0140109E99F477DD322FD7040109/103130.png",
+    "id": 52265,
+    "name": "Riposte"
 }

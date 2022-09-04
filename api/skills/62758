@@ -1,3 +1,63 @@
 {
-    "text": "too many requests"
+    "attunement": "Fire",
+    "chat_link": "[&Bib1AAA=]",
+    "description": "Summon a projectile of fire that circles around you, striking enemies that it passes through. While this projectile is active, it grants you increased outgoing damage. Summoning a circular projectile refreshes the duration of all other circular projectiles.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 130
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 18
+        },
+        {
+            "apply_count": 1,
+            "description": "Increased outgoing damage.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/0EEEDE3EC37F7A6E1BC9BE20B69E3B2C09F5072F/2491582.png",
+            "status": "Flame Wheel",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+            "status": "Burning",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "dmg_multiplier": 0.001,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 2
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/0EEEDE3EC37F7A6E1BC9BE20B69E3B2C09F5072F/2491582.png",
+    "id": 62758,
+    "name": "Flame Wheel",
+    "professions": [
+        "Elementalist"
+    ],
+    "slot": "Weapon_3",
+    "specialization": 67,
+    "type": "Weapon",
+    "weapon_type": "Hammer"
 }

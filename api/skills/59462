@@ -1,3 +1,8 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BkboAAA=]",
+    "description": "The Whisper of Jormag covers the ground with volatile ice magic that deals periodic damage.",
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+    "id": 59462,
+    "name": "Ice Shatter"
 }

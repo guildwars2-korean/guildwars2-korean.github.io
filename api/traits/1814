@@ -15,7 +15,7 @@
         },
         {
             "apply_count": 1,
-            "description": "Endurance regeneration increased by 50%; stacks duration.",
+            "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
             "duration": 2,
             "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
             "prefix": {
@@ -24,13 +24,13 @@
                 "status": "Natural Harmony",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Vigor",
+            "status": "비거",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
         {
             "apply_count": 1,
-            "description": "Gain health every second; stacks duration.",
+            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
             "duration": 3,
             "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
             "prefix": {
@@ -39,13 +39,13 @@
                 "status": "Purifying Essence",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Regeneration",
+            "status": "리제네레이션",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
         {
             "apply_count": 1,
-            "description": "Movement speed increased by 33%; stacks duration.",
+            "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
             "duration": 5,
             "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
             "prefix": {
@@ -54,13 +54,13 @@
                 "status": "Protective Solace",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Swiftness",
+            "status": "스위프트니스",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         },
         {
             "apply_count": 1,
-            "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+            "description": "데미지를 주지않는 컨디션의 효과를 무시한다(지속시간 중첩).",
             "duration": 4,
             "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
             "prefix": {
@@ -69,7 +69,7 @@
                 "status": "Energy Expulsion",
                 "text": "Apply Buff/Condition"
             },
-            "status": "Resistance",
+            "status": "레지스턴스",
             "text": "Apply Buff/Condition",
             "type": "PrefixedBuff"
         }

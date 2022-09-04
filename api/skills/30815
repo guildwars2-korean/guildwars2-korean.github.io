@@ -1,3 +1,85 @@
 {
-    "text": "too many requests"
+    "categories": [
+        "Well"
+    ],
+    "chat_link": "[&Bl94AAA=]",
+    "description": "Well. Deploy a sneak gyro to provide stealth to nearby allies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 45
+        },
+        {
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "apply_count": 1,
+            "description": "Currently invisible. Ends if you deal damage.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+            "status": "Stealth",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Currently invisible. Ends if you deal damage.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+            "status": "Stealth",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Pulses",
+            "type": "Number",
+            "value": 6
+        },
+        {
+            "field_type": "Smoke",
+            "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+            "text": "Combo Field",
+            "type": "ComboField"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/45FB5559AC6432169509B427D3091C4F192AEC3B/1128596.png",
+    "id": 30815,
+    "name": "Sneak Gyro",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Elite",
+    "specialization": 43,
+    "toolbelt_skill": 30262,
+    "traited_facts": [
+        {
+            "distance": 360,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "overrides": 2,
+            "requires_trait": 1917,
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "type": "Elite",
+    "weapon_type": "None"
 }

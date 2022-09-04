@@ -1,3 +1,51 @@
 {
-    "text": "too many requests"
+    "chat_link": "[&BqUpAAA=]",
+    "description": "Add bleeding to your plague.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 1
+        },
+        {
+            "apply_count": 2,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+            "status": "Bleeding",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/089428FF1E1749F0CF95D8D29C59D9EE0CB14ED7/103843.png",
+    "id": 10661,
+    "name": "Withering Plague",
+    "professions": [
+        "Thief",
+        "Mesmer",
+        "Warrior",
+        "Elementalist",
+        "Necromancer",
+        "Guardian",
+        "Ranger",
+        "Engineer",
+        "Revenant"
+    ],
+    "slot": "Weapon_1",
+    "type": "Bundle",
+    "weapon_type": "None"
 }
