@@ -114,7 +114,7 @@
             },
             {
                 "apply_count": 1,
-                "description": "데미지를 주지않는 컨디션의 효과를 무시한다(지속시간 중첩).",
+                "description": "데미지를 주지않는 상태이상 효과를 무시한다(지속시간 중첩).",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
                 "requires_trait": 2234,

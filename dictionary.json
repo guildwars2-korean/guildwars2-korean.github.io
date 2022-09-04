@@ -14,7 +14,7 @@
     "Regeneration": "재생력",
     "Gain health every second; stacks duration.": "매초마다 생명력을 회복한다(지속시간 중첩).",
     "Resistance": "저항",
-    "Nondamaging conditions currently on you are ineffective; stacks duration.": "데미지를 주지않는 컨디션의 효과를 무시한다(지속시간 중첩).",
+    "Nondamaging conditions currently on you are ineffective; stacks duration.": "데미지를 주지않는 상태이상 효과를 무시한다(지속시간 중첩).",
     "Resolution": "결의",
     "Incoming condition damage decreased by 33%; stacks duration.": "받는 상태이상 데미지가 33% 감소한다(지속시간 중첩).",
     "Stability": "견고",
