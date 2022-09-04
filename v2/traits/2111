@@ -28,7 +28,7 @@
             },
             {
                 "apply_count": 1,
-                "description": "Critical chance increased; stacks duration.",
+                "description": "크리티컬 확률이 25% 증가한다(지속시간 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
                 "status": "퓨리",
