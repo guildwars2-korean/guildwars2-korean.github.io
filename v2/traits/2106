@@ -1,0 +1,54 @@
+{
+    "description": "Your first few attacks after entering or exiting Photon Forge inflict burning and deal increased strike damage. This bonus is also granted if you overheat.",
+    "facts": [
+        {
+            "apply_count": 2,
+            "description": "Your next attack sets the target on fire.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/19FE5C016ACFF174DE03752D40D202F9B75FB0C2/1769929.png",
+            "status": "Afterburner",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 2,
+            "description": "Your next attack sets the target on fire.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/19FE5C016ACFF174DE03752D40D202F9B75FB0C2/1769929.png",
+            "status": "Afterburner",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 6,
+            "description": "Your next attack sets the target on fire.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/19FE5C016ACFF174DE03752D40D202F9B75FB0C2/1769929.png",
+            "status": "Afterburner",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+            "status": "Burning",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/19FE5C016ACFF174DE03752D40D202F9B75FB0C2/1769929.png",
+    "id": 2106,
+    "name": "Solar Focusing Lens",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 57,
+    "tier": 1
+}

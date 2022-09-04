@@ -1,0 +1,75 @@
+{
+    "chat_link": "[&BvD1AAA=]",
+    "description": "Armament. Evade backward while dropping a mine that cripples foes. This skill recharges Dragon Trigger.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+            "text": "StunBreak",
+            "type": "StunBreak",
+            "value": true
+        },
+        {
+            "dmg_multiplier": 2.5,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "dmg_multiplier": 1,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "distance": 120,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 50%; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+            "status": "Crippled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
+            "text": "Explosion",
+            "type": "NoData"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/7C079E38F9ABFFA4533E064965B8A1B3EE3FB743/2491654.png",
+    "id": 62960,
+    "name": "Dragonspike Mine",
+    "professions": [
+        "Warrior"
+    ],
+    "slot": "Utility",
+    "specialization": 68,
+    "type": "Utility",
+    "weapon_type": "None"
+}

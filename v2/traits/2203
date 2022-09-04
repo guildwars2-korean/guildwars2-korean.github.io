@@ -1,0 +1,72 @@
+{
+    "description": "Your condition damage is increased. While in Harbinger Shroud, you gain an aura that pulses each interval to torment and weaken nearby enemies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+            "target": "ConditionDamage",
+            "type": "AttributeAdjust",
+            "value": 240
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+            "target": "ConditionDamage",
+            "type": "AttributeAdjust",
+            "value": 240
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/DDF771C8E5AA242AAEE72BAF26180C6DB4000771/2479346.png",
+    "id": 2203,
+    "name": "Doom Approaches",
+    "order": 2,
+    "skills": [
+        {
+            "chat_link": "[&Bl70AAA=]",
+            "description": "Nearby foes are tormented and weakened.",
+            "facts": [
+                {
+                    "apply_count": 3,
+                    "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                    "duration": 5,
+                    "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                    "status": "Torment",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+                    "duration": 2,
+                    "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                    "status": "Weakness",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "distance": 180,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+            "id": 62558,
+            "name": "Approaching Doom"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 64,
+    "tier": 3
+}

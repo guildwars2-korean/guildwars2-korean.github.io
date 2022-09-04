@@ -1,0 +1,38 @@
+{
+    "chat_link": "[&BitAAAA=]",
+    "description": "Beast. Create a sonic barrier that reflects projectiles.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1200
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 45
+        },
+        {
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "field_type": "Ethereal",
+            "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+            "text": "Combo Field",
+            "type": "ComboField"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/24B90125B4433159A94D13EABF47E11154C11BE4/514416.png",
+    "id": 16427,
+    "name": "Sonic Barrier",
+    "professions": [],
+    "slot": "Pet",
+    "type": "Pet",
+    "weapon_type": "None"
+}

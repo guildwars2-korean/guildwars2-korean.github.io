@@ -1,0 +1,49 @@
+{
+    "categories": [
+        "Glyph"
+    ],
+    "chat_link": "[&Bh52AAA=]",
+    "description": "Glyph. Draw your enemies in or knock them away.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 25
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 360,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/DA5EC8C2DF961ED9022B64F519053C0A406661EE/1128638.png",
+    "id": 30238,
+    "name": "Glyph of the Tides",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Utility",
+    "specialization": 5,
+    "subskills": [
+        {
+            "id": 30448
+        },
+        {
+            "form": "CelestialAvatar",
+            "id": 29558
+        }
+    ],
+    "type": "Utility",
+    "weapon_type": "None"
+}

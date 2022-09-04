@@ -1,0 +1,28 @@
+{
+    "chat_link": "[&Bj/RAAA=]",
+    "description": "",
+    "facts": [
+        {
+            "apply_count": 2,
+            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+            "status": "Poisoned",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 2,
+            "description": "Damage received on skill activation; stacks intensity.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+            "status": "Confusion",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/720C6B4A4D936D013DABEE249E98E8ABD04F3BF7/1228469.png",
+    "id": 53567,
+    "name": "Fetid Fog"
+}

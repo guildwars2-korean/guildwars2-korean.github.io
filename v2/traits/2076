@@ -1,0 +1,26 @@
+{
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 7
+        },
+        {
+            "apply_count": 1,
+            "description": "스킬과 액션이 빨라진다.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+            "status": "퀴크니스",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/50F01C5E76B37D0AE93C0E07EA0F675B270950D0/1769943.png",
+    "id": 2076,
+    "name": "Stalwart Speed",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 62,
+    "tier": 2
+}

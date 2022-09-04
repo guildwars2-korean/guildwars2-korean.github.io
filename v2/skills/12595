@@ -1,0 +1,78 @@
+{
+    "chat_link": "[&BjMxAAA=]",
+    "description": "Your stone spirit teleports to your location and softens the earth around it, immobilizing and crippling foes.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 50%; stacks duration.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+            "status": "Crippled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Unable to move; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+            "status": "Immobile",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/05A61829954CCE5C0704E3263F793E6CC32906A1/104019.png",
+    "id": 12595,
+    "name": "Quicksand",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Utility",
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "스킬 재사용 대기시간 단축.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+            "requires_trait": 1038,
+            "status": "알라크리티",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 360,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "overrides": 4,
+            "requires_trait": 1038,
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "type": "Utility",
+    "weapon_type": "None"
+}

@@ -1,0 +1,22 @@
+{
+    "chat_link": "[&Bv//AAA=]",
+    "description": "Shoot a barrage of missiles at the target foe.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 2000
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 12
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/E50C7247504D08C059E5073515B6B367B7D52CD4/103040.png",
+    "id": 65535,
+    "name": "Electric Rain"
+}

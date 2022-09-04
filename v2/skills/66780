@@ -1,0 +1,43 @@
+{
+    "chat_link": "[&BtwEAQA=]",
+    "description": "Bite your foe, siphoning health.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 130
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 5
+        },
+        {
+            "dmg_multiplier": 0.4,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 76
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/0901C0B004F60F4DB5B4B503BF35B09278AA4491/2604860.png",
+    "id": 66780,
+    "name": "Vampiric Bite",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Profession_1",
+    "specialization": 55,
+    "type": "Profession",
+    "weapon_type": "None"
+}

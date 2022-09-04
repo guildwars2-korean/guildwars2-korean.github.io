@@ -1,0 +1,16 @@
+{
+    "chat_link": "[&Bh3wAAA=]",
+    "description": "Weaves dangerous elemental energies to heavily damage nearby foes.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 6000
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/F6440A5D08EDFB78FD5A5BB31E30CD25040D3F23/103121.png",
+    "id": 61469,
+    "name": "Elemental Whirl"
+}

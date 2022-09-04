@@ -1,0 +1,37 @@
+{
+    "categories": [
+        "Deception"
+    ],
+    "chat_link": "[&BjIzAAA=]",
+    "description": "Deception. Return to your starting location, and cure three conditions.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1200
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+            "text": "StunBreak",
+            "type": "StunBreak",
+            "value": true
+        },
+        {
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/AF761FB133933DAA0D340E624FE9E6C70B2879E4/103560.png",
+    "id": 13106,
+    "name": "Shadow Return",
+    "professions": [
+        "Thief"
+    ],
+    "slot": "Utility",
+    "type": "Utility",
+    "weapon_type": "None"
+}

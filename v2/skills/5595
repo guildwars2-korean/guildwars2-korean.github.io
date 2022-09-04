@@ -1,0 +1,73 @@
+{
+    "chat_link": "[&BtsVAAA=]",
+    "description": "Shoot an arrow of water that damages foes and heals allies around the area of impact. Gain a stack of Water Arrow each time you strike an enemy.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        },
+        {
+            "dmg_multiplier": 0.3,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 442
+        },
+        {
+            "apply_count": 1,
+            "description": "Enhances Frost Bow abilities. Increases healing to others.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/DCF09BD74F77D6A9ADDADDA4A4B75005E752FCFF/103359.png",
+            "status": "Water Arrow",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+            "text": "Maximum Stacks",
+            "type": "Number",
+            "value": 2
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Allied Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/DCF09BD74F77D6A9ADDADDA4A4B75005E752FCFF/103359.png",
+    "id": 5595,
+    "name": "Water Arrow",
+    "professions": [
+        "Thief",
+        "Mesmer",
+        "Warrior",
+        "Elementalist",
+        "Necromancer",
+        "Guardian",
+        "Ranger",
+        "Engineer",
+        "Revenant"
+    ],
+    "slot": "Weapon_1",
+    "type": "Bundle",
+    "weapon_type": "None"
+}

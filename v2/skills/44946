@@ -1,0 +1,106 @@
+{
+    "chat_link": "[&BpKvAAA=]",
+    "description": "Shade. Manifest a sand shade using some of your life force. Using a shade ability strikes enemies near you and your shades.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+            "text": "Maximum Count",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "distance": 180,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "duration": 20,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "dmg_multiplier": 0.666,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "dmg_multiplier": 0.1,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+            "status": "Torment",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+            "status": "Torment",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 2
+        },
+        {
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "text": "Count Recharge",
+            "type": "Time"
+        },
+        {
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "text": "Count Recharge",
+            "type": "Time"
+        }
+    ],
+    "flags": [
+        "GroundTargeted",
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/E15557DE4FC766EE28E31F73B3125FDC1AEFE608/1770539.png",
+    "id": 44946,
+    "name": "Manifest Sand Shade",
+    "professions": [
+        "Necromancer"
+    ],
+    "slot": "Profession_1",
+    "specialization": 60,
+    "type": "Profession",
+    "weapon_type": "None"
+}

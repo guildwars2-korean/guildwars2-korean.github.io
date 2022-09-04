@@ -1,0 +1,61 @@
+{
+    "categories": [
+        "StealthAttack"
+    ],
+    "chat_link": "[&BlIzAAA=]",
+    "description": "Stealth Attack. Throw a knife, bleeding and poisoning your target.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        },
+        {
+            "dmg_multiplier": 1,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 3,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+            "status": "Bleeding",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 2,
+            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+            "status": "Poisoned",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+            "status": "Poisoned",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/106E0879B6FBF91A0F163909E7DF05125716BEA3/103157.png",
+    "id": 13138,
+    "name": "Venomous Knife",
+    "professions": [
+        "Thief"
+    ],
+    "slot": "Downed_1",
+    "type": "Weapon",
+    "weapon_type": "None"
+}

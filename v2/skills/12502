@@ -1,0 +1,67 @@
+{
+    "categories": [
+        "Signet"
+    ],
+    "chat_link": "[&BtYwAAA=]",
+    "description": "Signet Passive: You and your pet recover health. \nSignet Active: Grant resistance to your pet; it pulls conditions from nearby allies to itself.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 50
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+            "text": "StunBreak",
+            "type": "StunBreak",
+            "value": true
+        },
+        {
+            "apply_count": 1,
+            "description": "Regenerate health.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/B83DDE1DD9F3DC65590D7EA207F0604F26B1BCA7/103590.png",
+            "status": "Signet of Renewal",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "apply_count": 1,
+            "description": "데미지를 주지않는 컨디션의 효과를 무시한다(지속시간 중첩).",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+            "status": "레지스턴스",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Allied Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Transferred",
+            "type": "Number",
+            "value": 13
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/B83DDE1DD9F3DC65590D7EA207F0604F26B1BCA7/103590.png",
+    "id": 12502,
+    "name": "Signet of Renewal",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Utility",
+    "type": "Utility",
+    "weapon_type": "None"
+}

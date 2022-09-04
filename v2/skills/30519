@@ -1,0 +1,41 @@
+{
+    "categories": [
+        "Physical"
+    ],
+    "chat_link": "[&Bjd3AAA=]",
+    "description": "Physical. Deliver a massive kick that knocks enemies down.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 240
+        },
+        {
+            "dmg_multiplier": 0.75,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/7632087376D36B0D100F1B07BE53F154BC337D7C/2440716.png",
+            "text": "Knockdown",
+            "type": "Time"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/CB2B0F40CE0A51C2C91A24751FEBF7F26305292C/1058632.png",
+    "id": 30519,
+    "name": "Reflexive Strike",
+    "professions": [
+        "Thief"
+    ],
+    "slot": "Utility",
+    "specialization": 7,
+    "type": "Utility",
+    "weapon_type": "None"
+}

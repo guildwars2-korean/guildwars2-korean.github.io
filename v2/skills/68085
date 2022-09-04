@@ -1,0 +1,57 @@
+{
+    "chat_link": "[&BvUJAQA=]",
+    "description": "Armament. Your next few explosion attacks deal more damage. Using this skill while you already have stacks of Overcharged Cartridges causes you to use Detonate Cartridges instead.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 1
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 15,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Number of Hits",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+            "text": "Maximum Count",
+            "type": "Number",
+            "value": 2
+        },
+        {
+            "duration": 20,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "text": "Count Recharge",
+            "type": "Time"
+        },
+        {
+            "apply_count": 5,
+            "description": "Your explosions do more damage.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/EF1D6D09A1B403972F721F1A073154E2F01CD0A5/2491652.png",
+            "status": "Overcharged Cartridges",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "flip_skill": 68128,
+    "icon": "https://render.guildwars2.com/file/EF1D6D09A1B403972F721F1A073154E2F01CD0A5/2491652.png",
+    "id": 68085,
+    "name": "Overcharged Cartridges",
+    "professions": [
+        "Warrior"
+    ],
+    "slot": "Utility",
+    "specialization": 68,
+    "type": "Utility",
+    "weapon_type": "None"
+}

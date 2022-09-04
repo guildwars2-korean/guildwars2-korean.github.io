@@ -1,0 +1,19 @@
+{
+    "chat_link": "[&BhbdAAA=]",
+    "description": "Energy orbs erupt from Qadim and detonate upon landing, damaging and applying Unbridled Chaos to all foes.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Shower of Chaos deals residual damage over time.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/11089CFF98086A316D09116537FE0D0A2ED28030/1896037.png",
+            "status": "Unbridled Chaos",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+    "id": 56598,
+    "name": "Shower of Chaos"
+}

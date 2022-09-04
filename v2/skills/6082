@@ -1,0 +1,14 @@
+{
+    "chat_link": "[&BsIXAAA=]",
+    "description": "Burst the bottle to grant stability and one of the following boons to allies: fury, might, retaliation, or swiftness.",
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/7835AE041957D0DCCB7B2373CA76A90864017E09/103481.png",
+    "id": 6082,
+    "name": "Detonate Elixir B",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Toolbelt",
+    "type": "Toolbelt",
+    "weapon_type": "None"
+}

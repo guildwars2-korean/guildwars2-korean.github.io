@@ -1,0 +1,55 @@
+{
+    "chat_link": "[&BpMjAAA=]",
+    "description": "Block ranged attacks while casting magical projectiles.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 600
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 15
+        },
+        {
+            "dmg_multiplier": 0.6,
+            "hit_count": 8,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "dmg_multiplier": 0.33,
+            "hit_count": 8,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Block Duration",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Blocks Missiles",
+            "type": "NoData"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/C0ED0D01EA4116136DCBE4925B1C2B92A209B221/103648.png",
+    "id": 9107,
+    "name": "Zealot's Defense",
+    "professions": [
+        "Guardian"
+    ],
+    "slot": "Weapon_3",
+    "type": "Weapon",
+    "weapon_type": "Sword"
+}

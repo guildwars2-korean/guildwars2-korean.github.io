@@ -1,0 +1,39 @@
+{
+    "description": "Full Counter applies cripple and slow.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 50%; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+            "status": "Crippled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Skills and actions are slower.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+            "status": "Slow",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Skills and actions are slower.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+            "status": "Slow",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/BAE747D0F6E36FC5511E24BBAE66D071374AC91A/1770016.png",
+    "id": 2097,
+    "name": "Slow Counter",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 61,
+    "tier": 2
+}

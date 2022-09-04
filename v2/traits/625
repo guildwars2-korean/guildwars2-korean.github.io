@@ -1,0 +1,45 @@
+{
+    "description": "Gain resolution and aegis when disabled.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 30
+        },
+        {
+            "apply_count": 1,
+            "description": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+            "status": "레졸루션",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+            "status": "레졸루션",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "다음으로 받는 공격을 막는다(지속시간 중첩).",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
+            "status": "이지스",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/BB3C57FD1467961118ACB5FDE84F39D965C9670B/1012439.png",
+    "id": 625,
+    "name": "Resolute Subconscious",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 46,
+    "tier": 1
+}

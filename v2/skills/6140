@@ -1,0 +1,57 @@
+{
+    "categories": [
+        "Turret"
+    ],
+    "chat_link": "[&BvwXAAA=]",
+    "description": "Turret. Deploy a turret that heals you briefly, then regenerates you and your allies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 2520
+        },
+        {
+            "apply_count": 1,
+            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+            "status": "리제네레이션",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 480,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [
+        "GroundTargeted",
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/7D5297C096055DE43153D90F965763F8F2D5FF25/103413.png",
+    "id": 6140,
+    "name": "Healing Turret",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Heal",
+    "toolbelt_skill": 6176,
+    "type": "Heal",
+    "weapon_type": "None"
+}

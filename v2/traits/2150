@@ -1,0 +1,468 @@
+{
+    "description": "Gain Mirage Cloak instead of dodge rolling. <c=@abilitytype>Ambush</c> skills become available for a short time whenever you gain Mirage Cloak. Gain access to <c=@abilitytype>Deception</c> skills.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Evade incoming attacks.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/67FA6042C903766148F46373C47B037609C4D525/1770144.png",
+            "status": "Mirage Cloak",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Ambush Attack Window",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Endurance Threshold Decrease",
+            "type": "Number",
+            "value": 50
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/FAF3D0D195F36EBA2F11086A05A5BA75A6BDDDEC/1769960.png",
+    "id": 2150,
+    "name": "Mirage Cloak",
+    "order": 0,
+    "skills": [
+        {
+            "chat_link": "[&BiGtAAA=]",
+            "description": "Ambush.Release phantasmal axes that seek out the nearest target after a short delay.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                    "text": "Range",
+                    "type": "Range",
+                    "value": 200
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 1
+                },
+                {
+                    "dmg_multiplier": 0.5,
+                    "hit_count": 2,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "apply_count": 3,
+                    "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                    "status": "Torment",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                    "status": "Torment",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                    "status": "Torment",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                    "status": "Torment",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Seek Range",
+                    "type": "Number",
+                    "value": 480
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/38ED6AA595AEF00C0F704D0565DB7DD24B623850/1770513.png",
+            "id": 44321,
+            "name": "Imaginary Axes"
+        },
+        {
+            "chat_link": "[&BtGsAAA=]",
+            "description": "Ambush. Shoot a beam at a targeted foe, and secondary beams at foes near your target.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                    "text": "Range",
+                    "type": "Range",
+                    "value": 1200
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 1
+                },
+                {
+                    "dmg_multiplier": 0.45,
+                    "hit_count": 3,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 3
+                },
+                {
+                    "distance": 240,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "apply_count": 2,
+                    "description": "가하는 데미지가 증가한다(강도 중첩).",
+                    "duration": 5,
+                    "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                    "status": "마이트",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 2,
+                    "description": "Damage and condition damage taken are increased; stacks intensity.",
+                    "duration": 5,
+                    "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                    "status": "Vulnerability",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/66067CFD182ED01761DC5992E679BFA2057B5954/1770507.png",
+            "id": 44241,
+            "name": "Split Surge"
+        },
+        {
+            "chat_link": "[&BkClAAA=]",
+            "description": "Ambush. Launch a barrage of chaos orbs at your foe, inflicting either confusion or torment each hit. Condition duration halved for clones.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                    "text": "Range",
+                    "type": "Range",
+                    "value": 1200
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 1
+                },
+                {
+                    "dmg_multiplier": 0.25,
+                    "hit_count": 5,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Damage received on skill activation; stacks intensity.",
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                    "status": "Confusion",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Damage received on skill activation; stacks intensity.",
+                    "duration": 2,
+                    "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                    "status": "Confusion",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                    "status": "Torment",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                    "duration": 2,
+                    "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                    "status": "Torment",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/26CCD4729A4E32E75704E50F6B35DB70040680B8/1770508.png",
+            "id": 42304,
+            "name": "Ether Barrage"
+        },
+        {
+            "chat_link": "[&BkCvAAA=]",
+            "description": "Ambush. Blink to your target and unleash a series of low-damage strikes that rapidly stack vulnerability.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                    "text": "Range",
+                    "type": "Range",
+                    "value": 600
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 1
+                },
+                {
+                    "dmg_multiplier": 0.1,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 0.2,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Final Strike Damage",
+                    "type": "Damage"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Strikes",
+                    "type": "Number",
+                    "value": 8
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Damage and condition damage taken are increased; stacks intensity.",
+                    "duration": 8,
+                    "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                    "status": "Vulnerability",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/EC61207138EEBE0408E202F27ECA7CE101274693/1770509.png",
+            "id": 44864,
+            "name": "Ambush Assault"
+        },
+        {
+            "chat_link": "[&BvicAAA=]",
+            "description": "Ambush. Release a vortex of chaos energy that inflicts damaging conditions on foes. Allies near the caster gain boons.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                    "text": "Range",
+                    "type": "Range",
+                    "value": 1200
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 1
+                },
+                {
+                    "dmg_multiplier": 0.6,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                    "duration": 8,
+                    "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                    "status": "Torment",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Deals damage every second; stacks intensity.",
+                    "duration": 8,
+                    "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                    "status": "Bleeding",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Damage received on skill activation; stacks intensity.",
+                    "duration": 8,
+                    "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                    "status": "Confusion",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Damage received on skill activation; stacks intensity.",
+                    "duration": 3,
+                    "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                    "status": "Confusion",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "distance": 360,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Ally Boon Radius",
+                    "type": "Distance"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "스킬 재사용 대기시간 단축.",
+                    "duration": 3,
+                    "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+                    "status": "알라크리티",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 8,
+                    "description": "가하는 데미지가 증가한다(강도 중첩).",
+                    "duration": 15,
+                    "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                    "status": "마이트",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/0E2D7DB6FB4C0A9F681759099DE5D794A04914BF/1770510.png",
+            "id": 40184,
+            "name": "Chaos Vortex"
+        },
+        {
+            "chat_link": "[&Bq6wAAA=]",
+            "description": "Ambush. Lunge at your foe and strike them with your sword, briefly dazing them. Leave behind a clone at your original location.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                    "text": "Range",
+                    "type": "Range",
+                    "value": 600
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 1
+                },
+                {
+                    "dmg_multiplier": 1,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "duration": 0,
+                    "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+                    "text": "Daze",
+                    "type": "Time"
+                },
+                {
+                    "finisher_type": "Leap",
+                    "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                    "percent": 100,
+                    "text": "Combo Finisher",
+                    "type": "ComboFinisher"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/609505304F1D0AB548710E92335E5F550D7E396E/1770511.png",
+            "id": 45230,
+            "name": "Mirage Thrust"
+        },
+        {
+            "chat_link": "[&BhecAAA=]",
+            "description": "Ambush. Release a wave of energy that interrupts and confuses foes.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                    "text": "Range",
+                    "type": "Range",
+                    "value": 600
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 1
+                },
+                {
+                    "dmg_multiplier": 0.8,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "apply_count": 2,
+                    "description": "Damage received on skill activation; stacks intensity.",
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                    "status": "Confusion",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "duration": 1,
+                    "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+                    "text": "Stun",
+                    "type": "Time"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/593B1809A7E01ED6DD02CBD5B1B10FF0C9103F49/1770512.png",
+            "id": 39959,
+            "name": "Wave of Panic"
+        }
+    ],
+    "slot": "Minor",
+    "specialization": 59,
+    "tier": 1
+}

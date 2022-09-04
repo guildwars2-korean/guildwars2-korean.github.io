@@ -1,0 +1,64 @@
+{
+    "description": "Use Lesser Haste when attacking a foe from behind or from the side.",
+    "icon": "https://render.guildwars2.com/file/4B0201023C2E4B06BFE3EED499B2382D1F98FCB4/1012763.png",
+    "id": 1252,
+    "name": "Burst of Agility",
+    "order": 1,
+    "skills": [
+        {
+            "categories": [
+                "Trick"
+            ],
+            "chat_link": "[&Bh92AAA=]",
+            "description": "Trick. Gain quickness, fury, and swiftness.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 60
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                    "text": "StunBreak",
+                    "type": "StunBreak",
+                    "value": true
+                },
+                {
+                    "apply_count": 1,
+                    "description": "스킬과 액션이 빨라진다.",
+                    "duration": 6,
+                    "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+                    "status": "퀴크니스",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Critical chance increased; stacks duration.",
+                    "duration": 6,
+                    "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                    "status": "퓨리",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
+                    "duration": 6,
+                    "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                    "status": "스위프트니스",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/1C7719C3046D06161D071C0A6B33D3C8179E3F67/103459.png",
+            "id": 30239,
+            "name": "Lesser Haste"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 44,
+    "tier": 1
+}

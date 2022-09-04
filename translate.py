@@ -7,7 +7,7 @@ import os
 num_of_processes = 32
 
 origin_dir_name = 'origin'
-translated_dir_name = 'api'
+translated_dir_name = 'v2'
 ignore_file_name = 'index.html'
 dictionary_file_name = 'dictionary.json'
 

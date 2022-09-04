@@ -1,0 +1,42 @@
+{
+    "description": "<c=@abilitytype>Survival</c> skills gain reduced recharge, grant fury, and remove conditions.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Critical chance increased; stacks duration.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+            "status": "퓨리",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Critical chance increased; stacks duration.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+            "status": "퓨리",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Removed",
+            "type": "Number",
+            "value": 2
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/F4E005DE1578983CDFD25E6F3D1CF517C64AD0B7/1012661.png",
+    "id": 1699,
+    "name": "Wilderness Knowledge",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 33,
+    "tier": 3
+}

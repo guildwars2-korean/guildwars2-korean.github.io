@@ -1,0 +1,22 @@
+{
+    "chat_link": "[&BjCZAAA=]",
+    "description": "Explodes, floating and damaging nearby enemies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 4000
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/18F6E20EB4F7A812FD2C13723F130166BC54C6D1/2440713.png",
+            "text": "Float",
+            "type": "Time"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+    "id": 39216,
+    "name": "Explode"
+}

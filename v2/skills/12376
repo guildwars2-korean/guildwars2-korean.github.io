@@ -1,0 +1,43 @@
+{
+    "chat_link": "[&BlgwAAA=]",
+    "description": "Embue allies with protection.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 15
+        },
+        {
+            "apply_count": 1,
+            "description": "Incoming strike damage decreased by 33%; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+            "status": "프로텍션",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/601B2BA8DE3C67F4B3E8EB4FC3CC29010275BD0D/103949.png",
+    "id": 12376,
+    "name": "Roar of the Forest",
+    "professions": [],
+    "slot": "Weapon_3",
+    "type": "Monster",
+    "weapon_type": "Hammer"
+}

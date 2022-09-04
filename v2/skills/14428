@@ -1,0 +1,100 @@
+{
+    "categories": [
+        "Burst"
+    ],
+    "chat_link": "[&Blw4AAA=]",
+    "description": "Burst. Immobilize your foes with a flurry of bleeding strikes. Effect increases with adrenaline level.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 130
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 8
+        },
+        {
+            "dmg_multiplier": 0.2222,
+            "hit_count": 9,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 9,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+            "status": "Bleeding",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Unable to move; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+            "status": "Immobile",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Unable to move; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+            "status": "Immobile",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Unable to move; stacks duration.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+            "status": "Immobile",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 3
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/4CEC34046638217807126F9BB1CADACB63E834D0/103014.png",
+    "id": 14428,
+    "name": "Flurry",
+    "professions": [
+        "Warrior"
+    ],
+    "slot": "Profession_1",
+    "traited_facts": [
+        {
+            "dmg_multiplier": 0.2378,
+            "hit_count": 9,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "overrides": 2,
+            "requires_trait": 1657,
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "requires_trait": 1649,
+            "text": "Conditions Removed",
+            "type": "Number",
+            "value": 1
+        }
+    ],
+    "type": "Profession",
+    "weapon_type": "Sword"
+}

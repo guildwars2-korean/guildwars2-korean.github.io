@@ -1,0 +1,79 @@
+{
+    "chat_link": "[&Biu0AAA=]",
+    "description": "Leap forward and slash at your foe. Gain quickness if you successfully strike.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 0.5
+        },
+        {
+            "dmg_multiplier": 1,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 1,
+            "description": "스킬과 액션이 빨라진다.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+            "status": "퀴크니스",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "스킬과 액션이 빨라진다.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+            "status": "퀴크니스",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 400,
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Distance",
+            "type": "Distance"
+        },
+        {
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "text": "Recharge Time",
+            "type": "Time"
+        },
+        {
+            "finisher_type": "Leap",
+            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+            "percent": 100,
+            "text": "Combo Finisher",
+            "type": "ComboFinisher"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/411FB9186E16AAF67508EA94FAD8115855051430/1770557.png",
+    "id": 46123,
+    "name": "Instinctive Engage",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Weapon_3",
+    "specialization": 55,
+    "traited_facts": [
+        {
+            "duration": 12,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "overrides": 5,
+            "requires_trait": 1101,
+            "text": "Recharge Time",
+            "type": "Time"
+        }
+    ],
+    "type": "Weapon",
+    "weapon_type": "Dagger"
+}

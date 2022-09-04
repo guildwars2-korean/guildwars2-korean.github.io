@@ -1,0 +1,58 @@
+{
+    "attunement": "Fire",
+    "chat_link": "[&Bt4VAAA=]",
+    "description": "Shoot a blob of molten rock that explodes after a delay.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1200
+        },
+        {
+            "dmg_multiplier": 0.4,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "dmg_multiplier": 0.4,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Explosion Damage",
+            "type": "Damage"
+        },
+        {
+            "distance": 120,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Explosion Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+            "status": "Burning",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/F0A8380340E1E64FAFAAE87053422136664528CC/103205.png",
+    "id": 5598,
+    "name": "Magma Orb",
+    "professions": [
+        "Elementalist"
+    ],
+    "slot": "Weapon_1",
+    "type": "Weapon",
+    "weapon_type": "Trident"
+}

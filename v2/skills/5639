@@ -1,0 +1,55 @@
+{
+    "categories": [
+        "Cantrip"
+    ],
+    "chat_link": "[&BgcWAAA=]",
+    "description": "Cantrip. Protect yourself with earth armor and gain protection and stability.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 50
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+            "text": "StunBreak",
+            "type": "StunBreak",
+            "value": true
+        },
+        {
+            "apply_count": 1,
+            "description": "Incoming strike damage decreased by 33%; stacks duration.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+            "status": "프로텍션",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 10,
+            "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+            "status": "스태빌리티",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/C4FF5D0F0942BC27D7277CC9CB64280F451B16C5/103070.png",
+    "id": 5639,
+    "name": "Armor of Earth",
+    "professions": [
+        "Elementalist"
+    ],
+    "slot": "Utility",
+    "type": "Utility",
+    "weapon_type": "None"
+}

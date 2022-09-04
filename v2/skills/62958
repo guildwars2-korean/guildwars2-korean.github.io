@@ -1,0 +1,54 @@
+{
+    "attunement": "Water",
+    "chat_link": "[&Bu71AAA=]",
+    "description": "Strike your foes repeatedly. Enemies hit by all strikes become chilled.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 6
+        },
+        {
+            "dmg_multiplier": 0.5,
+            "hit_count": 4,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Number",
+            "value": 130
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+            "status": "Chilled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 3
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/D99067FBF027EE43B2DC727E54C0B4716CFB59A1/2491578.png",
+    "id": 62958,
+    "name": "Rain of Blows",
+    "professions": [
+        "Elementalist"
+    ],
+    "slot": "Weapon_2",
+    "specialization": 67,
+    "type": "Weapon",
+    "weapon_type": "Hammer"
+}

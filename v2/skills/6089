@@ -1,0 +1,62 @@
+{
+    "chat_link": "[&BskXAAA=]",
+    "description": "Toss Elixir U out in front of you.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 40
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "apply_count": 1,
+            "description": "이동 속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+            "status": "슈퍼스피드",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 360,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/B630670FBE03680699BD036BE9509D90FADB0255/103454.png",
+    "id": 6089,
+    "name": "Toss Elixir U",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Toolbelt",
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "이동 속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+            "overrides": 3,
+            "requires_trait": 473,
+            "status": "슈퍼스피드",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "type": "Toolbelt",
+    "weapon_type": "None"
+}

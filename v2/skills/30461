@@ -1,0 +1,119 @@
+{
+    "categories": [
+        "Signet"
+    ],
+    "chat_link": "[&Bv12AAA=]",
+    "description": "Signet Passive: Periodically heal allies in an area around you while in combat.\nSignet Active: Channel healing and boons in a large area around you, concluding with a large heal if this skill is not interrupted.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 60
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Passive Healing",
+            "type": "AttributeAdjust",
+            "value": 202
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Combat Only",
+            "type": "NoData"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Healing Interval",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Active Heal Pulse",
+            "type": "AttributeAdjust",
+            "value": 650
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Final Heal Pulse",
+            "type": "AttributeAdjust",
+            "value": 3250
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 300,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Passive Radius",
+            "type": "Distance"
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Active Radius",
+            "type": "Distance"
+        },
+        {
+            "apply_count": 6,
+            "description": "Incoming strike damage decreased by 33%; stacks duration.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+            "status": "프로텍션",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 6,
+            "description": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+            "status": "레졸루션",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 6,
+            "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+            "status": "스태빌리티",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Pulses",
+            "type": "Number",
+            "value": 6
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/59C43DD96D4096AF5DF576182506A20765CAEF07/1012875.png",
+    "id": 30461,
+    "name": "Signet of Courage",
+    "professions": [
+        "Guardian"
+    ],
+    "slot": "Elite",
+    "traited_facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "overrides": 1,
+            "requires_trait": 579,
+            "target": "Healing",
+            "text": "Passive Healing",
+            "type": "AttributeAdjust",
+            "value": 240
+        }
+    ],
+    "type": "Elite",
+    "weapon_type": "None"
+}

@@ -1,0 +1,81 @@
+{
+    "chat_link": "[&Bj+dAAA=]",
+    "description": "Conceal yourself and lash out at nearby foes. Gain might each time you damage a foe.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 750
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "dmg_multiplier": 0.5,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "dmg_multiplier": 0.35,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 1,
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "마이트",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "마이트",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Number of Hits",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/9F19DB1D3E1629390F2360F2D866651BBC0F6155/1938788.png",
+            "text": "Evade",
+            "type": "Time"
+        },
+        {
+            "distance": 300,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/9B9A0403F90E7C7C2367F2995923477F67B0077F/1128612.png",
+    "id": 40255,
+    "name": "Smoke Assault",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Profession_2",
+    "specialization": 55,
+    "type": "Profession",
+    "weapon_type": "None"
+}

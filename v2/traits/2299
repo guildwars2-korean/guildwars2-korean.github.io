@@ -1,0 +1,30 @@
+{
+    "description": "If the ally tethered by your <c=@abilitytype>Shadow Shroud</c> takes a lethal blow, consume your shroud to prevent their death and heal them.<br>If you would take a lethal blow, enter Shadow Shroud instead if your shroud is above the threshold.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 60
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 100,
+            "text": "Percentage Returned as Healing",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Energy Threshold",
+            "type": "Number",
+            "value": 20
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/D31FC1BD407E28B2F4F967FCA76CB3347AE8C9A7/2503645.png",
+    "id": 2299,
+    "name": "Shallow Grave",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 71,
+    "tier": 1
+}

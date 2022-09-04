@@ -1,0 +1,60 @@
+{
+    "chat_link": "[&Bkz1AAA=]",
+    "cost": 15,
+    "description": "Legendary Alliance. Break stun on nearby allies and grant protection.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 10
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+            "text": "StunBreak",
+            "type": "StunBreak",
+            "value": true
+        },
+        {
+            "distance": 360,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "apply_count": 1,
+            "description": "Incoming strike damage decreased by 33%; stacks duration.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+            "status": "프로텍션",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+            "status": "스태빌리티",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/6719DBBC4AD2B29CAB33C30B62DC990E07A79A9E/2491607.png",
+    "id": 62796,
+    "name": "Awakening",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Utility",
+    "specialization": 69,
+    "type": "Utility",
+    "weapon_type": "None"
+}

@@ -1,0 +1,120 @@
+{
+    "categories": [
+        "Stance"
+    ],
+    "chat_link": "[&BpWyAAA=]",
+    "description": "Stance. Your successful attacks will trigger a second strike while in this stance.\nThis effect can occur once per interval.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 60
+        },
+        {
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Strike Delay",
+            "type": "Time"
+        },
+        {
+            "dmg_multiplier": 0.63,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "dmg_multiplier": 0.95,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 1,
+            "description": "Striking a foe will cause them to be attacked again after a short delay.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/4E137B09B5CC545211977BFDCEC76119195AC7C9/1770558.png",
+            "status": "One Wolf Pack",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Striking a foe will cause them to be attacked again after a short delay.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/4E137B09B5CC545211977BFDCEC76119195AC7C9/1770558.png",
+            "status": "One Wolf Pack",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Striking a foe will cause them to be attacked again after a short delay.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/4E137B09B5CC545211977BFDCEC76119195AC7C9/1770558.png",
+            "status": "One Wolf Pack",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/4E137B09B5CC545211977BFDCEC76119195AC7C9/1770558.png",
+    "id": 45717,
+    "name": "One Wolf Pack",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Elite",
+    "specialization": 55,
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "Striking a foe will cause them to be attacked again after a short delay.",
+            "duration": 7,
+            "icon": "https://render.guildwars2.com/file/4E137B09B5CC545211977BFDCEC76119195AC7C9/1770558.png",
+            "overrides": 4,
+            "requires_trait": 2128,
+            "status": "One Wolf Pack",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Striking a foe will cause them to be attacked again after a short delay.",
+            "duration": 7,
+            "icon": "https://render.guildwars2.com/file/4E137B09B5CC545211977BFDCEC76119195AC7C9/1770558.png",
+            "overrides": 5,
+            "requires_trait": 2128,
+            "status": "One Wolf Pack",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Striking a foe will cause them to be attacked again after a short delay.",
+            "duration": 12,
+            "icon": "https://render.guildwars2.com/file/4E137B09B5CC545211977BFDCEC76119195AC7C9/1770558.png",
+            "overrides": 6,
+            "requires_trait": 2128,
+            "status": "One Wolf Pack",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "type": "Elite",
+    "weapon_type": "None"
+}

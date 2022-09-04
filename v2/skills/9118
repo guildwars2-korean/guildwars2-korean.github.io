@@ -1,0 +1,83 @@
+{
+    "categories": [
+        "Virtue"
+    ],
+    "chat_link": "[&Bp4jAAA=]",
+    "description": "Virtue: Gain aegis periodically.\nActivate: Grant aegis to yourself and nearby allies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 45
+        },
+        {
+            "apply_count": 1,
+            "description": "다음으로 받는 공격을 막는다(지속시간 중첩).",
+            "duration": 20,
+            "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
+            "status": "이지스",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "duration": 40,
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Aegis Refresh",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "flags": [],
+    "flip_skill": 9268,
+    "icon": "https://render.guildwars2.com/file/1B55CBCB3E1165FD5D0C7BC3CBEEB65C5BD9D07C/103258.png",
+    "id": 9118,
+    "name": "Virtue of Courage",
+    "professions": [
+        "Guardian"
+    ],
+    "slot": "Profession_3",
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "Incoming strike damage decreased by 33%; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+            "requires_trait": 621,
+            "status": "프로텍션",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 3,
+            "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+            "requires_trait": 612,
+            "status": "스태빌리티",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 30,
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "overrides": 3,
+            "requires_trait": 612,
+            "text": "Aegis Refresh",
+            "type": "Time"
+        }
+    ],
+    "type": "Profession",
+    "weapon_type": "None"
+}

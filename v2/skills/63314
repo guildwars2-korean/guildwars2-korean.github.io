@@ -1,0 +1,28 @@
+{
+    "categories": [
+        "StealthAttack"
+    ],
+    "chat_link": "[&BlL3AAA=]",
+    "description": "Stealth Attack. Unleash a barrage from the shadows toward your target.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/02C8462294CFA9AFAB36A5364CA2C0E0AE13129F/2503747.png",
+    "id": 63314,
+    "name": "Shadowsquall",
+    "professions": [
+        "Thief"
+    ],
+    "slot": "Weapon_1",
+    "specialization": 71,
+    "type": "Weapon",
+    "weapon_type": "Scepter"
+}

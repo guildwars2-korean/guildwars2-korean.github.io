@@ -1,0 +1,26 @@
+{
+    "chat_link": "[&BpXIAAA=]",
+    "description": "A devastating attack that's charged by devouring spectral flames.",
+    "facts": [
+        {
+            "apply_count": 3,
+            "description": "Deals damage every second; stacks intensity; reduces incoming healing and barrier application by 70% per stack; damage is reduced by agony resistance.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/C0B3EB17FEA2B0C4481333F36AA619EB9ABD1CD6/514400.png",
+            "status": "Agony",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "finisher_type": "Blast",
+            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+            "percent": 100,
+            "text": "Combo Finisher",
+            "type": "ComboFinisher"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+    "id": 51349,
+    "name": "Shadow Blast"
+}

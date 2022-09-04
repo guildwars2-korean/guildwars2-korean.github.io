@@ -1,0 +1,41 @@
+{
+    "categories": [
+        "Physical"
+    ],
+    "chat_link": "[&BsV3AAA=]",
+    "description": "Physical. Briefly block incoming attacks. Blocking an attack grants access to a retaliatory attack.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+            "text": "StunBreak",
+            "type": "StunBreak",
+            "value": true
+        },
+        {
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "flip_skill": 30519,
+    "icon": "https://render.guildwars2.com/file/4EF0035DE5239258469E5348F1BF4CD031619573/1058629.png",
+    "id": 30661,
+    "name": "Bandit's Defense",
+    "professions": [
+        "Thief"
+    ],
+    "slot": "Utility",
+    "specialization": 7,
+    "type": "Utility",
+    "weapon_type": "None"
+}

@@ -1,0 +1,43 @@
+{
+    "chat_link": "[&Bp23AAA=]",
+    "description": "Icy fingers rip through the ground, bursting and driving shrapnel into nearby foes.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1000
+        },
+        {
+            "apply_count": 1,
+            "description": "데미지를 주지않는 컨디션의 효과를 무시한다(지속시간 중첩).",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+            "status": "레지스턴스",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Critical chance increased; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+            "status": "퓨리",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 5,
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "마이트",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/6FA3B95C9E040C54F1BC20ED2727FA1FE24B0296/103639.png",
+    "id": 47005,
+    "name": "King's Wrath"
+}

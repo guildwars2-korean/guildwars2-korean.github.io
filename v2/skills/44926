@@ -1,0 +1,82 @@
+{
+    "categories": [
+        "Stance"
+    ],
+    "chat_link": "[&Bn6vAAA=]",
+    "description": "Stance. Enter an earthen state, gaining barrier periodically over the course of the stance.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 5
+        },
+        {
+            "apply_count": 1,
+            "description": "Periodically gain shield.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/FD3E5345025CBBB73C3F04E1997EDCBDD09C08F3/1770329.png",
+            "status": "Stone Resonance",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+            "status": "스태빌리티",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+            "target": "Healing",
+            "text": "Barrier",
+            "type": "AttributeAdjust",
+            "value": 1069
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+            "target": "Healing",
+            "text": "Barrier",
+            "type": "AttributeAdjust",
+            "value": 535
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Pulses",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+            "text": "Maximum Count",
+            "type": "Number",
+            "value": 2
+        },
+        {
+            "duration": 50,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "text": "Count Recharge",
+            "type": "Time"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/FD3E5345025CBBB73C3F04E1997EDCBDD09C08F3/1770329.png",
+    "id": 44926,
+    "name": "Stone Resonance",
+    "professions": [
+        "Elementalist"
+    ],
+    "slot": "Utility",
+    "specialization": 56,
+    "type": "Utility",
+    "weapon_type": "None"
+}

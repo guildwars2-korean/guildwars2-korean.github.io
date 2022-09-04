@@ -1,0 +1,26 @@
+{
+    "description": "Corona Burst grants a barrier for each target struck.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Barrier per Hit",
+            "type": "AttributeAdjust",
+            "value": 991
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Barrier per Hit",
+            "type": "AttributeAdjust",
+            "value": 748
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/7C0E6BD391C3D0CCEEC9BD1B0796A0355C075755/1769931.png",
+    "id": 2152,
+    "name": "Crystal Configuration: Eclipse",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 57,
+    "tier": 2
+}

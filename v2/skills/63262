@@ -1,0 +1,90 @@
+{
+    "categories": [
+        "Signet"
+    ],
+    "chat_link": "[&Bh73AAA=]",
+    "description": "Signet Passive: Incoming strike and condition damage is reduced.\nSignet Active: Create a projectile-blocking dome around yourself. You and allies inside the dome gain barrier every second. If your mech is active, the dome is centered on it and is larger. \n\nThe mech does not count against the target count for this skill.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 30
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+            "target": "Healing",
+            "text": "Barrier per Pulse",
+            "type": "AttributeAdjust",
+            "value": 261
+        },
+        {
+            "apply_count": 1,
+            "description": "Damage taken is reduced.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/EB737C0D4462F5C5572166DEC2801DD56148AFE6/2503688.png",
+            "status": "Barrier Signet",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Blocks Missiles",
+            "type": "NoData"
+        },
+        {
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Pulses",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius Increase",
+            "type": "Number",
+            "value": 60
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/EB737C0D4462F5C5572166DEC2801DD56148AFE6/2503688.png",
+    "id": 63262,
+    "name": "Barrier Signet",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Utility",
+    "specialization": 70,
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "Damage taken is reduced.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/EB737C0D4462F5C5572166DEC2801DD56148AFE6/2503688.png",
+            "overrides": 2,
+            "requires_trait": 2298,
+            "status": "Barrier Signet",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "type": "Utility",
+    "weapon_type": "None"
+}

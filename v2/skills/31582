@@ -1,0 +1,61 @@
+{
+    "categories": [
+        "Glyph"
+    ],
+    "chat_link": "[&Bl57AAA=]",
+    "description": "Glyph. Use nature energy to connect to foes or allies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 30
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 360,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Maximum Leash Range",
+            "type": "Distance"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/2A0DAB9B761FB75E2FEF5FF5D0ADE1143E32A6F4/1128639.png",
+    "id": 31582,
+    "name": "Glyph of Unity",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Utility",
+    "specialization": 5,
+    "subskills": [
+        {
+            "form": "CelestialAvatar",
+            "id": 31740
+        },
+        {
+            "id": 31888
+        }
+    ],
+    "type": "Utility",
+    "weapon_type": "None"
+}

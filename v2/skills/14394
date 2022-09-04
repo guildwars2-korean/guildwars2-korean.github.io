@@ -1,0 +1,89 @@
+{
+    "chat_link": "[&Bjo4AAA=]",
+    "description": "Removes conditions from allies and grants them vigor. Affected targets also gain barrier.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+            "target": "Healing",
+            "text": "Barrier",
+            "type": "AttributeAdjust",
+            "value": 2580
+        },
+        {
+            "apply_count": 1,
+            "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+            "status": "비거",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Removed",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Removed",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "finisher_type": "Blast",
+            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+            "percent": 100,
+            "text": "Combo Finisher",
+            "type": "ComboFinisher"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/3B55F2FCAC809095354674C0FA4F0808A3F5E09E/103233.png",
+    "id": 14394,
+    "name": "Call of Valor",
+    "professions": [
+        "Warrior"
+    ],
+    "slot": "Weapon_5",
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "데미지를 주지않는 컨디션의 효과를 무시한다(지속시간 중첩).",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+            "requires_trait": 1471,
+            "status": "레지스턴스",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "type": "Weapon",
+    "weapon_type": "Warhorn"
+}

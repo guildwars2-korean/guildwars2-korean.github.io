@@ -1,0 +1,16 @@
+{
+    "chat_link": "[&Bvv4AAA=]",
+    "description": "The Mindblade targets a nearby enemy and, after a short delay, begins creating damaging fields of psychic energy around their target. These fields persist and deal heavy damage in an area.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 2000
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/C201170E43B8C805BC0795FD3B08B703E530B677/2156524.png",
+    "id": 63739,
+    "name": "Rain of Blades"
+}

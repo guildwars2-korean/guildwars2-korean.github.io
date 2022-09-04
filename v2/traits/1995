@@ -1,0 +1,33 @@
+{
+    "description": "Activating a <c=@abilitytype>Shatter</c> gives your illusions superspeed. Shatters deal increased damage to movement-impaired foes.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "이동 속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+            "status": "슈퍼스피드",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 5,
+            "text": "Damage Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/3836E04A5BF0E8CCB815A8C1627904AB0CE5EE6A/1012474.png",
+    "id": 1995,
+    "name": "Time Catches Up",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 40,
+    "tier": 1
+}

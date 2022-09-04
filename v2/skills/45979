@@ -1,0 +1,60 @@
+{
+    "chat_link": "[&BpuzAAA=]",
+    "description": "Unleash a burst of stored energy with your sword and recharge your other sword skills. This attack deals more damage based on your heat level.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 130
+        },
+        {
+            "dmg_multiplier": 1.5,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "<c=@abilitytype>Damage Increase above 50% Heat</c>",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "text": "Recharge Time Reduced",
+            "type": "Time"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/DA9AC63DCF633A5D2806C37EB5C0E105C01DD7AC/1770407.png",
+    "id": 45979,
+    "name": "Gleam Saber",
+    "prev_chain": 45581,
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Weapon_1",
+    "specialization": 57,
+    "traited_facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 20,
+            "requires_trait": 2137,
+            "text": "<c=@abilitytype>Damage Increase above 100% Heat</c>",
+            "type": "Percent"
+        }
+    ],
+    "type": "Weapon",
+    "weapon_type": "Sword"
+}

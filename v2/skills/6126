@@ -1,0 +1,50 @@
+{
+    "chat_link": "[&Bu4XAAA=]",
+    "description": "Release the magnetic field to knock back nearby foes.",
+    "facts": [
+        {
+            "dmg_multiplier": 0.25,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "distance": 300,
+            "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
+            "text": "Knockback",
+            "type": "Distance"
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "finisher_type": "Blast",
+            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+            "percent": 100,
+            "text": "Combo Finisher",
+            "type": "ComboFinisher"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/BBD1A5F3730F423A037F42B10FFFACD2EF65C271/103483.png",
+    "id": 6126,
+    "name": "Magnetic Inversion",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Weapon_4",
+    "type": "Weapon",
+    "weapon_type": "Shield"
+}

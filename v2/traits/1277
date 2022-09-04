@@ -1,0 +1,45 @@
+{
+    "description": "Stealing grants you and all nearby allies vigor. You rip boons from your target and grant them to nearby allies.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+            "status": "비거",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Boons Stolen",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Boons Stolen",
+            "type": "Number",
+            "value": 2
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Allied Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/C1D1E47EA4F66866ECE25FAF5359F54DBC2140B3/1012765.png",
+    "id": 1277,
+    "name": "Bountiful Theft",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 44,
+    "tier": 2
+}

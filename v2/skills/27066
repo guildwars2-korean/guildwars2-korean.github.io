@@ -1,0 +1,57 @@
+{
+    "chat_link": "[&BrppAAA=]",
+    "description": "Swing your mace at your foe.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 130
+        },
+        {
+            "dmg_multiplier": 0.35,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+            "status": "Torment",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+            "status": "Torment",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 3
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "flip_skill": 26730,
+    "icon": "https://render.guildwars2.com/file/0418D8F15F0DF2594023CFBCE61A0A1126BA92C5/961465.png",
+    "id": 27066,
+    "name": "Misery Swipe",
+    "next_chain": 26730,
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Weapon_1",
+    "type": "Weapon",
+    "weapon_type": "Mace"
+}

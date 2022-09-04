@@ -1,0 +1,33 @@
+{
+    "description": "Torment you inflict deals increased damage and causes your foes to burn.<br><c=@reminder>This trait can only inflict burning on a particular target once every three seconds. </c>",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+            "status": "Burning",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 25,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 33,
+            "text": "Damage Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/C4FD5C32D32EB309F520021BC5140B94DE0A7A3B/1769969.png",
+    "id": 2164,
+    "name": "Demonic Lore",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 60,
+    "tier": 3
+}

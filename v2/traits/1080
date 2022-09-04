@@ -1,0 +1,32 @@
+{
+    "description": "Gain swiftness when swapping weapons in combat.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 9
+        },
+        {
+            "apply_count": 1,
+            "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
+            "duration": 9,
+            "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+            "status": "스위프트니스",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Combat Only",
+            "type": "NoData"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/F4CAD97EC4550743646C042C566EEDC6E100A2F8/1012651.png",
+    "id": 1080,
+    "name": "Tail Wind",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 30,
+    "tier": 1
+}

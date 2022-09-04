@@ -1,0 +1,33 @@
+{
+    "description": "You and your pet grant each other increased damage and movement speed when striking enemies. <c=@reminder>When this triggers, it refreshes the duration of all stacks.</c>",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 0.5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+            "text": "Maximum Stacks",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "apply_count": 1,
+            "description": "Gain 3% damage and 5% movement speed per stack.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/B367DF25F5F07C51CE5BD280C35A0E7BB19B98A3/2503640.png",
+            "status": "Ferocious Symbiosis",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/B367DF25F5F07C51CE5BD280C35A0E7BB19B98A3/2503640.png",
+    "id": 2274,
+    "name": "Ferocious Symbiosis",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 72,
+    "tier": 3
+}

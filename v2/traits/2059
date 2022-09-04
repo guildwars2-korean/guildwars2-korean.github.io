@@ -1,0 +1,56 @@
+{
+    "description": "Manifest Sand Shade grants a barrier to allies near it.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+            "target": "Healing",
+            "text": "Barrier",
+            "type": "AttributeAdjust",
+            "value": 572
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+            "target": "Healing",
+            "text": "Barrier",
+            "type": "AttributeAdjust",
+            "value": 385
+        },
+        {
+            "distance": 180,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Allied Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/2459E053ADCC6A6064DD505CC03FEA767D12DBB6/1769970.png",
+    "id": 2059,
+    "name": "Desert Empowerment",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 60,
+    "tier": 2,
+    "traited_facts": [
+        {
+            "distance": 300,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "overrides": 2,
+            "requires_trait": 2112,
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "overrides": 3,
+            "requires_trait": 2112,
+            "text": "Number of Allied Targets",
+            "type": "Number",
+            "value": 10
+        }
+    ]
+}

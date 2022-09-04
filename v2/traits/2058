@@ -1,0 +1,39 @@
+{
+    "description": "Gain astral force each interval while not in celestial avatar form. While in celestial avatar form, your healing of others is significantly increased. A lesser bonus to outgoing healing lingers for a duration after exiting celestial avatar.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "percent": 20,
+            "text": "Healing Increase to Others",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Outgoing healing is increased.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/01BBD8CADBC6E9BBED46A2D9026976316CA8EAD9/1128537.png",
+            "status": "Lingering Light",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Energy Gain",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/01BBD8CADBC6E9BBED46A2D9026976316CA8EAD9/1128537.png",
+    "id": 2058,
+    "name": "Lingering Light",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 5,
+    "tier": 3
+}

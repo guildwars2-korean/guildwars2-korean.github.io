@@ -1,0 +1,35 @@
+{
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+            "status": "Burning",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Skills and actions are slower.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+            "status": "Slow",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/FC3E5E76E418B620C2B5D3BF9851913553E46E21/1769945.png",
+    "id": 2105,
+    "name": "Stoic Demeanor",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 62,
+    "tier": 3
+}

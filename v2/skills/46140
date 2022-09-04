@@ -1,0 +1,77 @@
+{
+    "attunement": "Water",
+    "chat_link": "[&Bjy0AAA=]",
+    "description": "Dual Attack. Release a frigid wind that damages foes.",
+    "dual_attunement": "Air",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 18
+        },
+        {
+            "dmg_multiplier": 0.88,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+            "status": "Chilled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+            "status": "리제네레이션",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+            "text": "Daze",
+            "type": "Time"
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "finisher_type": "Blast",
+            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+            "percent": 100,
+            "text": "Combo Finisher",
+            "type": "ComboFinisher"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/5897FEF03F0759D065BAAAE69EA9F26D2E3F51B8/1770341.png",
+    "id": 46140,
+    "name": "Katabatic Wind",
+    "professions": [
+        "Elementalist"
+    ],
+    "slot": "Weapon_3",
+    "specialization": 56,
+    "type": "Weapon",
+    "weapon_type": "Dagger"
+}

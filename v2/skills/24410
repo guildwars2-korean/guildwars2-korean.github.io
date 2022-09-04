@@ -1,0 +1,66 @@
+{
+    "attunement": "Water",
+    "categories": [
+        "Glyph"
+    ],
+    "chat_link": "[&BlpfAAA=]",
+    "description": "Glyph. Revive an ally with full health.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 90
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "percent": 100,
+            "text": "Healing",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Revive Targets",
+            "type": "Number",
+            "value": 1
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/E32109BA04DE3CE0F2A8E30324D235910B739BFC/103354.png",
+    "id": 24410,
+    "name": "Renewal of Water",
+    "professions": [
+        "Elementalist"
+    ],
+    "slot": "Utility",
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+            "requires_trait": 229,
+            "status": "리제네레이션",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+            "requires_trait": 229,
+            "status": "리제네레이션",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "type": "Utility",
+    "weapon_type": "None"
+}

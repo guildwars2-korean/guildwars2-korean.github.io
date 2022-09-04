@@ -1,0 +1,79 @@
+{
+    "description": "<c=@abilitytype>Glyphs</c> gain reduced recharge and cast Lesser Seed of Life.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/0BCB5CC47934D9A526600EC87E1966CEDED13514/1128534.png",
+    "id": 2001,
+    "name": "Verdant Etching",
+    "order": 1,
+    "skills": [
+        {
+            "categories": [
+                "CelestialAvatar"
+            ],
+            "chat_link": "[&BiB8AAA=]",
+            "description": "Celestial Avatar. Summon a seed that heals and cleanses nearby allies of conditions when it blossoms.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                    "text": "Range",
+                    "type": "Range",
+                    "value": 1200
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                    "target": "Healing",
+                    "text": "Healing",
+                    "type": "AttributeAdjust",
+                    "value": 216
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Conditions Removed",
+                    "type": "Number",
+                    "value": 1
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "distance": 180,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "field_type": "Light",
+                    "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                    "text": "Combo Field",
+                    "type": "ComboField"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Next outgoing attack misses; stacks duration.",
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                    "status": "Blinded",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/761706674AF9092C98D059AB03BD747BFC7DF506/1128623.png",
+            "id": 31776,
+            "name": "Lesser Seed of Life"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 5,
+    "tier": 2
+}

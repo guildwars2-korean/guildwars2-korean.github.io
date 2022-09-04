@@ -1,0 +1,98 @@
+{
+    "categories": [
+        "Symbol"
+    ],
+    "chat_link": "[&BugjAAA=]",
+    "description": "Symbol. Create a spear wall in front of you that damages foes that remain in its area.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "dmg_multiplier": 0.8,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Symbol Duration",
+            "type": "Time"
+        },
+        {
+            "distance": 180,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Symbol Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "apply_count": 1,
+            "description": "Critical chance increased; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+            "status": "퓨리",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "field_type": "Light",
+            "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+            "text": "Combo Field",
+            "type": "ComboField"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/AAE6229FBB48173FB9ECE823EE0CEF6CD5510F28/103680.png",
+    "id": 9192,
+    "name": "Symbol of Spears",
+    "professions": [
+        "Guardian"
+    ],
+    "slot": "Weapon_4",
+    "traited_facts": [
+        {
+            "dmg_multiplier": 1.04,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "overrides": 1,
+            "requires_trait": 649,
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "overrides": 3,
+            "requires_trait": 558,
+            "text": "Symbol Duration",
+            "type": "Time"
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "overrides": 4,
+            "requires_trait": 558,
+            "text": "Symbol Radius",
+            "type": "Distance"
+        }
+    ],
+    "type": "Weapon",
+    "weapon_type": "Spear"
+}

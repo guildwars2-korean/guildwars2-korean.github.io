@@ -1,0 +1,16 @@
+{
+    "chat_link": "[&BqPLAAA=]",
+    "description": "The strange magic of this place has twisted the nature of holiday cheer.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 100
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+    "id": 52131,
+    "name": "Wintersday Aura"
+}

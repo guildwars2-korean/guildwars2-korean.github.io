@@ -1,0 +1,34 @@
+{
+    "chat_link": "[&Bse6AAA=]",
+    "description": "Deliver a powerful overhand strike to stun a single target. Deals more damage the lower health the target is. Leaves behind a field of ice.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 35
+        },
+        {
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+            "text": "Stun",
+            "type": "Time"
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "field_type": "Ice",
+            "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+            "text": "Combo Field",
+            "type": "ComboField"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/3C3D986465B49F38A6DCB560E0E855A75D075EB6/1012938.png",
+    "id": 47815,
+    "name": "Executioner's Scythe"
+}

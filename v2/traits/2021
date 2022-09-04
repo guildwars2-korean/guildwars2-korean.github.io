@@ -1,0 +1,39 @@
+{
+    "description": "Gain ferocity and quickness while in Reaper's Shroud. Hitting with Life Reap reduces the recharge time of shroud skills.<br><c=@reminder>Recharge reduction can only occur once per use of Life Reap.</c>",
+    "facts": [
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "text": "Recharge Time Reduced",
+            "type": "Time"
+        },
+        {
+            "apply_count": 1,
+            "description": "스킬과 액션이 빨라진다.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+            "status": "퀴크니스",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+            "target": "CritDamage",
+            "type": "AttributeAdjust",
+            "value": 300
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/4676081D0C9BDFE3F25E0BD0C7EFAE0139D89A0B/1012578.png",
+    "id": 2021,
+    "name": "Reaper's Onslaught",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 34,
+    "tier": 3
+}

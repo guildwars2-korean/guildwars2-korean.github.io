@@ -1,0 +1,25 @@
+{
+    "chat_link": "[&BoPcAAA=]",
+    "description": "The voltaic wisp channels electricity into its tail, leaving time-delayed explosions behind.",
+    "facts": [
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+            "text": "Daze",
+            "type": "Time"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 50%; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+            "status": "Crippled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/E43730AD49A903C3A1B4F27E41DE04EA51A775EC/156636.png",
+    "id": 56451,
+    "name": "Electrospark"
+}

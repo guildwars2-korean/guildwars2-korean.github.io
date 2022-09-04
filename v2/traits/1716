@@ -1,0 +1,21 @@
+{
+    "description": "Gain increased movement speed for each point of upkeep currently in use.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Gain movement speed for each point of upkeep currently in use.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/BADE3878F6F5EE4247D501CE5ACDFB7BC24BA1AE/1058535.png",
+            "status": "Rising Momentum",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/BADE3878F6F5EE4247D501CE5ACDFB7BC24BA1AE/1058535.png",
+    "id": 1716,
+    "name": "Rising Momentum",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 52,
+    "tier": 1
+}

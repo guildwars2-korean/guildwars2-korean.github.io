@@ -1,0 +1,46 @@
+{
+    "chat_link": "[&BlwpAAA=]",
+    "description": "Shroud. Inflict fear on your foe.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1200
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "dmg_multiplier": 0.1,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 1,
+            "description": "Involuntary retreat; unable to act; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/30307A6E766D74B6EB09EDA12A4A2DE50E4D76F4/102869.png",
+            "status": "Fear",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/6CAB0D17DF604E5C6330523A350EC4430409A309/103818.png",
+    "id": 10588,
+    "name": "Doom",
+    "professions": [
+        "Necromancer"
+    ],
+    "slot": "Downed_3",
+    "type": "Profession",
+    "weapon_type": "None"
+}

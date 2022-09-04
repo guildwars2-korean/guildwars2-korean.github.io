@@ -1,0 +1,120 @@
+{
+    "description": "Your dodge ability is replaced by a long-range dash that removes inhibiting conditions and grants swiftness and damage reduction. Removing conditions in this way temporarily reduces endurance gain.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Damage dealt to you is reduced.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/0D7324A22F580F3DA3F244C466770FB69292C307/1058553.png",
+            "status": "Unhindered Combatant",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Endurance regeneration is reduced.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/C86F3DF92CC1CB66D9B1F90B02C2FBAEC276BC44/1876876.png",
+            "prefix": {
+                "description": "Movement speed decreased by 50%; stacks duration.",
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "Crippled",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Exhaustion",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Endurance regeneration is reduced.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/C86F3DF92CC1CB66D9B1F90B02C2FBAEC276BC44/1876876.png",
+            "prefix": {
+                "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "status": "Chilled",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Exhaustion",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Endurance regeneration is reduced.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/C86F3DF92CC1CB66D9B1F90B02C2FBAEC276BC44/1876876.png",
+            "prefix": {
+                "description": "Unable to move; stacks duration.",
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "Immobile",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Exhaustion",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/0D7324A22F580F3DA3F244C466770FB69292C307/1058553.png",
+    "id": 1964,
+    "name": "Unhindered Combatant",
+    "order": 1,
+    "skills": [
+        {
+            "chat_link": "[&BtN5AAA=]",
+            "description": "Remove conditions and gain swiftness, then rush forward and evade attacks.",
+            "facts": [
+                {
+                    "description": "Unable to move; stacks duration.",
+                    "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                    "status": "Immobile",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "description": "Movement speed decreased by 50%; stacks duration.",
+                    "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                    "status": "Crippled",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+                    "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                    "status": "Chilled",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
+                    "duration": 10,
+                    "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                    "status": "스위프트니스",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "distance": 450,
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Distance Traveled",
+                    "type": "Distance"
+                },
+                {
+                    "duration": 1,
+                    "icon": "https://render.guildwars2.com/file/9F19DB1D3E1629390F2360F2D866651BBC0F6155/1938788.png",
+                    "text": "Evade",
+                    "type": "Time"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/00A434BE7B4B9AE0D22D6AC50A18C0E117345AC2/991941.png",
+            "id": 31187,
+            "name": "Dash"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 7,
+    "tier": 3
+}

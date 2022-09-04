@@ -1,0 +1,57 @@
+{
+    "attunement": "Fire",
+    "categories": [
+        "Glyph"
+    ],
+    "chat_link": "[&BpBjAAA=]",
+    "description": "Glyph. Summon an elemental based on your attunement.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 40
+        },
+        {
+            "duration": 120,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "flip_skill": 25499,
+    "icon": "https://render.guildwars2.com/file/0D342F3FD05405DF451B1EF1731C7B9CE8F1BD07/867437.png",
+    "id": 25488,
+    "name": "Glyph of Elementals",
+    "professions": [
+        "Elementalist"
+    ],
+    "slot": "Elite",
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "requires_trait": 229,
+            "status": "마이트",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 3,
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "requires_trait": 229,
+            "status": "마이트",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "type": "Elite",
+    "weapon_type": "None"
+}

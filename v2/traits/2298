@@ -1,0 +1,112 @@
+{
+    "description": "Gain access to the Mech Command skill Sky Circus. While dismissed or away for repairs, your mech supports you with an occasional aerial bombardment.<br>Signet skills gain improved passive effects and continue to grant their passive bonuses while recharging.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 20,
+            "text": "Signet Effectiveness Increased",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/0DB4530703CE745B0E15A56609BCCA21CC649837/2503628.png",
+    "id": 2298,
+    "name": "Mech Core: J-Drive",
+    "order": 2,
+    "skills": [
+        {
+            "chat_link": "[&BgT3AAA=]",
+            "description": "Mech Command. Your mech jets into the air and fires a missile at each nearby foe before crashing down and dealing additional damage to anything caught underfoot.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 30
+                },
+                {
+                    "dmg_multiplier": 0.6,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Missile Damage",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 1.2,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Landing Damage",
+                    "type": "Damage"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "distance": 600,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "distance": 120,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Missile Explosion Radius",
+                    "type": "Distance"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Targets per Missile",
+                    "type": "Number",
+                    "value": 3
+                },
+                {
+                    "distance": 100,
+                    "icon": "https://render.guildwars2.com/file/B4087CEB5CC006172E0A09DADC5452807A0CA3F7/2440712.png",
+                    "text": "Knockback on Landing",
+                    "type": "Distance"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Deals damage every second; stacks intensity.",
+                    "duration": 5,
+                    "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                    "status": "Burning",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/F5B22BC2DCE815FD124A1B25646606633A68D1F5/2503686.png",
+            "id": 63236,
+            "name": "Sky Circus"
+        },
+        {
+            "chat_link": "[&BsT2AAA=]",
+            "description": "",
+            "facts": [
+                {
+                    "dmg_multiplier": 1,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 3
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/3C2B5C060DA920011A20ACDB96DB155D4BDE2A04/103434.png",
+            "id": 63172,
+            "name": "Aerial Support"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 70,
+    "tier": 3
+}

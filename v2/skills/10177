@@ -1,0 +1,41 @@
+{
+    "categories": [
+        "Manipulation"
+    ],
+    "chat_link": "[&BsEnAAA=]",
+    "description": "Manipulation. Reflect projectiles, and heal yourself.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 15
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 4299
+        },
+        {
+            "apply_count": 1,
+            "description": "Reflects incoming projectiles.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/CED3F1AE9294F9C5045DA8017F25170CE87C0AE2/103726.png",
+            "status": "Mirror",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/CED3F1AE9294F9C5045DA8017F25170CE87C0AE2/103726.png",
+    "id": 10177,
+    "name": "Mirror",
+    "professions": [
+        "Mesmer"
+    ],
+    "slot": "Heal",
+    "type": "Heal",
+    "weapon_type": "None"
+}

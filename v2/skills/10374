@@ -1,0 +1,32 @@
+{
+    "chat_link": "[&BoYoAAA=]",
+    "description": "Attack nearby foes.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 150
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 3
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/0FC6D6B3CBD0DDB7A3E2962FF138FDA329A1C90B/103599.png",
+    "id": 10374,
+    "name": "Frenzy",
+    "professions": [],
+    "slot": "Downed_3",
+    "type": "Monster",
+    "weapon_type": "None"
+}

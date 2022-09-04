@@ -1,0 +1,112 @@
+{
+    "categories": [
+        "Mantra"
+    ],
+    "chat_link": "[&Bl2pAAA=]",
+    "description": "Mantra. Echo remnants of an ancient pamphlet from Vabbi that urged Elonians to freedom. Grant stability and resolution to allies while breaking stun.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 450
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 1
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+            "text": "StunBreak",
+            "type": "StunBreak",
+            "value": true
+        },
+        {
+            "distance": 180,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Allied Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "apply_count": 1,
+            "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+            "status": "스태빌리티",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+            "status": "레졸루션",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 30,
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Charge Time",
+            "type": "Time"
+        },
+        {
+            "duration": 45,
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Charge Time",
+            "type": "Time"
+        },
+        {
+            "duration": 25,
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Charge Time",
+            "type": "Time"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/2BF01DA54BCDCEC209E503774C047E1DC5DAE126/1770460.png",
+    "id": 43357,
+    "name": "Mantra of Liberation",
+    "professions": [
+        "Guardian"
+    ],
+    "slot": "Elite",
+    "specialization": 62,
+    "traited_facts": [
+        {
+            "duration": 24,
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "overrides": 7,
+            "requires_trait": 2063,
+            "text": "Charge Recovery",
+            "type": "Time"
+        },
+        {
+            "duration": 36,
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "overrides": 8,
+            "requires_trait": 2063,
+            "text": "Charge Recovery",
+            "type": "Time"
+        },
+        {
+            "duration": 20,
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "overrides": 9,
+            "requires_trait": 2063,
+            "text": "Charge Recovery",
+            "type": "Time"
+        }
+    ],
+    "type": "Elite",
+    "weapon_type": "None"
+}

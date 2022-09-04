@@ -18,9 +18,11 @@
     "Resolution": "레졸루션",
     "Incoming condition damage decreased by 33%; stacks duration.": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
     "Stability": "스태빌리티",
-    "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared or taunted.": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
+    "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발의 효과를 무시한다.",
     "Swiftness": "스위프트니스",
     "Movement speed increased by 33%; stacks duration.": "이동 속도가 33% 증가한다(지속시간 중첩).",
     "Vigor": "비거",
-    "Endurance regeneration increased by 50%; stacks duration.": "지구력 회복이 50% 증가한다(지속시간 중첩)."
+    "Endurance regeneration increased by 50%; stacks duration.": "지구력 회복이 50% 증가한다(지속시간 중첩).",
+    "Superspeed": "슈퍼스피드",
+    "Movement speed is greatly increased. Maximum duration: 10s": "이동 속도가 비약적으로 증가한다. 최대 지속시간 : 10초."
 }

@@ -1,0 +1,60 @@
+{
+    "chat_link": "[&BlRqAAA=]",
+    "description": "Legendary Dragon. Facet. Place the Facet of Light on yourself to grant nearby allies regeneration every few seconds.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Pulse regeneration to nearby allies every few seconds.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/1F723B516AC5B614943543EECE6938E13349B90E/1012991.png",
+            "status": "Facet of Light",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+            "status": "리제네레이션",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [],
+    "flip_skill": 27228,
+    "icon": "https://render.guildwars2.com/file/1F723B516AC5B614943543EECE6938E13349B90E/1012991.png",
+    "id": 27220,
+    "name": "Facet of Light",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Heal",
+    "specialization": 52,
+    "type": "Heal",
+    "weapon_type": "None"
+}

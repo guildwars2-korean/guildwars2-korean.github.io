@@ -1,0 +1,75 @@
+{
+    "categories": [
+        "Shout"
+    ],
+    "chat_link": "[&BkI4AAA=]",
+    "description": "Shout. Heal yourself and regain all adrenaline. Nearby allies gain endurance.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 30
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Endurance Gained",
+            "type": "Number",
+            "value": 50
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Endurance Gained",
+            "type": "Number",
+            "value": 100
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 9100
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+            "text": "Adrenaline",
+            "type": "Number",
+            "value": 30
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/999EEC803BE421BD0835D8DC1EFE70C3A0EA0903/104117.png",
+    "id": 14402,
+    "name": "\"To the Limit!\"",
+    "professions": [
+        "Warrior"
+    ],
+    "slot": "Heal",
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "Gain flow per second.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/15AA251708A19EC6E1CBA4B208D7502797C9D111/2604722.png",
+            "overrides": 6,
+            "requires_trait": 2226,
+            "status": "Positive Flow",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "type": "Heal",
+    "weapon_type": "None"
+}

@@ -1,0 +1,118 @@
+{
+    "categories": [
+        "Elixir"
+    ],
+    "chat_link": "[&BsgWAAA=]",
+    "description": "Elixir. Drink Elixir X to become a rampaging brute or whirling tornado. Underwater, become either a withering plague or a whirlpool.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 105
+        },
+        {
+            "apply_count": 1,
+            "description": "Transformed into a tornado.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/22EDF7A7D620040CE1520552F45DE962AA625DA6/103281.png",
+            "status": "Tornado",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Transformed into a tornado.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/22EDF7A7D620040CE1520552F45DE962AA625DA6/103281.png",
+            "status": "Tornado",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Assumed the form of a massive juggernaut.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/D59294B049BF3412990AA9BAAF50809A0AA3EF0F/103571.png",
+            "status": "Rampage",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Assumed the form of a massive juggernaut.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/D59294B049BF3412990AA9BAAF50809A0AA3EF0F/103571.png",
+            "status": "Rampage",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/951A3EDE5EC812BA2110B0A32D31C64EFB02F276/103408.png",
+    "id": 5832,
+    "name": "Elixir X",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Elite",
+    "toolbelt_skill": 29722,
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "Transformed into a tornado.",
+            "duration": 18,
+            "icon": "https://render.guildwars2.com/file/22EDF7A7D620040CE1520552F45DE962AA625DA6/103281.png",
+            "overrides": 1,
+            "requires_trait": 473,
+            "status": "Tornado",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Transformed into a tornado.",
+            "duration": 12,
+            "icon": "https://render.guildwars2.com/file/22EDF7A7D620040CE1520552F45DE962AA625DA6/103281.png",
+            "overrides": 2,
+            "requires_trait": 473,
+            "status": "Tornado",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Assumed the form of a massive juggernaut.",
+            "duration": 18,
+            "icon": "https://render.guildwars2.com/file/D59294B049BF3412990AA9BAAF50809A0AA3EF0F/103571.png",
+            "overrides": 3,
+            "requires_trait": 473,
+            "status": "Rampage",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Assumed the form of a massive juggernaut.",
+            "duration": 12,
+            "icon": "https://render.guildwars2.com/file/D59294B049BF3412990AA9BAAF50809A0AA3EF0F/103571.png",
+            "overrides": 4,
+            "requires_trait": 473,
+            "status": "Rampage",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "transform_skills": [
+        5752,
+        5753,
+        5754,
+        14485,
+        14488,
+        14489,
+        14556,
+        14490
+    ],
+    "type": "Elite",
+    "weapon_type": "None"
+}

@@ -1,0 +1,47 @@
+{
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 5,
+            "description": "Damage and condition damage taken are increased; stacks intensity.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+            "status": "Vulnerability",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 5,
+            "description": "Damage and condition damage taken are increased; stacks intensity.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+            "status": "Vulnerability",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/5768D3E9974405C19E04A50D757873FF79F4D02A/2479339.png",
+    "id": 2219,
+    "name": "Vile Vials",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 64,
+    "tier": 1
+}

@@ -1,0 +1,69 @@
+{
+    "description": "Gain swiftness when you are inflicted with inhibiting conditions. When gaining either superspeed or swiftness, also gain regeneration. Swiftness has increased effectiveness.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 3
+        },
+        {
+            "apply_count": 1,
+            "description": "이동 속도가 33% 증가한다(지속시간 중첩).",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+            "status": "스위프트니스",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+            "status": "리제네레이션",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Unable to move; stacks duration.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+            "status": "Immobile",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 50%; stacks duration.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+            "status": "Crippled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+            "status": "Chilled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 20,
+            "text": "Effectiveness Increased",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/66CB08AA2823930D5B47AF3259B60A7DD86FAFE4/1769922.png",
+    "id": 2090,
+    "name": "Woven Stride",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 56,
+    "tier": 3
+}

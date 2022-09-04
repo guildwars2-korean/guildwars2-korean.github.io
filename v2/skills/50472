@@ -1,0 +1,97 @@
+{
+    "categories": [
+        "Gadget"
+    ],
+    "chat_link": "[&BijFAAA=]",
+    "description": "Gadget. Spray oil behind you, knocking down and crippling foes. If underwater, foes entering the field are blinded, slowed, and crippled.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 32
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Oil Slick Duration",
+            "type": "Time"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
+            "text": "Unblockable",
+            "type": "NoData"
+        },
+        {
+            "distance": 90,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 50%; stacks duration.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+            "status": "Crippled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Next outgoing attack misses; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+            "status": "Blinded",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Skills and actions are slower.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+            "status": "Slow",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/9A37D45CBD05C029915ED90E4F08F6B8D2DFF8AB/102816.png",
+    "id": 50472,
+    "name": "Slick Shoes",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Utility",
+    "toolbelt_skill": 5973,
+    "traited_facts": [
+        {
+            "distance": 90,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "overrides": 4,
+            "requires_trait": 1679,
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 50%; stacks duration.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+            "overrides": 5,
+            "requires_trait": 1679,
+            "status": "Crippled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "type": "Utility",
+    "weapon_type": "None"
+}

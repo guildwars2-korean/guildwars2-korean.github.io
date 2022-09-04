@@ -1,0 +1,109 @@
+{
+    "chat_link": "[&BjDeAAA=]",
+    "description": "Unleash your pitfall on the area, knocking down foes and delivering constant damage over time.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 3
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Unblockable",
+            "type": "Unblockable",
+            "value": true
+        },
+        {
+            "dmg_multiplier": 1.25,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Initial Impact Damage",
+            "type": "Damage"
+        },
+        {
+            "dmg_multiplier": 0.01,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Initial Impact Damage",
+            "type": "Damage"
+        },
+        {
+            "dmg_multiplier": 0.5,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Pulse Damage",
+            "type": "Damage"
+        },
+        {
+            "dmg_multiplier": 0.3,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Pulse Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 2,
+            "description": "Damage and condition damage taken are increased; stacks intensity.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+            "status": "Vulnerability",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/7632087376D36B0D100F1B07BE53F154BC337D7C/2440716.png",
+            "text": "Knockdown",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/0C389DB2BC595179D1BBB2C05BBF460753913567/2175063.png",
+    "id": 56880,
+    "name": "Pitfall",
+    "professions": [
+        "Thief"
+    ],
+    "slot": "Utility",
+    "traited_facts": [
+        {
+            "apply_count": 5,
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "requires_trait": 1169,
+            "status": "마이트",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "type": "Utility",
+    "weapon_type": "None"
+}

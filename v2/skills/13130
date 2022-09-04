@@ -1,0 +1,26 @@
+{
+    "chat_link": "[&BkozAAA=]",
+    "description": "Spend initiative to break your blocking stance and immediately initiate the nine-tailed strike.",
+    "dual_wield": "None",
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/3D5D7C3E746B4D3B99B7F0E3134DB2FF75CD29DD/104105.png",
+    "id": 13130,
+    "initiative": 2,
+    "name": "Break Stance",
+    "professions": [
+        "Thief"
+    ],
+    "slot": "Weapon_3",
+    "traited_facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "requires_trait": 1238,
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 204
+        }
+    ],
+    "type": "Weapon",
+    "weapon_type": "Spear"
+}

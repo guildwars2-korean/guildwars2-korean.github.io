@@ -1,0 +1,33 @@
+{
+    "description": "Nearby foes are blinded by <c=@abilitytype>Beast</c> abilities.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 12
+        },
+        {
+            "apply_count": 1,
+            "description": "Next outgoing attack misses; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+            "status": "Blinded",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/437F14AB08659C986724464E7550699A735D49A9/1012607.png",
+    "id": 1861,
+    "name": "Go for the Eyes",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 32,
+    "tier": 1
+}

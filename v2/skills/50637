@@ -1,0 +1,22 @@
+{
+    "chat_link": "[&Bs3FAAA=]",
+    "description": "The Broodmother spreads its webs to damage and slow its foes.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 350
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 7
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1DCF048095440F767BA9669165272938EB967602/102927.png",
+    "id": 50637,
+    "name": "Web Spray"
+}

@@ -1,0 +1,57 @@
+{
+    "description": "You and nearby allies gain quickness for each clone you <c=@abilitytype>shatter</c>. Tides of Time now also applies quickness in an area when cast.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "스킬과 액션이 빨라진다.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+            "status": "퀴크니스",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "스킬과 액션이 빨라진다.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+            "status": "퀴크니스",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "스킬과 액션이 빨라진다.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+            "prefix": {
+                "description": "Grant boons to nearby allies as you launch a wave of temporal energy that damages and stops enemies it passes through, then returns to you. Touching the returning wave reduces the recharge of this skill.",
+                "icon": "https://render.guildwars2.com/file/6FFACCD661056FE05F7AA6050A3DFCC8045C0A91/1012890.png",
+                "status": "Tides of Time",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "퀴크니스",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "distance": 360,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/0FF56A2B51F9C30CDA540CC41F0A1FA30CED74A0/1012482.png",
+    "id": 2022,
+    "name": "Seize the Moment",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 40,
+    "tier": 3
+}

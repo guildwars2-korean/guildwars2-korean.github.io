@@ -1,0 +1,76 @@
+{
+    "categories": [
+        "Survival"
+    ],
+    "chat_link": "[&BiQxAAA=]",
+    "description": "Survival. Entangle foes around you with vines. Entangled foes bleed and are immobilized until the vines are destroyed.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 60
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Unblockable",
+            "type": "Unblockable",
+            "value": true
+        },
+        {
+            "dmg_multiplier": 0.2,
+            "hit_count": 4,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 5,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+            "status": "Bleeding",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 5,
+            "description": "Unable to move; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+            "status": "Immobile",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/F532ED0DCE2AC7F4D51137B346D2F17AD006EC11/103101.png",
+    "id": 12580,
+    "name": "Entangle",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Elite",
+    "type": "Elite",
+    "weapon_type": "None"
+}

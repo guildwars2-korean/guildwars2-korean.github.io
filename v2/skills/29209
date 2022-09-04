@@ -1,0 +1,68 @@
+{
+    "categories": [
+        "LegendaryAssassin"
+    ],
+    "chat_link": "[&BhlyAAA=]",
+    "cost": 30,
+    "description": "Legendary Assassin. Dodge backward through the Mists. Remove movement-impairing conditions, and gain fury.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+            "text": "StunBreak",
+            "type": "StunBreak",
+            "value": true
+        },
+        {
+            "description": "Unable to move; stacks duration.",
+            "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+            "status": "Immobile",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+            "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+            "status": "Chilled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "description": "Movement speed decreased by 50%; stacks duration.",
+            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+            "status": "Crippled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Endurance Gained",
+            "type": "Number",
+            "value": 25
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Endurance Gained",
+            "type": "Number",
+            "value": 15
+        },
+        {
+            "apply_count": 1,
+            "description": "Critical chance increased; stacks duration.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+            "status": "퓨리",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/75DF55FCC5120EF6B643C1B1730E050EA17F5827/1013019.png",
+    "id": 29209,
+    "name": "Riposting Shadows",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Utility",
+    "type": "Utility",
+    "weapon_type": "None"
+}

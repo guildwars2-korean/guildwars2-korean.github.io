@@ -1,0 +1,72 @@
+{
+    "chat_link": "[&Bnb3AAA=]",
+    "description": "Unleashed Ambush. Attack in an area around you, creating a spore under each enemy struck.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 240
+        },
+        {
+            "dmg_multiplier": 2,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 5,
+            "description": "Damage and condition damage taken are increased; stacks intensity.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+            "status": "Vulnerability",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Boons Removed",
+            "type": "Number",
+            "value": 2
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/D30E4B593AEE93C795B40F020B3727FCCC5E39D7/2565747.png",
+    "id": 63350,
+    "name": "Savage Slash",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Weapon_1",
+    "specialization": 72,
+    "traited_facts": [
+        {
+            "dmg_multiplier": 1.8375,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "overrides": 1,
+            "requires_trait": 1047,
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "overrides": 4,
+            "requires_trait": 2278,
+            "text": "Boons Removed",
+            "type": "Number",
+            "value": 4
+        }
+    ],
+    "type": "Weapon",
+    "weapon_type": "Greatsword"
+}

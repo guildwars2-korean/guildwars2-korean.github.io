@@ -1,0 +1,39 @@
+{
+    "chat_link": "[&Brv8AAA=]",
+    "description": "Fire a long-range, slow-moving jade missile that explodes on impact, damaging nearby foes.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1200
+        },
+        {
+            "dmg_multiplier": 1,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "flags": [
+        "GroundTargeted",
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/D8CA0DDAD6EA97AD081FCCE403043F55DA65CF60/2604866.png",
+    "id": 64699,
+    "name": "Jade Cannon",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Profession_1",
+    "specialization": 55,
+    "type": "Profession",
+    "weapon_type": "None"
+}

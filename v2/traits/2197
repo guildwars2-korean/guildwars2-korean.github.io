@@ -1,0 +1,27 @@
+{
+    "description": "Triggered virtue effects reduce the cooldown of active weapon abilities. Gain alacrity when activating Flowing Resolve.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "스킬 재사용 대기시간 단축.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+            "status": "알라크리티",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "text": "Recharge Time Reduced",
+            "type": "Time"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/FC4753574837A826E47E39CB5CD875D9470F6D9F/2479317.png",
+    "id": 2197,
+    "name": "Restorative Virtues",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 65,
+    "tier": 2
+}

@@ -1,0 +1,23 @@
+{
+    "chat_link": "[&Bgn1AAA=]",
+    "description": "Swap your Legendary Alliance Stance skills.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 10
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/DE01C14360F2E7E81C336241C7D6ED6FA14DA005/2491605.png",
+    "id": 62729,
+    "name": "Alliance Tactics",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Profession_2",
+    "specialization": 69,
+    "type": "Profession",
+    "weapon_type": "None"
+}

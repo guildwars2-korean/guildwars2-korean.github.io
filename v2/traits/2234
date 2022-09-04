@@ -1,0 +1,288 @@
+{
+    "description": "Your <c=@abilitytype>jade sphere</c> grants a boon to nearby allies based on your current attunement when activated.",
+    "facts": [
+        {
+            "apply_count": 5,
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "prefix": {
+                "description": "Cast fire spells.",
+                "icon": "https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png",
+                "status": "Fire Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "마이트",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 5,
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "prefix": {
+                "description": "Cast fire spells.",
+                "icon": "https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png",
+                "status": "Fire Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "마이트",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+            "prefix": {
+                "description": "Cast water spells.",
+                "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
+                "status": "Water Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "비거",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+            "prefix": {
+                "description": "Cast water spells.",
+                "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
+                "status": "Water Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "비거",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "스킬과 액션이 빨라진다.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+            "prefix": {
+                "description": "Cast air spells.",
+                "icon": "https://render.guildwars2.com/file/4857F59020DE3B0950B9C91F3D234A1C1932984A/103048.png",
+                "status": "Air Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "퀴크니스",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Critical chance increased; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+            "prefix": {
+                "description": "Cast air spells.",
+                "icon": "https://render.guildwars2.com/file/4857F59020DE3B0950B9C91F3D234A1C1932984A/103048.png",
+                "status": "Air Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "퓨리",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "데미지를 주지않는 컨디션의 효과를 무시한다(지속시간 중첩).",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+            "prefix": {
+                "description": "Cast earth spells.",
+                "icon": "https://render.guildwars2.com/file/4B8056D9BD080DC8E74AE6A57B2B383A2D4265C9/102870.png",
+                "status": "Earth Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "레지스턴스",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "데미지를 주지않는 컨디션의 효과를 무시한다(지속시간 중첩).",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+            "prefix": {
+                "description": "Cast earth spells.",
+                "icon": "https://render.guildwars2.com/file/4B8056D9BD080DC8E74AE6A57B2B383A2D4265C9/102870.png",
+                "status": "Earth Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "레지스턴스",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "distance": 360,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Dealt Reduced by",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/B207785D56DABD962921DA4A0D65EB4C39270D3D/2491524.png",
+    "id": 2234,
+    "name": "Spectacular Sphere",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 67,
+    "tier": 2,
+    "traited_facts": [
+        {
+            "apply_count": 5,
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
+            "duration": 20,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "overrides": 0,
+            "prefix": {
+                "description": "Cast fire spells.",
+                "icon": "https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png",
+                "status": "Fire Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "requires_trait": 2251,
+            "status": "마이트",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 5,
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
+            "duration": 9,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "overrides": 1,
+            "prefix": {
+                "description": "Cast fire spells.",
+                "icon": "https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png",
+                "status": "Fire Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "requires_trait": 2251,
+            "status": "마이트",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+            "overrides": 2,
+            "prefix": {
+                "description": "Cast water spells.",
+                "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
+                "status": "Water Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "requires_trait": 2251,
+            "status": "비거",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+            "overrides": 3,
+            "prefix": {
+                "description": "Cast water spells.",
+                "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
+                "status": "Water Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "requires_trait": 2251,
+            "status": "비거",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "스킬과 액션이 빨라진다.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+            "overrides": 4,
+            "prefix": {
+                "description": "Cast air spells.",
+                "icon": "https://render.guildwars2.com/file/4857F59020DE3B0950B9C91F3D234A1C1932984A/103048.png",
+                "status": "Air Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "requires_trait": 2251,
+            "status": "퀴크니스",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Critical chance increased; stacks duration.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+            "overrides": 5,
+            "prefix": {
+                "description": "Cast air spells.",
+                "icon": "https://render.guildwars2.com/file/4857F59020DE3B0950B9C91F3D234A1C1932984A/103048.png",
+                "status": "Air Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "requires_trait": 2251,
+            "status": "퓨리",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "데미지를 주지않는 컨디션의 효과를 무시한다(지속시간 중첩).",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+            "overrides": 6,
+            "prefix": {
+                "description": "Cast earth spells.",
+                "icon": "https://render.guildwars2.com/file/4B8056D9BD080DC8E74AE6A57B2B383A2D4265C9/102870.png",
+                "status": "Earth Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "requires_trait": 2251,
+            "status": "레지스턴스",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "데미지를 주지않는 컨디션의 효과를 무시한다(지속시간 중첩).",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+            "overrides": 7,
+            "prefix": {
+                "description": "Cast earth spells.",
+                "icon": "https://render.guildwars2.com/file/4B8056D9BD080DC8E74AE6A57B2B383A2D4265C9/102870.png",
+                "status": "Earth Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "requires_trait": 2251,
+            "status": "레지스턴스",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        }
+    ]
+}

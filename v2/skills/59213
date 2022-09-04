@@ -1,0 +1,16 @@
+{
+    "chat_link": "[&Bk3nAAA=]",
+    "description": "A vortex of freezing cold air surrounds you, periodically dealing massive damage.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 3000
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/0C7DC4A73578A13FFF587148451A682E0C0CFB58/1228470.png",
+    "id": 59213,
+    "name": "Frigid Vortex"
+}

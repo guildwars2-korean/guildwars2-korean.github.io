@@ -1,0 +1,29 @@
+{
+    "chat_link": "[&BvWhAAA=]",
+    "description": "Retreat by tunneling through the ground.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 15
+        },
+        {
+            "distance": 300,
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Distance",
+            "type": "Distance"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/70BE910B2E6366126B9B9F9C91F227CF9D73E99A/103564.png",
+    "id": 41461,
+    "name": "Devourer Retreat",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Profession_2",
+    "specialization": 55,
+    "type": "Profession",
+    "weapon_type": "None"
+}

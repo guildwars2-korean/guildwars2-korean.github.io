@@ -1,0 +1,69 @@
+{
+    "chat_link": "[&BhRoAAA=]",
+    "description": "Legendary Dragon. Facet. Place the Facet of Strength on yourself to grant nearby allies might every few seconds.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Pulse might to nearby allies every few seconds.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/26296CDACD6C4E4A785F305D47523029786B79B9/1013013.png",
+            "status": "Facet of Strength",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
+            "duration": 12,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "마이트",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "가하는 데미지가 증가한다(강도 중첩).",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "마이트",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [],
+    "flip_skill": 28113,
+    "icon": "https://render.guildwars2.com/file/26296CDACD6C4E4A785F305D47523029786B79B9/1013013.png",
+    "id": 26644,
+    "name": "Facet of Strength",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Utility",
+    "specialization": 52,
+    "type": "Utility",
+    "weapon_type": "None"
+}

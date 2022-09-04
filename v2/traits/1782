@@ -1,0 +1,21 @@
+{
+    "description": "Gain resolution after you dodge.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "받는 컨디션 데미지가 33% 감소한다(지속시간 중첩).",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+            "status": "레졸루션",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/CA9478C84998F038B949E4BAD01CEFB70811386E/1012697.png",
+    "id": 1782,
+    "name": "Resolute Evasion",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 9,
+    "tier": 2
+}

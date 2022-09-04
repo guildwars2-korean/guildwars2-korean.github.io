@@ -1,0 +1,34 @@
+{
+    "chat_link": "[&BmwXAAA=]",
+    "description": "Pull your target to you.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1200
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Unblockable",
+            "type": "Unblockable",
+            "value": true
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1244C52EA12E230336D30FA9CE14A4FEEBBDF0DB/103470.png",
+    "id": 5996,
+    "name": "Magnet",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Weapon_5",
+    "type": "Bundle",
+    "weapon_type": "None"
+}

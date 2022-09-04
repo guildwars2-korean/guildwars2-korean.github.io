@@ -1,0 +1,57 @@
+{
+    "chat_link": "[&BhIkAAA=]",
+    "description": "Detonate the orb to burn foes and cure conditions on allies in the blast radius.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1200
+        },
+        {
+            "dmg_multiplier": 1.25,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+            "status": "Burning",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Removed",
+            "type": "Number",
+            "value": 1
+        },
+        {
+            "distance": 300,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "finisher_type": "Blast",
+            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+            "percent": 100,
+            "text": "Combo Finisher",
+            "type": "ComboFinisher"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/0C2632BDBBEC0648A0F97196EF9A5106101FD339/103679.png",
+    "id": 9234,
+    "name": "Purifying Blast",
+    "professions": [
+        "Guardian"
+    ],
+    "slot": "Weapon_2",
+    "type": "Weapon",
+    "weapon_type": "Trident"
+}

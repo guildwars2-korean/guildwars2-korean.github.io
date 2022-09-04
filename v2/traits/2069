@@ -1,0 +1,36 @@
+{
+    "description": "<c=@abilitytype>Shatter</c> skills give vigor, and vigor grants condition damage.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+            "status": "비거",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+            "status": "비거",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+            "target": "ConditionDamage",
+            "type": "AttributeAdjust",
+            "value": 150
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/EC4E5BEAD50EC6A5A91C312EE521B7C6EC56393B/1769961.png",
+    "id": 2069,
+    "name": "Nomad's Endurance",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 59,
+    "tier": 2
+}

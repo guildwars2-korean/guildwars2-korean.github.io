@@ -1,0 +1,22 @@
+{
+    "chat_link": "[&BvU9AAA=]",
+    "description": "End the transformation and return to your true form",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1000
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/DD9F35A9D6AA435FBDA55C1F6A289F916D0E2638/103543.png",
+    "id": 15861,
+    "name": "Return",
+    "professions": [],
+    "slot": "Downed_1",
+    "type": "Monster",
+    "weapon_type": "None"
+}

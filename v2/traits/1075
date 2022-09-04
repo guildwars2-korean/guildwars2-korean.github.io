@@ -1,0 +1,33 @@
+{
+    "description": "Increase the duration of boons and conditions applied by <c=@abilitytype>traps</c>. <c=@abilitytype>Traps</c> gain reduced recharges and offensive ones cause cripple.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 60,
+            "text": "Duration Increase",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 50%; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+            "status": "Crippled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/B4A65A33111547EC4A3E3DD40E6ACBC1E3215ADD/1012644.png",
+    "id": 1075,
+    "name": "Trapper's Expertise",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 30,
+    "tier": 1
+}
