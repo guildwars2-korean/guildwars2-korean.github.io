@@ -1,0 +1,16 @@
+{
+    "chat_link": "[&Bu3lAAA=]",
+    "description": "Does damage every second. Damage increased per stack.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Unblockable",
+            "type": "Unblockable",
+            "value": true
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+    "id": 58861,
+    "name": "Tormenting Aura"
+}

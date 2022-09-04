@@ -1,0 +1,50 @@
+{
+    "chat_link": "[&BpieAAA=]",
+    "description": "Become immobile and gain access to kneel skills, which have increased projectile velocity. You can still dodge roll while kneeling. Kneel is canceled if you swap weapons or become disabled.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1500
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 0.5
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Initiative",
+            "type": "Number",
+            "value": 1
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 50,
+            "text": "Velocity Increase",
+            "type": "Percent"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/B872B96AC8ED04DE1F1FAE0EA93D71270A6B2DF1/1770631.png",
+    "id": 40600,
+    "initiative": 1,
+    "name": "Kneel",
+    "professions": [
+        "Thief"
+    ],
+    "slot": "Weapon_5",
+    "specialization": 58,
+    "type": "Weapon",
+    "weapon_type": "Rifle"
+}

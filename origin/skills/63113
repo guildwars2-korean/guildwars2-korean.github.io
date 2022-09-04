@@ -1,0 +1,99 @@
+{
+    "categories": [
+        "Signet"
+    ],
+    "chat_link": "[&Bon2AAA=]",
+    "description": "Signet Passive: Increases condition damage dealt.\nSignet Active: Creates a damaging field around you that applies conditions to nearby foes. If your mech is active, the field instead radiates from and follows the mech.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 30
+        },
+        {
+            "apply_count": 1,
+            "description": "Increases condition damage dealt.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/99C42595B3D1FA7C96C3703B66F241792F08B107/2503691.png",
+            "status": "Superconducting Signet",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "dmg_multiplier": 0.4,
+            "hit_count": 6,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "apply_count": 6,
+            "description": "Damage and condition damage taken are increased; stacks intensity.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+            "status": "Vulnerability",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 6,
+            "description": "Damage received on skill activation; stacks intensity.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+            "status": "Confusion",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 6,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+            "status": "Burning",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "field_type": "Lightning",
+            "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+            "text": "Combo Field",
+            "type": "ComboField"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/99C42595B3D1FA7C96C3703B66F241792F08B107/2503691.png",
+    "id": 63113,
+    "name": "Superconducting Signet",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Utility",
+    "specialization": 70,
+    "type": "Utility",
+    "weapon_type": "None"
+}

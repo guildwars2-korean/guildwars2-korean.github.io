@@ -1,0 +1,30 @@
+{
+    "description": "Gain initiative on swapping weapons while in combat.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 8
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Initiative",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Initiative",
+            "type": "Number",
+            "value": 2
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/EE970B0E607C51D8490C6D2CF4403E0BF9E8DD4C/1012721.png",
+    "id": 1187,
+    "name": "Quick Pockets",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 44,
+    "tier": 3
+}

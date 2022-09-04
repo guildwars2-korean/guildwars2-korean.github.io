@@ -1,0 +1,44 @@
+{
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 50,
+            "text": "Duration Increase",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Kalla's legend inspires you, increasing all damage dealt; stacks intensity.",
+            "duration": 12,
+            "icon": "https://render.guildwars2.com/file/4DDE151C71EDB6120E3454036C4C3504EADB02D8/1770161.png",
+            "status": "Improved Kalla's Fervor",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 12,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/3BA0F9B4766D2C80037DAEE37E5D07AC1EA2C030/1769994.png",
+    "id": 2100,
+    "name": "Lasting Legacy",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 63,
+    "tier": 3
+}

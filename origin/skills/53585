@@ -1,0 +1,28 @@
+{
+    "chat_link": "[&BlHRAAA=]",
+    "description": "A powerful blast.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 230
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 1
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Unblockable",
+            "type": "Unblockable",
+            "value": true
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/A358E0487115A098B306DBE39F95719AD50A4B7B/62255.png",
+    "id": 53585,
+    "name": "Mine Explosion"
+}

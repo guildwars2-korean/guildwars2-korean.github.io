@@ -1,0 +1,47 @@
+{
+    "chat_link": "[&BqYXAAA=]",
+    "description": "Electrify your shield, preparing to throw it at foes. Stun nearby enemies that attack you while blocking.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 30
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+            "text": "Stun",
+            "type": "Time"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Block Duration",
+            "type": "Time"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "flip_skill": 6057,
+    "icon": "https://render.guildwars2.com/file/133D50B114C9FDAE9D9DF0FBA5E82ABD0A610EE7/103474.png",
+    "id": 6054,
+    "name": "Static Shield",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Weapon_5",
+    "traited_facts": [
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+            "overrides": 1,
+            "requires_trait": 2052,
+            "text": "Stun",
+            "type": "Time"
+        }
+    ],
+    "type": "Weapon",
+    "weapon_type": "Shield"
+}

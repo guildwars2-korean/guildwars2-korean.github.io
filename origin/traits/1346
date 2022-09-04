@@ -1,0 +1,43 @@
+{
+    "description": "Critical hits\u00a0grant bonus\u00a0adrenaline and gain a stacking condition damage effect.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+            "text": "Adrenaline",
+            "type": "Number",
+            "value": 1
+        },
+        {
+            "apply_count": 1,
+            "description": "",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/10E50EAACB736A66317919D274C2594597AEE893/1012781.png",
+            "status": "Furious Surge",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+            "text": "Maximum Stacks",
+            "type": "Number",
+            "value": 25
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/10E50EAACB736A66317919D274C2594597AEE893/1012781.png",
+    "id": 1346,
+    "name": "Furious",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 36,
+    "tier": 3,
+    "traited_facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+            "overrides": 0,
+            "requires_trait": 2226,
+            "text": "Flow",
+            "type": "Number",
+            "value": 1
+        }
+    ]
+}

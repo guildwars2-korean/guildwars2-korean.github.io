@@ -1,0 +1,53 @@
+{
+    "attunement": "Earth",
+    "chat_link": "[&BkAWAAA=]",
+    "description": "Blind your foes with a blast of sand.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 15
+        },
+        {
+            "dmg_multiplier": 0.4,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 1,
+            "description": "Next outgoing attack misses; stacks duration.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+            "status": "Blinded",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/EA6A082902800CC552393F24E03240A7A7D9C511/103080.png",
+    "id": 5696,
+    "name": "Dust Devil",
+    "professions": [
+        "Elementalist"
+    ],
+    "slot": "Weapon_3",
+    "type": "Weapon",
+    "weapon_type": "Scepter"
+}

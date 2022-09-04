@@ -1,0 +1,95 @@
+{
+    "chat_link": "[&BhmkAAA=]",
+    "description": "Exceed. Charge up and fire an explosive beam of light in front of you. When activated above the heat threshold, this attack leaves behind a burning holographic field.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1200
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 60
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Unblockable",
+            "type": "Unblockable",
+            "value": true
+        },
+        {
+            "dmg_multiplier": 3,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "dmg_multiplier": 0.5,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "<c=@abilitytype>Field Damage</c>",
+            "type": "Damage"
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B4087CEB5CC006172E0A09DADC5452807A0CA3F7/2440712.png",
+            "text": "Launch",
+            "type": "Distance"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+            "status": "Burning",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "<c=@abilitytype>Field Pulses</c>",
+            "type": "Number",
+            "value": 10
+        },
+        {
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "<c=@abilitytype>Field Duration</c>",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+            "text": "<c=@abilitytype>Heat Threshold</c>",
+            "type": "Number",
+            "value": 50
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
+            "text": "Explosion",
+            "type": "NoData"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/80052B4C12919318036326D6D2A579C76867DF1B/1770387.png",
+    "id": 42009,
+    "name": "Prime Light Beam",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Elite",
+    "specialization": 57,
+    "type": "Elite",
+    "weapon_type": "None"
+}

@@ -1,0 +1,50 @@
+{
+    "chat_link": "[&BppxAAA=]",
+    "cost": 20,
+    "description": "Legendary Centaur. Collect energy, pulling it into the tablet to build up its power. After a short delay the energy will be released, healing nearby allies. \n\nIf this skill is empowered, healing is increased and endurance is granted to affected allies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 2
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 1620
+        },
+        {
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Delay Time",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/BBF2026B38E6EC7108B44FFA6BB66F0BFF0A7E01/1013015.png",
+    "id": 29082,
+    "name": "Natural Harmony",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Utility",
+    "type": "Utility",
+    "weapon_type": "None"
+}

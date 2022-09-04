@@ -1,0 +1,28 @@
+{
+    "chat_link": "[&BkDGAAA=]",
+    "description": "Slashing winds that rip targets apart.",
+    "facts": [
+        {
+            "apply_count": 2,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+            "status": "Bleeding",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 50%; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+            "status": "Crippled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+    "id": 50752,
+    "name": "Slashing Winds"
+}

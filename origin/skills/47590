@@ -1,0 +1,35 @@
+{
+    "chat_link": "[&Bua5AAA=]",
+    "description": "Spin and damage nearby foes, applying a condition with each strike.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "distance": 160,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "finisher_type": "Whirl",
+            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+            "percent": 100,
+            "text": "Combo Finisher",
+            "type": "ComboFinisher"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/4BFAEBD27404BDCB3A0255F1441560D3772F0CF5/1012937.png",
+    "id": 47590,
+    "name": "Soul Spiral"
+}

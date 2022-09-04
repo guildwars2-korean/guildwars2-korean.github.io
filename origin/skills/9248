@@ -1,0 +1,31 @@
+{
+    "categories": [
+        "Meditation"
+    ],
+    "chat_link": "[&BiAkAAA=]",
+    "description": "Meditation. Convert the conditions you are suffering from into boons.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 40
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+            "text": "StunBreak",
+            "type": "StunBreak",
+            "value": true
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/E260D443FB6104F1A0736CB30B4F080209559933/103684.png",
+    "id": 9248,
+    "name": "Contemplation of Purity",
+    "professions": [
+        "Guardian"
+    ],
+    "slot": "Utility",
+    "type": "Utility",
+    "weapon_type": "None"
+}

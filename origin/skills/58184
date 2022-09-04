@@ -1,0 +1,22 @@
+{
+    "chat_link": "[&BkjjAAA=]",
+    "description": "The icebrood construct slams its arm down, doing damage and creating a shock wave that knocks enemies down. The shock wave can be jumped.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 170
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 600
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/9D661C490109C13717F95520EF6ED7BB16BE99E3/103986.png",
+    "id": 58184,
+    "name": "Ice Shock Wave"
+}

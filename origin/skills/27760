@@ -1,0 +1,69 @@
+{
+    "chat_link": "[&BnBsAAA=]",
+    "description": "Legendary Dragon. Facet. Place the Facet of Chaos on yourself to grant nearby allies protection every few seconds.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Pulse protection to nearby allies every few seconds.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/E5F7EC66C065EAB56631BA0CD1CF6F4D03B89270/1012986.png",
+            "status": "Facet of Chaos",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Incoming strike damage decreased by 33%; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+            "status": "Protection",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Incoming strike damage decreased by 33%; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+            "status": "Protection",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [],
+    "flip_skill": 28075,
+    "icon": "https://render.guildwars2.com/file/E5F7EC66C065EAB56631BA0CD1CF6F4D03B89270/1012986.png",
+    "id": 27760,
+    "name": "Facet of Chaos",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Elite",
+    "specialization": 52,
+    "type": "Elite",
+    "weapon_type": "None"
+}

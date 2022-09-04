@@ -1,0 +1,75 @@
+{
+    "chat_link": "[&BktoAAA=]",
+    "cost": 15,
+    "description": "Shadowstep and unleash fierce attacks on nearby foes. Gain might each time you damage a foe.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 450
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 12
+        },
+        {
+            "dmg_multiplier": 0.38,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "dmg_multiplier": 0.7865,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 1,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Number of Hits",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/9F19DB1D3E1629390F2360F2D866651BBC0F6155/1938788.png",
+            "text": "Evade",
+            "type": "Time"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/A1E252A0C9F506B73465E09919D119D706702DD8/1013004.png",
+    "id": 26699,
+    "name": "Unrelenting Assault",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Weapon_3",
+    "type": "Weapon",
+    "weapon_type": "Sword"
+}

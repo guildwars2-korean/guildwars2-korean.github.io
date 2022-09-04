@@ -1,0 +1,33 @@
+{
+    "categories": [],
+    "chat_link": "[&BsUpAAA=]",
+    "description": "Chain. Strike your foe again.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 130
+        },
+        {
+            "dmg_multiplier": 1.2,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        }
+    ],
+    "flags": [],
+    "flip_skill": 10617,
+    "icon": "https://render.guildwars2.com/file/60EEE61AC6EA976A61A8DDE3D007B8C306AD1ABE/103849.png",
+    "id": 10693,
+    "name": "Wicked Strike",
+    "next_chain": 10617,
+    "prev_chain": 10692,
+    "professions": [
+        "Necromancer"
+    ],
+    "slot": "Weapon_1",
+    "type": "Weapon",
+    "weapon_type": "Spear"
+}

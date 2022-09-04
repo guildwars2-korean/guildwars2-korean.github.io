@@ -1,0 +1,72 @@
+{
+    "chat_link": "[&Bl73AAA=]",
+    "description": "Unleashed Ambush. Fire three arrows that explode on impact, inflicting poison on enemies in the area. Inflict additional conditions on enemies who are already poisoned.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        },
+        {
+            "dmg_multiplier": 1,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "distance": 180,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "apply_count": 3,
+            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+            "status": "Poisoned",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 3,
+            "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+            "status": "Torment",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+            "status": "Weakness",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [
+        "GroundTargeted",
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/ED090826AD5C2E700D6604F9E0CC7C1AAEF0C25D/2565750.png",
+    "id": 63326,
+    "name": "Toxic Shot",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Weapon_1",
+    "specialization": 72,
+    "type": "Weapon",
+    "weapon_type": "Shortbow"
+}

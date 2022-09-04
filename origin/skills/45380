@@ -1,0 +1,50 @@
+{
+    "categories": [
+        "Meditation"
+    ],
+    "chat_link": "[&BkSxAAA=]",
+    "description": "Meditation. Gain a burst of superspeed and resistance.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 30
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+            "text": "StunBreak",
+            "type": "StunBreak",
+            "value": true
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed is greatly increased. Maximum duration: 10s",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+            "status": "Superspeed",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+            "status": "Resistance",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/C703F700B534032C2058B0175041DDB60A0A780A/1770664.png",
+    "id": 45380,
+    "name": "Featherfoot Grace",
+    "professions": [
+        "Warrior"
+    ],
+    "slot": "Utility",
+    "specialization": 61,
+    "type": "Utility",
+    "weapon_type": "None"
+}

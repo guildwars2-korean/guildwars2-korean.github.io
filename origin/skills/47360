@@ -1,0 +1,31 @@
+{
+    "chat_link": "[&BgC5AAA=]",
+    "description": "Assaults enemies with a blast of foul breath.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 10000
+        },
+        {
+            "apply_count": 1,
+            "description": "Next outgoing attack misses; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+            "status": "Blinded",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D5F6EBC4630F0E10F3DDB7A6DBB63592CD4B00BC/2440717.png",
+            "text": "Pull",
+            "type": "Number",
+            "value": 50
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+    "id": 47360,
+    "name": "Breath of Death"
+}

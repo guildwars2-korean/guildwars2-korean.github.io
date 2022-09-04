@@ -1,0 +1,84 @@
+{
+    "chat_link": "[&BsWnAAA=]",
+    "cost": 25,
+    "description": "Legendary Renegade. Summon Centurion Jas Razorclaw from the Mists to enhance the attacks of your allies.\nThis bleeding can only be inflicted once per interval.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 600
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 15
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Pulses",
+            "type": "Number",
+            "value": 10
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "apply_count": 1,
+            "description": "Your attacks inflict bleeding.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/2449F064B1D3427FF311D3B4C101009C52250A0C/1770606.png",
+            "status": "Razorclaw's Rage",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+            "status": "Bleeding",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+            "status": "Bleeding",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 360,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Allied Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "flags": [
+        "GroundTargeted",
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/2449F064B1D3427FF311D3B4C101009C52250A0C/1770606.png",
+    "id": 42949,
+    "name": "Razorclaw's Rage",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Utility",
+    "specialization": 63,
+    "type": "Utility",
+    "weapon_type": "None"
+}

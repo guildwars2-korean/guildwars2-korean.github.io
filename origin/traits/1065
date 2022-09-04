@@ -1,0 +1,35 @@
+{
+    "description": "Your pet moves faster and deals more damage on critical hits.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+            "target": "CritDamage",
+            "text": "Ferocity Increase",
+            "type": "AttributeAdjust",
+            "value": 300
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 30,
+            "text": "Movement Speed Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/7D3EA005DDE41D017CACFFACA12DA9F160685228/1012617.png",
+    "id": 1065,
+    "name": "Pet's Prowess",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 32,
+    "tier": 3,
+    "traited_facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+            "requires_trait": 2151,
+            "target": "CritDamage",
+            "text": "Soulbeast Ferocity Increase",
+            "type": "AttributeAdjust",
+            "value": 150
+        }
+    ]
+}

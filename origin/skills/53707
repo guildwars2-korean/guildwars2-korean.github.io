@@ -1,0 +1,31 @@
+{
+    "chat_link": "[&BsvRAAA=]",
+    "description": "Drop a comet of ice on target foe, damaging and dazing foes in the area.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 15
+        },
+        {
+            "apply_count": 1,
+            "description": "Unable to activate skills.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+            "status": "Daze",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/CE2D206242C6DDB571784315ABF4B51CBAC090A9/103319.png",
+    "id": 53707,
+    "name": "Comet"
+}

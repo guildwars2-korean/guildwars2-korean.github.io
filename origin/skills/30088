@@ -1,0 +1,67 @@
+{
+    "chat_link": "[&Boh1AAA=]",
+    "description": "Spin around, reflecting missiles and hitting enemies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 6
+        },
+        {
+            "dmg_multiplier": 1.5,
+            "hit_count": 2,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Reflects Missiles",
+            "type": "NoData"
+        },
+        {
+            "distance": 180,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Number of Impacts",
+            "type": "Number",
+            "value": 2
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
+            "text": "Explosion",
+            "type": "NoData"
+        },
+        {
+            "finisher_type": "Whirl",
+            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+            "percent": 100,
+            "text": "Combo Finisher",
+            "type": "ComboFinisher"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/B36C6EBE3577BAA5773857EDE33895C5C6663EEC/1058590.png",
+    "id": 30088,
+    "name": "Electro-whirl",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Weapon_2",
+    "specialization": 43,
+    "type": "Weapon",
+    "weapon_type": "Hammer"
+}

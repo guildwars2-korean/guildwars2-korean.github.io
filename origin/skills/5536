@@ -1,0 +1,46 @@
+{
+    "categories": [
+        "Cantrip"
+    ],
+    "chat_link": "[&BqAVAAA=]",
+    "description": "Cantrip. Teleport to target area.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 40
+        },
+        {
+            "dmg_multiplier": 1.5,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "distance": 120,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [
+        "GroundTargeted"
+    ],
+    "icon": "https://render.guildwars2.com/file/BEB6010EC947E8A9525899242E7F6D703D023128/103337.png",
+    "id": 5536,
+    "name": "Lightning Flash",
+    "professions": [
+        "Elementalist"
+    ],
+    "slot": "Utility",
+    "type": "Utility",
+    "weapon_type": "None"
+}

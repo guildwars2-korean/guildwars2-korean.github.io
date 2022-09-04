@@ -1,0 +1,16 @@
+{
+    "chat_link": "[&BuH+AAA=]",
+    "description": "Fires a targeted missile that explodes on impact, creating a persistent field of damaging jade energy.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 2000
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/E50C7247504D08C059E5073515B6B367B7D52CD4/103040.png",
+    "id": 65249,
+    "name": "Jade Lob"
+}

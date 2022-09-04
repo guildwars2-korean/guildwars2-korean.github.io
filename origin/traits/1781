@@ -1,0 +1,35 @@
+{
+    "description": "Gain might when you grant yourself fury.",
+    "facts": [
+        {
+            "apply_count": 5,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 2,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Combat Only",
+            "type": "NoData"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/06F6A0B293C09DA5225848647EAD0D2CBAE56E09/1012683.png",
+    "id": 1781,
+    "name": "Incensed Response",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 3,
+    "tier": 2
+}

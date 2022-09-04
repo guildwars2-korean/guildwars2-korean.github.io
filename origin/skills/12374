@@ -1,0 +1,40 @@
+{
+    "chat_link": "[&BlYwAAA=]",
+    "description": "Shake, removing conditions from nearby allies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 600
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 10
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Removed",
+            "type": "Number",
+            "value": 7
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/00E1C4E70BB3CACE2074BD10AC3D6997D9CD6505/103947.png",
+    "id": 12374,
+    "name": "Cleansing Leaves",
+    "professions": [],
+    "slot": "Weapon_2",
+    "type": "Monster",
+    "weapon_type": "Hammer"
+}

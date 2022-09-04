@@ -1,0 +1,10 @@
+{
+    "description": "You can wield pistols.",
+    "icon": "https://render.guildwars2.com/file/294A3948AE67A432B462014CFC6A7F65D7C666B0/2192626.png",
+    "id": 2213,
+    "name": "Pistol Proficiency",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 64,
+    "tier": 0
+}

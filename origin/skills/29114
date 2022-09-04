@@ -1,0 +1,75 @@
+{
+    "chat_link": "[&BrpxAAA=]",
+    "cost": 10,
+    "description": "Legendary Centaur. Force energy to erupt from the tablet, knocking down nearby foes and healing nearby allies. \n\nIf this skill is empowered, knockdown duration is increased.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 2
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing Fragment",
+            "type": "AttributeAdjust",
+            "value": 985
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Number of Fragments",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Fragment Duration",
+            "type": "Time"
+        },
+        {
+            "distance": 450,
+            "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
+            "text": "Knockback",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Removed per 10 Energy",
+            "type": "Number",
+            "value": 1
+        },
+        {
+            "finisher_type": "Blast",
+            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+            "percent": 100,
+            "text": "Combo Finisher",
+            "type": "ComboFinisher"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/47F60D20E87C7A6D5B9E4E5D062F01F2793A1414/1012984.png",
+    "id": 29114,
+    "name": "Energy Expulsion",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Elite",
+    "type": "Elite",
+    "weapon_type": "None"
+}

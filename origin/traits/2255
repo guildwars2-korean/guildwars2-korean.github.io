@@ -1,0 +1,42 @@
+{
+    "description": "Grant vigor to yourself and nearby allies after dodging. Vigor has an increased effect on you.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Endurance regeneration increased by 50%; stacks duration.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+            "status": "Vigor",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Endurance regeneration increased by 50%; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+            "status": "Vigor",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 50,
+            "text": "Vigor Effectiveness Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/9F975F23435564FF56F2E3FE0AF0BBE196EDB6E8/2491536.png",
+    "id": 2255,
+    "name": "Song of Arboreum",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 69,
+    "tier": 2
+}

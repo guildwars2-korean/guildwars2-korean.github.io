@@ -1,0 +1,18 @@
+{
+    "description": "Gain condition damage when you have fury.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+            "target": "ConditionDamage",
+            "type": "AttributeAdjust",
+            "value": 180
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/CB90382E6F963E4F769616310A9916144CEEF950/1012777.png",
+    "id": 1343,
+    "name": "Deep Strikes",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 36,
+    "tier": 2
+}

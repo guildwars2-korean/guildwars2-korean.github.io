@@ -1,0 +1,57 @@
+{
+    "chat_link": "[&BuKtAAA=]",
+    "description": "Slash a foe multiple times and make them bleed.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 130
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 16
+        },
+        {
+            "dmg_multiplier": 0.2,
+            "hit_count": 2,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 4,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+            "status": "Bleeding",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Number of Hits",
+            "type": "Number",
+            "value": 2
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/D5420B910EE4DA1D2F63AEC71F4DF862E414D6E1/103515.png",
+    "id": 44514,
+    "name": "Maul",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Profession_2",
+    "specialization": 55,
+    "type": "Profession",
+    "weapon_type": "None"
+}

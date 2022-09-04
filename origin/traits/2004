@@ -1,0 +1,30 @@
+{
+    "description": "Gain concentration and your attunements gain reduced recharge.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 15,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+            "target": "BoonDuration",
+            "type": "AttributeAdjust",
+            "value": 180
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+            "target": "BoonDuration",
+            "type": "AttributeAdjust",
+            "value": 120
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/C8986CF9A927C8A003ED152702270CC62745E56D/1012293.png",
+    "id": 2004,
+    "name": "Elemental Enchantment",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 37,
+    "tier": 3
+}

@@ -1,0 +1,47 @@
+{
+    "chat_link": "[&BhczAAA=]",
+    "description": "Throw a knife at your foes, bleeding them.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        },
+        {
+            "dmg_multiplier": 0.5,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+            "status": "Poisoned",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+            "status": "Bleeding",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/6FBEBDD7435A48446D01DEC8414BAD99A2EDC3E2/104091.png",
+    "id": 13079,
+    "name": "Diving Knife",
+    "professions": [
+        "Thief"
+    ],
+    "slot": "Downed_1",
+    "type": "Weapon",
+    "weapon_type": "None"
+}

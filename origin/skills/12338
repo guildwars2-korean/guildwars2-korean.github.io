@@ -1,0 +1,62 @@
+{
+    "chat_link": "[&BjIwAAA=]",
+    "description": "Let out a battle roar, giving might and fury to nearby allies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 1200
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 35
+        },
+        {
+            "apply_count": 1,
+            "description": "Critical chance increased; stacks duration.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+            "status": "Fury",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 2,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/2B27E234B91FF71C4F20ED925CD9DBBA235771E6/103930.png",
+    "id": 12338,
+    "name": "Battle Roar",
+    "professions": [
+        "Guardian",
+        "Warrior",
+        "Engineer",
+        "Ranger",
+        "Thief",
+        "Elementalist",
+        "Mesmer",
+        "Necromancer"
+    ],
+    "slot": "Utility",
+    "toolbelt_skill": 12354,
+    "type": "Utility",
+    "weapon_type": "None"
+}

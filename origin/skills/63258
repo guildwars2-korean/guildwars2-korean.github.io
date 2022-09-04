@@ -1,0 +1,95 @@
+{
+    "chat_link": "[&Bhr3AAA=]",
+    "description": "Your pet strikes nearby enemies with vines, removing boons. Enemies that are disabled are also slowed.\nDisables include stun, daze, knock back, pull, knock down, sink, float, launch, taunt, and fear.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 15
+        },
+        {
+            "dmg_multiplier": 1.3,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "dmg_multiplier": 0.1,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Boons Removed",
+            "type": "Number",
+            "value": 2
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Boons Removed",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "apply_count": 1,
+            "description": "Skills and actions are slower.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+            "status": "Slow",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 180,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "finisher_type": "Blast",
+            "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+            "percent": 100,
+            "text": "Combo Finisher",
+            "type": "ComboFinisher"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/68D3A9D218CE4F19F0D1E1A2F20F953D103FE99A/2503726.png",
+    "id": 63258,
+    "name": "Rending Vines",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Profession_2",
+    "specialization": 72,
+    "traited_facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "overrides": 3,
+            "requires_trait": 2278,
+            "text": "Boons Converted to Conditions",
+            "type": "Number",
+            "value": 2
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "overrides": 4,
+            "requires_trait": 2278,
+            "text": "Boons Converted to Conditions",
+            "type": "Number",
+            "value": 3
+        }
+    ],
+    "type": "Profession",
+    "weapon_type": "None"
+}

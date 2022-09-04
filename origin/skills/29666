@@ -1,0 +1,83 @@
+{
+    "categories": [
+        "Shout"
+    ],
+    "chat_link": "[&BuJzAAA=]",
+    "description": "Shout. Damage foes around you, converting their boons into vulnerability. Your next few attacks become unblockable. Gain additional unblockable attacks per foe struck.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "dmg_multiplier": 2,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Boons Removed",
+            "type": "Number",
+            "value": 2
+        },
+        {
+            "apply_count": 5,
+            "description": "Your attacks are unblockable",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/BD6C4CEEC95711F20FC62A4CA310C5A6574F9664/2261523.png",
+            "status": "Unblockable",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 2,
+            "description": "Your attacks are unblockable",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/BD6C4CEEC95711F20FC62A4CA310C5A6574F9664/2261523.png",
+            "status": "Unblockable",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
+            "text": "Unblockable",
+            "type": "NoData"
+        },
+        {
+            "apply_count": 6,
+            "description": "Damage and condition damage taken are increased; stacks intensity.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+            "status": "Vulnerability",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/E45F03C3E0CDAD2FA832383105C5E8E2E5EFFDC3/1012939.png",
+    "id": 29666,
+    "name": "\"Nothing Can Save You!\"",
+    "professions": [
+        "Necromancer"
+    ],
+    "slot": "Utility",
+    "specialization": 34,
+    "type": "Utility",
+    "weapon_type": "None"
+}

@@ -1,0 +1,21 @@
+{
+    "description": "Gain protection when you enter or exit stealth. <c=@reminder>This effect also applies to stealth you grant to allies.</c>",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Incoming strike damage decreased by 33%; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+            "status": "Protection",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/5DD2D1EEAD47B80C375190F9183D0C010FF714EA/1012756.png",
+    "id": 1134,
+    "name": "Cover of Shadow",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 20,
+    "tier": 3
+}

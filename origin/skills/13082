@@ -1,0 +1,43 @@
+{
+    "categories": [
+        "Deception"
+    ],
+    "chat_link": "[&BhozAAA=]",
+    "description": "Deception. Call more thieves to support you in combat.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 120
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Number of Thieves",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "duration": 30,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "duration": 24,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/C314B19D687453E02BC5B5BB4137903A12267AF1/104093.png",
+    "id": 13082,
+    "name": "Thieves Guild",
+    "professions": [
+        "Thief"
+    ],
+    "slot": "Elite",
+    "type": "Elite",
+    "weapon_type": "None"
+}

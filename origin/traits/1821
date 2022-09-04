@@ -1,0 +1,34 @@
+{
+    "description": "Gain healing power. Gain concentration based on a portion of your healing power.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+            "percent": 7,
+            "source": "Healing",
+            "target": "BoonDuration",
+            "text": "Attribute Conversion",
+            "type": "BuffConversion"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+            "percent": 4,
+            "source": "Healing",
+            "target": "BoonDuration",
+            "text": "Attribute Conversion",
+            "type": "BuffConversion"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
+            "target": "Healing",
+            "type": "AttributeAdjust",
+            "value": 120
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/7529573E19C6A492FC4F490026149F36DE434C59/1012713.png",
+    "id": 1821,
+    "name": "Life Attunement",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 12,
+    "tier": 2
+}

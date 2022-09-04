@@ -1,0 +1,59 @@
+{
+    "chat_link": "[&BoZpAAA=]",
+    "description": "Legendary Dragon. Facet. Place the Facet of Elements on yourself to grant nearby allies swiftness every few seconds.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Pulse swiftness to nearby allies every few seconds.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/C1EC3E559DFB120A41FD3750DABD616BBA9172F9/1013012.png",
+            "status": "Facet of Elements",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed increased by 33%; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+            "status": "Swiftness",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/C1EC3E559DFB120A41FD3750DABD616BBA9172F9/1013012.png",
+    "id": 27014,
+    "name": "Facet of Elements",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Utility",
+    "specialization": 52,
+    "type": "Utility",
+    "weapon_type": "None"
+}

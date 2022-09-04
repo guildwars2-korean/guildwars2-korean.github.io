@@ -1,0 +1,59 @@
+{
+    "categories": [
+        "Clone"
+    ],
+    "chat_link": "[&Br0nAAA=]",
+    "description": "Clone. Summon an illusion that leaps at your target, crippling them. After the initial leap, the clone will execute the Mind Slash sword chain.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 600
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 12
+        },
+        {
+            "dmg_multiplier": 0.003,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 50%; stacks duration.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+            "status": "Crippled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 2,
+            "description": "Damage and condition damage taken are increased; stacks intensity.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+            "status": "Vulnerability",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "flip_skill": 10337,
+    "icon": "https://render.guildwars2.com/file/D7202F9A1D73AAF4D478B892BDEE017AAFA93EFB/103722.png",
+    "id": 10173,
+    "name": "Illusionary Leap",
+    "professions": [
+        "Mesmer"
+    ],
+    "slot": "Weapon_3",
+    "type": "Weapon",
+    "weapon_type": "Sword"
+}

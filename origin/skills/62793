@@ -1,0 +1,70 @@
+{
+    "chat_link": "[&Bkn1AAA=]",
+    "cost": 20,
+    "description": "Legendary Alliance. Grant regeneration and cleanse conditions from allies in the targeted area, healing them for each condition removed. Gain endurance for each affected ally, and gain additional endurance for each condition removed.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 3
+        },
+        {
+            "apply_count": 1,
+            "description": "Gain health every second; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+            "status": "Regeneration",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Removed",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Removed",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing per Condition",
+            "type": "AttributeAdjust",
+            "value": 709
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Endurance per Ally",
+            "type": "Number",
+            "value": 2
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Endurance per Condition",
+            "type": "Number",
+            "value": 2
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1E0A36E2061E093D6F1769C11A1709E02AD10C0A/2491623.png",
+    "id": 62793,
+    "name": "Tree Song",
+    "professions": [
+        "Revenant"
+    ],
+    "slot": "Utility",
+    "specialization": 69,
+    "type": "Utility",
+    "weapon_type": "None"
+}

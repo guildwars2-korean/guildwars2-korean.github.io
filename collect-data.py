@@ -4,9 +4,11 @@ import json
 import os
 
 
+num_of_processes = 32
+
+base_dir = 'origin'
 base_url = 'http://api.guildwars2.com'
 api_v2_url = '{}/v2'.format(base_url)
-num_of_processes = 32
 
 def main():
     resources = [
@@ -15,14 +17,13 @@ def main():
     ]
 
     save_resources(resources)
-    return
 
     for resource in resources:
         save_resource_from_api(resource)
 
 def save_resources(resources):
-    resources_file_name = './api/index.html'
-    create_dir('./api')
+    resources_file_name = './{}/index.html'.format(base_dir)
+    create_dir('./{}'.format(base_dir))
     with open(resources_file_name, 'w') as f:
         json.dump(resources, f, indent=4, sort_keys=True)
         print('[Info] Saved : {}'.format(resources_file_name))
@@ -39,8 +40,8 @@ def save_resource_from_api(resource):
     p.map(save_item_from_api, params)
 
 def save_resource_with_ids(resource, item_ids):
-    resource_file_name = './api/{}/index.html'.format(resource)
-    create_dir('./api/{}'.format(resource))
+    resource_file_name = './{}/{}/index.html'.format(base_dir, resource)
+    create_dir('./{}/{}'.format(base_dir, resource))
     with open(resource_file_name, 'w') as f:
         json.dump(item_ids, f, indent=4, sort_keys=True)
         print('[Info] Saved : {}'.format(resource_file_name))
@@ -48,7 +49,7 @@ def save_resource_with_ids(resource, item_ids):
 def save_item_from_api(param):
     resource = param[0]
     item_id = param[1]
-    file_name = './api/{}/{}'.format(resource, item_id)
+    file_name = './{}/{}/{}'.format(base_dir, resource, item_id)
 
     if is_valid_file(file_name):
         print('[info] Skip : {}'.format(file_name))
@@ -71,7 +72,7 @@ def save_json(file_name, data):
         json.dump(data, f, indent=4, sort_keys=True)
 
 def save_item_with_id_by_resource(resource, item, id):
-    dir_name = './api/{}'.format(resource)
+    dir_name = './{}/{}'.format(base_dir, resource)
     file_name = '{}/{}'.format(dir_name, id)
     create_dir(dir_name)
     save_json(file_name, item)

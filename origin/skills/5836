@@ -1,0 +1,82 @@
+{
+    "categories": [
+        "Turret"
+    ],
+    "chat_link": "[&BswWAAA=]",
+    "description": "Turret. Deploy a turret that burns foes. This turret overcharges when it is first placed.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "dmg_multiplier": 0.2,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+            "status": "Burning",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Rate of Fire",
+            "type": "Time"
+        },
+        {
+            "distance": 500,
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Attack Range",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "flip_skill": 5900,
+    "icon": "https://render.guildwars2.com/file/C2E712121CA0F846441EB380A89351EB55D47C79/103410.png",
+    "id": 5836,
+    "name": "Flame Turret",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Utility",
+    "toolbelt_skill": 6181,
+    "traited_facts": [
+        {
+            "apply_count": 3,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "requires_trait": 1678,
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "requires_trait": 1678,
+            "text": "Boon Application Interval",
+            "type": "Time"
+        }
+    ],
+    "type": "Utility",
+    "weapon_type": "None"
+}

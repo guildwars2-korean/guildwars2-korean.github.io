@@ -1,0 +1,50 @@
+{
+    "chat_link": "[&BrSjAAA=]",
+    "description": "Launch your foe backward with mighty wing beats.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 240
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 25
+        },
+        {
+            "dmg_multiplier": 0.3,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "distance": 300,
+            "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
+            "text": "Knockback",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/92D7CB40ACE0A9061DD8F5722327E4F515BFCE35/1128618.png",
+    "id": 41908,
+    "name": "Wing Buffet",
+    "professions": [
+        "Ranger"
+    ],
+    "slot": "Profession_2",
+    "specialization": 55,
+    "type": "Profession",
+    "weapon_type": "None"
+}

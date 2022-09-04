@@ -1,0 +1,16 @@
+{
+    "chat_link": "[&BqwHAQA=]",
+    "description": "Mai Trin lunges forward to deliver a crippling thrust with her rapier.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 300
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/6598D9F0150FDF9F77A24CCC060C07C15B7B060D/103168.png",
+    "id": 67500,
+    "name": "Crippling Strike"
+}

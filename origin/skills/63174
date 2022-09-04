@@ -1,0 +1,72 @@
+{
+    "chat_link": "[&Bsb2AAA=]",
+    "description": "Smash your target with a final heavy strike, inflicting additional confusion. You, your mech, and allies near you gain barrier.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 130
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+            "target": "Healing",
+            "text": "Barrier",
+            "type": "AttributeAdjust",
+            "value": 261
+        },
+        {
+            "apply_count": 3,
+            "description": "Damage received on skill activation; stacks intensity.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+            "status": "Confusion",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "dmg_multiplier": 1.4,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Barrier Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Barrier Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
+            "text": "Explosion",
+            "type": "NoData"
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/FE1439232977E061A7E67A72C058B162ED426057/2503672.png",
+    "id": 63174,
+    "name": "Barrier Blast",
+    "prev_chain": 63077,
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Weapon_1",
+    "specialization": 70,
+    "type": "Weapon",
+    "weapon_type": "Mace"
+}

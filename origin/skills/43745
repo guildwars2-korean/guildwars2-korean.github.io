@@ -1,0 +1,75 @@
+{
+    "categories": [
+        "Meditation"
+    ],
+    "chat_link": "[&BuGqAAA=]",
+    "description": "Meditation. Reveal nearby foes and make your next attack a critical hit. Remove blindness.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 1
+        },
+        {
+            "apply_count": 1,
+            "description": "Your next attack is a critical hit.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/B52152CBC82E492696D90460090366D7EC31022C/1770666.png",
+            "status": "Sight beyond Sight",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "apply_count": 1,
+            "description": "You cannot stealth",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/62BFF65D1CE99B1B2B0928152BCC596EAC0D372B/102887.png",
+            "status": "Revealed",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "description": "Next outgoing attack misses; stacks duration.",
+            "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+            "status": "Blinded",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+            "text": "Maximum Count",
+            "type": "Number",
+            "value": 2
+        },
+        {
+            "duration": 20,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "text": "Count Recharge",
+            "type": "Time"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/B52152CBC82E492696D90460090366D7EC31022C/1770666.png",
+    "id": 43745,
+    "name": "Sight beyond Sight",
+    "professions": [
+        "Warrior"
+    ],
+    "slot": "Utility",
+    "specialization": 61,
+    "type": "Utility",
+    "weapon_type": "None"
+}

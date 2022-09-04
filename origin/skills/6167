@@ -1,0 +1,83 @@
+{
+    "chat_link": "[&BhcYAAA=]",
+    "description": "Throw several grenades that explode in poisonous blasts.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 900
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 25
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Unblockable",
+            "type": "Unblockable",
+            "value": true
+        },
+        {
+            "dmg_multiplier": 0.5,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 3,
+            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+            "status": "Poisoned",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Grenades",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "distance": 120,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
+            "text": "Explosion",
+            "type": "NoData"
+        },
+        {
+            "field_type": "Poison",
+            "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+            "text": "Combo Field",
+            "type": "ComboField"
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/D7236B1D9176DBEEA8C4570AE04965E902B14502/103172.png",
+    "id": 6167,
+    "name": "Poison Grenade",
+    "professions": [
+        "Engineer"
+    ],
+    "slot": "Weapon_5",
+    "traited_facts": [
+        {
+            "distance": 180,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "overrides": 6,
+            "requires_trait": 514,
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "type": "Bundle",
+    "weapon_type": "None"
+}

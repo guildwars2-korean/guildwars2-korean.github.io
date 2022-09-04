@@ -1,0 +1,59 @@
+{
+    "chat_link": "[&BvMyAAA=]",
+    "description": "Detonate your cluster bomb in midair.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 1
+        },
+        {
+            "dmg_multiplier": 0.5,
+            "hit_count": 4,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Small Explosion",
+            "type": "Damage"
+        },
+        {
+            "dmg_multiplier": 0.375,
+            "hit_count": 4,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Small Explosion",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 4,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+            "status": "Bleeding",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Maximum Targets per Impact",
+            "type": "Number",
+            "value": 3
+        }
+    ],
+    "flags": [
+        "NoUnderwater"
+    ],
+    "icon": "https://render.guildwars2.com/file/4C047ECABFFD7DC2D40E76734B552DED1BCC19BE/104075.png",
+    "id": 13043,
+    "name": "Detonate Cluster",
+    "professions": [
+        "Thief"
+    ],
+    "slot": "Weapon_2",
+    "type": "Weapon",
+    "weapon_type": "Shortbow"
+}

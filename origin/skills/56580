@@ -1,0 +1,16 @@
+{
+    "chat_link": "[&BgTdAAA=]",
+    "description": "Bombards random allies with boulders that can be blocked by pillars. Boulders will damage the pillars.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 5000
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+    "id": 56580,
+    "name": "Boulder Barrage"
+}

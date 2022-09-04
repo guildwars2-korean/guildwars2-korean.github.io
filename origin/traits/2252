@@ -1,0 +1,36 @@
+{
+    "description": "Gain Elemental Empowerment and might when you disable or immobilize a foe.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 0.25
+        },
+        {
+            "apply_count": 2,
+            "description": "Gain attribute increases while in combat.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/C3B3C99943ECABFAA936573030C599EE2A974420/2491529.png",
+            "status": "Elemental Empowerment",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 2,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/F5AD2F77BC2920E35E04D3026ED4B07C94B1734D/2491520.png",
+    "id": 2252,
+    "name": "Vicious Empowerment",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 67,
+    "tier": 1
+}

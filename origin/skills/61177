@@ -1,0 +1,16 @@
+{
+    "chat_link": "[&BvnuAAA=]",
+    "description": "A bolt of aquatic energy damages anything in its path.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+            "text": "Range",
+            "type": "Range",
+            "value": 3000
+        }
+    ],
+    "flags": [],
+    "icon": "https://render.guildwars2.com/file/C201170E43B8C805BC0795FD3B08B703E530B677/2156524.png",
+    "id": 61177,
+    "name": "Torrential Bolt"
+}

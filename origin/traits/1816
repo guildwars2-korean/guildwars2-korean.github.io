@@ -1,0 +1,36 @@
+{
+    "description": "The end of your dodge roll heals nearby allies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 197
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Combat Only",
+            "type": "NoData"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/1CF0A1D20DF765AC21B31A5AB6E7305073A851DB/2128017.png",
+    "id": 1816,
+    "name": "Healer's Gift",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 12,
+    "tier": 1
+}
