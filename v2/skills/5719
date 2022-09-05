@@ -24,7 +24,7 @@
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(세기 중첩).",
+                "description": "매초 데미지를 준다(강도 중첩).",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                 "status": "화상",
@@ -69,7 +69,7 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(세기 중첩).",
+                "description": "매초 데미지를 준다(강도 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                 "overrides": 3,

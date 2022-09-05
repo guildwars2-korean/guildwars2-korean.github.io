@@ -34,7 +34,7 @@
             },
             {
                 "apply_count": 3,
-                "description": "스킬 시전시 데미지를 받는다(세기 중첩).",
+                "description": "스킬 시전시 데미지를 받는다(강도 중첩).",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
                 "status": "혼란",
@@ -43,7 +43,7 @@
             },
             {
                 "apply_count": 3,
-                "description": "스킬 시전시 데미지를 받는다(세기 중첩).",
+                "description": "스킬 시전시 데미지를 받는다(강도 중첩).",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
                 "status": "혼란",

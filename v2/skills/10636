@@ -69,7 +69,7 @@
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(세기 중첩).",
+                "description": "매초 데미지를 준다(강도 중첩).",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
                 "requires_trait": 1376,

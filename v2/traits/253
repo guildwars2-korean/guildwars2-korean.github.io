@@ -16,7 +16,7 @@
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(세기 중첩).",
+                "description": "매초 데미지를 준다(강도 중첩).",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                 "prefix": {
@@ -31,7 +31,7 @@
             },
             {
                 "apply_count": 1,
-                "description": "받는 데미지가 증가한다(세기 중첩).",
+                "description": "받는 데미지가 증가한다(강도 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
                 "prefix": {
@@ -61,7 +61,7 @@
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(세기 중첩).",
+                "description": "매초 데미지를 준다(강도 중첩).",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
                 "prefix": {

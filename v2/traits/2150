@@ -137,7 +137,7 @@
                     },
                     {
                         "apply_count": 2,
-                        "description": "데미지가 증가한다(세기 중첩).",
+                        "description": "데미지가 증가한다(강도 중첩).",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                         "status": "마이트",
@@ -146,7 +146,7 @@
                     },
                     {
                         "apply_count": 2,
-                        "description": "받는 데미지가 증가한다(세기 중첩).",
+                        "description": "받는 데미지가 증가한다(강도 중첩).",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
                         "status": "취약",
@@ -184,7 +184,7 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "스킬 시전시 데미지를 받는다(세기 중첩).",
+                        "description": "스킬 시전시 데미지를 받는다(강도 중첩).",
                         "duration": 4,
                         "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
                         "status": "혼란",
@@ -193,7 +193,7 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "스킬 시전시 데미지를 받는다(세기 중첩).",
+                        "description": "스킬 시전시 데미지를 받는다(강도 중첩).",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
                         "status": "혼란",
@@ -262,7 +262,7 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "받는 데미지가 증가한다(세기 중첩).",
+                        "description": "받는 데미지가 증가한다(강도 중첩).",
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
                         "status": "취약",
@@ -309,7 +309,7 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "매초 데미지를 준다(세기 중첩).",
+                        "description": "매초 데미지를 준다(강도 중첩).",
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
                         "status": "출혈",
@@ -318,7 +318,7 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "스킬 시전시 데미지를 받는다(세기 중첩).",
+                        "description": "스킬 시전시 데미지를 받는다(강도 중첩).",
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
                         "status": "혼란",
@@ -327,7 +327,7 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "스킬 시전시 데미지를 받는다(세기 중첩).",
+                        "description": "스킬 시전시 데미지를 받는다(강도 중첩).",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
                         "status": "혼란",
@@ -351,7 +351,7 @@
                     },
                     {
                         "apply_count": 8,
-                        "description": "데미지가 증가한다(세기 중첩).",
+                        "description": "데미지가 증가한다(강도 중첩).",
                         "duration": 15,
                         "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                         "status": "마이트",
@@ -437,7 +437,7 @@
                     },
                     {
                         "apply_count": 2,
-                        "description": "스킬 시전시 데미지를 받는다(세기 중첩).",
+                        "description": "스킬 시전시 데미지를 받는다(강도 중첩).",
                         "duration": 4,
                         "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
                         "status": "혼란",

@@ -14,7 +14,7 @@
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(세기 중첩).",
+                "description": "매초 데미지를 준다(강도 중첩).",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                 "status": "화상",
@@ -23,7 +23,7 @@
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(세기 중첩).",
+                "description": "매초 데미지를 준다(강도 중첩).",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                 "status": "화상",
@@ -32,7 +32,7 @@
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(세기 중첩).",
+                "description": "매초 데미지를 준다(강도 중첩).",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                 "status": "화상",
@@ -70,7 +70,7 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(세기 중첩).",
+                "description": "매초 데미지를 준다(강도 중첩).",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                 "overrides": 1,
@@ -81,7 +81,7 @@
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(세기 중첩).",
+                "description": "매초 데미지를 준다(강도 중첩).",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                 "overrides": 2,
@@ -92,7 +92,7 @@
             },
             {
                 "apply_count": 3,
-                "description": "데미지가 증가한다(세기 중첩).",
+                "description": "데미지가 증가한다(강도 중첩).",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "requires_trait": 621,

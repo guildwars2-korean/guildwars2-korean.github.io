@@ -14,7 +14,7 @@
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
                 "prefix": {
-                    "description": "매초 데미지를 준다(세기 중첩).",
+                    "description": "매초 데미지를 준다(강도 중첩).",
                     "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
                     "status": "출혈",
                     "text": "Apply Buff/Condition"
@@ -44,7 +44,7 @@
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
                 "prefix": {
-                    "description": "매초 데미지를 준다(세기 중첩).",
+                    "description": "매초 데미지를 준다(강도 중첩).",
                     "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                     "status": "화상",
                     "text": "Apply Buff/Condition"
@@ -74,7 +74,7 @@
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
                 "prefix": {
-                    "description": "스킬 시전시 데미지를 받는다(세기 중첩).",
+                    "description": "스킬 시전시 데미지를 받는다(강도 중첩).",
                     "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
                     "status": "혼란",
                     "text": "Apply Buff/Condition"
@@ -175,7 +175,7 @@
             },
             {
                 "apply_count": 3,
-                "description": "데미지가 증가한다(세기 중첩).",
+                "description": "데미지가 증가한다(강도 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "prefix": {
@@ -194,7 +194,7 @@
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
                 "prefix": {
-                    "description": "받는 데미지가 증가한다(세기 중첩).",
+                    "description": "받는 데미지가 증가한다(강도 중첩).",
                     "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
                     "status": "취약",
                     "text": "Apply Buff/Condition"
@@ -205,7 +205,7 @@
             },
             {
                 "apply_count": 3,
-                "description": "데미지가 증가한다(세기 중첩).",
+                "description": "데미지가 증가한다(강도 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "prefix": {

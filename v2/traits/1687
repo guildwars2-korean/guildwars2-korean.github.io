@@ -4,7 +4,7 @@
         "facts": [
             {
                 "apply_count": 5,
-                "description": "데미지가 증가한다(세기 중첩).",
+                "description": "데미지가 증가한다(강도 중첩).",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "prefix": {
@@ -19,7 +19,7 @@
             },
             {
                 "apply_count": 3,
-                "description": "데미지가 증가한다(세기 중첩).",
+                "description": "데미지가 증가한다(강도 중첩).",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "prefix": {
@@ -106,7 +106,7 @@
         "traited_facts": [
             {
                 "apply_count": 5,
-                "description": "데미지가 증가한다(세기 중첩).",
+                "description": "데미지가 증가한다(강도 중첩).",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "overrides": 0,
@@ -123,7 +123,7 @@
             },
             {
                 "apply_count": 5,
-                "description": "데미지가 증가한다(세기 중첩).",
+                "description": "데미지가 증가한다(강도 중첩).",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "overrides": 0,
@@ -140,7 +140,7 @@
             },
             {
                 "apply_count": 3,
-                "description": "데미지가 증가한다(세기 중첩).",
+                "description": "데미지가 증가한다(강도 중첩).",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "overrides": 1,
@@ -157,7 +157,7 @@
             },
             {
                 "apply_count": 3,
-                "description": "데미지가 증가한다(세기 중첩).",
+                "description": "데미지가 증가한다(강도 중첩).",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "overrides": 1,
