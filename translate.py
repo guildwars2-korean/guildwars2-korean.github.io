@@ -3,19 +3,16 @@ from multiprocessing import Pool
 import json
 import os
 
+from dictionary import DICTIONARY_FOR_TRANSLATION
+
 
 num_of_processes = 32
 
 origin_dir_name = 'origin'
 translated_dir_name = 'v2'
 ignore_file_name = 'index.html'
-dictionary_file_name = 'dictionary.json'
 
-def get_dictionary():
-    with open('./{}'.format(dictionary_file_name), 'r', encoding='UTF-8') as f:
-        return json.load(f)
-
-dictionary_for_translation = get_dictionary()
+dictionary_for_translation = DICTIONARY_FOR_TRANSLATION
 
 def main():
     translated_dir = './{}'.format(translated_dir_name)
@@ -56,7 +53,7 @@ def translate_item(param):
 def get_custom_transalted_text(origin_text, dictionary):
     copied_text = copy.deepcopy(origin_text)
     for k, v in dictionary.items():
-        copied_text = copied_text.replace('\"{}\"'.format(k), '\"{}\"'.format(v))
+        copied_text = copied_text.replace('{}'.format(k), '{}'.format(v))
     return copied_text
 
 def read_item(item_path):
