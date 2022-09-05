@@ -5,7 +5,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
                 "percent": 7,
-                "source": "힐링",
+                "source": "Healing",
                 "target": "BoonDuration",
                 "text": "Attribute Conversion",
                 "type": "BuffConversion"
@@ -13,14 +13,14 @@
             {
                 "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
                 "percent": 4,
-                "source": "힐링",
+                "source": "Healing",
                 "target": "BoonDuration",
                 "text": "Attribute Conversion",
                 "type": "BuffConversion"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
-                "target": "힐링",
+                "target": "Healing",
                 "type": "AttributeAdjust",
                 "value": 120
             }

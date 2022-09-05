@@ -4,8 +4,8 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "힐링",
-                "text": "힐링",
+                "target": "Healing",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 292
             },
@@ -47,15 +47,15 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "힐링",
-                "text": "힐링",
+                "target": "Healing",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 292
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "힐링",
-                "text": "힐링",
+                "target": "Healing",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 292
             }
@@ -80,8 +80,8 @@
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "overrides": 7,
                 "requires_trait": 2147,
-                "target": "힐링",
-                "text": "힐링",
+                "target": "Healing",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 204
             },
@@ -89,8 +89,8 @@
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "overrides": 8,
                 "requires_trait": 2147,
-                "target": "힐링",
-                "text": "힐링",
+                "target": "Healing",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 204
             }

@@ -4,22 +4,22 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "힐링",
-                "text": "힐링",
+                "target": "Healing",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 1000
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "힐링",
-                "text": "힐링",
+                "target": "Healing",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 1000
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "힐링",
-                "text": "힐링",
+                "target": "Healing",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 1000
             },
@@ -39,7 +39,7 @@
                 "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
                 "percent": 13,
                 "source": "Power",
-                "target": "힐링",
+                "target": "Healing",
                 "text": "Attribute Conversion",
                 "type": "BuffConversion"
             }

@@ -37,8 +37,8 @@
                         "dmg_multiplier": 1.25,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
-                        "type": "데미지"
+                        "text": "Damage",
+                        "type": "Damage"
                     },
                     {
                         "distance": 1200,
@@ -228,8 +228,8 @@
                         "dmg_multiplier": 3,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
-                        "type": "데미지"
+                        "text": "Damage",
+                        "type": "Damage"
                     },
                     {
                         "duration": 2,
@@ -391,8 +391,8 @@
                         "dmg_multiplier": 1.25,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
-                        "type": "데미지"
+                        "text": "Damage",
+                        "type": "Damage"
                     },
                     {
                         "distance": 600,
@@ -511,15 +511,15 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                        "target": "힐링",
+                        "target": "Healing",
                         "text": "Healing when lethal damage taken",
                         "type": "AttributeAdjust",
                         "value": 12280
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                        "target": "힐링",
-                        "text": "힐링",
+                        "target": "Healing",
+                        "text": "Healing",
                         "type": "AttributeAdjust",
                         "value": 4344
                     },

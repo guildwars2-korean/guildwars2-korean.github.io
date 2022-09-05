@@ -38,7 +38,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
-                        "target": "힐링",
+                        "target": "Healing",
                         "text": "보호막",
                         "type": "AttributeAdjust",
                         "value": 3000

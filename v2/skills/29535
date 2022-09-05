@@ -14,21 +14,21 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "힐링",
+                "target": "Healing",
                 "text": "First Heal",
                 "type": "AttributeAdjust",
                 "value": 2344
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "힐링",
+                "target": "Healing",
                 "text": "Second Heal",
                 "type": "AttributeAdjust",
                 "value": 1310
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "힐링",
+                "target": "Healing",
                 "text": "Third Heal",
                 "type": "AttributeAdjust",
                 "value": 660

@@ -37,8 +37,8 @@
                 "dmg_multiplier": 0.85,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
-                "type": "데미지"
+                "text": "Damage",
+                "type": "Damage"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -63,7 +63,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
-                "target": "힐링",
+                "target": "Healing",
                 "text": "보호막",
                 "type": "AttributeAdjust",
                 "value": 1487

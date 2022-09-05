@@ -23,14 +23,14 @@
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Phantasm Damage",
-                "type": "데미지"
+                "type": "Damage"
             },
             {
                 "dmg_multiplier": 0.5,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Sword Strike Damage",
-                "type": "데미지"
+                "type": "Damage"
             },
             {
                 "apply_count": 8,
@@ -61,7 +61,7 @@
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Phantasm Damage",
-                "type": "데미지"
+                "type": "Damage"
             },
             {
                 "finisher_type": "Leap",
@@ -89,7 +89,7 @@
                 "overrides": 2,
                 "requires_trait": 682,
                 "text": "Phantasm Damage",
-                "type": "데미지"
+                "type": "Damage"
             },
             {
                 "dmg_multiplier": 0.4025,
@@ -98,7 +98,7 @@
                 "overrides": 7,
                 "requires_trait": 682,
                 "text": "Phantasm Damage",
-                "type": "데미지"
+                "type": "Damage"
             }
         ],
         "type": "Weapon",

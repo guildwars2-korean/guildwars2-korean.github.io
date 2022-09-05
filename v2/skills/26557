@@ -17,13 +17,13 @@
                 "dmg_multiplier": 0.2,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
-                "type": "데미지"
+                "text": "Damage",
+                "type": "Damage"
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "힐링",
-                "text": "힐링",
+                "target": "Healing",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 53
             },

@@ -17,7 +17,7 @@
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Explosion Damage",
-                "type": "데미지"
+                "type": "Damage"
             },
             {
                 "distance": 240,
@@ -30,7 +30,7 @@
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Minion Damage",
-                "type": "데미지"
+                "type": "Damage"
             },
             {
                 "duration": 1,
@@ -65,7 +65,7 @@
                 "overrides": 3,
                 "requires_trait": 858,
                 "text": "Minion Damage",
-                "type": "데미지"
+                "type": "Damage"
             },
             {
                 "apply_count": 1,

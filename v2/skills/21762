@@ -27,7 +27,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "target": "힐링",
+                "target": "Healing",
                 "text": "Passive Life-Siphon Healing",
                 "type": "AttributeAdjust",
                 "value": 195
@@ -40,7 +40,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "힐링",
+                "target": "Healing",
                 "text": "Initial Self Heal",
                 "type": "AttributeAdjust",
                 "value": 4950
@@ -63,7 +63,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "target": "힐링",
+                "target": "Healing",
                 "text": "Active Life Siphon Heal",
                 "type": "AttributeAdjust",
                 "value": 470

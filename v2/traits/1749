@@ -21,8 +21,8 @@
                         "dmg_multiplier": 0.93,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
-                        "type": "데미지"
+                        "text": "Damage",
+                        "type": "Damage"
                     },
                     {
                         "distance": 240,
@@ -77,8 +77,8 @@
                         "dmg_multiplier": 0.75,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
-                        "type": "데미지"
+                        "text": "Damage",
+                        "type": "Damage"
                     },
                     {
                         "distance": 240,
@@ -94,14 +94,14 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
-                        "target": "힐링",
+                        "target": "Healing",
                         "text": "Initial Barrier",
                         "type": "AttributeAdjust",
                         "value": 1012
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
-                        "target": "힐링",
+                        "target": "Healing",
                         "text": "Barrier per Hit",
                         "type": "AttributeAdjust",
                         "value": 586
@@ -129,8 +129,8 @@
                         "dmg_multiplier": 0.9,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
-                        "type": "데미지"
+                        "text": "Damage",
+                        "type": "Damage"
                     },
                     {
                         "distance": 240,
@@ -183,8 +183,8 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                        "target": "힐링",
-                        "text": "힐링",
+                        "target": "Healing",
+                        "text": "Healing",
                         "type": "AttributeAdjust",
                         "value": 1940
                     },
@@ -214,8 +214,8 @@
                         "dmg_multiplier": 0.75,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
-                        "type": "데미지"
+                        "text": "Damage",
+                        "type": "Damage"
                     },
                     {
                         "distance": 240,
@@ -261,8 +261,8 @@
                         "dmg_multiplier": 0.5,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
-                        "type": "데미지"
+                        "text": "Damage",
+                        "type": "Damage"
                     },
                     {
                         "distance": 240,
@@ -350,8 +350,8 @@
                         "dmg_multiplier": 0.93,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
-                        "type": "데미지"
+                        "text": "Damage",
+                        "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

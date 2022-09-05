@@ -22,15 +22,15 @@
                 "dmg_multiplier": 0.2,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
-                "type": "데미지"
+                "text": "Damage",
+                "type": "Damage"
             },
             {
                 "dmg_multiplier": 0.45,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
-                "type": "데미지"
+                "text": "Damage",
+                "type": "Damage"
             },
             {
                 "apply_count": 1,

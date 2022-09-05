@@ -19,15 +19,15 @@
                 "dmg_multiplier": 0.35,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
-                "type": "데미지"
+                "text": "Damage",
+                "type": "Damage"
             },
             {
                 "dmg_multiplier": 0.5,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Final Strike Damage",
-                "type": "데미지"
+                "type": "Damage"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
@@ -51,8 +51,8 @@
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "overrides": 2,
                 "requires_trait": 1338,
-                "text": "데미지",
-                "type": "데미지"
+                "text": "Damage",
+                "type": "Damage"
             },
             {
                 "dmg_multiplier": 0.55,
@@ -61,7 +61,7 @@
                 "overrides": 3,
                 "requires_trait": 1338,
                 "text": "Final Strike Damage",
-                "type": "데미지"
+                "type": "Damage"
             }
         ],
         "type": "Weapon",

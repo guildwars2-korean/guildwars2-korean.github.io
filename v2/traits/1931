@@ -9,21 +9,21 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
-                "target": "힐링",
+                "target": "Healing",
                 "text": "Healing Power above 75% Health",
                 "type": "AttributeAdjust",
                 "value": 150
             },
             {
                 "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
-                "target": "힐링",
+                "target": "Healing",
                 "text": "Healing Power below 75% Health",
                 "type": "AttributeAdjust",
                 "value": 300
             },
             {
                 "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
-                "target": "힐링",
+                "target": "Healing",
                 "text": "Healing Power below 50% Health",
                 "type": "AttributeAdjust",
                 "value": 450

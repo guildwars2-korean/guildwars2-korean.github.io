@@ -14,7 +14,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "힐링",
+                "target": "Healing",
                 "text": "Passive Healing",
                 "type": "AttributeAdjust",
                 "value": 202
@@ -32,14 +32,14 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "힐링",
+                "target": "Healing",
                 "text": "Active Heal Pulse",
                 "type": "AttributeAdjust",
                 "value": 650
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "힐링",
+                "target": "Healing",
                 "text": "Final Heal Pulse",
                 "type": "AttributeAdjust",
                 "value": 3250
@@ -109,7 +109,7 @@
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "overrides": 1,
                 "requires_trait": 579,
-                "target": "힐링",
+                "target": "Healing",
                 "text": "Passive Healing",
                 "type": "AttributeAdjust",
                 "value": 240

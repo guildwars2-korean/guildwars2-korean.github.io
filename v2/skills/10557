@@ -69,7 +69,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "target": "힐링",
+                "target": "Healing",
                 "text": "Life Siphon Healing",
                 "type": "AttributeAdjust",
                 "value": 37
@@ -126,7 +126,7 @@
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "overrides": 10,
                 "requires_trait": 799,
-                "target": "힐링",
+                "target": "Healing",
                 "text": "Life Siphon Healing",
                 "type": "AttributeAdjust",
                 "value": 55

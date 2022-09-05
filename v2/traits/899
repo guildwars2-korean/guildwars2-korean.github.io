@@ -35,56 +35,56 @@
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "text": "Damage—Three Boons",
-                        "type": "데미지"
+                        "type": "Damage"
                     },
                     {
                         "dmg_multiplier": 1.5,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "text": "Damage—Two Boons",
-                        "type": "데미지"
+                        "type": "Damage"
                     },
                     {
                         "dmg_multiplier": 0.9,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "text": "Damage—One Boon",
-                        "type": "데미지"
+                        "type": "Damage"
                     },
                     {
                         "dmg_multiplier": 0.6,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "text": "Damage—No Boons",
-                        "type": "데미지"
+                        "type": "Damage"
                     },
                     {
                         "dmg_multiplier": 0.105,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "text": "Damage—Three Boons",
-                        "type": "데미지"
+                        "type": "Damage"
                     },
                     {
                         "dmg_multiplier": 0.075,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "text": "Damage—Two Boons",
-                        "type": "데미지"
+                        "type": "Damage"
                     },
                     {
                         "dmg_multiplier": 0.045,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "text": "Damage—One Boon",
-                        "type": "데미지"
+                        "type": "Damage"
                     },
                     {
                         "dmg_multiplier": 0.03,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "text": "Damage—No Boons",
-                        "type": "데미지"
+                        "type": "Damage"
                     },
                     {
                         "apply_count": 1,

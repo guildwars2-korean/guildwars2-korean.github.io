@@ -8,14 +8,14 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "힐링",
+                "target": "Healing",
                 "text": "Impact Heal",
                 "type": "AttributeAdjust",
                 "value": 700
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "힐링",
+                "target": "Healing",
                 "text": "Pulse Heal",
                 "type": "AttributeAdjust",
                 "value": 204
