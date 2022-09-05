@@ -5,26 +5,26 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 4,
-                "text": "퍼센트",
-                "type": "퍼센트"
+                "text": "Percent",
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 6,
                 "text": "Healing with Fury",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 10,
-                "text": "퍼센트",
-                "type": "퍼센트"
+                "text": "Percent",
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 20,
                 "text": "Healing with Fury",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/B858D55DB13298D4AD42ECD808B2D94FE80BF9AD/1012734.png",

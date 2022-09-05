@@ -6,13 +6,13 @@
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 15,
                 "text": "크리티컬 확률 증가",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 10,
                 "text": "크리티컬 확률 증가",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/4E47135C80F9315B0EFF67B1A25331E4BAB60D7E/1012364.png",

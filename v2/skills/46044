@@ -30,13 +30,13 @@
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 100,
                 "text": "크리티컬 확률 증가",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 5,
                 "text": "Damage per Boon",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",

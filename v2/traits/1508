@@ -12,7 +12,7 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 75,
                 "text": "생명력 임계",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/D1014421F0E06325664204C905200002987E38C5/1012300.png",

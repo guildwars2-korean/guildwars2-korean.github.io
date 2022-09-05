@@ -12,7 +12,7 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 100,
                 "text": "효과 증가",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/D87B7B5603FCC14BC2F8B239C0522006F45ACBC1/2503648.png",

@@ -21,7 +21,7 @@
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 5,
                 "text": "Damage Reduced",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/4ED02272F05D430FECBB55DBAEBE2B3F776F3E1C/1012657.png",

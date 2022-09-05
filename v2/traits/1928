@@ -5,14 +5,14 @@
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 15,
-                "text": "데미지 증가",
-                "type": "퍼센트"
+                "text": "Damage Increase",
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 25,
-                "text": "데미지 증가",
-                "type": "퍼센트"
+                "text": "Damage Increase",
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/382002B6265A4D4F5EC305BD09484B0CEC69ACC9/1029971.png",

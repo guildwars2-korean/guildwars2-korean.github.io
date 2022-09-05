@@ -6,19 +6,19 @@
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 100,
                 "text": "Full Health Healing Conversion Rate",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 10,
                 "text": "Healing Conversion Rate",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 5,
                 "text": "Healing Conversion Rate",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

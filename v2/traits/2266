@@ -6,13 +6,13 @@
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 100,
                 "text": "Toughness and Vitality Inherited by Mech",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 50,
                 "text": "Toughness and Vitality Inherited by Mech",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/170C6CC908E405F57A20019A5BB3D113F13359E5/2503630.png",

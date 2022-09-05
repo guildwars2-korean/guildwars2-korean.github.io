@@ -57,7 +57,7 @@
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 50,
                 "text": "지속시간 증가",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/41F5AC92387E4CCAF30628E0A5FDB37FB5F50B34/1012469.png",

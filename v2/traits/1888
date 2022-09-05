@@ -18,19 +18,19 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 75,
                 "text": "생명력 임계",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 15,
                 "text": "크리티컬 확률 증가",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 10,
                 "text": "크리티컬 확률 증가",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "apply_count": 1,

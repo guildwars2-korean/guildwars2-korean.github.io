@@ -6,7 +6,7 @@
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 50,
                 "text": "지속시간 증가",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
@@ -55,19 +55,19 @@
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "percent": 8,
                         "text": "Life Force",
-                        "type": "퍼센트"
+                        "type": "Percent"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "percent": 1,
                         "text": "Life Force per Condition",
-                        "type": "퍼센트"
+                        "type": "Percent"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "percent": 2,
                         "text": "Life Force per Foe",
-                        "type": "퍼센트"
+                        "type": "Percent"
                     },
                     {
                         "apply_count": 1,

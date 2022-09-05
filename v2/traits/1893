@@ -6,7 +6,7 @@
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 5,
                 "text": "Damage per Missing Bar",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/B15E2425525CF5A3E4EAD67C4BE6B13A1B931875/1058546.png",

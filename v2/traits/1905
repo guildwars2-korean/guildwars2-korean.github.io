@@ -6,7 +6,7 @@
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 5,
                 "text": "Life Force Drain per Second",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/ECDE960B19500BC40843C89041CD0C1A3A06B05A/1012579.png",
@@ -28,13 +28,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "percent": 50,
                         "text": "Damage Reduced",
-                        "type": "퍼센트"
+                        "type": "Percent"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "percent": 33,
                         "text": "Damage Reduced",
-                        "type": "퍼센트"
+                        "type": "Percent"
                     }
                 ],
                 "flags": [],

@@ -5,8 +5,8 @@
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 15,
-                "text": "데미지 증가",
-                "type": "퍼센트"
+                "text": "Damage Increase",
+                "type": "Percent"
             },
             {
                 "apply_count": 1,
@@ -21,7 +21,7 @@
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 66,
                 "text": "지속시간 증가",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/1F0205AD3EB24521C9E8FF69340AC8091B0E556F/1012398.png",

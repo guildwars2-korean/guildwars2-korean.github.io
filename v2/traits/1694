@@ -12,13 +12,13 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 2,
                 "text": "Healing per Interval",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 1,
                 "text": "Healing per Interval",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "duration": 1,
@@ -30,7 +30,7 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 10,
                 "text": "Life Force Threshold",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/12CF34B0AED1A41319E42D51EEB699B4A21F65D8/1012566.png",
@@ -47,7 +47,7 @@
                 "percent": 25,
                 "requires_trait": 2147,
                 "text": "Life Force Threshold",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ]
     }

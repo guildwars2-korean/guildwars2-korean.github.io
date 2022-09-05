@@ -85,7 +85,7 @@
                 "percent": 3,
                 "requires_trait": 898,
                 "text": "Life Force",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",

@@ -39,7 +39,7 @@
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
                 "text": "재사용 대기시간 감소",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/7AC201ED19C00351CF647F0F657BBF03043DF705/1012456.png",

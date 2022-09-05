@@ -31,13 +31,13 @@
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 2,
                 "text": "Revival per Pulse",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 2,
                 "text": "Revival per Pulse",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "distance": 600,
@@ -74,7 +74,7 @@
                 "percent": 1,
                 "requires_trait": 2147,
                 "text": "Revival per Pulse",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

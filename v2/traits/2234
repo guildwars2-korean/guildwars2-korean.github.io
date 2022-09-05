@@ -138,7 +138,7 @@
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
                 "text": "Damage Dealt Reduced by",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/B207785D56DABD962921DA4A0D65EB4C39270D3D/2491524.png",

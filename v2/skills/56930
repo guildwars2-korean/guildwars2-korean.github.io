@@ -81,7 +81,7 @@
                 "percent": 25,
                 "requires_trait": 2035,
                 "text": "크리티컬 확률 증가",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

@@ -13,12 +13,12 @@
                 "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
                 "percent": 2,
                 "text": "Heat per Second",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
                 "text": "Maximum Heat",
-                "type": "퍼센트",
+                "type": "Percent",
                 "value": 100
             },
             {
@@ -55,14 +55,14 @@
                 "percent": 3,
                 "requires_trait": 2114,
                 "text": "Heat per Second",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
                 "overrides": 2,
                 "requires_trait": 2137,
                 "text": "Maximum Heat",
-                "type": "퍼센트",
+                "type": "Percent",
                 "value": 150
             },
             {

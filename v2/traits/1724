@@ -5,20 +5,20 @@
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 5,
-                "text": "데미지 증가",
-                "type": "퍼센트"
+                "text": "Damage Increase",
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 2.5,
                 "text": "Bonus Damage from Off Hand",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 5,
                 "text": "Bonus Damage from Off Hand",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/8052FD58EAAA340A7B240FB0DAD8EB9BC391A1D0/1029966.png",

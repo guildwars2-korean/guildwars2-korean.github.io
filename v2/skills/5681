@@ -71,14 +71,14 @@
                 "percent": 7,
                 "requires_trait": 265,
                 "text": "Revive Percentage",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 1,
                 "requires_trait": 265,
                 "text": "Revive Percentage",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "type": "Weapon",

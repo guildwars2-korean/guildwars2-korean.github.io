@@ -20,7 +20,7 @@
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 3,
                 "text": "Life Force",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
@@ -65,7 +65,7 @@
                 "percent": 2,
                 "requires_trait": 778,
                 "text": "Revive Percent per Pulse",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "type": "Profession",

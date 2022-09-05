@@ -6,25 +6,25 @@
                 "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
                 "percent": 7.5,
                 "text": "Critical Damage Increase",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
                 "percent": 15,
                 "text": "Boonless Critical Damage Increase",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
                 "percent": 7,
                 "text": "Critical Damage Increase",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
                 "percent": 14,
                 "text": "Boonless Critical Damage Increase",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/11D652C0A03EBE2C50D7C804E30BD66862025F69/1770012.png",

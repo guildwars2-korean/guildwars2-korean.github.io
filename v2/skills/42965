@@ -26,7 +26,7 @@
                 "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
                 "percent": 7,
                 "text": "Heat Gained",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "apply_count": 1,

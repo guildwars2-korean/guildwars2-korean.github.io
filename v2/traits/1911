@@ -29,7 +29,7 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 25,
                 "text": "Movement Speed Increase",
-                "type": "퍼센트"
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/5BB39BC2BF306D32C16BD1D657A6191604C03ECB/1012392.png",

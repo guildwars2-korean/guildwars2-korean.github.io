@@ -6,7 +6,7 @@
                 "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
                 "percent": 1,
                 "text": "Heat Gained",
-                "type": "퍼센트"
+                "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -41,7 +41,7 @@
                         "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
                         "percent": 3,
                         "text": "Heat Gained",
-                        "type": "퍼센트"
+                        "type": "Percent"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
@@ -94,7 +94,7 @@
                         "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
                         "percent": 3,
                         "text": "Heat Gained",
-                        "type": "퍼센트"
+                        "type": "Percent"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
@@ -147,7 +147,7 @@
                         "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
                         "percent": 3,
                         "text": "Heat Gained",
-                        "type": "퍼센트"
+                        "type": "Percent"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",

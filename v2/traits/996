@@ -5,8 +5,8 @@
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 15,
-                "text": "데미지 증가",
-                "type": "퍼센트"
+                "text": "Damage Increase",
+                "type": "Percent"
             }
         ],
         "icon": "https://render.guildwars2.com/file/0771B76DEC42B44A579725E0C0C2A07F2058B65A/1012624.png",
