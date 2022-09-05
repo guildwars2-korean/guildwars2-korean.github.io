@@ -23,8 +23,8 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 20,
-                "text": "Effectiveness Increased",
-                "type": "Percent"
+                "text": "효과 증가",
+                "type": "퍼센트"
             }
         ],
         "icon": "https://render.guildwars2.com/file/F61B0203A07CDF17A3613731EE93F6C09410E825/1029953.png",

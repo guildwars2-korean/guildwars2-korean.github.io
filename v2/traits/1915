@@ -11,19 +11,19 @@
             {
                 "distance": 300,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용대상",
                 "type": "Number",
                 "value": 5
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
-                "text": "Healing",
+                "target": "힐링",
+                "text": "힐링",
                 "type": "AttributeAdjust",
                 "value": 532
             },
@@ -31,7 +31,7 @@
                 "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
                 "percent": 13,
                 "source": "Power",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Attribute Conversion",
                 "type": "BuffConversion"
             }

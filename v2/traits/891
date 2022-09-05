@@ -5,8 +5,8 @@
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 15,
-                "text": "Recharge Reduced",
-                "type": "Percent"
+                "text": "",
+                "type": "퍼센트"
             }
         ],
         "icon": "https://render.guildwars2.com/file/75273DA6696969760BB6D765E56D0CDCD0ABBA43/1012592.png",

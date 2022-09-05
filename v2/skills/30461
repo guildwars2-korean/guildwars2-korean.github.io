@@ -14,14 +14,14 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Passive Healing",
                 "type": "AttributeAdjust",
                 "value": 202
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Combat Only",
+                "text": "전투시에만 적용",
                 "type": "NoData"
             },
             {
@@ -32,21 +32,21 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Active Heal Pulse",
                 "type": "AttributeAdjust",
                 "value": 650
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Final Heal Pulse",
                 "type": "AttributeAdjust",
                 "value": 3250
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용대상",
                 "type": "Number",
                 "value": 5
             },
@@ -91,7 +91,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Pulses",
+                "text": "횟수",
                 "type": "Number",
                 "value": 6
             }
@@ -109,7 +109,7 @@
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "overrides": 1,
                 "requires_trait": 579,
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Passive Healing",
                 "type": "AttributeAdjust",
                 "value": 240

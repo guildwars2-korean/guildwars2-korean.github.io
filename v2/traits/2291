@@ -6,13 +6,13 @@
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 50,
                 "text": "All Stats Inherited by Mech",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 30,
                 "text": "All Stats Inherited by Mech",
-                "type": "Percent"
+                "type": "퍼센트"
             }
         ],
         "icon": "https://render.guildwars2.com/file/E56C575C4703F3377FA8BE172656ABEA6B92DE4E/2503629.png",

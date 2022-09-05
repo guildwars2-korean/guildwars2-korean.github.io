@@ -13,18 +13,18 @@
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "Recharge Reduced",
-                "type": "Percent"
+                "text": "",
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "Health Threshold",
-                "type": "Percent"
+                "text": "생명력 임계",
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Maximum Stacks",
+                "text": "최대 중첩",
                 "type": "Number",
                 "value": 5
             }

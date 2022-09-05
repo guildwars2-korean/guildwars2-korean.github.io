@@ -17,7 +17,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Base Heal",
                 "type": "AttributeAdjust",
                 "value": 709
@@ -26,7 +26,7 @@
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "percent": 100,
                 "text": "Healing Increase per Threshold",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "apply_count": 1,
@@ -57,7 +57,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용대상",
                 "type": "Number",
                 "value": 5
             }

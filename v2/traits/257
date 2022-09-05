@@ -5,8 +5,8 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "Health Threshold",
-                "type": "Percent"
+                "text": "생명력 임계",
+                "type": "퍼센트"
             }
         ],
         "icon": "https://render.guildwars2.com/file/F00E3FB59751F0422F3D3C5859F5FD3B580EA9B3/1012287.png",
@@ -37,8 +37,8 @@
                         "dmg_multiplier": 1.5,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "apply_count": 3,
@@ -52,7 +52,7 @@
                     {
                         "distance": 360,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     }
                 ],

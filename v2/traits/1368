@@ -5,8 +5,8 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "Health Threshold",
-                "type": "Percent"
+                "text": "생명력 임계",
+                "type": "퍼센트"
             }
         ],
         "icon": "https://render.guildwars2.com/file/3225C41AA337BF4B2FCA310D9F5AD70D94ACC074/1012793.png",

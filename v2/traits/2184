@@ -6,17 +6,17 @@
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 1,
                 "text": "Shadow Shroud per Initiative Spent",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 0.75,
                 "text": "Shadow Shroud per Initiative Spent",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Combat Only",
+                "text": "전투시에만 적용",
                 "type": "NoData"
             },
             {
@@ -56,7 +56,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
                         "requires_trait": 1163,
-                        "text": "Number of Allied Targets",
+                        "text": "아군 적용대상",
                         "type": "Number",
                         "value": 5
                     }

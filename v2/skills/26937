@@ -35,14 +35,14 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Siphon Healing",
                 "type": "AttributeAdjust",
                 "value": 768
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Initial Heal",
                 "type": "AttributeAdjust",
                 "value": 1560
@@ -50,7 +50,7 @@
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "Interval",
+                "text": "주기",
                 "type": "Time"
             },
             {

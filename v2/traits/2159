@@ -4,14 +4,14 @@
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 33,
-                "text": "Recharge Reduced",
-                "type": "Percent"
+                "text": "",
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "Recharge Reduced",
-                "type": "Percent"
+                "text": "",
+                "type": "퍼센트"
             }
         ],
         "icon": "https://render.guildwars2.com/file/1496F706100F1E16C5E3F76466C51D1DEF29C4FA/1769947.png",

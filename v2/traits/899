@@ -5,8 +5,8 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "Health Threshold",
-                "type": "Percent"
+                "text": "생명력 임계",
+                "type": "퍼센트"
             }
         ],
         "icon": "https://render.guildwars2.com/file/FED2475CCB0936A368AB44DA729EE0AFACBBBE06/1012597.png",
@@ -35,56 +35,56 @@
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "text": "Damage—Three Boons",
-                        "type": "Damage"
+                        "type": "데미지"
                     },
                     {
                         "dmg_multiplier": 1.5,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "text": "Damage—Two Boons",
-                        "type": "Damage"
+                        "type": "데미지"
                     },
                     {
                         "dmg_multiplier": 0.9,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "text": "Damage—One Boon",
-                        "type": "Damage"
+                        "type": "데미지"
                     },
                     {
                         "dmg_multiplier": 0.6,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "text": "Damage—No Boons",
-                        "type": "Damage"
+                        "type": "데미지"
                     },
                     {
                         "dmg_multiplier": 0.105,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "text": "Damage—Three Boons",
-                        "type": "Damage"
+                        "type": "데미지"
                     },
                     {
                         "dmg_multiplier": 0.075,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "text": "Damage—Two Boons",
-                        "type": "Damage"
+                        "type": "데미지"
                     },
                     {
                         "dmg_multiplier": 0.045,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "text": "Damage—One Boon",
-                        "type": "Damage"
+                        "type": "데미지"
                     },
                     {
                         "dmg_multiplier": 0.03,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "text": "Damage—No Boons",
-                        "type": "Damage"
+                        "type": "데미지"
                     },
                     {
                         "apply_count": 1,

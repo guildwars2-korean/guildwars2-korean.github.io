@@ -6,13 +6,13 @@
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 15,
                 "text": "Maximum Damage Increase",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 15,
                 "text": "Maximum Damage Increase",
-                "type": "Percent"
+                "type": "퍼센트"
             }
         ],
         "icon": "https://render.guildwars2.com/file/0D5D9B2C77B736E0609004026A06756D5142690B/1769938.png",
@@ -29,7 +29,7 @@
                 "percent": 22.5,
                 "requires_trait": 2137,
                 "text": "Maximum Damage Increase",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
@@ -37,7 +37,7 @@
                 "percent": 22.5,
                 "requires_trait": 2137,
                 "text": "Maximum Damage Increase",
-                "type": "Percent"
+                "type": "퍼센트"
             }
         ]
     }

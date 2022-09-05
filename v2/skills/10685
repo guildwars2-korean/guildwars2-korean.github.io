@@ -40,7 +40,7 @@
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 4,
                 "text": "Life Force per Condition",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "duration": 2,

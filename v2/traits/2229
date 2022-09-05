@@ -5,8 +5,8 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "Health Threshold",
-                "type": "Percent"
+                "text": "생명력 임계",
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
@@ -16,7 +16,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
-                "target": "Healing",
+                "target": "힐링",
                 "type": "AttributeAdjust",
                 "value": 240
             }

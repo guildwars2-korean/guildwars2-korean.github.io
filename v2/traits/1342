@@ -20,8 +20,8 @@
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 5,
-                "text": "Critical Chance Increase",
-                "type": "Percent"
+                "text": "크리티컬 확률 증가",
+                "type": "퍼센트"
             }
         ],
         "icon": "https://render.guildwars2.com/file/F55BA3110EE6C86A32D2F1630CD150DB56D43C4B/1012783.png",

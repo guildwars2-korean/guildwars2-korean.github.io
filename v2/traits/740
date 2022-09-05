@@ -4,63 +4,63 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "No-Clone Heal",
                 "type": "AttributeAdjust",
                 "value": 360
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "No-Clone Heal",
                 "type": "AttributeAdjust",
                 "value": 360
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "One-Clone Heal",
                 "type": "AttributeAdjust",
                 "value": 552
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "One-Clone Heal",
                 "type": "AttributeAdjust",
                 "value": 552
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Two-Clone Heal",
                 "type": "AttributeAdjust",
                 "value": 744
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Two-Clone Heal",
                 "type": "AttributeAdjust",
                 "value": 744
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Three-Clone Heal",
                 "type": "AttributeAdjust",
                 "value": 936
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Three-Clone Heal",
                 "type": "AttributeAdjust",
                 "value": 936
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Conditions Removed",
+                "text": "상태이상 해제",
                 "type": "Number",
                 "value": 1
             }

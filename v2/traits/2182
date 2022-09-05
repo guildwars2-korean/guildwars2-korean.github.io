@@ -4,14 +4,14 @@
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 50,
-                "text": "Duration Increase",
-                "type": "Percent"
+                "text": "지속시간 증가",
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 4,
                 "text": "Condition Damage Reduced",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

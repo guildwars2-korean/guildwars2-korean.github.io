@@ -4,8 +4,8 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
-                "target": "Healing",
-                "text": "Barrier",
+                "target": "힐링",
+                "text": "보호막",
                 "type": "AttributeAdjust",
                 "value": 1300
             }

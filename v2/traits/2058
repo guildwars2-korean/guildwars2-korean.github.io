@@ -6,7 +6,7 @@
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "percent": 20,
                 "text": "Healing Increase to Others",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "apply_count": 1,
@@ -20,12 +20,12 @@
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "Interval",
+                "text": "주기",
                 "type": "Time"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Energy Gain",
+                "text": "에너지 획득",
                 "type": "Number",
                 "value": 5
             }

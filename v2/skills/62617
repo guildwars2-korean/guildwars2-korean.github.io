@@ -21,11 +21,11 @@
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Strike Damage per Blade Spent",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용대상",
                 "type": "Number",
                 "value": 5
             },
@@ -65,13 +65,13 @@
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 25,
                 "requires_trait": 2035,
-                "text": "Critical Chance Increase",
-                "type": "Percent"
+                "text": "크리티컬 확률 증가",
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "requires_trait": 740,
-                "text": "Conditions Removed",
+                "text": "상태이상 해제",
                 "type": "Number",
                 "value": 1
             }

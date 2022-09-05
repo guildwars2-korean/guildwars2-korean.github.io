@@ -20,14 +20,14 @@
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 33,
-                "text": "Duration Increase",
-                "type": "Percent"
+                "text": "지속시간 증가",
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 10,
-                "text": "Duration Increase",
-                "type": "Percent"
+                "text": "지속시간 증가",
+                "type": "퍼센트"
             }
         ],
         "icon": "https://render.guildwars2.com/file/0D467BCA43AF4EFF9EE7CDAAB1A15696CE5B54AF/1012362.png",

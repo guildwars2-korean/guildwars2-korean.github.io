@@ -5,14 +5,14 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 5,
-                "text": "Percent",
-                "type": "Percent"
+                "text": "퍼센트",
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 10,
-                "text": "Percent",
-                "type": "Percent"
+                "text": "퍼센트",
+                "type": "퍼센트"
             }
         ],
         "icon": "https://render.guildwars2.com/file/44B8970EAEBCFC14E11A910C5B5D0FC512FEEBE5/2503639.png",

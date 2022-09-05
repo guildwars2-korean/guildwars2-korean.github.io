@@ -6,7 +6,7 @@
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 33,
                 "text": "Duration Decreased",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "apply_count": 1,
@@ -37,13 +37,13 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Endurance Gained",
+                "text": "지구력 회복",
                 "type": "Number",
                 "value": 10
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Endurance Gained",
+                "text": "지구력 회복",
                 "type": "Number",
                 "value": 5
             }

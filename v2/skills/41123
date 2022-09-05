@@ -19,13 +19,13 @@
                 "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
                 "percent": 5,
                 "text": "Heat Lost per Second",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
                 "percent": 10,
                 "text": "Improved Heat Lost per Second",
-                "type": "Percent"
+                "type": "퍼센트"
             }
         ],
         "flags": [],

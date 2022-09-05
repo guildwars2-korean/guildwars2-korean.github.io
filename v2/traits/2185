@@ -5,13 +5,13 @@
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 0.5,
                 "text": "Condition Damage Increase",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 0.5,
                 "text": "Condition Damage Increase",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "apply_count": 1,

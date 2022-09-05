@@ -14,8 +14,8 @@
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "Recharge Reduced",
-                "type": "Percent"
+                "text": "",
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
@@ -27,7 +27,7 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
                 "text": "Chance on Critical Strike to Gain Might",
-                "type": "Percent"
+                "type": "퍼센트"
             }
         ],
         "icon": "https://render.guildwars2.com/file/CDAE0E5A05570A05917304122E52C71BF5474FC5/1012814.png",

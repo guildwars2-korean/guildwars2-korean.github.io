@@ -4,26 +4,26 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Combat Only",
+                "text": "전투시에만 적용",
                 "type": "NoData"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Healing Power above 75% Health",
                 "type": "AttributeAdjust",
                 "value": 150
             },
             {
                 "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Healing Power below 75% Health",
                 "type": "AttributeAdjust",
                 "value": 300
             },
             {
                 "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Healing Power below 50% Health",
                 "type": "AttributeAdjust",
                 "value": 450
@@ -40,13 +40,13 @@
             {
                 "distance": 300,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "Interval",
+                "text": "주기",
                 "type": "Time"
             }
         ],

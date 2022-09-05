@@ -19,14 +19,14 @@
                 "dmg_multiplier": 0.96,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
-                "type": "Damage"
+                "text": "데미지",
+                "type": "데미지"
             },
             {
                 "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
                 "percent": 25,
                 "text": "Heat Gained",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "distance": 0,
@@ -37,12 +37,12 @@
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 100,
-                "text": "Critical Chance Increase",
-                "type": "Percent"
+                "text": "크리티컬 확률 증가",
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용대상",
                 "type": "Number",
                 "value": 5
             },

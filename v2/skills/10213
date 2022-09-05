@@ -14,14 +14,14 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
-                "text": "Healing",
+                "target": "힐링",
+                "text": "힐링",
                 "type": "AttributeAdjust",
                 "value": 1640
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Healing below 50%",
                 "type": "AttributeAdjust",
                 "value": 2620
@@ -41,8 +41,8 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "Health Threshold",
-                "type": "Percent"
+                "text": "생명력 임계",
+                "type": "퍼센트"
             }
         ],
         "flags": [],

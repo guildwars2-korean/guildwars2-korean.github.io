@@ -11,20 +11,20 @@
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "Damage Increase",
-                "type": "Percent"
+                "text": "데미지 증가",
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 7,
-                "text": "Damage Increase",
-                "type": "Percent"
+                "text": "데미지 증가",
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "Health Threshold",
-                "type": "Percent"
+                "text": "생명력 임계",
+                "type": "퍼센트"
             },
             {
                 "apply_count": 1,

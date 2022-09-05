@@ -22,26 +22,26 @@
                 "dmg_multiplier": 1.15,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
-                "type": "Damage"
+                "text": "데미지",
+                "type": "데미지"
             },
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 25,
-                "text": "Recharge Reduced",
-                "type": "Percent"
+                "text": "",
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 50,
                 "text": "Backstab Bonus",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 25,
                 "text": "Backstab Bonus",
-                "type": "Percent"
+                "type": "퍼센트"
             }
         ],
         "flags": [],
@@ -59,8 +59,8 @@
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "overrides": 2,
                 "requires_trait": 682,
-                "text": "Damage",
-                "type": "Damage"
+                "text": "데미지",
+                "type": "데미지"
             }
         ],
         "type": "Weapon",

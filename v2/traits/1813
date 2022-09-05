@@ -21,13 +21,13 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 20,
                 "text": "Increased Regenerative Healing",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "Health Threshold",
-                "type": "Percent"
+                "text": "생명력 임계",
+                "type": "퍼센트"
             }
         ],
         "icon": "https://render.guildwars2.com/file/ED0E15AFDDD1F944A09A561B290A1BCB36F799E1/1058541.png",

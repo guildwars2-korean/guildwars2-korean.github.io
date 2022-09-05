@@ -13,15 +13,15 @@
                 "dmg_multiplier": 1.7,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
-                "type": "Damage"
+                "text": "데미지",
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 1.36,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
-                "type": "Damage"
+                "text": "데미지",
+                "type": "데미지"
             }
         ],
         "flags": [],
@@ -35,8 +35,8 @@
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "overrides": 1,
                 "requires_trait": 1338,
-                "text": "Damage",
-                "type": "Damage"
+                "text": "데미지",
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 1.496,
@@ -44,8 +44,8 @@
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "overrides": 2,
                 "requires_trait": 1338,
-                "text": "Damage",
-                "type": "Damage"
+                "text": "데미지",
+                "type": "데미지"
             }
         ]
     }

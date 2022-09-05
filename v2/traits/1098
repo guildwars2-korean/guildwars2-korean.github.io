@@ -49,7 +49,7 @@
                     {
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                        "text": "Interval",
+                        "text": "주기",
                         "type": "Time"
                     },
                     {
@@ -67,7 +67,7 @@
                     {
                         "distance": 240,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     }
                 ],

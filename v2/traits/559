@@ -6,13 +6,13 @@
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 15,
                 "text": "Revive Percentage",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 3,
                 "text": "Revive Percentage",
-                "type": "Percent"
+                "type": "퍼센트"
             }
         ],
         "icon": "https://render.guildwars2.com/file/5F23B231E1039C4DC401BA2D6AE473C0E1E06D7E/1012403.png",
@@ -44,15 +44,15 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                        "target": "Healing",
-                        "text": "Healing",
+                        "target": "힐링",
+                        "text": "힐링",
                         "type": "AttributeAdjust",
                         "value": 1300
                     },
                     {
                         "distance": 300,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {

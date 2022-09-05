@@ -12,15 +12,15 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
-                "text": "Healing",
+                "target": "힐링",
+                "text": "힐링",
                 "type": "AttributeAdjust",
                 "value": 620
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
-                "text": "Healing",
+                "target": "힐링",
+                "text": "힐링",
                 "type": "AttributeAdjust",
                 "value": 496
             },
@@ -32,7 +32,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Pulses",
+                "text": "횟수",
                 "type": "Number",
                 "value": 4
             }
@@ -52,7 +52,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "requires_trait": 1730,
-                "text": "Conditions Removed",
+                "text": "상태이상 해제",
                 "type": "Number",
                 "value": 1
             }

@@ -23,21 +23,21 @@
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Level 1 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 2.5,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Level 2 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 3,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Level 3 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "apply_count": 5,
@@ -53,21 +53,21 @@
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Level 1 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 2.5,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Level 2 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 3,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Level 3 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "finisher_type": "Leap",
@@ -95,7 +95,7 @@
                 "overrides": 2,
                 "requires_trait": 1657,
                 "text": "Level 1 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 1.7826,
@@ -104,7 +104,7 @@
                 "overrides": 3,
                 "requires_trait": 1657,
                 "text": "Level 2 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 2.14,
@@ -113,7 +113,7 @@
                 "overrides": 4,
                 "requires_trait": 1657,
                 "text": "Level 3 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 2.2,
@@ -122,7 +122,7 @@
                 "overrides": 6,
                 "requires_trait": 1657,
                 "text": "Level 1 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 2.75,
@@ -131,7 +131,7 @@
                 "overrides": 7,
                 "requires_trait": 1657,
                 "text": "Level 2 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 3.3,
@@ -140,12 +140,12 @@
                 "overrides": 8,
                 "requires_trait": 1657,
                 "text": "Level 3 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "requires_trait": 1649,
-                "text": "Conditions Removed",
+                "text": "상태이상 해제",
                 "type": "Number",
                 "value": 1
             }

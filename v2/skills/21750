@@ -14,21 +14,21 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
-                "text": "Healing",
+                "target": "힐링",
+                "text": "힐링",
                 "type": "AttributeAdjust",
                 "value": 5560
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Heal on Illusion Summon",
                 "type": "AttributeAdjust",
                 "value": 350
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Heal on Illusion Summon",
                 "type": "AttributeAdjust",
                 "value": 297
@@ -36,14 +36,14 @@
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 100,
-                "text": "Recharge Reduced",
-                "type": "Percent"
+                "text": "",
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 50,
-                "text": "Recharge Reduced",
-                "type": "Percent"
+                "text": "",
+                "type": "퍼센트"
             }
         ],
         "flags": [],
@@ -59,8 +59,8 @@
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "overrides": 1,
                 "requires_trait": 752,
-                "target": "Healing",
-                "text": "Healing",
+                "target": "힐링",
+                "text": "힐링",
                 "type": "AttributeAdjust",
                 "value": 6600
             }

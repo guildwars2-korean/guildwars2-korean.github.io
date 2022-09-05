@@ -15,7 +15,7 @@
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
@@ -40,7 +40,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Pulses",
+                "text": "횟수",
                 "type": "Number",
                 "value": 4
             },
@@ -48,8 +48,8 @@
                 "dmg_multiplier": 3.5,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
-                "type": "Damage"
+                "text": "데미지",
+                "type": "데미지"
             },
             {
                 "duration": 3,
@@ -92,7 +92,7 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "overrides": 1,
                 "requires_trait": 1917,
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             }
         ],

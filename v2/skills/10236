@@ -129,7 +129,7 @@
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "Duration Increase",
+                "text": "지속시간 증가",
                 "type": "Time"
             }
         ],
@@ -146,7 +146,7 @@
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
                 "overrides": 14,
                 "requires_trait": 752,
-                "text": "Number of Targets",
+                "text": "적용대상",
                 "type": "Number",
                 "value": 5
             }

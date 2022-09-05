@@ -15,13 +15,13 @@
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "percent": 20,
                 "text": "Healing Increase to Others",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "percent": 10,
                 "text": "Healing Increase to Others",
-                "type": "Percent"
+                "type": "퍼센트"
             }
         ],
         "icon": "https://render.guildwars2.com/file/4BA0B6F2AD93F72CA3D5C3C40D30B40B14920825/2128015.png",

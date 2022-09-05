@@ -23,18 +23,18 @@
                 "hit_count": 4,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Phantasm Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 1.2,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Greatsword Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용대상",
                 "type": "Number",
                 "value": 5
             },
@@ -74,7 +74,7 @@
                 "overrides": 2,
                 "requires_trait": 682,
                 "text": "Phantasm Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",

@@ -4,13 +4,13 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Stack Threshold",
+                "text": "중첩 임계",
                 "type": "Number",
                 "value": 10
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Stack Threshold",
+                "text": "중첩 임계",
                 "type": "Number",
                 "value": 8
             },

@@ -14,29 +14,29 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Heal Pulse",
                 "type": "AttributeAdjust",
                 "value": 262
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Heal Pulse",
                 "type": "AttributeAdjust",
                 "value": 230
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Heal Pulse",
                 "type": "AttributeAdjust",
                 "value": 142
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                "target": "Healing",
-                "text": "Healing",
+                "target": "힐링",
+                "text": "힐링",
                 "type": "AttributeAdjust",
                 "value": 6500
             }
@@ -55,7 +55,7 @@
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "overrides": 1,
                 "requires_trait": 2298,
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Heal Pulse",
                 "type": "AttributeAdjust",
                 "value": 314
@@ -64,7 +64,7 @@
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "overrides": 2,
                 "requires_trait": 2298,
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Heal Pulse",
                 "type": "AttributeAdjust",
                 "value": 276
@@ -73,7 +73,7 @@
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "overrides": 3,
                 "requires_trait": 2298,
-                "target": "Healing",
+                "target": "힐링",
                 "text": "Heal Pulse",
                 "type": "AttributeAdjust",
                 "value": 170

@@ -7,13 +7,13 @@
                 "icon": "https://render.guildwars2.com/file/ECAD5F2BBF2CD2D007D876007008D7D0400D080C/1770204.png",
                 "percent": 25,
                 "text": "Initial Self-Damage",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/ECAD5F2BBF2CD2D007D876007008D7D0400D080C/1770204.png",
                 "percent": 5,
                 "text": "Self-Damage over Time",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "duration": 3,
@@ -24,7 +24,7 @@
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "Interval",
+                "text": "주기",
                 "type": "Time"
             },
             {
@@ -45,7 +45,7 @@
                 "percent": 0,
                 "requires_trait": 2064,
                 "text": "Initial Self-Damage",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "apply_count": 6,

@@ -11,8 +11,8 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
-                "target": "Healing",
-                "text": "Barrier",
+                "target": "힐링",
+                "text": "보호막",
                 "type": "AttributeAdjust",
                 "value": 3000
             },
@@ -25,8 +25,8 @@
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 33,
-                "text": "Recharge Reduced",
-                "type": "Percent"
+                "text": "",
+                "type": "퍼센트"
             }
         ],
         "flags": [],

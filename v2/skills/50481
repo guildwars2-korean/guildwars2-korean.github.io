@@ -23,20 +23,20 @@
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Front Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 3,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Back Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
                 "text": "Bonus Damage per Malice",
-                "type": "Percent"
+                "type": "퍼센트"
             }
         ],
         "flags": [

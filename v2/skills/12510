@@ -14,14 +14,14 @@
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Maximum Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 0.9,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Minimum Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "finisher_type": "Projectile",

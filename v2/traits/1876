@@ -43,7 +43,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "target": "Healing",
+                        "target": "힐링",
                         "text": "Active Life Siphon Heal",
                         "type": "AttributeAdjust",
                         "value": 470

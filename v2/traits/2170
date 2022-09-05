@@ -11,13 +11,13 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "Health Threshold",
-                "type": "Percent"
+                "text": "생명력 임계",
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
-                "target": "Healing",
-                "text": "Barrier",
+                "target": "힐링",
+                "text": "보호막",
                 "type": "AttributeAdjust",
                 "value": 680
             }
@@ -45,28 +45,28 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
-                        "target": "Healing",
-                        "text": "Barrier",
+                        "target": "힐링",
+                        "text": "보호막",
                         "type": "AttributeAdjust",
                         "value": 1069
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
-                        "target": "Healing",
-                        "text": "Barrier",
+                        "target": "힐링",
+                        "text": "보호막",
                         "type": "AttributeAdjust",
                         "value": 535
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "Pulses",
+                        "text": "횟수",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                        "text": "Interval",
+                        "text": "주기",
                         "type": "Time"
                     }
                 ],

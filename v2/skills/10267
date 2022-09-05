@@ -29,28 +29,28 @@
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Damage without Boons",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 0.4,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Damage with Boons",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 0.5,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Damage without Boons",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 0.2,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Damage with Boons",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -81,7 +81,7 @@
                 "overrides": 3,
                 "requires_trait": 682,
                 "text": "Damage without Boons",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 0.46,
@@ -90,7 +90,7 @@
                 "overrides": 4,
                 "requires_trait": 682,
                 "text": "Damage with Boons",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 0.575,
@@ -99,7 +99,7 @@
                 "overrides": 5,
                 "requires_trait": 682,
                 "text": "Damage without Boons",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 0.23,
@@ -108,7 +108,7 @@
                 "overrides": 6,
                 "requires_trait": 682,
                 "text": "Damage with Boons",
-                "type": "Damage"
+                "type": "데미지"
             }
         ],
         "type": "Utility",

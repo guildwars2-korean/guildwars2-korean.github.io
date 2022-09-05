@@ -21,7 +21,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용대상",
                         "type": "Number",
                         "value": 5
                     },
@@ -29,8 +29,8 @@
                         "dmg_multiplier": 0.8,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "apply_count": 1,
@@ -45,7 +45,7 @@
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                         "percent": 15,
                         "text": "Attack Speed Increase",
-                        "type": "Percent"
+                        "type": "퍼센트"
                     },
                     {
                         "duration": 15,
@@ -62,7 +62,7 @@
                     {
                         "distance": 300,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     }
                 ],
@@ -77,8 +77,8 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "apply_count": 3,
@@ -93,7 +93,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "Conditions Removed",
+                        "text": "상태이상 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -130,8 +130,8 @@
                         "dmg_multiplier": 2.5,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "apply_count": 5,
@@ -145,8 +145,8 @@
                     {
                         "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                         "percent": 100,
-                        "text": "Recharge Reduced",
-                        "type": "Percent"
+                        "text": "",
+                        "type": "퍼센트"
                     }
                 ],
                 "flags": [],
@@ -160,13 +160,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "Conditions Removed",
+                        "text": "상태이상 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -205,19 +205,19 @@
                         "dmg_multiplier": 1.4,
                         "hit_count": 3,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "dmg_multiplier": 1.4,
                         "hit_count": 3,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용대상",
                         "type": "Number",
                         "value": 5
                     },
@@ -251,8 +251,8 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "dmg_multiplier": 1.498,
@@ -260,13 +260,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 3,
                         "requires_trait": 1657,
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "Conditions Removed",
+                        "text": "상태이상 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -305,13 +305,13 @@
                         "dmg_multiplier": 1.5,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "distance": 360,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
@@ -348,13 +348,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "Conditions Removed",
+                        "text": "상태이상 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -400,8 +400,8 @@
                         "dmg_multiplier": 2.75,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "apply_count": 1,
@@ -440,13 +440,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "Conditions Removed",
+                        "text": "상태이상 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -491,15 +491,15 @@
                         "dmg_multiplier": 0.5,
                         "hit_count": 3,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "dmg_multiplier": 0.5,
                         "hit_count": 3,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "apply_count": 3,
@@ -519,12 +519,12 @@
                     {
                         "distance": 120,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용대상",
                         "type": "Number",
                         "value": 5
                     },
@@ -551,8 +551,8 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "dmg_multiplier": 0.3745,
@@ -560,13 +560,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 3,
                         "requires_trait": 1657,
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "Conditions Removed",
+                        "text": "상태이상 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -605,15 +605,15 @@
                         "dmg_multiplier": 1.5,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "dmg_multiplier": 1,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "duration": 1,
@@ -696,8 +696,8 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "dmg_multiplier": 1.07,
@@ -705,13 +705,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 3,
                         "requires_trait": 1657,
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "Conditions Removed",
+                        "text": "상태이상 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -750,8 +750,8 @@
                         "dmg_multiplier": 2.2,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "apply_count": 1,
@@ -766,18 +766,18 @@
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "percent": 100,
                         "text": "Velocity Increase",
-                        "type": "Percent"
+                        "type": "퍼센트"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용대상",
                         "type": "Number",
                         "value": 3
                     },
                     {
                         "distance": 180,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
@@ -805,13 +805,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "Conditions Removed",
+                        "text": "상태이상 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -856,12 +856,12 @@
                         "dmg_multiplier": 1.5,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용대상",
                         "type": "Number",
                         "value": 5
                     },
@@ -883,7 +883,7 @@
                     {
                         "distance": 600,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
@@ -905,13 +905,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "Conditions Removed",
+                        "text": "상태이상 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -950,8 +950,8 @@
                         "dmg_multiplier": 0.25,
                         "hit_count": 8,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "apply_count": 8,
@@ -969,7 +969,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용대상",
                         "type": "Number",
                         "value": 5
                     },
@@ -990,13 +990,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "Conditions Removed",
+                        "text": "상태이상 해제",
                         "type": "Number",
                         "value": 3
                     },

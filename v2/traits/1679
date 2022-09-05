@@ -5,8 +5,8 @@
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "Recharge Reduced",
-                "type": "Percent"
+                "text": "",
+                "type": "퍼센트"
             }
         ],
         "icon": "https://render.guildwars2.com/file/09AF0498D757B191E229C862F4AA360DA65C4FE1/1012386.png",
@@ -37,8 +37,8 @@
                         "dmg_multiplier": 1.25,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "distance": 1200,
@@ -49,12 +49,12 @@
                     {
                         "distance": 120,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용대상",
                         "type": "Number",
                         "value": 5
                     },
@@ -160,7 +160,7 @@
                     {
                         "distance": 90,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
@@ -183,7 +183,7 @@
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                         "overrides": 5,
                         "requires_trait": 1679,
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
@@ -228,8 +228,8 @@
                         "dmg_multiplier": 3,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "duration": 2,
@@ -258,7 +258,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용대상",
                         "type": "Number",
                         "value": 5
                     },
@@ -391,8 +391,8 @@
                         "dmg_multiplier": 1.25,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
-                        "type": "Damage"
+                        "text": "데미지",
+                        "type": "데미지"
                     },
                     {
                         "distance": 600,
@@ -511,15 +511,15 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                        "target": "Healing",
+                        "target": "힐링",
                         "text": "Healing when lethal damage taken",
                         "type": "AttributeAdjust",
                         "value": 12280
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                        "target": "Healing",
-                        "text": "Healing",
+                        "target": "힐링",
+                        "text": "힐링",
                         "type": "AttributeAdjust",
                         "value": 4344
                     },

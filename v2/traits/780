@@ -6,13 +6,13 @@
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 7,
                 "text": "Revive Percentage",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 1,
                 "text": "Revive Percentage",
-                "type": "Percent"
+                "type": "퍼센트"
             }
         ],
         "icon": "https://render.guildwars2.com/file/9348E1E1E5F166C69149984029A15FE2F2D9F40D/1012534.png",
@@ -32,14 +32,14 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                        "target": "Healing",
+                        "target": "힐링",
                         "text": "Initial Self Heal",
                         "type": "AttributeAdjust",
                         "value": 3960
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-                        "target": "Healing",
+                        "target": "힐링",
                         "text": "Health per Second",
                         "type": "AttributeAdjust",
                         "value": 152
@@ -52,14 +52,14 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용대상",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "distance": 240,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {

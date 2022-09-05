@@ -28,11 +28,11 @@
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 25,
                 "text": "Movement Speed Increase",
-                "type": "Percent"
+                "type": "퍼센트"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Conditions Removed",
+                "text": "상태이상 해제",
                 "type": "Number",
                 "value": 2
             }
@@ -56,7 +56,7 @@
                 "percent": 30,
                 "requires_trait": 2298,
                 "text": "Movement Speed Increase",
-                "type": "Percent"
+                "type": "퍼센트"
             }
         ],
         "type": "Utility",

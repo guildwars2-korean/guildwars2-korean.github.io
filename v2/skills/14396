@@ -24,21 +24,21 @@
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Level 1 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 2.75,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Level 2 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 3.25,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Level 3 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
@@ -50,21 +50,21 @@
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Level 1 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 2.75,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Level 2 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 3.25,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "text": "Level 3 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "finisher_type": "Projectile",
@@ -93,7 +93,7 @@
                 "overrides": 2,
                 "requires_trait": 1657,
                 "text": "Level 1 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 2.9425,
@@ -102,7 +102,7 @@
                 "overrides": 3,
                 "requires_trait": 1657,
                 "text": "Level 2 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 3.4775,
@@ -111,7 +111,7 @@
                 "overrides": 4,
                 "requires_trait": 1657,
                 "text": "Level 3 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 1.498,
@@ -120,7 +120,7 @@
                 "overrides": 6,
                 "requires_trait": 1657,
                 "text": "Level 1 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 1.819,
@@ -129,7 +129,7 @@
                 "overrides": 7,
                 "requires_trait": 1657,
                 "text": "Level 2 Damage",
-                "type": "Damage"
+                "type": "데미지"
             },
             {
                 "dmg_multiplier": 2.14,
@@ -138,7 +138,7 @@
                 "overrides": 8,
                 "requires_trait": 1657,
                 "text": "Level 3 Damage",
-                "type": "Damage"
+                "type": "데미지"
             }
         ],
         "type": "Profession",

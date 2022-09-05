@@ -38,7 +38,7 @@
             {
                 "distance": 90,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
@@ -68,7 +68,7 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "overrides": 5,
                 "requires_trait": 1679,
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {

@@ -14,7 +14,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
                 "target": "Precision",
-                "text": "Precision Increase",
+                "text": "프리시전 증가",
                 "type": "AttributeAdjust",
                 "value": 180
             }
