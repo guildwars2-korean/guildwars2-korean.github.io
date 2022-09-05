@@ -1,0 +1,71 @@
+[
+    {
+        "categories": [
+            "LegendaryAssassin"
+        ],
+        "chat_link": "[&BkduAAA=]",
+        "cost": 30,
+        "description": "Legendary Assassin. Step through the Mists to your target. Your next few attacks can't be blocked.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 5
+            },
+            {
+                "dmg_multiplier": 2,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 2,
+                "description": "Your attacks can't be blocked.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/BD6C4CEEC95711F20FC62A4CA310C5A6574F9664/2261523.png",
+                "status": "Unblockable",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "스킬 시전과 행동이 빨라진다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+                "status": "급속",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
+                "text": "방어 불가",
+                "type": "NoData"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/6C9F184D04E3590AC3F4061327BF0A68904D7DED/1013016.png",
+        "id": 28231,
+        "name": "Phase Traversal",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

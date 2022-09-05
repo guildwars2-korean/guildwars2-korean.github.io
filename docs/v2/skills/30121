@@ -1,0 +1,104 @@
+[
+    {
+        "chat_link": "[&Bql1AAA=]",
+        "description": "Launch a phosphorous mortar round that burns brightly at impact point.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1500
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Initial Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "다음 공격이 빗나간다(지속시간 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "status": "실명",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "field_type": "Light",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "콤보 필드",
+                "type": "ComboField"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            },
+            {
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
+                "text": "Explosion",
+                "type": "NoData"
+            }
+        ],
+        "flags": [
+            "GroundTargeted",
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/05D3ED204C42109D13A63ABA5507A96C176EF30B/1012855.png",
+        "id": 30121,
+        "name": "Flash Shell",
+        "professions": [
+            "Thief",
+            "Mesmer",
+            "Warrior",
+            "Elementalist",
+            "Necromancer",
+            "Guardian",
+            "Ranger",
+            "Engineer",
+            "Revenant"
+        ],
+        "slot": "Weapon_4",
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "받는 데미지가 증가한다(강도 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "requires_trait": 517,
+                "status": "취약",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Bundle",
+        "weapon_type": "None"
+    }
+]

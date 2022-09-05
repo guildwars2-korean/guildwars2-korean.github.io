@@ -1,0 +1,69 @@
+[
+    {
+        "chat_link": "[&BuiJAAA=]",
+        "description": "Move swiftly in a direction, knocking back enemies you collide with.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "dmg_multiplier": 0.33,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "distance": 400,
+                "icon": "https://render.guildwars2.com/file/B4087CEB5CC006172E0A09DADC5452807A0CA3F7/2440712.png",
+                "text": "Launch",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "타격 횟수",
+                "type": "Number",
+                "value": 10
+            },
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/5D2809040E5531A006553E0E6FA56445E821E9C0/1466362.png",
+        "id": 35304,
+        "name": "Dust Charge",
+        "professions": [
+            "Thief",
+            "Mesmer",
+            "Warrior",
+            "Elementalist",
+            "Necromancer",
+            "Guardian",
+            "Ranger",
+            "Engineer",
+            "Revenant"
+        ],
+        "slot": "Weapon_5",
+        "type": "Bundle",
+        "weapon_type": "None"
+    }
+]

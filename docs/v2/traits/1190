@@ -1,0 +1,29 @@
+[
+    {
+        "description": "Enemies you interrupt are inflicted with torment.<br><c=@reminder>This trait can only affect enemies with defiance bars once per interval.</c>",
+        "facts": [
+            {
+                "apply_count": 2,
+                "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "status": "고통",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/22BAF280A66B3FD257B9FA2E911264AE1DC234EF/1012767.png",
+        "id": 1190,
+        "name": "Pressure Striking",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 44,
+        "tier": 2
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "description": "Gain protection when Mirage Cloak ends.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "status": "보호",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/275DBDFD630099D49A76287DDD237709150C1D73/1769955.png",
+        "id": 2174,
+        "name": "Mirage Mantle",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 59,
+        "tier": 2
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "chat_link": "[&Bjh3AAA=]",
+        "description": "Strike enemies in front of you and roll backward, breaking immobilizing effects.",
+        "dual_wield": "None",
+        "facts": [
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "불구",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "description": "이동할 수 없다(지속시간 중첩).",
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "속박",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "distance": 400,
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Distance",
+                "type": "Distance"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/9F19DB1D3E1629390F2360F2D866651BBC0F6155/1938788.png",
+                "text": "Evade",
+                "type": "Time"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/5AC578E641FC79E9B2F11F43EAF857140F937CF3/1058626.png",
+        "id": 30520,
+        "initiative": 4,
+        "name": "Debilitating Arc",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Weapon_3",
+        "specialization": 7,
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "requires_trait": 1238,
+                "target": "Healing",
+                "text": "회복",
+                "type": "AttributeAdjust",
+                "value": 407
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "requires_trait": 1238,
+                "target": "Healing",
+                "text": "회복",
+                "type": "AttributeAdjust",
+                "value": 509
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "requires_trait": 1884,
+                "text": "지구력 회복",
+                "type": "Number",
+                "value": 8
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "requires_trait": 1884,
+                "text": "지구력 회복",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Staff"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "chat_link": "[&BpIxAAA=]",
+        "description": "Beast. Maul your foe fiercely and poison them.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "dmg_multiplier": 0.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 12,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "status": "중독",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/695DA2E83CF23F527DD9109333CCB5239053DB94/104027.png",
+        "id": 12690,
+        "name": "Poisonous Maul",
+        "professions": [],
+        "slot": "Pet",
+        "type": "Pet",
+        "weapon_type": "None"
+    }
+]

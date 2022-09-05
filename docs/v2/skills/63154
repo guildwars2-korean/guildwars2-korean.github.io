@@ -1,0 +1,46 @@
+[
+    {
+        "chat_link": "[&BrL2AAA=]",
+        "description": "Fire three missiles that hinder foes and help allies.",
+        "dual_wield": "None",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "타격 횟수",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 63267,
+        "icon": "https://render.guildwars2.com/file/A9905B250CDB0820D4A51C623A6ED6024B33D897/2503750.png",
+        "id": 63154,
+        "initiative": 4,
+        "name": "Triple Threat",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Weapon_3",
+        "specialization": 71,
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "requires_trait": 1238,
+                "target": "Healing",
+                "text": "회복",
+                "type": "AttributeAdjust",
+                "value": 407
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Scepter"
+    }
+]

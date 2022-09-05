@@ -1,0 +1,50 @@
+[
+    {
+        "chat_link": "[&BsSkAAA=]",
+        "description": "Beast. Release a powerful roar that blinds nearby foes.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 35
+            },
+            {
+                "dmg_multiplier": 0.35,
+                "hit_count": 3,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 3,
+                "description": "다음 공격이 빗나간다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "status": "실명",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 300,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/06EFCDD57F325D6A5E472660E993BF62E0CADD0A/1770552.png",
+        "id": 42180,
+        "name": "Blinding Roar",
+        "professions": [],
+        "slot": "Pet",
+        "type": "Pet",
+        "weapon_type": "None"
+    }
+]

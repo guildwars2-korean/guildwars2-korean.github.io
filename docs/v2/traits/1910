@@ -1,0 +1,12 @@
+[
+    {
+        "description": "You can wield shield items.",
+        "icon": "https://render.guildwars2.com/file/921D3C9DF7AC7F012B673E6E98FF26EBB49160F7/1770028.png",
+        "id": 1910,
+        "name": "Shield Proficiency",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 40,
+        "tier": 0
+    }
+]

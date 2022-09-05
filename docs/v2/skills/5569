@@ -1,0 +1,182 @@
+[
+    {
+        "categories": [
+            "Glyph"
+        ],
+        "chat_link": "[&BsEVAAA=]",
+        "description": "Glyph. Heal yourself and gain a boon based on your attunement.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "회복",
+                "type": "AttributeAdjust",
+                "value": 6494
+            },
+            {
+                "apply_count": 3,
+                "description": "데미지가 증가한다(강도 중첩).",
+                "duration": 20,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "prefix": {
+                    "description": "Cast fire spells.",
+                    "icon": "https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png",
+                    "status": "Fire Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "prefix": {
+                    "description": "Cast water spells.",
+                    "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
+                    "status": "Water Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "재생력",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 33% 증가한다(지속시간 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                "prefix": {
+                    "description": "Cast air spells.",
+                    "icon": "https://render.guildwars2.com/file/4857F59020DE3B0950B9C91F3D234A1C1932984A/103048.png",
+                    "status": "Air Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "신속",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "prefix": {
+                    "description": "Cast earth spells.",
+                    "icon": "https://render.guildwars2.com/file/4B8056D9BD080DC8E74AE6A57B2B383A2D4265C9/102870.png",
+                    "status": "Earth Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "보호",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1E78AF94DA0249583CBE14CD30CD24EF5FE21A40/103350.png",
+        "id": 5569,
+        "name": "Glyph of Elemental Harmony",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Heal",
+        "subskills": [
+            {
+                "attunement": "Fire",
+                "id": 34743
+            },
+            {
+                "attunement": "Water",
+                "id": 34651
+            },
+            {
+                "attunement": "Air",
+                "id": 34724
+            },
+            {
+                "attunement": "Earth",
+                "id": 34609
+            }
+        ],
+        "traited_facts": [
+            {
+                "apply_count": 4,
+                "description": "데미지가 증가한다(강도 중첩).",
+                "duration": 20,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "overrides": 2,
+                "prefix": {
+                    "description": "Cast fire spells.",
+                    "icon": "https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png",
+                    "status": "Fire Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "requires_trait": 229,
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "duration": 20,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "overrides": 3,
+                "prefix": {
+                    "description": "Cast water spells.",
+                    "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
+                    "status": "Water Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "requires_trait": 229,
+                "status": "재생력",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 33% 증가한다(지속시간 중첩).",
+                "duration": 20,
+                "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                "overrides": 4,
+                "prefix": {
+                    "description": "Cast air spells.",
+                    "icon": "https://render.guildwars2.com/file/4857F59020DE3B0950B9C91F3D234A1C1932984A/103048.png",
+                    "status": "Air Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "requires_trait": 229,
+                "status": "신속",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "overrides": 5,
+                "prefix": {
+                    "description": "Cast earth spells.",
+                    "icon": "https://render.guildwars2.com/file/4B8056D9BD080DC8E74AE6A57B2B383A2D4265C9/102870.png",
+                    "status": "Earth Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "requires_trait": 229,
+                "status": "보호",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            }
+        ],
+        "type": "Heal",
+        "weapon_type": "None"
+    }
+]

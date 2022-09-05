@@ -1,0 +1,62 @@
+[
+    {
+        "attunement": "Earth",
+        "chat_link": "[&BuTJAAA=]",
+        "description": "Cause the surrounding magnetic aura to violently explode.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "status": "보호",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "finisher_type": "Blast",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "콤보 피니셔",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/6707FCC7A3DF19453F57046821BF682EF3CDFE06/2029299.png",
+        "id": 51684,
+        "name": "Transmute Earth",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_3",
+        "type": "Weapon",
+        "weapon_type": "Staff"
+    }
+]

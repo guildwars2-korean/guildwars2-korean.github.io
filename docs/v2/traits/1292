@@ -1,0 +1,86 @@
+[
+    {
+        "description": "Immobilizing a foe poisons them. Striking a foe below the health threshold immobilizes them.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 50,
+                "text": "생명력 임계",
+                "type": "Percent"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동할 수 없다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "속박",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동할 수 없다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "속박",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "status": "중독",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "status": "중독",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/B3C6616D917A63B55B140E1835B709CE95631593/1012742.png",
+        "id": 1292,
+        "name": "Panic Strike",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 28,
+        "tier": 2,
+        "traited_facts": [
+            {
+                "apply_count": 2,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "overrides": 4,
+                "requires_trait": 1291,
+                "status": "중독",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "overrides": 5,
+                "requires_trait": 1291,
+                "status": "중독",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ]
+    }
+]

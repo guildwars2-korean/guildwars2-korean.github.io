@@ -1,0 +1,24 @@
+[
+    {
+        "chat_link": "[&BlAHAQA=]",
+        "description": "The ritualist surges with power, calling forth a series of lightning strikes that barrage the arena.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 2000
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 12
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/9875EAC10F3A93F8EF4BC40204806C6172E14494/2141735.png",
+        "id": 67408,
+        "name": "Spiritual Lightning"
+    }
+]

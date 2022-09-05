@@ -1,0 +1,46 @@
+[
+    {
+        "chat_link": "[&BtApAAA=]",
+        "description": "Strike your foe and gain life force.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "dmg_multiplier": 1.2,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 6,
+                "text": "Life Force",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 2
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/0BED96F7290CECDDDA5DD1CB5B4FC07BAD5115F6/103852.png",
+        "id": 10704,
+        "name": "Necrotic Bite",
+        "prev_chain": 10703,
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Weapon_1",
+        "type": "Weapon",
+        "weapon_type": "Dagger"
+    }
+]

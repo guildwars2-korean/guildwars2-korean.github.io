@@ -1,0 +1,39 @@
+[
+    {
+        "chat_link": "[&BlUXAAA=]",
+        "description": "Activate your slick shoes, enabling you to move at superior speeds.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 25
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                "text": "스턴 해제",
+                "type": "StunBreak",
+                "value": true
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+                "status": "슈퍼스피드",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+        "id": 5973,
+        "name": "슈퍼스피드",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Toolbelt",
+        "type": "Toolbelt",
+        "weapon_type": "None"
+    }
+]

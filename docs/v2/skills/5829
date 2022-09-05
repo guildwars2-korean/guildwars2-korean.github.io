@@ -1,0 +1,87 @@
+[
+    {
+        "chat_link": "[&BsUWAAA=]",
+        "description": "Discharge a lightning shot that bounces between multiple foes, blinding and confusing them.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 12
+            },
+            {
+                "dmg_multiplier": 0.4,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "다음 공격이 빗나간다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "status": "실명",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 3,
+                "description": "스킬 시전시 데미지를 받는다(강도 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                "status": "혼란",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Number of Bounces",
+                "type": "Number",
+                "value": 4
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/CBC5740B8092A6474595F8BFB2394D145D3AB0E8/103406.png",
+        "id": 5829,
+        "name": "Static Shot",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Weapon_3",
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "다음 공격이 빗나간다(지속시간 중첩).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "overrides": 3,
+                "requires_trait": 1878,
+                "status": "실명",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 3,
+                "description": "스킬 시전시 데미지를 받는다(강도 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                "overrides": 4,
+                "requires_trait": 1878,
+                "status": "혼란",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Pistol"
+    }
+]

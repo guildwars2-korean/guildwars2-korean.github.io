@@ -1,0 +1,48 @@
+[
+    {
+        "chat_link": "[&BkooAAA=]",
+        "description": "Shoot out a bolt that blinds enemies in a line and summons a clone to attack the first foe it strikes.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "dmg_multiplier": 0.1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "다음 공격이 빗나간다(지속시간 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "status": "실명",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/33B7ADCA30B5EF4C1B52F71F39596FDEE9ECD8EB/103776.png",
+        "id": 10314,
+        "name": "Counterspell",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Weapon_2",
+        "type": "Weapon",
+        "weapon_type": "Scepter"
+    }
+]

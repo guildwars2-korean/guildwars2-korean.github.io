@@ -1,0 +1,84 @@
+[
+    {
+        "chat_link": "[&BtmrAAA=]",
+        "cost": 12,
+        "description": "Create a debilitating zone by firing a volley of flaming arrows at an area.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 9
+            },
+            {
+                "apply_count": 4,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "화상",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 4,
+                "description": "스킬 시전과 행동이 느려진다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+                "status": "둔화",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "dmg_multiplier": 0.5,
+                "hit_count": 4,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "횟수",
+                "type": "Number",
+                "value": 4
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            },
+            {
+                "field_type": "Fire",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "콤보 필드",
+                "type": "ComboField"
+            }
+        ],
+        "flags": [
+            "GroundTargeted",
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/AF0F3CECA42ABDE06707040ECDD994F8FB2B5F21/1770599.png",
+        "id": 43993,
+        "name": "Spiritcrush",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Weapon_4",
+        "specialization": 63,
+        "type": "Weapon",
+        "weapon_type": "Shortbow"
+    }
+]

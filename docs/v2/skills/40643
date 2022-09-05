@@ -1,0 +1,42 @@
+[
+    {
+        "chat_link": "[&BsOeAAA=]",
+        "description": "Weaken and cause fear in all foes within earshot.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 18
+            },
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                "status": "약화",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "공포에 질려 도망간다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/30307A6E766D74B6EB09EDA12A4A2DE50E4D76F4/102869.png",
+                "status": "공포",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/26FD7A62F70728743F5E030B22363D00F9E19BDE/103068.png",
+        "id": 40643,
+        "name": "Intimidating Shout"
+    }
+]

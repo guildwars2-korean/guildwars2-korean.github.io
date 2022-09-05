@@ -1,0 +1,82 @@
+[
+    {
+        "chat_link": "[&BvR0AAA=]",
+        "description": "Cleanse conditions and become a mobile fire field that burns nearby foes. When the field expires, it explodes, damaging foes and burning them again.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 25
+            },
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "화상",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "화상",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "상태이상 해제",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "field_type": "Fire",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "콤보 필드",
+                "type": "ComboField"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/F7A4B096DB511FBE534A636C6E62E19505A70910/1058649.png",
+        "id": 29940,
+        "name": "Flames of War",
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Weapon_5",
+        "specialization": 18,
+        "type": "Weapon",
+        "weapon_type": "Torch"
+    }
+]

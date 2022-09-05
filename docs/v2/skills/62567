@@ -1,0 +1,62 @@
+[
+    {
+        "chat_link": "[&Bmf0AAA=]",
+        "description": "Enter Harbinger Shroud, granting powerful offensive skills but leaving you vulnerable to attack.\nAs you remain in Harbinger Shroud, you accumulate blight over time.\nBlight decreases your maximum health.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "apply_count": 1,
+                "description": "Reduces your maximum health. Stacks intensity.",
+                "duration": 25,
+                "icon": "https://render.guildwars2.com/file/6B797B70EF545937F677BCD463BD23DC749B0801/2479350.png",
+                "status": "Blight",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "flip_skill": 62540,
+        "icon": "https://render.guildwars2.com/file/C9CA706909A104A509F594AADA150D680AA948BC/2479400.png",
+        "id": 62567,
+        "name": "Harbinger Shroud",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Profession_1",
+        "traited_facts": [
+            {
+                "apply_count": 3,
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "requires_trait": 2192,
+                "status": "견고",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "requires_trait": 2192,
+                "status": "견고",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

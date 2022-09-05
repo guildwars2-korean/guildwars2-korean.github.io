@@ -1,0 +1,80 @@
+[
+    {
+        "chat_link": "[&BripAAA=]",
+        "description": "Shade. Sand rises up near your shades to shield nearby allies.\nTargets affected by this ability can only be affected once per cast.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "보호막",
+                "type": "AttributeAdjust",
+                "value": 1188
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "보호막",
+                "type": "AttributeAdjust",
+                "value": 932
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "아군 적용 대상",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "아군 적용 대상",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/7F20920A42951A471352CE56CBD1F15257C10757/1770200.png",
+                "percent": 27,
+                "text": "Life Force Cost"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/BD17FADB77385D459141BC62BBFDDE2D68C8480B/1770538.png",
+        "id": 43448,
+        "name": "Sand Cascade",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Profession_3",
+        "specialization": 60,
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "overrides": 3,
+                "requires_trait": 2112,
+                "text": "아군 적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 300,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "overrides": 5,
+                "requires_trait": 2112,
+                "text": "범위",
+                "type": "Distance"
+            }
+        ],
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

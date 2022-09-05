@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BhDVAAA=]",
+        "description": "Enhances nearby allies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/0399B3F49AB8C94602BECE809EBC0FE238ECB64E/103122.png",
+        "id": 54544,
+        "name": "Steadfast Strike"
+    }
+]

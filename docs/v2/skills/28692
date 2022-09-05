@@ -1,0 +1,63 @@
+[
+    {
+        "chat_link": "[&BhRwAAA=]",
+        "cost": 10,
+        "description": "Throw your spear at your foe. Upon impact, damage your foe and connect to them through the Mists. While the connection is active it will apply burning.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 12
+            },
+            {
+                "dmg_multiplier": 1.25,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Pulse burning over time. End connective throw early to shadowstep to the target.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/06CBE0372AFC3AA3077DF9E57093724149EF54BA/961469.png",
+                "status": "Igniting Brand",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "화상",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "flip_skill": 28815,
+        "icon": "https://render.guildwars2.com/file/3DB32CAADCFFF9F034FFC0A6012198061D0F02F4/1058615.png",
+        "id": 28692,
+        "name": "Igniting Brand",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Weapon_4",
+        "type": "Weapon",
+        "weapon_type": "Spear"
+    }
+]

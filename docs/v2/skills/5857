@@ -1,0 +1,78 @@
+[
+    {
+        "categories": [
+            "Turret"
+        ],
+        "chat_link": "[&BuEWAAA=]",
+        "description": "Turret. Deploy a turret that heals you briefly, then regenerates you and your allies. This turret overcharges when it is first placed.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "회복",
+                "type": "AttributeAdjust",
+                "value": 2520
+            },
+            {
+                "apply_count": 1,
+                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "status": "재생력",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 480,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 5980,
+        "icon": "https://render.guildwars2.com/file/7D5297C096055DE43153D90F965763F8F2D5FF25/103413.png",
+        "id": 5857,
+        "name": "Healing Turret",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Heal",
+        "toolbelt_skill": 6176,
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+                "requires_trait": 1678,
+                "status": "활력",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "requires_trait": 1678,
+                "text": "Boon Application Interval",
+                "type": "Time"
+            }
+        ],
+        "type": "Heal",
+        "weapon_type": "None"
+    }
+]

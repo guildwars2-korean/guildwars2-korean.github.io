@@ -1,0 +1,96 @@
+[
+    {
+        "chat_link": "[&BisXAAA=]",
+        "description": "Fire a napalm ball that rolls through foes and explodes.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 600
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 6
+            },
+            {
+                "dmg_multiplier": 0.25,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "화상",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "화상",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "폭발 범위",
+                "type": "Number",
+                "value": 240
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
+                "text": "Pierces",
+                "type": "NoData"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
+                "text": "Explosion",
+                "type": "NoData"
+            },
+            {
+                "finisher_type": "Blast",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "콤보 피니셔",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [
+            "GroundTargeted",
+            "NoUnderwater"
+        ],
+        "flip_skill": 17260,
+        "icon": "https://render.guildwars2.com/file/703AA8FC9F98FA4F6700AF06796575D3020A05C6/103436.png",
+        "id": 5931,
+        "name": "Flame Blast",
+        "professions": [
+            "Thief",
+            "Mesmer",
+            "Warrior",
+            "Elementalist",
+            "Necromancer",
+            "Guardian",
+            "Ranger",
+            "Engineer",
+            "Revenant"
+        ],
+        "slot": "Weapon_2",
+        "type": "Bundle",
+        "weapon_type": "None"
+    }
+]

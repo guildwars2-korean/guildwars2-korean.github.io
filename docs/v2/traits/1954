@@ -1,0 +1,32 @@
+[
+    {
+        "description": "A percentage of all strike damage you take is delivered after a delay.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 33,
+                "text": "Damage Reduced",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 20,
+                "text": "Damage Reduced",
+                "type": "Percent"
+            },
+            {
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/5A6574F180742568094CD5F4F8D9D9AF96394C00/2175048.png",
+        "id": 1954,
+        "name": "Damage Dampener",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 43,
+        "tier": 2
+    }
+]

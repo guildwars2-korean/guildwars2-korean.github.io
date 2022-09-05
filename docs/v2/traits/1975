@@ -1,0 +1,55 @@
+[
+    {
+        "description": "Enemies that you interrupt suffer a pulmonary impact.<br><c=@reminder>This trait can only affect enemies with defiance bars once per interval.</c>",
+        "facts": [
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/BED87F28D907FE0CE59346786D0345749A2E6DDC/1058551.png",
+        "id": 1975,
+        "name": "Impacting Disruption",
+        "order": 2,
+        "skills": [
+            {
+                "categories": [
+                    "Physical"
+                ],
+                "chat_link": "[&BjJ4AAA=]",
+                "description": "Physical. Cause a rupture that deals massive damage when this skill ends. This ability cannot critically hit.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                        "text": "방어 불가",
+                        "type": "Unblockable",
+                        "value": true
+                    },
+                    {
+                        "dmg_multiplier": 3.28,
+                        "hit_count": 1,
+                        "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                        "text": "데미지",
+                        "type": "Damage"
+                    },
+                    {
+                        "dmg_multiplier": 0.75,
+                        "hit_count": 1,
+                        "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                        "text": "데미지",
+                        "type": "Damage"
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/96580AB413D9791D53D45093063F54CD9F56C513/1058634.png",
+                "id": 30770,
+                "name": "Pulmonary Impact"
+            }
+        ],
+        "slot": "Major",
+        "specialization": 7,
+        "tier": 2
+    }
+]

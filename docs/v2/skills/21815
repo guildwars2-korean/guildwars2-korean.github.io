@@ -1,0 +1,65 @@
+[
+    {
+        "categories": [
+            "Stance"
+        ],
+        "chat_link": "[&BjdVAAA=]",
+        "description": "Stance. Heal yourself. Absorb all incoming strikes for a period of time.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "text": "Initial Self Heal",
+                "type": "HealingAdjust"
+            },
+            {
+                "apply_count": 1,
+                "description": "All incoming attacks heal you.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/29C39009CD5230764480DC2404E740A49898AFA0/699533.png",
+                "status": "Defiant Stance",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/29C39009CD5230764480DC2404E740A49898AFA0/699533.png",
+        "id": 21815,
+        "name": "Defiant Stance",
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Heal",
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "All incoming attacks heal you.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/29C39009CD5230764480DC2404E740A49898AFA0/699533.png",
+                "overrides": 2,
+                "requires_trait": 1375,
+                "status": "Defiant Stance",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+                "requires_trait": 1375,
+                "status": "활력",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Heal",
+        "weapon_type": "None"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "chat_link": "[&BjwzAAA=]",
+        "description": "Cripple your foe with a final strike.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "dmg_multiplier": 1.4,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "불구",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                "status": "약화",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/6598D9F0150FDF9F77A24CCC060C07C15B7B060D/103168.png",
+        "id": 13116,
+        "name": "Crippling Strike",
+        "prev_chain": 13088,
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Weapon_1",
+        "type": "Weapon",
+        "weapon_type": "Sword"
+    }
+]

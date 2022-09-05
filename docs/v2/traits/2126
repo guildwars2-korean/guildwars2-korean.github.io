@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Removing boons from a foe deals damage and gives you adrenaline.",
+        "facts": [
+            {
+                "dmg_multiplier": 0.1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 1.35,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
+                "text": "방어 불가",
+                "type": "NoData"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+                "text": "Adrenaline",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/63015872E20761F5E76F803A90666FBE4E262BC9/536051.png",
+                "text": "Cannot Critical Hit",
+                "type": "NoData"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/CBD0D10F08D5D57ECAF57C0CC122D6419BE0060A/1770015.png",
+        "id": 2126,
+        "name": "Loss Aversion",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 61,
+        "tier": 2
+    }
+]

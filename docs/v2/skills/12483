@@ -1,0 +1,40 @@
+[
+    {
+        "categories": [
+            "Survival"
+        ],
+        "chat_link": "[&BsMwAAA=]",
+        "description": "Survival. You and your pet regenerate health over time.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 25
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Health per Second",
+                "type": "AttributeAdjust",
+                "value": 1062
+            },
+            {
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/5DBD13DA0EF70A3F0CA42857B72E950B6C76FDDC/103987.png",
+        "id": 12483,
+        "name": "Troll Unguent",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Heal",
+        "type": "Heal",
+        "weapon_type": "None"
+    }
+]

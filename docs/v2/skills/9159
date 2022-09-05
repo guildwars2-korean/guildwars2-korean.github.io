@@ -1,0 +1,42 @@
+[
+    {
+        "categories": [],
+        "chat_link": "[&BscjAAA=]",
+        "description": "Chain. Strike your foe.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "dmg_multiplier": 0.8,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 9160,
+        "icon": "https://render.guildwars2.com/file/CDDCE227F218D8F1AFD49F46C57991E49666D964/103159.png",
+        "id": 9159,
+        "name": "Hammer Swing",
+        "next_chain": 9160,
+        "professions": [
+            "Guardian"
+        ],
+        "slot": "Weapon_1",
+        "type": "Weapon",
+        "weapon_type": "Hammer"
+    }
+]

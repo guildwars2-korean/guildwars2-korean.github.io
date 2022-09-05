@@ -1,0 +1,42 @@
+[
+    {
+        "description": "Chill deals damage over time.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "출혈",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "출혈",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/D13FB8FB29539EFD5E1FE81FF991E2222E38CA0F/1012577.png",
+        "id": 1919,
+        "name": "Deathly Chill",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 34,
+        "tier": 3,
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "requires_trait": 253,
+                "target": "ConditionDamage",
+                "text": "데미지",
+                "type": "AttributeAdjust",
+                "value": 202
+            }
+        ]
+    }
+]

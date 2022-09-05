@@ -1,0 +1,59 @@
+[
+    {
+        "description": "Your next attack after dodging causes weakness to foes struck. Weakened enemies deal less damage to you, and you deal increased strike damage to them.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "Next attack weakens enemies.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/140F77BB56B93C32BFDAC30CB332FCBAAF0921A5/1058547.png",
+                "status": "Weakening Strikes",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                "status": "약화",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                "status": "약화",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 10,
+                "text": "Damage Reduced",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 10,
+                "text": "데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 7,
+                "text": "데미지 증가",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/140F77BB56B93C32BFDAC30CB332FCBAAF0921A5/1058547.png",
+        "id": 1887,
+        "name": "Weakening Strikes",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 7,
+        "tier": 2
+    }
+]

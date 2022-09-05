@@ -1,0 +1,39 @@
+[
+    {
+        "description": "Blinding, immobilizing, or affecting a foe with crowd control heals nearby allies.<br><c=@reminder>Skills that strike many foes at the same time can heal multiple times.</c>",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 0.25
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "회복",
+                "type": "AttributeAdjust",
+                "value": 261
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/3DE4920AF60A437EDD94BBF435FAC19821DA7809/2128016.png",
+        "id": 1819,
+        "name": "Words of Censure",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 12,
+        "tier": 2
+    }
+]

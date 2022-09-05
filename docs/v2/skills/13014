@@ -1,0 +1,50 @@
+[
+    {
+        "chat_link": "[&BtYyAAA=]",
+        "description": "Shadowstep to your foe and steal from them.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            }
+        ],
+        "flags": [],
+        "flip_skill": 43390,
+        "icon": "https://render.guildwars2.com/file/A9ED689FE901E12467497F3FE79A04D300ADE3BB/103876.png",
+        "id": 13014,
+        "name": "Steal",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Profession_1",
+        "traited_facts": [
+            {
+                "apply_count": 5,
+                "description": "받는 데미지가 증가한다(강도 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "requires_trait": 1169,
+                "status": "취약",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "requires_trait": 1163,
+                "text": "아군 적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

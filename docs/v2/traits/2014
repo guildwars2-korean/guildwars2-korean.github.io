@@ -1,0 +1,47 @@
+[
+    {
+        "description": "Using a heal skill grants superspeed in a radius around you. Using a healing skill's associated tool-belt skill grants you personal superspeed.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "이동속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "duration": 7,
+                "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+                "status": "슈퍼스피드",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+                "status": "슈퍼스피드",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+                "status": "슈퍼스피드",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Ally Superspeed Radius",
+                "type": "Distance"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/9EA1A2AEAEEA679A4038D7A136C1C7B61A08C3C1/2175051.png",
+        "id": 2014,
+        "name": "Speed of Synergy",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 43,
+        "tier": 2
+    }
+]

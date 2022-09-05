@@ -1,0 +1,52 @@
+[
+    {
+        "chat_link": "[&BpP0AAA=]",
+        "description": "Fire quick bolts of dark energy that explode on impact, inflicting torment to enemies in the area.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "dmg_multiplier": 0.6,
+                "hit_count": 2,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "status": "고통",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 120,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/03AB6A0BA611767DA8A30A0D0E68CE580760EA34/2479402.png",
+        "id": 62611,
+        "name": "Tainted Bolts",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Downed_1",
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

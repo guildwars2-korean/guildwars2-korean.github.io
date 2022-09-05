@@ -1,0 +1,79 @@
+[
+    {
+        "attunement": "Fire",
+        "chat_link": "[&BmxzAAA=]",
+        "description": "Give stacks of might to yourself, then spread boons you have to allies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 600
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "apply_count": 3,
+                "description": "데미지가 증가한다(강도 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                "status": "분노",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "데미지가 증가한다(강도 중첩).",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "아군 적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "아군 적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/6B4C0B3DFDB4FDDCB22552719D980D9E4AE2C9D1/1029998.png",
+        "id": 29548,
+        "name": "Heat Sync",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_4",
+        "specialization": 48,
+        "type": "Weapon",
+        "weapon_type": "Warhorn"
+    }
+]

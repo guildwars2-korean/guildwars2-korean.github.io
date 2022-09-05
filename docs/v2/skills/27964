@@ -1,0 +1,83 @@
+[
+    {
+        "chat_link": "[&BjxtAAA=]",
+        "cost": 5,
+        "description": "Leap at your foe and deliver a massive attack that cascades outwards. Each attack area is a blast finisher.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 8
+            },
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 4,
+                "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                "duration": 7,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "status": "고통",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                "status": "약화",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "타격 횟수",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "finisher_type": "Blast",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "콤보 피니셔",
+                "type": "ComboFinisher"
+            },
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/EBC404DE4ACFF17BDB0FF7BC9BF592641BA64046/961470.png",
+        "id": 27964,
+        "name": "Echoing Eruption",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Weapon_3",
+        "type": "Weapon",
+        "weapon_type": "Mace"
+    }
+]

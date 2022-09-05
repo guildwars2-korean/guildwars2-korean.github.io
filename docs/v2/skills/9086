@@ -1,0 +1,87 @@
+[
+    {
+        "chat_link": "[&Bn4jAAA=]",
+        "description": "Protect allies from the next incoming attack against them, and lash out when attacked, granting boons to nearby allies and fully charging the passive burning effect.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 15
+            },
+            {
+                "dmg_multiplier": 2,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "status": "보호",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "다음 공격을 한번 막는다(지속시간 중첩).",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
+                "status": "이지스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/7C42A81ACFBFFE32A528DFCA8014E7C4476358C8/103202.png",
+        "id": 9086,
+        "name": "Protector's Strike",
+        "professions": [
+            "Guardian"
+        ],
+        "slot": "Weapon_3",
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "overrides": 2,
+                "requires_trait": 1899,
+                "status": "보호",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "다음 공격을 한번 막는다(지속시간 중첩).",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
+                "overrides": 3,
+                "requires_trait": 1899,
+                "status": "이지스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Mace"
+    }
+]

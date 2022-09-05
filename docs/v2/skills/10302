@@ -1,0 +1,53 @@
+[
+    {
+        "categories": [
+            "Glamour"
+        ],
+        "chat_link": "[&Bj4oAAA=]",
+        "description": "Glamour. Create a dome around your foes that reflects projectiles.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 32
+            },
+            {
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Shield Duration",
+                "type": "Time"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "field_type": "Ethereal",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "콤보 필드",
+                "type": "ComboField"
+            }
+        ],
+        "flags": [
+            "GroundTargeted"
+        ],
+        "icon": "https://render.guildwars2.com/file/A5720B5C9ED8CB02A3272944C50DF8426E22C5A0/103773.png",
+        "id": 10302,
+        "name": "Feedback",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

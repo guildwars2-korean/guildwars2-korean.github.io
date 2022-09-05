@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BrwJAQA=]",
+        "description": "The Enforcer rushes to a location, leaving behind a trail of fire that damages and burns enemies within.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 3000
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/9875EAC10F3A93F8EF4BC40204806C6172E14494/2141735.png",
+        "id": 68028,
+        "name": "Rushing Justice"
+    }
+]

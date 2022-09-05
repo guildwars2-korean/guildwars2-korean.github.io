@@ -1,0 +1,24 @@
+[
+    {
+        "chat_link": "[&Bv3YAAA=]",
+        "description": "A basic melee knockback.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 250
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 15
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/7CF5FFD35624B6D243B97CE4344018C3F1E6ACB7/103682.png",
+        "id": 55549,
+        "name": "Crushing Blow"
+    }
+]

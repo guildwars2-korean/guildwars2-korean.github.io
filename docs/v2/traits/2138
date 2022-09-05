@@ -1,0 +1,30 @@
+[
+    {
+        "description": "Gain vigor when using a <c=@abilitytype>Dual Attack.</c> Dodge rolling grants a barrier.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+                "status": "활력",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "보호막",
+                "type": "AttributeAdjust",
+                "value": 894
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/28BEBF776AF9FDBEF0BDF8B715265AE724E40878/1769923.png",
+        "id": 2138,
+        "name": "Invigorating Strikes",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 56,
+        "tier": 3
+    }
+]

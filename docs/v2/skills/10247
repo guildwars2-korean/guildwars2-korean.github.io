@@ -1,0 +1,47 @@
+[
+    {
+        "categories": [
+            "Signet"
+        ],
+        "chat_link": "[&BgcoAAA=]",
+        "description": "Signet Passive: Creates a clone every few seconds.\nSignet Active: Recharges shatter skills.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 60
+            },
+            {
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "전투시에만 적용",
+                "type": "NoData"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/24B9A56E45B7AB5AA96FF3E85505DF60EA6EBD11/103756.png",
+        "id": 10247,
+        "name": "Signet of Illusions",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Utility",
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "requires_trait": 752,
+                "text": "Active Clones Summoned",
+                "type": "Number",
+                "value": 1
+            }
+        ],
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "description": "Disabling a foe inflicts torment on them.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "status": "고통",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/130A2FAB4CFC7AECE5557EC0A1A20B039C0C0B9B/2229316.png",
+        "id": 1883,
+        "name": "Insidious Disruption",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 39,
+        "tier": 1
+    }
+]

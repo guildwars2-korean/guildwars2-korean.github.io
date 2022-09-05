@@ -1,0 +1,16 @@
+[
+    {
+        "chat_link": "[&BucXAAA=]",
+        "description": "Burst a bottle of Elixir H, randomly granting protection, regeneration, or swiftness to allies.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/7835AE041957D0DCCB7B2373CA76A90864017E09/103481.png",
+        "id": 6119,
+        "name": "Detonate Elixir H",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Toolbelt",
+        "type": "Toolbelt",
+        "weapon_type": "None"
+    }
+]

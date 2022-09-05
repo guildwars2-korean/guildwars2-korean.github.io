@@ -1,0 +1,51 @@
+[
+    {
+        "attunement": "Fire",
+        "chat_link": "[&BomqAAA=]",
+        "description": "Heat your sword a final time and use the full power of your flames to sear enemies and ignite them.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "dmg_multiplier": 1.6,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "화상",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/365C7D9672533C765C4DC819FC263D4C38AE0B1E/1770363.png",
+        "id": 43657,
+        "name": "Searing Slash",
+        "prev_chain": 40326,
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_1",
+        "specialization": 56,
+        "type": "Weapon",
+        "weapon_type": "Sword"
+    }
+]

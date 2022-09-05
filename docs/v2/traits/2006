@@ -1,0 +1,34 @@
+[
+    {
+        "description": "Gain expertise. Increase your outgoing condition damage when you inflict burning.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/4977CD5BAF0A7B6412DCC775C3909F7D4EFE4C65/2229319.png",
+                "target": "ConditionDuration",
+                "type": "AttributeAdjust",
+                "value": 150
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/4977CD5BAF0A7B6412DCC775C3909F7D4EFE4C65/2229319.png",
+                "target": "ConditionDuration",
+                "type": "AttributeAdjust",
+                "value": 60
+            },
+            {
+                "apply_count": 1,
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/F806ACB6130CED2DACC9DD804E4303327073385A/1012358.png",
+                "status": "Thermal Vision",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/F806ACB6130CED2DACC9DD804E4303327073385A/1012358.png",
+        "id": 2006,
+        "name": "Thermal Vision",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 38,
+        "tier": 2
+    }
+]

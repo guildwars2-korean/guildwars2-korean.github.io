@@ -1,0 +1,86 @@
+[
+    {
+        "categories": [
+            "LegendaryDemon"
+        ],
+        "chat_link": "[&Bnx5AAA=]",
+        "cost": 30,
+        "description": "Legendary Demon. Leap toward the targeted area and pull foes toward your landing point.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 600
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 3
+            },
+            {
+                "dmg_multiplier": 1.2,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "status": "냉기",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D5F6EBC4630F0E10F3DDB7A6DBB63592CD4B00BC/2440717.png",
+                "text": "Pull",
+                "type": "Number",
+                "value": 360
+            },
+            {
+                "field_type": "Dark",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "콤보 필드",
+                "type": "ComboField"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/CA26B3FC712CCF9BD695BD1128B51A759AFA0522/961452.png",
+        "id": 31100,
+        "name": "Call to Anguish",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Utility",
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "데미지를 주지않는 상태이상 효과를 무시한다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+                "requires_trait": 1789,
+                "status": "저항",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

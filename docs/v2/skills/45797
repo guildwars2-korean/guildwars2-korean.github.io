@@ -1,0 +1,61 @@
+[
+    {
+        "chat_link": "[&BuWyAAA=]",
+        "description": "Beast. Shrug off all movement-impairing conditions and become unflinching in the face of normal attacks.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 35
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                "text": "스턴 해제",
+                "type": "StunBreak",
+                "value": true
+            },
+            {
+                "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "불구",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "status": "냉기",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "description": "이동할 수 없다(지속시간 중첩).",
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "속박",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Take no damage from incoming attacks.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/0A0059CF0F036DBBE3EDAAFBC6136EA5F01E43CD/1770567.png",
+                "status": "Unflinching Fortitude",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/0A0059CF0F036DBBE3EDAAFBC6136EA5F01E43CD/1770567.png",
+        "id": 45797,
+        "name": "Unflinching Fortitude",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Profession_3",
+        "specialization": 55,
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

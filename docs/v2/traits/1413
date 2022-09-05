@@ -1,0 +1,39 @@
+[
+    {
+        "description": "Run faster while wielding melee weapons, and deal increased strike damage while you have swiftness. Movement skills break immobilization when used.",
+        "facts": [
+            {
+                "description": "이동할 수 없다(지속시간 중첩).",
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "속박",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 25,
+                "text": "Movement Speed Increase",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 10,
+                "text": "데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 3,
+                "text": "데미지 증가",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/0D0DD0E0002F5ED423FF01A85E9890D32CE7960E/1012799.png",
+        "id": 1413,
+        "name": "Warrior's Sprint",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 51,
+        "tier": 1
+    }
+]

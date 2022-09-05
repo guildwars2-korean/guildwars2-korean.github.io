@@ -1,0 +1,130 @@
+[
+    {
+        "chat_link": "[&Bl0oAAA=]",
+        "description": "Throw an illusionary blade that creates a clone at its first target and then bounces to enemies and allies, dealing less damage to foes per hit and granting might to allies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "방어 불가",
+                "type": "Unblockable",
+                "value": true
+            },
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Maximum Damage",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 0.75,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Maximum Damage",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 0.4437,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "최소 데미지",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 0.1923,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "최소 데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 3,
+                "description": "데미지가 증가한다(강도 중첩).",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 3,
+                "description": "받는 데미지가 증가한다(강도 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "취약",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Number of Bounces",
+                "type": "Number",
+                "value": 4
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 15,
+                "text": "피격당 데미지 감소",
+                "type": "Percent"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/2E3FFCF506520375FEA923CAC4B25846035B5A0D/103789.png",
+        "id": 10333,
+        "name": "Mirror Blade",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Weapon_2",
+        "traited_facts": [
+            {
+                "dmg_multiplier": 0.3205,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "overrides": 5,
+                "requires_trait": 686,
+                "text": "최소 데미지",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 0.2662,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "overrides": 6,
+                "requires_trait": 686,
+                "text": "최소 데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "overrides": 9,
+                "requires_trait": 686,
+                "text": "Number of Bounces",
+                "type": "Number",
+                "value": 6
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+                "requires_trait": 2216,
+                "text": "Blade",
+                "type": "NoData"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Greatsword"
+    }
+]

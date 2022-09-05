@@ -1,0 +1,113 @@
+[
+    {
+        "chat_link": "[&BtvEAAA=]",
+        "description": "Unleash the Mists toward your enemies, changing effects based on your current legend.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "dmg_multiplier": 0.6,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "prefix": {
+                    "description": "Currently invoking the power of Mallyx the Unyielding.",
+                    "icon": "https://render.guildwars2.com/file/1A1407F7D34E5ED41B59A25F39EBF728CC926423/961413.png",
+                    "status": "Legendary Demon Stance",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "고통",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 데미지가 증가한다(강도 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "prefix": {
+                    "description": "Currently invoking the power of Shiro Tagachi.",
+                    "icon": "https://render.guildwars2.com/file/67CDD35F6BC3072E0837715A5E0A90646529BAA2/1030005.png",
+                    "status": "Legendary Assassin Stance",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "취약",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                "prefix": {
+                    "description": "Currently invoking the power of King Jalis Ironhammer.",
+                    "icon": "https://render.guildwars2.com/file/03C66FA8A89697A0C4D309484172080E3A1141EF/961410.png",
+                    "status": "Legendary Dwarf Stance",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "약화",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "prefix": {
+                    "description": "Currently invoking the power of Glint.",
+                    "icon": "https://render.guildwars2.com/file/32F8A52E3D27E3B404976092AFD7585533B7E77E/1983635.png",
+                    "status": "Legendary Dragon Stance",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "화상",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "prefix": {
+                    "description": "Currently invoking the power of Archemorus and Saint Viktor.",
+                    "icon": "https://render.guildwars2.com/file/E1910F4C5C74E0B00AB262D2D3DBA3FB51BE90CA/2491626.png",
+                    "status": "Legendary Alliance Stance",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "냉기",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "finisher_type": "Projectile",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 20,
+                "text": "콤보 피니셔",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/E5ECC65C36EE7D6F167677CF2E18CEFEC3657B9A/1983637.png",
+        "id": 50395,
+        "name": "Mistsfire",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Weapon_1",
+        "type": "Weapon",
+        "weapon_type": "Trident"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Gain life force when you inflict burning, and remove or corrupt a boon.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 3
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 5,
+                "text": "Life Force",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/0B6B794BD907A580606F7D3FC91FB49732DF3858/1769965.png",
+        "id": 2102,
+        "name": "Nourishing Ashes",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 60,
+        "tier": 1
+    }
+]

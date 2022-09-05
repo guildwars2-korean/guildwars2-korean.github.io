@@ -1,0 +1,63 @@
+[
+    {
+        "chat_link": "[&BmxDAAA=]",
+        "description": "Detonate your napalm ball.",
+        "facts": [
+            {
+                "dmg_multiplier": 0.75,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Blast Damage",
+                "type": "Damage"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "폭발 범위",
+                "type": "Distance"
+            },
+            {
+                "finisher_type": "Blast",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "콤보 피니셔",
+                "type": "ComboFinisher"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "apply_count": 2,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "화상",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/7F05A4CE64E3E309BEC844B0D0FDFDF2ADD3ECAB/544544.png",
+        "id": 17260,
+        "name": "Detonate Flame Blast",
+        "professions": [
+            "Thief",
+            "Mesmer",
+            "Warrior",
+            "Elementalist",
+            "Necromancer",
+            "Guardian",
+            "Ranger",
+            "Engineer",
+            "Revenant"
+        ],
+        "slot": "Weapon_2",
+        "type": "Bundle",
+        "weapon_type": "None"
+    }
+]

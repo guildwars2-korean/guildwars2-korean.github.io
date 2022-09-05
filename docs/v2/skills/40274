@@ -1,0 +1,97 @@
+[
+    {
+        "chat_link": "[&BlKdAAA=]",
+        "description": "Punishment. Leave a trail of sand as you travel. Grant boons to allies passing through it. Inflict burning on enemies and corrupt a boon into cripple and torment.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 25
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                "text": "스턴 해제",
+                "type": "StunBreak",
+                "value": true
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 33% 증가한다(지속시간 중첩).",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                "status": "신속",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "status": "견고",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Boons Converted to Conditions",
+                "type": "Number",
+                "value": 1
+            },
+            {
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "apply_count": 1,
+                "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "status": "고통",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "불구",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "화상",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "dmg_multiplier": 0.55,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/707877465DF8AD08E7E7F30EC908CAA4684D203B/1770544.png",
+        "id": 40274,
+        "name": "Trail of Anguish",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Utility",
+        "specialization": 60,
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

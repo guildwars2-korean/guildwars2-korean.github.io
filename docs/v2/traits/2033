@@ -1,0 +1,35 @@
+[
+    {
+        "description": "Upon successfully completing an overload, apply alacrity to nearby allies.",
+        "facts": [
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "apply_count": 1,
+                "description": "스킬 재사용 대기시간을 감소시킨다.",
+                "duration": 7,
+                "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+                "status": "민첩",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/2E3AEA68A85501D1209EABD2E1603C0151ED9292/1029951.png",
+        "id": 2033,
+        "name": "Lucid Singularity",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 48,
+        "tier": 3
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "chat_link": "[&BhwXAAA=]",
+        "description": "Throw out a mine that explodes on contact.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "dmg_multiplier": 0.8,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
+                "text": "Explosion",
+                "type": "NoData"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/F15929CB40477955EBED54AE5F2239C904C2F65C/103433.png",
+        "id": 5916,
+        "name": "Floating Mine",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Downed_1",
+        "type": "Weapon",
+        "weapon_type": "None"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "chat_link": "[&BuzNAAA=]",
+        "description": "Strikes foes with caustic vapor, causing damage and vulnerability.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 150
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 데미지가 증가한다(강도 중첩).",
+                "duration": 20,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "취약",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 52716,
+        "name": "Vaporous Strike"
+    }
+]

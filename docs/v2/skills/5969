@@ -1,0 +1,54 @@
+[
+    {
+        "categories": [
+            "Elixir"
+        ],
+        "chat_link": "[&BlEXAAA=]",
+        "description": "Elixir. Toss Elixir C, converting conditions into boons for allies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Conditions Converted to Boons",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "GroundTargeted",
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/9101F5A3D7A4F7F1075B4637FB3AEDE548BDC10F/103453.png",
+        "id": 5969,
+        "name": "Toss Elixir C",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Toolbelt",
+        "type": "Toolbelt",
+        "weapon_type": "None"
+    }
+]

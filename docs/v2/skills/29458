@@ -1,0 +1,48 @@
+[
+    {
+        "categories": [],
+        "chat_link": "[&BhJzAAA=]",
+        "description": "Chain. Shroud. Cleave foes in front of you again. This skill inherits traits from Life Blast.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 170
+            },
+            {
+                "dmg_multiplier": 1.25,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 0.92,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [],
+        "flip_skill": 30278,
+        "icon": "https://render.guildwars2.com/file/37FF121D3DF16CA847D1163CACBC673F575C927E/1012931.png",
+        "id": 29458,
+        "name": "Life Slash",
+        "next_chain": 30278,
+        "prev_chain": 29442,
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Downed_1",
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

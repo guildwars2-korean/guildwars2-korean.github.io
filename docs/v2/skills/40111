@@ -1,0 +1,76 @@
+[
+    {
+        "chat_link": "[&Bq+cAAA=]",
+        "description": "Spit a glob of confusing spores at a foe, inflicting confusion for a while at that location.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 15
+            },
+            {
+                "dmg_multiplier": 0.1,
+                "hit_count": 6,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 6,
+                "description": "스킬 시전시 데미지를 받는다(강도 중첩).",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                "status": "혼란",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 6,
+                "description": "스킬 시전시 데미지를 받는다(강도 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                "status": "혼란",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "횟수",
+                "type": "Number",
+                "value": 6
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/510AE44E0E0452005337386A66526522F817424E/1770581.png",
+        "id": 40111,
+        "name": "Narcotic Spores",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Profession_2",
+        "specialization": 55,
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

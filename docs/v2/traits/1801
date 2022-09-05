@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Your condition damage is increased.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+                "target": "ConditionDamage",
+                "type": "AttributeAdjust",
+                "value": 120
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/E9BF4007B51B156ED5D93C580E68E3403E27A6A8/2261513.png",
+        "id": 1801,
+        "name": "Seething Malice",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 14,
+        "tier": 2
+    }
+]

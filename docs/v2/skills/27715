@@ -1,0 +1,40 @@
+[
+    {
+        "chat_link": "[&BkNsAAA=]",
+        "cost": 25,
+        "description": "Legendary Centaur. Remove conditions from allies near the tablet, and heal them for a small amount per condition removed. \n\nIf this skill is empowered, remove additional conditions from allies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 29197,
+        "icon": "https://render.guildwars2.com/file/02DEFA14E7A5E925F22C7EB85E7B51364316DE77/1013018.png",
+        "id": 27715,
+        "name": "Purifying Essence",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

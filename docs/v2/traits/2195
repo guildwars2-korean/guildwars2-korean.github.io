@@ -1,0 +1,56 @@
+[
+    {
+        "description": "Gain alacrity and regeneration when resolve's effect triggers, but you no longer heal. Resolve has a modified duration.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "스킬 재사용 대기시간을 감소시킨다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+                "status": "민첩",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "스킬 재사용 대기시간을 감소시킨다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+                "status": "민첩",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "status": "재생력",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Resolve Duration Increase",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/1A795E5D7CDEC7D9F49D342F4157154F90D44CBF/2479320.png",
+        "id": 2195,
+        "name": "Phoenix Protocol",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 65,
+        "tier": 3,
+        "traited_facts": [
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "requires_trait": 554,
+                "text": "범위",
+                "type": "Distance"
+            }
+        ]
+    }
+]

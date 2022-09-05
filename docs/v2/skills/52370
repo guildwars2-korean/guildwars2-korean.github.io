@@ -1,0 +1,34 @@
+[
+    {
+        "chat_link": "[&BpLMAAA=]",
+        "description": "Deals increased damage, applies a stack of fractured, and destroys a stack of Conjured Barrier for each stack of Conjured Greatsword power.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 800
+            },
+            {
+                "apply_count": 1,
+                "description": "Increases incoming damage by 50% per stack.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/983429402A443DE00A6002EA92E45A08395AD027/1770069.png",
+                "status": "Fractured",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "description": "Immune to damage. Reflects incoming strikes.",
+                "icon": "https://render.guildwars2.com/file/A2D3C65BE1A9AC083048272FF07E1C145E922480/2039792.png",
+                "status": "Conjured Barrier",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 52370,
+        "name": "Conjured Slash"
+    }
+]

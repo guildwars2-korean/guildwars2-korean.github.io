@@ -1,0 +1,112 @@
+[
+    {
+        "categories": [
+            "Signet"
+        ],
+        "chat_link": "[&Bn4pAAA=]",
+        "description": "Signet Passive: Improves power.\nSignet Active: Inflict bleeding, blindness, crippled, poison, vulnerability, and weakness on your foe.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 60
+            },
+            {
+                "apply_count": 1,
+                "description": "Improved power.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/596707B904509879083B6F6697012448A7420A63/58459.png",
+                "status": "Signet of Spite",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 2,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "출혈",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "다음 공격이 빗나간다(지속시간 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "status": "실명",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "불구",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "status": "중독",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "status": "고통",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 5,
+                "description": "받는 데미지가 증가한다(강도 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "취약",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                "status": "약화",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/596707B904509879083B6F6697012448A7420A63/58459.png",
+        "id": 10622,
+        "name": "Signet of Spite",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

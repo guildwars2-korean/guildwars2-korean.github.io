@@ -1,0 +1,58 @@
+[
+    {
+        "chat_link": "[&BqsVAAA=]",
+        "description": "Unleash a magnetic force, surging at your opponent and dazing them, while gaining magnetic aura.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 600
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 12
+            },
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Reflect projectiles with magnetic energy.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/33D27C7FE0017F70749DE84576F56F381DDF0C30/2261524.png",
+                "status": "Magnetic Aura",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+                "text": "Daze",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/BBF16D6BF9CDA755420759F7D5F8D3FF6B2065DA/103343.png",
+        "id": 5547,
+        "name": "Magnetic Surge",
+        "professions": [],
+        "slot": "Weapon_3",
+        "type": "Weapon",
+        "weapon_type": "Sword"
+    }
+]

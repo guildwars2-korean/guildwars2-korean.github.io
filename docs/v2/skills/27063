@@ -1,0 +1,54 @@
+[
+    {
+        "chat_link": "[&BrdpAAA=]",
+        "description": "Displace your foe through the Mists, forcing them away from you.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "dmg_multiplier": 0.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 3,
+                "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "status": "고통",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Enemy Shadowstep Distance",
+                "type": "Distance"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/5A171773DA4E7ED242077458A5446A6DEB55DF71/961411.png",
+        "id": 27063,
+        "name": "Forceful Displacement",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Downed_2",
+        "type": "Weapon",
+        "weapon_type": "None"
+    }
+]

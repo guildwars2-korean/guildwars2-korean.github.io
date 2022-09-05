@@ -1,0 +1,45 @@
+[
+    {
+        "chat_link": "[&BgWGAAA=]",
+        "description": "Command.Your pet teleports a downed ally within range of you and begins reviving them. Grant regeneration to nearby allies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 60
+            },
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "status": "재생력",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "아군 적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/4345CDEAFF22E0A45DE84F42ED6B4862760D5731/104014.png",
+        "id": 34309,
+        "name": "\"Search and Rescue!\"",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

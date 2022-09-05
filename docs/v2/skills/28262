@@ -1,0 +1,63 @@
+[
+    {
+        "chat_link": "[&BmZuAAA=]",
+        "cost": 20,
+        "description": "Channel a shield from the Mists to protect you, blocking attacks and regenerating health.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 25
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "회복",
+                "type": "AttributeAdjust",
+                "value": 620
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "회복",
+                "type": "AttributeAdjust",
+                "value": 496
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "횟수",
+                "type": "Number",
+                "value": 4
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/59C2A1CA66701D30FD15CBD9790E4131013B2B72/1058609.png",
+        "id": 28262,
+        "name": "Crystal Hibernation",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Weapon_5",
+        "specialization": 52,
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "requires_trait": 1730,
+                "text": "상태이상 해제",
+                "type": "Number",
+                "value": 1
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Shield"
+    }
+]

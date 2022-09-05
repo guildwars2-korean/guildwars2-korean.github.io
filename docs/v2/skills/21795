@@ -1,0 +1,39 @@
+[
+    {
+        "chat_link": "[&BiNVAAA=]",
+        "description": "Unleash a blast of ice that chills foes.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "방어 불가",
+                "type": "Unblockable",
+                "value": true
+            },
+            {
+                "dmg_multiplier": 0.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "status": "냉기",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/63015872E20761F5E76F803A90666FBE4E262BC9/536051.png",
+                "text": "Cannot Critical Hit",
+                "type": "NoData"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/0C5DAC290C007C490454612A2EAE61047DE6FDC8/104825.png",
+        "id": 21795,
+        "name": "Glacial Heart"
+    }
+]

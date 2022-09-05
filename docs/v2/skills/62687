@@ -1,0 +1,54 @@
+[
+    {
+        "chat_link": "[&Bt/0AAA=]",
+        "description": "Legendary Alliance. Become the Urn of Saint Viktor, taking continuous damage while healing nearby allies. You take reduced damage while in this state, but you cannot be healed.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 2
+            },
+            {
+                "apply_count": 1,
+                "description": "Heal nearby allies, gain increased movement speed, and receive reduced incoming damage. You take damage every second and cannot be healed.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/317EB806A8487B77040BC0C673A59096F396EEE4/2491625.png",
+                "status": "Urn of Saint Viktor",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "회복",
+                "type": "AttributeAdjust",
+                "value": 708
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [],
+        "flip_skill": 62738,
+        "icon": "https://render.guildwars2.com/file/317EB806A8487B77040BC0C673A59096F396EEE4/2491625.png",
+        "id": 62687,
+        "name": "Urn of Saint Viktor",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Elite",
+        "specialization": 69,
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

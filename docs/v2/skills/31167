@@ -1,0 +1,71 @@
+[
+    {
+        "chat_link": "[&Br95AAA=]",
+        "description": "Set down a lightning capacitor to daze and damage foes near it.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 24
+            },
+            {
+                "dmg_multiplier": 0.3,
+                "hit_count": 4,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Unable to activate skills.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+                "status": "Daze",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 300,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "field_type": "Lightning",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "콤보 필드",
+                "type": "ComboField"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "횟수",
+                "type": "Number",
+                "value": 4
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/919392F16619ABBD2D7CC463B35A3ADFB07BCD1A/1128591.png",
+        "id": 31167,
+        "name": "Spare Capacitor",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Toolbelt",
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "Unable to activate skills.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+                "overrides": 2,
+                "requires_trait": 2052,
+                "status": "Daze",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Toolbelt",
+        "weapon_type": "None"
+    }
+]

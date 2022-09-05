@@ -1,0 +1,74 @@
+[
+    {
+        "chat_link": "[&BkA4AAA=]",
+        "description": "Block the next attack. Riposte and bleed your foe if you block a melee attack. Gain adrenaline if you are not attacked.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 15
+            },
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 8,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "출혈",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+                "text": "Adrenaline If Not Attacked",
+                "type": "Number",
+                "value": 6
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 14557,
+        "icon": "https://render.guildwars2.com/file/51163210A4C4A224903D14057C0018C91580FBA8/103099.png",
+        "id": 14400,
+        "name": "Riposte",
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Weapon_5",
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "requires_trait": 1376,
+                "text": "Reflects Missiles",
+                "type": "NoData"
+            },
+            {
+                "apply_count": 1,
+                "description": "Gain flow per second.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/15AA251708A19EC6E1CBA4B208D7502797C9D111/2604722.png",
+                "overrides": 4,
+                "requires_trait": 2226,
+                "status": "Positive Flow",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Sword"
+    }
+]

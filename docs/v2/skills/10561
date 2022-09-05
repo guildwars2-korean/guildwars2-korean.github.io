@@ -1,0 +1,57 @@
+[
+    {
+        "chat_link": "[&BkEpAAA=]",
+        "description": "Slash your foe twice with ghostly claws to make them vulnerable. Vulnerability applied increases against foes below the health threshold.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "dmg_multiplier": 0.5,
+                "hit_count": 2,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 2,
+                "description": "받는 데미지가 증가한다(강도 중첩).",
+                "duration": 7,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "취약",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "받는 데미지가 증가한다(강도 중첩).",
+                "duration": 7,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "취약",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 50,
+                "text": "생명력 임계",
+                "type": "Percent"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/9D1757C3D6ACA4727ECDE0049771C55FC250A81F/103811.png",
+        "id": 10561,
+        "name": "Rending Claws",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Weapon_1",
+        "type": "Weapon",
+        "weapon_type": "Axe"
+    }
+]

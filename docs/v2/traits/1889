@@ -1,0 +1,68 @@
+[
+    {
+        "description": "Shatter skill 2 inflicts blindness.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "다음 공격이 빗나간다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "status": "실명",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "다음 공격이 빗나간다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "status": "실명",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/FE37FD6AB5F9F1AF63B89924E0DEF0904757524C/1012501.png",
+        "id": 1889,
+        "name": "Blinding Dissipation",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 1,
+        "tier": 2,
+        "traited_facts": [
+            {
+                "apply_count": 2,
+                "description": "스킬 시전시 데미지를 받는다(강도 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                "requires_trait": 1950,
+                "status": "혼란",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "스킬 시전시 데미지를 받는다(강도 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                "requires_trait": 1950,
+                "status": "혼란",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "requires_trait": 1455,
+                "text": "Blind Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "requires_trait": 1455,
+                "text": "Blind Targets",
+                "type": "Number",
+                "value": 5
+            }
+        ]
+    }
+]

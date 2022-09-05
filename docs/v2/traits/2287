@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Remove conditions when you or your pet unleash.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "상태이상 해제",
+                "type": "Number",
+                "value": 2
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/C85AA35DE3FCF36EE0A909B1EE0B90F9B5284EAD/2503633.png",
+        "id": 2287,
+        "name": "Cleansing Unleash",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 72,
+        "tier": 2
+    }
+]

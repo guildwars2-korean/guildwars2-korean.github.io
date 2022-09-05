@@ -1,0 +1,50 @@
+[
+    {
+        "description": "The first pulse of a well also applies alacrity to allies near the well. Tides of Time now also applies alacrity in an area when cast.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "스킬 재사용 대기시간을 감소시킨다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+                "status": "민첩",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "apply_count": 1,
+                "description": "스킬 재사용 대기시간을 감소시킨다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+                "prefix": {
+                    "description": "Grant boons to nearby allies as you launch a wave of temporal energy that damages and stops enemies it passes through, then returns to you. Touching the returning wave reduces the recharge of this skill.",
+                    "icon": "https://render.guildwars2.com/file/6FFACCD661056FE05F7AA6050A3DFCC8045C0A91/1012890.png",
+                    "status": "Tides of Time",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "민첩",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/1B7FF14574B92E6FFA71D03E3F0FEBE5FD4D2EB2/1012480.png",
+        "id": 1942,
+        "name": "Stretched Time",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 40,
+        "tier": 3
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "chat_link": "[&BjfHAAA=]",
+        "description": "A swirling vortex applies agony, weakness, and chill.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                "status": "약화",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "status": "냉기",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; stacks intensity; reduces incoming healing and barrier application by 70% per stack; damage is reduced by agony resistance.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/C0B3EB17FEA2B0C4481333F36AA619EB9ABD1CD6/514400.png",
+                "status": "Agony",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/053E0AC705DE1718FF519DD6BE7A6B9FD9D8B53B/1770354.png",
+        "id": 50999,
+        "name": "Storm Blast"
+    }
+]

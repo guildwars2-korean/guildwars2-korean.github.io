@@ -1,0 +1,81 @@
+[
+    {
+        "categories": [
+            "Signet"
+        ],
+        "chat_link": "[&BgYzAAA=]",
+        "description": "Signet Passive: Grants increased precision.\nSignet Active: Refill endurance and cleanse conditions from nearby allies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "apply_count": 1,
+                "description": "Increased precision.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/EBE194955CE4A25AD7B9D85EA6260CF8FD54ED0C/104081.png",
+                "status": "Signet of Agility",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "상태이상 해제",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "지구력 회복",
+                "type": "Number",
+                "value": 100
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "지구력 회복",
+                "type": "Number",
+                "value": 50
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "지구력 회복",
+                "type": "Number",
+                "value": 25
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/EBE194955CE4A25AD7B9D85EA6260CF8FD54ED0C/104081.png",
+        "id": 13062,
+        "name": "Signet of Agility",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Utility",
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "requires_trait": 1267,
+                "text": "Endurance on Kill",
+                "type": "Number",
+                "value": 10
+            }
+        ],
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

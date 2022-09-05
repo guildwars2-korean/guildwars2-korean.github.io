@@ -1,0 +1,56 @@
+[
+    {
+        "chat_link": "[&BipwAAA=]",
+        "description": "Throw a mist spear toward your foe, inflicting increasing durations of torment the closer the foe is to you.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 600
+            },
+            {
+                "dmg_multiplier": 0.8,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "status": "고통",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "status": "고통",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "finisher_type": "Projectile",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 20,
+                "text": "콤보 피니셔",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/7D2E619DBE941E384C08A49823E3D4F2DA14D861/1058610.png",
+        "id": 28714,
+        "name": "Spear of Anguish",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Weapon_1",
+        "type": "Weapon",
+        "weapon_type": "Spear"
+    }
+]

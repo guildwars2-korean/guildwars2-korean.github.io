@@ -1,0 +1,82 @@
+[
+    {
+        "chat_link": "[&BrqnAAA=]",
+        "description": "Activate your Photon Forge, gaining access to new skills. Generate heat while Photon Forge is active. Take damage if you overheat. Disables use of kits for a short duration.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 1
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+                "percent": 2,
+                "text": "Heat per Second",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+                "text": "Maximum Heat",
+                "type": "Percent",
+                "value": 100
+            },
+            {
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Kit disable time",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "flip_skill": 41123,
+        "icon": "https://render.guildwars2.com/file/1C35CD2D504EC3C5D25C43DFF808956751713E72/1770391.png",
+        "id": 42938,
+        "name": "Engage Photon Forge",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Profession_5",
+        "specialization": 57,
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/1C35CD2D504EC3C5D25C43DFF808956751713E72/1770391.png",
+                "requires_trait": 2114,
+                "status": "Photon Forge",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+                "overrides": 1,
+                "percent": 3,
+                "requires_trait": 2114,
+                "text": "Heat per Second",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+                "overrides": 2,
+                "requires_trait": 2137,
+                "text": "Maximum Heat",
+                "type": "Percent",
+                "value": 150
+            },
+            {
+                "apply_count": 2,
+                "description": "Your next attack sets the target on fire.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/19FE5C016ACFF174DE03752D40D202F9B75FB0C2/1769929.png",
+                "requires_trait": 2106,
+                "status": "Afterburner",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

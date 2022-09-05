@@ -1,0 +1,68 @@
+[
+    {
+        "chat_link": "[&BlneAAA=]",
+        "description": "Create a lightning field at your location. Then summon gyros to finish foes and revive allies within the field. The recharge of this skill is increased for each gyro created beyond the first.\nInterrupted gyros are destroyed.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 25
+            },
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "아군 적용 대상",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Field Duration",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 50,
+                "text": "Recharge increase per gyro",
+                "type": "Percent"
+            },
+            {
+                "field_type": "Lightning",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "콤보 필드",
+                "type": "ComboField"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/42BCB9C83B05D048C0E0BA1804F13D6FAC180DCD/2175057.png",
+        "id": 56921,
+        "name": "Function Gyro",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Profession_5",
+        "specialization": 43,
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

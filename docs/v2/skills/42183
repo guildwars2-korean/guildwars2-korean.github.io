@@ -1,0 +1,55 @@
+[
+    {
+        "chat_link": "[&BsekAAA=]",
+        "description": "Your shattered illusion reforms into a mirror. Touching the mirror shatters it, granting mirage cloak to you and weakening foes.",
+        "facts": [
+            {
+                "dmg_multiplier": 0.6,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                "status": "약화",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Evade incoming attacks.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/67FA6042C903766148F46373C47B037609C4D525/1770144.png",
+                "status": "Mirage Cloak",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "duration": 15,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/7F3FA1CD20D930E7EEC75459E7206979DD0AD016/1770518.png",
+        "id": 42183,
+        "name": "Reformed Mirage Mirror"
+    }
+]

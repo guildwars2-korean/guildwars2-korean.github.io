@@ -1,0 +1,21 @@
+[
+    {
+        "description": "Using a <c=@abilitytype>consume</c> skill heals you.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "회복",
+                "type": "AttributeAdjust",
+                "value": 444
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/A626100680584B0F7E3DD5934B08D103C4943417/1058542.png",
+        "id": 1743,
+        "name": "Shining Aspects",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 52,
+        "tier": 2
+    }
+]

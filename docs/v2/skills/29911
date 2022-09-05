@@ -1,0 +1,81 @@
+[
+    {
+        "chat_link": "[&Btd0AAA=]",
+        "description": "Deliver multiple strikes, weakening foes.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 450
+            },
+            {
+                "dmg_multiplier": 0.84,
+                "hit_count": 3,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                "status": "약화",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "finisher_type": "Whirl",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "콤보 피니셔",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/EDBECD6ACE170F25312C15C3056006FA1170F654/1058625.png",
+        "id": 29911,
+        "initiative": 3,
+        "name": "Weakening Charge",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Weapon_2",
+        "specialization": 7,
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "requires_trait": 1238,
+                "target": "Healing",
+                "text": "회복",
+                "type": "AttributeAdjust",
+                "value": 306
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "requires_trait": 1884,
+                "text": "지구력 회복",
+                "type": "Number",
+                "value": 6
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "requires_trait": 1884,
+                "text": "지구력 회복",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Staff"
+    }
+]

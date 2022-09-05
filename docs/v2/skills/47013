@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BqW3AAA=]",
+        "description": "A whirling orb of sleet and ice that deals heavy area-of-effect damage if not absorbed upon landing.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 2000
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/C4C4E35BAC660B4DE00AC748050E4DE0F22115AA/103948.png",
+        "id": 47013,
+        "name": "Hailstorm"
+    }
+]

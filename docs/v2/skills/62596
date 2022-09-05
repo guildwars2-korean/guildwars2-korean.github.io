@@ -1,0 +1,138 @@
+[
+    {
+        "categories": [
+            "Virtue"
+        ],
+        "chat_link": "[&BoT0AAA=]",
+        "description": "Virtue. Shadowstep a short distance while gaining boons and emanating Willbender Flames from your location. Gain Courage.\n\nRemoves other active Virtue effects.</c",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 600
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                "text": "스턴 해제",
+                "type": "StunBreak",
+                "value": true
+            },
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Initial Damage",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Consecutive attacks grant boons.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/3AD50BA43AA00EA97C6152D5EC6092FE0F0979D0/2479369.png",
+                "status": "Crashing Courage",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Number of Attacks to Trigger",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "apply_count": 1,
+                "description": "다음 공격을 한번 막는다(지속시간 중첩).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
+                "status": "이지스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "status": "견고",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "status": "견고",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/3AD50BA43AA00EA97C6152D5EC6092FE0F0979D0/2479369.png",
+        "id": 62596,
+        "name": "Crashing Courage",
+        "professions": [
+            "Guardian"
+        ],
+        "slot": "Profession_3",
+        "specialization": 65,
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "Consecutive attacks grant boons.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/3AD50BA43AA00EA97C6152D5EC6092FE0F0979D0/2479369.png",
+                "overrides": 4,
+                "requires_trait": 2198,
+                "status": "Crashing Courage",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "requires_trait": 2198,
+                "text": "Courage Increase per Kill",
+                "type": "Time"
+            },
+            {
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "overrides": 5,
+                "requires_trait": 2198,
+                "text": "Maximum Allowed Increase",
+                "type": "Time"
+            },
+            {
+                "apply_count": 4,
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "overrides": 7,
+                "requires_trait": 612,
+                "status": "견고",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "requires_trait": 621,
+                "status": "보호",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "description": "You can wield swords in your off-hand.",
+        "icon": "https://render.guildwars2.com/file/E442EC48ADB41DD7B7F068E5A496C258A128F9EB/1770031.png",
+        "id": 2196,
+        "name": "Sword Proficiency",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 65,
+        "tier": 0
+    }
+]

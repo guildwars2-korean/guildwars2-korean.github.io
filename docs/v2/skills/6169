@@ -1,0 +1,73 @@
+[
+    {
+        "chat_link": "[&BhkYAAA=]",
+        "description": "Throw grenades that explode in blinding flashes.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "dmg_multiplier": 0.1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "다음 공격이 빗나간다(지속시간 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "status": "실명",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Grenades",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "distance": 120,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Explosion Radius",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
+                "text": "Explosion",
+                "type": "NoData"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/5F7AB3AAB46F21CDBE633A953A4509EAE46C6920/103397.png",
+        "id": 6169,
+        "name": "Flash Grenade",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Weapon_3",
+        "traited_facts": [
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "overrides": 5,
+                "requires_trait": 514,
+                "text": "Explosion Radius",
+                "type": "Distance"
+            }
+        ],
+        "type": "Bundle",
+        "weapon_type": "None"
+    }
+]

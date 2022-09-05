@@ -1,0 +1,52 @@
+[
+    {
+        "chat_link": "[&Bto4AAA=]",
+        "description": "Repeatedly strike multiple foes. The last strike does extra damage.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 8
+            },
+            {
+                "dmg_multiplier": 0.5775,
+                "hit_count": 8,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 1.21,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Final Strike Damage",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/11BE3E07CBE85E00EF38022658CBFB40DC0F2808/103853.png",
+        "id": 14554,
+        "name": "Hundred Blades",
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Weapon_2",
+        "type": "Weapon",
+        "weapon_type": "Greatsword"
+    }
+]

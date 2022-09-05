@@ -1,0 +1,96 @@
+[
+    {
+        "categories": [
+            "Signet"
+        ],
+        "chat_link": "[&BhM4AAA=]",
+        "description": "Signet Passive: Grants adrenaline while in combat.\nSignet Active: Gain fury, might, and swiftness.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 60
+            },
+            {
+                "apply_count": 1,
+                "description": "Gain adrenaline.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/7A530D5434F9E9E80ED14DBE48EEE90427E33A2B/104113.png",
+                "status": "Signet of Rage",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
+                "duration": 25,
+                "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                "status": "분노",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 5,
+                "description": "데미지가 증가한다(강도 중첩).",
+                "duration": 25,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 33% 증가한다(지속시간 중첩).",
+                "duration": 25,
+                "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                "status": "신속",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+                "text": "Adrenaline",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/7A530D5434F9E9E80ED14DBE48EEE90427E33A2B/104113.png",
+        "id": 14355,
+        "name": "Signet of Rage",
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Elite",
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "Gain flow.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/7A530D5434F9E9E80ED14DBE48EEE90427E33A2B/104113.png",
+                "overrides": 1,
+                "requires_trait": 2226,
+                "status": "Signet of Rage",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+                "overrides": 5,
+                "requires_trait": 2226,
+                "text": "Flow",
+                "type": "Number",
+                "value": 2
+            }
+        ],
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

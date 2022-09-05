@@ -1,0 +1,68 @@
+[
+    {
+        "categories": [
+            "DualWield"
+        ],
+        "chat_link": "[&BucyAAA=]",
+        "description": "Dual Wield. Pistol-whip your foe, stunning them, then slash repeatedly with your sword.",
+        "dual_wield": "Pistol",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "dmg_multiplier": 0.37,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Initial Damage",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 0.79,
+                "hit_count": 4,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 0.6,
+                "hit_count": 4,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+                "text": "Stun",
+                "type": "Time"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/4103D22B92E6D29AC1014F11253E263C4E6CFE32/103117.png",
+        "id": 13031,
+        "initiative": 5,
+        "name": "Pistol Whip",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Weapon_3",
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "requires_trait": 1238,
+                "target": "Healing",
+                "text": "회복",
+                "type": "AttributeAdjust",
+                "value": 509
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Sword"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "categories": [
+            "Elixir"
+        ],
+        "chat_link": "[&BlAXAAA=]",
+        "description": "Elixir. Drink Elixir R to refill your endurance and remove immobilizing effects.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "지구력 회복",
+                "type": "Number",
+                "value": 100
+            },
+            {
+                "description": "이동할 수 없다(지속시간 중첩).",
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "속박",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/C902FC9903EB00E3114254B402DBD76A6FFF7302/103173.png",
+        "id": 5968,
+        "name": "Elixir R",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Utility",
+        "toolbelt_skill": 6086,
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "chat_link": "[&BhmmAAA=]",
+        "description": "Create a deadly holographic shockwave that launches foes upward. This attack always deals a critical hit.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 300
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 15
+            },
+            {
+                "dmg_multiplier": 0.96,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+                "percent": 25,
+                "text": "Heat Gained",
+                "type": "Percent"
+            },
+            {
+                "distance": 0,
+                "icon": "https://render.guildwars2.com/file/B4087CEB5CC006172E0A09DADC5452807A0CA3F7/2440712.png",
+                "text": "Launch",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+                "percent": 100,
+                "text": "크리티컬 확률 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "finisher_type": "Blast",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "콤보 피니셔",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/A0E80AE304C50F46DFCD9D077BAD9ED7714D966A/1770404.png",
+        "id": 42521,
+        "name": "Holographic Shockwave",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Weapon_5",
+        "type": "Weapon",
+        "weapon_type": "None"
+    }
+]

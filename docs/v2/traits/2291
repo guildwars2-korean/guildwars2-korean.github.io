@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Through your mechanical genius, you have utilized Canthan jade technology to build a customized battle mech that will fight at your side.<br>Your mech inherits a percentage of all of your combat attributes except precision, which is added to its own.<br>Your tool belt skills are replaced with mech commands, customized by your trait choices. <br>Gain access to signet utility skills.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 50,
+                "text": "All Stats Inherited by Mech",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 30,
+                "text": "All Stats Inherited by Mech",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/E56C575C4703F3377FA8BE172656ABEA6B92DE4E/2503629.png",
+        "id": 2291,
+        "name": "Mechanical Genius",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 70,
+        "tier": 1
+    }
+]

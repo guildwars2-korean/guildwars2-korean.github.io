@@ -1,0 +1,79 @@
+[
+    {
+        "categories": [
+            "Stance"
+        ],
+        "chat_link": "[&Bkw4AAA=]",
+        "description": "Stance. Gain stability and swiftness on an interval. Become immune to critical hits.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 40
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                "text": "스턴 해제",
+                "type": "StunBreak",
+                "value": true
+            },
+            {
+                "apply_count": 1,
+                "description": "Periodically gain stability. Immune to critical hits.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/EE276A936FB880E44B2B310D56E6A9E22034E301/104112.png",
+                "status": "Balanced Stance",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "status": "견고",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 33% 증가한다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                "status": "신속",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "Boon Application Interval",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/EE276A936FB880E44B2B310D56E6A9E22034E301/104112.png",
+        "id": 14412,
+        "name": "Balanced Stance",
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Utility",
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "Periodically gain stability. Immune to critical hits.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/EE276A936FB880E44B2B310D56E6A9E22034E301/104112.png",
+                "overrides": 2,
+                "requires_trait": 1375,
+                "status": "Balanced Stance",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

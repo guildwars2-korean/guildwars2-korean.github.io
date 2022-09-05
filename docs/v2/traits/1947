@@ -1,0 +1,34 @@
+[
+    {
+        "description": "Deal increased strike damage to foes with a lower health percentage than you. Hitting with an <c=@abilitytype>Explosion</c> heals you over a few seconds.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/0122FE72473C12BA0661EABA18F5B83022066EDB/2261506.png",
+                "status": "Big Boomer",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 15,
+                "text": "데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 10,
+                "text": "데미지 증가",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/0122FE72473C12BA0661EABA18F5B83022066EDB/2261506.png",
+        "id": 1947,
+        "name": "Big Boomer",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 6,
+        "tier": 3
+    }
+]

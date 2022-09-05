@@ -1,0 +1,41 @@
+[
+    {
+        "description": "Greatsword and spear skills deal more damage and recharge faster. Gain fury when you disable a foe.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 10,
+                "text": "데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "apply_count": 1,
+                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                "status": "분노",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "percent": 20,
+                "text": "재사용 대기시간 감소",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/D10A0BFF47D14345DD6C41DD0FF6F256659DF7C2/1012610.png",
+        "id": 1047,
+        "name": "Two-Handed Training",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 32,
+        "tier": 2
+    }
+]

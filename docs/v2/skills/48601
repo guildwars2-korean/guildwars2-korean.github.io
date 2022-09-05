@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&Btm9AAA=]",
+        "description": "Slashes foes.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 80
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/B04DD52545D665BED0451B0A44C3BADDF1E6A444/1012883.png",
+        "id": 48601,
+        "name": "Bite"
+    }
+]

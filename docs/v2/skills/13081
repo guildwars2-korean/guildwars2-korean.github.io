@@ -1,0 +1,52 @@
+[
+    {
+        "chat_link": "[&BhkzAAA=]",
+        "description": "Knock back your foe with a kick.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 5
+            },
+            {
+                "dmg_multiplier": 0.8,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "status": "중독",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
+                "text": "Knockback",
+                "type": "Distance"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/2E0FB36C2B4AE51074CB54942BE304AF68B30309/104092.png",
+        "id": 13081,
+        "name": "Cheap Shot",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Downed_2",
+        "type": "Weapon",
+        "weapon_type": "None"
+    }
+]

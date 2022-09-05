@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BmsIAQA=]",
+        "description": "The sniper begins charging a devastating laser, killing all enemies in its path. This skill can be interrupted by breaking the sniper's defiance bar.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 4000
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/C201170E43B8C805BC0795FD3B08B703E530B677/2156524.png",
+        "id": 67691,
+        "name": "Jade Laser Shot"
+    }
+]

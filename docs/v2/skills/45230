@@ -1,0 +1,53 @@
+[
+    {
+        "chat_link": "[&Bq6wAAA=]",
+        "description": "Ambush. Lunge at your foe and strike them with your sword, briefly dazing them. Leave behind a clone at your original location.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 600
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 1
+            },
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+                "text": "Daze",
+                "type": "Time"
+            },
+            {
+                "finisher_type": "Leap",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "콤보 피니셔",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/609505304F1D0AB548710E92335E5F550D7E396E/1770511.png",
+        "id": 45230,
+        "name": "Mirage Thrust",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Weapon_1",
+        "specialization": 59,
+        "type": "Weapon",
+        "weapon_type": "Sword"
+    }
+]

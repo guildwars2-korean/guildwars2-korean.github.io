@@ -1,0 +1,17 @@
+[
+    {
+        "chat_link": "[&BqShAAA=]",
+        "description": "Stow your tome.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/7342BF326738A4C5132F42CE0915D3A2184E52FB/60975.png",
+        "id": 41380,
+        "name": "Stow Tome",
+        "professions": [
+            "Guardian"
+        ],
+        "slot": "Profession_1",
+        "specialization": 62,
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

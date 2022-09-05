@@ -1,0 +1,30 @@
+[
+    {
+        "chat_link": "[&BpNFAAA=]",
+        "description": "Set a timed charge that pulls nearby foes.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D5F6EBC4630F0E10F3DDB7A6DBB63592CD4B00BC/2440717.png",
+                "text": "Pull",
+                "type": "Number",
+                "value": 300
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/02A02091B1EBDB782719EB6AE56F01E6372C500D/103091.png",
+        "id": 17811,
+        "name": "Magnetic Bomb"
+    }
+]

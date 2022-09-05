@@ -1,0 +1,36 @@
+[
+    {
+        "chat_link": "[&BtfNAAA=]",
+        "description": "Zommoros creates a bubble that heals allies, grants them protection, and cleanses their conditions.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "아군 적용 대상",
+                "type": "Number",
+                "value": 20
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "횟수",
+                "type": "Number",
+                "value": 6
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "상태이상 해제",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 52695,
+        "name": "Aid of the Water Djinn"
+    }
+]

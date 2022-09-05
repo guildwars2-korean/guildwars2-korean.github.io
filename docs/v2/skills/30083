@@ -1,0 +1,130 @@
+[
+    {
+        "categories": [
+            "Virtue"
+        ],
+        "chat_link": "[&BoN1AAA=]",
+        "description": "Virtue: Regenerates health.\nActivate: Dart forward, healing allies in the area when you stop.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 800
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "apply_count": 1,
+                "description": "Regenerate health.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/A054A5300BF26FBAA601611BDA07B6001830FF92/1012864.png",
+                "status": "Virtue of Resolve",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "회복",
+                "type": "AttributeAdjust",
+                "value": 3890
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Self Condition Removal",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "description": "이동할 수 없다(지속시간 중첩).",
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "속박",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "finisher_type": "Leap",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "콤보 피니셔",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/A054A5300BF26FBAA601611BDA07B6001830FF92/1012864.png",
+        "id": 30083,
+        "name": "Wings of Resolve",
+        "professions": [
+            "Guardian"
+        ],
+        "slot": "Profession_2",
+        "specialization": 27,
+        "traited_facts": [
+            {
+                "dmg_multiplier": 1.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "requires_trait": 1911,
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동할 수 없다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "requires_trait": 1911,
+                "status": "속박",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Regenerate health.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/F12B07B5466A51AB2BFD2C0CB8F3994D3F9E610C/103652.png",
+                "overrides": 2,
+                "requires_trait": 610,
+                "status": "Resolve",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "requires_trait": 621,
+                "status": "재생력",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "requires_trait": 610,
+                "text": "상태이상 해제",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

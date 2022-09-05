@@ -1,0 +1,122 @@
+[
+    {
+        "categories": [
+            "Elixir"
+        ],
+        "chat_link": "[&BtYXAAA=]",
+        "description": "Elixir. Shoot an elixir orb, healing allies when it bursts and creating an area of continual healing.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Impact Heal",
+                "type": "AttributeAdjust",
+                "value": 700
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Pulse Heal",
+                "type": "AttributeAdjust",
+                "value": 204
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "상태이상 해제",
+                "type": "Number",
+                "value": 1
+            },
+            {
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "field_type": "Light",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "콤보 필드",
+                "type": "ComboField"
+            }
+        ],
+        "flags": [],
+        "flip_skill": 6104,
+        "icon": "https://render.guildwars2.com/file/ACF8D7350B7D37FFE4E73D150B7F5B73243A72B1/103441.png",
+        "id": 6102,
+        "name": "Super Elixir",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Weapon_5",
+        "traited_facts": [
+            {
+                "apply_count": 3,
+                "description": "데미지가 증가한다(강도 중첩).",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "requires_trait": 473,
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "데미지가 증가한다(강도 중첩).",
+                "duration": 15,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "requires_trait": 473,
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "overrides": 5,
+                "requires_trait": 473,
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "duration": 12,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "overrides": 6,
+                "requires_trait": 473,
+                "text": "지속시간",
+                "type": "Time"
+            }
+        ],
+        "type": "Bundle",
+        "weapon_type": "None"
+    }
+]

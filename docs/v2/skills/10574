@@ -1,0 +1,82 @@
+[
+    {
+        "chat_link": "[&Bk4pAAA=]",
+        "cost": 10,
+        "description": "Assume a spectral form and gain new skills, turning your life force into health.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 50,
+                "text": "Damage Reduced",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 33,
+                "text": "Damage Reduced",
+                "type": "Percent"
+            }
+        ],
+        "flags": [],
+        "flip_skill": 10585,
+        "icon": "https://render.guildwars2.com/file/01B603B6CE41416CD0582AAC1D3A33DE3E086BFA/103298.png",
+        "id": 10574,
+        "name": "Death Shroud",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Profession_1",
+        "transform_skills": [
+            29458,
+            42297,
+            44663,
+            10554,
+            10594,
+            40813,
+            43448,
+            62563,
+            30961,
+            30278,
+            62621,
+            56916,
+            54870,
+            62539,
+            63448,
+            30504,
+            19504,
+            10690,
+            10585,
+            10574,
+            10586,
+            46473,
+            44946,
+            62672,
+            10588,
+            10604,
+            29442,
+            30792,
+            18504,
+            30825,
+            62567,
+            62611,
+            29709,
+            30557,
+            29958,
+            10643,
+            44428,
+            46474,
+            10644,
+            10645,
+            62540,
+            24287
+        ],
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "chat_link": "[&BhsIAQA=]",
+        "description": "The sniper fires a ricocheting bullet at the target, dealing heavy damage and bouncing to nearby enemies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 8000
+            },
+            {
+                "finisher_type": "Projectile",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "콤보 피니셔",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/E3DDC129023ACF7E68C31B18ECC10C100BB1964B/2141736.png",
+        "id": 67611,
+        "name": "Jade Ricochet"
+    }
+]

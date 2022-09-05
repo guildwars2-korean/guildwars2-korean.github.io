@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Summon only one shade at a time. This greater shade has a modified recharge. Influence a larger area with <c=@abilitytype>shade</c> skills. <br><c=@reminder>A greater shade counts as three shades for related traits.</c>",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "percent": 25,
+                "text": "Recharge Increase",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "percent": 100,
+                "text": "Recharge Increase",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "Radius Increase",
+                "type": "Number",
+                "value": 120
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Increased Targets",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/582722DC2FB1D0004F3E0657E76F3AE6EECCEC52/1769967.png",
+        "id": 2112,
+        "name": "Sand Savant",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 60,
+        "tier": 3
+    }
+]

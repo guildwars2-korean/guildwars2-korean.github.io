@@ -1,0 +1,32 @@
+[
+    {
+        "chat_link": "[&BnsoAAA=]",
+        "description": "Shatter your Temporal Curtain, pulling nearby enemies toward its position.",
+        "facts": [
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/E4D0E740C1700E3ACFBBD25D7F0C0628E0204559/103758.png",
+        "id": 10363,
+        "name": "Into the Void",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Weapon_4",
+        "type": "Weapon",
+        "weapon_type": "Focus"
+    }
+]

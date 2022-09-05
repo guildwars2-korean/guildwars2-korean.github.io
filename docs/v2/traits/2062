@@ -1,0 +1,37 @@
+[
+    {
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 8
+            },
+            {
+                "apply_count": 1,
+                "description": "스킬 시전과 행동이 빨라진다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+                "status": "급속",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "스킬 시전과 행동이 빨라진다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+                "status": "급속",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/C2347F4CA45520676368C8C5D64A3F094A0D73F8/1769949.png",
+        "id": 2062,
+        "name": "Swift Scholar",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 62,
+        "tier": 2
+    }
+]

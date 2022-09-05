@@ -1,0 +1,43 @@
+[
+    {
+        "description": "Grant boons to nearby allies when swapping pets.<br><c=@reminder>Soulbeasts can trigger this trait by entering or leaving beastmode.</c>",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+                "status": "활력",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                "status": "분노",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 300,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "전투시에만 적용",
+                "type": "NoData"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/5599287FC8FCB4ECB31B73625605072B7234269A/1012634.png",
+        "id": 965,
+        "name": "Spirited Arrival",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 25,
+        "tier": 2
+    }
+]

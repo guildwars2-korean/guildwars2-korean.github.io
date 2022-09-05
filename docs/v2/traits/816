@@ -1,0 +1,110 @@
+[
+    {
+        "description": "Corruptions gain reduced recharge time and inflict additional conditions on you.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "percent": 33,
+                "text": "재사용 대기시간 감소",
+                "type": "Percent"
+            },
+            {
+                "apply_count": 1,
+                "description": "다음 공격이 빗나간다(지속시간 중첩).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "prefix": {
+                    "description": "<c=@abilitytype>Corruption. </c>Feast on your conditions, gaining health for each one consumed. You become vulnerable.",
+                    "icon": "https://render.guildwars2.com/file/2E59B8AD34566FB37594A703180D1F1744012B20/103806.png",
+                    "status": "Consume Conditions",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "실명",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 2,
+                "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "prefix": {
+                    "description": "<c=@abilitytype>Corruption. </c>Bleed yourself to grant might to allies around you and bleed your target.",
+                    "icon": "https://render.guildwars2.com/file/F26312E5CBFE5CA12261B66E194F21A5D205F314/103795.png",
+                    "status": "Blood Is Power",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "고통",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "prefix": {
+                    "description": "<c=@abilitytype>Corruption.</c> Weaken yourself and envelope the target area in a noxious cloud that blocks enemy missiles and poisons foes and leaves them weakened.",
+                    "icon": "https://render.guildwars2.com/file/2B32FAFBD66F35AB51C3D97E910912AB74DD57A0/102897.png",
+                    "status": "Corrosive Poison Cloud",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "불구",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 2,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "prefix": {
+                    "description": "<c=@abilitytype>Corruption.</c> Poison yourself. Transform boons on your foe into negative conditions.",
+                    "icon": "https://render.guildwars2.com/file/36B89D5D0306D87CDF56FC12545ACAFCC1A969D4/103822.png",
+                    "status": "Corrupt Boon",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "출혈",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                "prefix": {
+                    "description": "<c=@abilitytype>Corruption.</c> Apply vulnerability to yourself. Spread conditions on a target foe to all nearby foes at a reduced duration.\n<c=@reminder>WvW only: does not affect structures or targets with resistance.</c>",
+                    "icon": "https://render.guildwars2.com/file/5A9A3CED4C0C6313370E006B55500477AB1FE710/103139.png",
+                    "status": "Epidemic",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "약화",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "prefix": {
+                    "description": "<c=@abilitytype>Corruption.</c> Create a virulent cloud that inflicts conditions on foes in its area. This plague inflicts additional conditions every second it persists. Inflict bleeding on yourself.",
+                    "icon": "https://render.guildwars2.com/file/97EC4B6E302F5D79639CA519D25F9A5C2A2DDEC1/103312.png",
+                    "status": "Plaguelands",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "중독",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/B63DE52ADE559806E0D5BC201F2CDF5F66585F19/1012549.png",
+        "id": 816,
+        "name": "Master of Corruption",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 39,
+        "tier": 2
+    }
+]

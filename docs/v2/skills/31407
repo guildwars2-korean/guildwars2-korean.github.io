@@ -1,0 +1,51 @@
+[
+    {
+        "categories": [
+            "Glyph"
+        ],
+        "chat_link": "[&Bq96AAA=]",
+        "description": "Glyph. Greatly heal yourself and your pet, while healing nearby allies for a minor amount.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 24
+            },
+            {
+                "distance": 300,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/0A3119FC4F62C31A0646B0FF901E701D74BD3EEA/1128605.png",
+        "id": 31407,
+        "name": "Glyph of Rejuvenation",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Heal",
+        "specialization": 5,
+        "subskills": [
+            {
+                "id": 31819
+            },
+            {
+                "form": "CelestialAvatar",
+                "id": 31867
+            }
+        ],
+        "type": "Heal",
+        "weapon_type": "None"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "description": "Torch skills gain reduced recharge. Gain expertise based on your condition damage.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "percent": 20,
+                "text": "재사용 대기시간 감소",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/4977CD5BAF0A7B6412DCC775C3909F7D4EFE4C65/2229319.png",
+                "percent": 7,
+                "source": "ConditionDamage",
+                "target": "ConditionDuration",
+                "text": "Attribute Conversion",
+                "type": "BuffConversion"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/4977CD5BAF0A7B6412DCC775C3909F7D4EFE4C65/2229319.png",
+                "percent": 4,
+                "source": "ConditionDamage",
+                "target": "ConditionDuration",
+                "text": "Attribute Conversion",
+                "type": "BuffConversion"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/39509D44AE46ACEB2046EFE9D70378ECE072B1AC/1769963.png",
+        "id": 2074,
+        "name": "Fell Beacon",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 60,
+        "tier": 1
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "description": "Gain precision. Gain additional precision while wielding a rifle. Enter stealth when you dodge roll with a rifle equipped.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "Currently invisible. Ends if you deal damage.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+                "status": "Stealth",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Currently invisible. Ends if you deal damage.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+                "status": "Stealth",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+                "target": "Precision",
+                "type": "AttributeAdjust",
+                "value": 120
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+                "target": "Precision",
+                "text": "Additional Precision",
+                "type": "AttributeAdjust",
+                "value": 120
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/589A60502EB2EE62CABC78F43321045FE037ABD1/1770003.png",
+        "id": 2118,
+        "name": "Silent Scope",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 58,
+        "tier": 2
+    }
+]

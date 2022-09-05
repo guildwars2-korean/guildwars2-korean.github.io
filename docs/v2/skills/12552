@@ -1,0 +1,91 @@
+[
+    {
+        "chat_link": "[&BggxAAA=]",
+        "description": "Strike your foe multiple times, then deliver a final immobilizing attack.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 150
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 4
+            },
+            {
+                "dmg_multiplier": 0.33,
+                "hit_count": 7,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 1.25,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Final Attack",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동할 수 없다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "속박",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+                "text": "최대 횟수",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "duration": 25,
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "text": "충전 대기시간",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/0B589225A7FA340FB01629FF4BCE9F62E7C219AA/104007.png",
+        "id": 12552,
+        "name": "Man O' War",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Weapon_5",
+        "traited_facts": [
+            {
+                "dmg_multiplier": 0.3465,
+                "hit_count": 7,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "overrides": 2,
+                "requires_trait": 1047,
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 1.3125,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "overrides": 3,
+                "requires_trait": 1047,
+                "text": "Final Attack",
+                "type": "Damage"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Spear"
+    }
+]

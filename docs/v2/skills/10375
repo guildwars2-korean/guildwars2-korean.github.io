@@ -1,0 +1,22 @@
+[
+    {
+        "chat_link": "[&BocoAAA=]",
+        "description": "Flee from your enemies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 15
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/DCA9272A24D30D5B61C99B1E800A7F0B4E29FCAF/104058.png",
+        "id": 10375,
+        "name": "Flee",
+        "professions": [],
+        "slot": "Weapon_5",
+        "type": "Monster",
+        "weapon_type": "None"
+    }
+]

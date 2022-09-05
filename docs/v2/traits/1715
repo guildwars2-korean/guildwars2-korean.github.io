@@ -1,0 +1,53 @@
+[
+    {
+        "description": "Gain quickness when you swap weapons. While you have quickness, your strikes remove stability.<br><c=@reminder>This removal effect can only occur once per interval on each target.</c>",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 9
+            },
+            {
+                "apply_count": 1,
+                "description": "스킬 시전과 행동이 빨라진다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+                "status": "급속",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "status": "견고",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Stacks Removed per Strike",
+                "type": "Number",
+                "value": 1
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "전투시에만 적용",
+                "type": "NoData"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/B6A10BFFE10708A20EC6019F7607BF04A071770D/1029962.png",
+        "id": 1715,
+        "name": "Brutality",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 15,
+        "tier": 3
+    }
+]

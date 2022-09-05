@@ -1,0 +1,93 @@
+[
+    {
+        "chat_link": "[&BlYWAAA=]",
+        "description": "Damage nearby foes with a ring of fire, burning foes that pass through it.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 15
+            },
+            {
+                "dmg_multiplier": 0.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "화상",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "After using a Lava Axe ability, your next Lava Axe attack fires twice.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/0D0451ADE6BA5B4864DF0A0DE62108AA45914747/103339.png",
+                "status": "Fired Up!",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "field_type": "Fire",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "콤보 필드",
+                "type": "ComboField"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/CD08FDC23B56EBB19C90B909C65D9EE4D9FFF8C8/103183.png",
+        "id": 5718,
+        "name": "Ring of Fire",
+        "professions": [
+            "Thief",
+            "Mesmer",
+            "Warrior",
+            "Elementalist",
+            "Necromancer",
+            "Guardian",
+            "Ranger",
+            "Engineer",
+            "Revenant"
+        ],
+        "slot": "Weapon_4",
+        "traited_facts": [
+            {
+                "duration": 7,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "overrides": 4,
+                "requires_trait": 1510,
+                "text": "지속시간",
+                "type": "Time"
+            }
+        ],
+        "type": "Bundle",
+        "weapon_type": "None"
+    }
+]

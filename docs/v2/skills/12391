@@ -1,0 +1,47 @@
+[
+    {
+        "chat_link": "[&BmcwAAA=]",
+        "description": "Shape-shift into norn wolf form.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 240
+            },
+            {
+                "duration": 30,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 12392,
+        "icon": "https://render.guildwars2.com/file/756D5AF0BCA8900AD098D69436FA4EDB0D1E7AB5/103958.png",
+        "id": 12391,
+        "name": "Become the Wolf",
+        "professions": [
+            "Guardian",
+            "Warrior",
+            "Engineer",
+            "Ranger",
+            "Thief",
+            "Elementalist",
+            "Mesmer",
+            "Necromancer"
+        ],
+        "slot": "Elite",
+        "transform_skills": [
+            12422,
+            12424,
+            12425,
+            12390,
+            12389
+        ],
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

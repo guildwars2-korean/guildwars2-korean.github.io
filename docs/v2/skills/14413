@@ -1,0 +1,58 @@
+[
+    {
+        "categories": [
+            "Signet"
+        ],
+        "chat_link": "[&Bk04AAA=]",
+        "description": "Signet Passive: Reduces incoming damage.\nSignet Active: Heal yourself and gain stability.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 40
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                "text": "스턴 해제",
+                "type": "StunBreak",
+                "value": true
+            },
+            {
+                "apply_count": 1,
+                "description": "Reduced incoming damage.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/456FAF783E6E99056F490F6BC105DEAE5958412F/104121.png",
+                "status": "Dolyak Signet",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 10,
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "status": "견고",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "회복",
+                "type": "AttributeAdjust",
+                "value": 1000
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/456FAF783E6E99056F490F6BC105DEAE5958412F/104121.png",
+        "id": 14413,
+        "name": "Dolyak Signet",
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

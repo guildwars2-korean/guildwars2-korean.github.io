@@ -1,0 +1,52 @@
+[
+    {
+        "description": "Gain quickness when struck while below the threshold. You and your pet gain healing power based on power.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
+                "percent": 7,
+                "source": "Power",
+                "target": "Healing",
+                "text": "Attribute Conversion",
+                "type": "BuffConversion"
+            },
+            {
+                "apply_count": 1,
+                "description": "스킬 시전과 행동이 빨라진다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+                "status": "급속",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "스킬 시전과 행동이 빨라진다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+                "status": "급속",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 50,
+                "text": "생명력 임계",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/E9A2CD7164FA3BFBB549B9B9DA2238007EA1720B/1012631.png",
+        "id": 978,
+        "name": "Instinctive Reaction",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 25,
+        "tier": 1
+    }
+]

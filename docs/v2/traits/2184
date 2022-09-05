@@ -1,0 +1,70 @@
+[
+    {
+        "description": "Unlock scepter. <c=@abilitytype>Steal</c> becomes <c=@abilitytype>Siphon</c> and your initiative is reduced. Gain access to shadow force through spending initiative, and gain access to the Shadow Shroud ability.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 1,
+                "text": "Shadow Shroud per Initiative Spent",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 0.75,
+                "text": "Shadow Shroud per Initiative Spent",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "전투시에만 적용",
+                "type": "NoData"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Initiative Reduced",
+                "type": "Number",
+                "value": -3
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/A610A7B4D00D5BAE0FDBDE0BF64EAF063C96B308/2503653.png",
+        "id": 2184,
+        "name": "Specter",
+        "order": 0,
+        "skills": [
+            {
+                "chat_link": "[&Blv2AAA=]",
+                "description": "Steal.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                        "text": "사정거리",
+                        "type": "Range",
+                        "value": 1200
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                        "text": "Recharge",
+                        "type": "Recharge",
+                        "value": 18
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/C6D7F7A40A041D52D15E595D3DA59F24B8B1A6E9/2503748.png",
+                "id": 63067,
+                "name": "Siphon",
+                "traited_facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "requires_trait": 1163,
+                        "text": "아군 적용 대상",
+                        "type": "Number",
+                        "value": 5
+                    }
+                ]
+            }
+        ],
+        "slot": "Minor",
+        "specialization": 71,
+        "tier": 1
+    }
+]

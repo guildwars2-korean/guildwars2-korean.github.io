@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Gain protection when you block an incoming attack with aegis.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "status": "보호",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "status": "보호",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/07D0C4AF0FF1365D1670EFBDA6F8A69DAF16A409/1012436.png",
+        "id": 594,
+        "name": "Steadfast Courage",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 13,
+        "tier": 2
+    }
+]

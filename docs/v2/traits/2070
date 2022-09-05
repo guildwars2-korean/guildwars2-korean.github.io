@@ -1,0 +1,12 @@
+[
+    {
+        "description": "When you gain Mirage Cloak, your illusions also gain it.",
+        "icon": "https://render.guildwars2.com/file/AE970495F2A5F7907CDBB836B5079911FC5A1064/1769957.png",
+        "id": 2070,
+        "name": "Infinite Horizon",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 59,
+        "tier": 3
+    }
+]

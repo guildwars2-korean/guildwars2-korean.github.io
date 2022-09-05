@@ -1,0 +1,21 @@
+[
+    {
+        "chat_link": "[&BhrHAAA=]",
+        "description": "A strike that can send the beast into a frenzy if its target is bleeding.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "Unable to act.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+                "status": "Stun",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 50970,
+        "name": "Bloody Feed"
+    }
+]

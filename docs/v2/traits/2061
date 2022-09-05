@@ -1,0 +1,29 @@
+[
+    {
+        "description": "Gain swiftness when using a <c=@abilitytype>Dual Attack.</c> Deal increased strike damage to enemies while under the effects of swiftness or superspeed.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "이동속도가 33% 증가한다(지속시간 중첩).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                "status": "신속",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 10,
+                "text": "데미지 증가",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/7B0B0072429031F44DC41404F9BA0D08A5B2EDE2/1769919.png",
+        "id": 2061,
+        "name": "Swift Revenge",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 56,
+        "tier": 2
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "attunement": "Water",
+        "chat_link": "[&BuCgAAA=]",
+        "description": "Dual Attack. Launch a hurricane in a direction, healing allies and damaging enemies.",
+        "dual_attunement": "Air",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "dmg_multiplier": 0.25,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "status": "재생력",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "status": "냉기",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Targets per Pulse",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            }
+        ],
+        "flags": [
+            "GroundTargeted",
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/053E0AC705DE1718FF519DD6BE7A6B9FD9D8B53B/1770354.png",
+        "id": 41184,
+        "name": "Monsoon",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_3",
+        "specialization": 56,
+        "type": "Weapon",
+        "weapon_type": "Staff"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "chat_link": "[&Bo4jAAA=]",
+        "description": "Block attacks while healing.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "회복",
+                "type": "AttributeAdjust",
+                "value": 4555
+            },
+            {
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Block Duration",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/D979B406E04C80687055B7C40A3837A4AB36B3D8/103645.png",
+        "id": 9102,
+        "name": "Shelter",
+        "professions": [
+            "Guardian"
+        ],
+        "slot": "Heal",
+        "type": "Heal",
+        "weapon_type": "None"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "chat_link": "[&BiivAAA=]",
+        "description": "Inflict Torment on your target.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "dmg_multiplier": 0.55,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "status": "고통",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 41164,
+        "icon": "https://render.guildwars2.com/file/257AE20DBC1F5BB232D8F37FED4443065ED10346/1770501.png",
+        "id": 44840,
+        "name": "Ethereal Chop",
+        "next_chain": 41164,
+        "prev_chain": 44791,
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Weapon_1",
+        "specialization": 59,
+        "type": "Weapon",
+        "weapon_type": "Axe"
+    }
+]

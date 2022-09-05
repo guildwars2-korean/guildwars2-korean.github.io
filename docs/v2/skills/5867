@@ -1,0 +1,82 @@
+[
+    {
+        "categories": [
+            "Elixir"
+        ],
+        "chat_link": "[&BusWAAA=]",
+        "description": "Elixir. Toss Elixir R to revive allies at a location.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 90
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "방어 불가",
+                "type": "Unblockable",
+                "value": true
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 17,
+                "text": "Revive Percent per Pulse",
+                "type": "Percent"
+            },
+            {
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "field_type": "Light",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "콤보 필드",
+                "type": "ComboField"
+            }
+        ],
+        "flags": [
+            "GroundTargeted",
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/6893776DEF9E05A535E5BA027F45FC71DA539245/103418.png",
+        "id": 5867,
+        "name": "Toss Elixir R",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Toolbelt",
+        "traited_facts": [
+            {
+                "duration": 12,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "overrides": 4,
+                "requires_trait": 473,
+                "text": "지속시간",
+                "type": "Time"
+            }
+        ],
+        "type": "Toolbelt",
+        "weapon_type": "None"
+    }
+]

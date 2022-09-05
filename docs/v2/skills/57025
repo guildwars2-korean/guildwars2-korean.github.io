@@ -1,0 +1,24 @@
+[
+    {
+        "chat_link": "[&BsHeAAA=]",
+        "description": "Your struggles to escape are in vain.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 1
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "방어 불가",
+                "type": "Unblockable",
+                "value": true
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/060E681F34173DEAC7F34C7668F2587D90581432/1058646.png",
+        "id": 57025,
+        "name": "Gnawed"
+    }
+]

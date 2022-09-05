@@ -1,0 +1,34 @@
+[
+    {
+        "description": "Gain stacks of <c=@abilitytype>Battle Scars</c> while in combat.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "전투시에만 적용",
+                "type": "NoData"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            },
+            {
+                "apply_count": 1,
+                "description": "Your next attack steals health.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/395D7939C8DD48BE35012E319D039F545065F755/2261515.png",
+                "status": "Battle Scars",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/12FFBBD82F3BB8C057E95AB7E907AD3EACFDF221/2261517.png",
+        "id": 1802,
+        "name": "Thrill of Combat",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 15,
+        "tier": 2
+    }
+]

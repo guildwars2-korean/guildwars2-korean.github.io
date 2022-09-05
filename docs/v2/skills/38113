@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BuGUAAA=]",
+        "description": "Cairn opens a rift into the skin of Tyria, displacing targets a fixed distance away.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Teleport Radius",
+                "type": "Number",
+                "value": 1000
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/9CD80DEDD0C0B2CF599815B8C619E30ADAA8C7A4/534266.png",
+        "id": 38113,
+        "name": "Displacement"
+    }
+]

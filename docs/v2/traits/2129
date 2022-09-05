@@ -1,0 +1,12 @@
+[
+    {
+        "description": "You can wield rifles.",
+        "icon": "https://render.guildwars2.com/file/7F6AAB061223C917A169D85B2004DC0E5E0E1054/1770027.png",
+        "id": 2129,
+        "name": "Rifle Proficiency",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 58,
+        "tier": 0
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "categories": [
+            "LegendaryAssassin"
+        ],
+        "chat_link": "[&BuNpAAA=]",
+        "cost": 5,
+        "description": "Legendary Assassin. Empower yourself with Shiro's incredible speed and destructive prowess, gaining great movement speed and striking foes an additional time when you hit them. This effect can occur once per interval.",
+        "facts": [
+            {
+                "dmg_multiplier": 0.45,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 0.55,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Strike Delay",
+                "type": "Time"
+            },
+            {
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            },
+            {
+                "apply_count": 1,
+                "description": "Your attacks gain a follow-up strike.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/D5479F5A43B3A1550EC0F457AA4ED79F93EF9A22/1013014.png",
+                "status": "Impossible Odds",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 50,
+                "text": "Movement Speed Increase",
+                "type": "Percent"
+            }
+        ],
+        "flags": [],
+        "flip_skill": 28382,
+        "icon": "https://render.guildwars2.com/file/D5479F5A43B3A1550EC0F457AA4ED79F93EF9A22/1013014.png",
+        "id": 27107,
+        "name": "Impossible Odds",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

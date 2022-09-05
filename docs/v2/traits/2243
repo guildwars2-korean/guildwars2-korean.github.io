@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Grant endurance in an area when swapping legends or activating <c=@skill>Alliance Tactics</c>. \n<c=@reminder>Reduced effect on other vindicator specializations.</c>",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Legend Swap Endurance Gain",
+                "type": "Number",
+                "value": 10
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 50,
+                "text": "Effectiveness Decreased",
+                "type": "Percent"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/48A728EA57D0BAC26130C92C357A0B715D65CCFA/2491535.png",
+        "id": 2243,
+        "name": "Angsiyan's Trust",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 69,
+        "tier": 2
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "categories": [
+            "Venom"
+        ],
+        "chat_link": "[&BigzAAA=]",
+        "description": "Venom. Chill foes with your next few attacks.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 36
+            },
+            {
+                "apply_count": 4,
+                "description": "Your attacks chill foes.",
+                "duration": 24,
+                "icon": "https://render.guildwars2.com/file/77F6B7A22D4BD264C108A2083F0637D0DC520C0D/104098.png",
+                "status": "Ice Drake Venom",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "status": "냉기",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Number of Attacks",
+                "type": "Number",
+                "value": 4
+            },
+            {
+                "duration": 24,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Venom Duration",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/77F6B7A22D4BD264C108A2083F0637D0DC520C0D/104098.png",
+        "id": 13096,
+        "name": "Ice Drake Venom",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

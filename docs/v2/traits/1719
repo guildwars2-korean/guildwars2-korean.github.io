@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Critical-hit chance is further increased while you are under the effect of fury.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+                "percent": 25,
+                "text": "크리티컬 확률 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+                "percent": 20,
+                "text": "크리티컬 확률 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+                "percent": 10,
+                "text": "크리티컬 확률 증가",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/EAEF09AF62A04394DB04BD555D2FEAAEA9E608E5/1012685.png",
+        "id": 1719,
+        "name": "Roiling Mists",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 3,
+        "tier": 3
+    }
+]

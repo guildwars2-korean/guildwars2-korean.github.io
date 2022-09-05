@@ -1,0 +1,82 @@
+[
+    {
+        "chat_link": "[&BjBMAAA=]",
+        "description": "Shroud. Begin binding nearby enemies with your life force, pulsing out conditions; they can break this binding if they get far enough away from you. Bound foes are immobilized if the binding finishes.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "apply_count": 2,
+                "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                "duration": 12,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "status": "고통",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "You cannot stealth",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/62BFF65D1CE99B1B2B0928152BCC596EAC0D372B/102887.png",
+                "status": "Revealed",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "dmg_multiplier": 1.25,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동할 수 없다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "속박",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            },
+            {
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/CBEB3C180F343DC0CBA9BD5A3E09642C1D73599C/598947.png",
+        "id": 19504,
+        "name": "Tainted Shackles",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Weapon_5",
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

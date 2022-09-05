@@ -1,0 +1,44 @@
+[
+    {
+        "description": "Disabling a foe grants you barrier. Your function gyro dazes foes when cast. <br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "보호막",
+                "type": "AttributeAdjust",
+                "value": 724
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "보호막",
+                "type": "AttributeAdjust",
+                "value": 362
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+                "text": "Daze",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/D218686E042F19144D99A11F7205FB4763D053EF/2175050.png",
+        "id": 1971,
+        "name": "System Shocker",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 43,
+        "tier": 1,
+        "traited_facts": [
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+                "overrides": 2,
+                "requires_trait": 2052,
+                "text": "Daze",
+                "type": "Time"
+            }
+        ]
+    }
+]

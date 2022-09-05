@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BrG8AAA=]",
+        "description": "A shock wave released from a destroyed ghost.",
+        "facts": [
+            {
+                "distance": 300,
+                "icon": "https://render.guildwars2.com/file/B4087CEB5CC006172E0A09DADC5452807A0CA3F7/2440712.png",
+                "text": "Launch",
+                "type": "Distance"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
+        "id": 48305,
+        "name": "Death's Reprise"
+    }
+]

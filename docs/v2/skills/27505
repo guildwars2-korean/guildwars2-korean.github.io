@@ -1,0 +1,84 @@
+[
+    {
+        "categories": [
+            "LegendaryDemon"
+        ],
+        "chat_link": "[&BnFrAAA=]",
+        "cost": 20,
+        "description": "Legendary Demon. Deal damage, apply chill, and remove boons from your foe.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "방어 불가",
+                "type": "Unblockable",
+                "value": true
+            },
+            {
+                "dmg_multiplier": 0.4,
+                "hit_count": 3,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Boons Removed",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "apply_count": 3,
+                "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "status": "냉기",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/D327055AA824ABDDAD70E2606E1C9AF018FF9902/961449.png",
+        "id": 27505,
+        "name": "Banish Enchantment",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Utility",
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "데미지를 주지않는 상태이상 효과를 무시한다(지속시간 중첩).",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+                "requires_trait": 1789,
+                "status": "저항",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "데미지를 주지않는 상태이상 효과를 무시한다(지속시간 중첩).",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+                "requires_trait": 1789,
+                "status": "저항",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

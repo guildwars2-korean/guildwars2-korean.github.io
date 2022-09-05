@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BsbjAAA=]",
+        "description": "",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 7
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 58310,
+        "name": "Aberrant Will"
+    }
+]

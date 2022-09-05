@@ -1,0 +1,29 @@
+[
+    {
+        "description": "<c=@abilitytype>Blade</c> attacks inflict bleeding on critical hits. A percentage of your condition damage dealt heals you.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "출혈",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 3,
+                "text": "퍼센트",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/F3757C0FFD6F0912C2FD017E0E28E76137FA5F71/2479327.png",
+        "id": 2202,
+        "name": "Jagged Mind",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 66,
+        "tier": 1
+    }
+]

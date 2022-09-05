@@ -1,0 +1,29 @@
+[
+    {
+        "description": "Inflict blindness on foes you burn.<br><c=@reminder>This trait can only affect the same enemy once per interval.</c>",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "다음 공격이 빗나간다(지속시간 중첩).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "status": "실명",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/150B4E2CB4039B33152D496FF04E9B1644E22E0A/1012314.png",
+        "id": 1675,
+        "name": "Blinding Ashes",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 31,
+        "tier": 3
+    }
+]

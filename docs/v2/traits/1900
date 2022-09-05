@@ -1,0 +1,37 @@
+[
+    {
+        "description": "Your pet's attributes are improved and pet skills gain recharge reduction.<br><c=@reminder>Improved attributes are power, condition damage, precision, toughness, and vitality.</c>",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "percent": 20,
+                "text": "Pet Skill Recharge",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+                "target": "None",
+                "text": "Attribute Increase",
+                "type": "AttributeAdjust",
+                "value": 150
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/2D7C48769DB9EC5A024E3427E797577F4ACF0576/1012615.png",
+        "id": 1900,
+        "name": "Pack Alpha",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 32,
+        "tier": 1,
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+                "requires_trait": 2151,
+                "target": "None",
+                "text": "Soulbeast Attribute Increase",
+                "type": "AttributeAdjust",
+                "value": 75
+            }
+        ]
+    }
+]

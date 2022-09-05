@@ -1,0 +1,28 @@
+[
+    {
+        "chat_link": "[&BtSyAAA=]",
+        "description": "Shadowstep to your Ripple of Horror, destroying it.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 600
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 12
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/6728BBF7042B554E3D3996C1721501FF16E4F661/1770529.png",
+        "id": 45780,
+        "name": "March of Undeath",
+        "professions": [],
+        "slot": "Weapon_3",
+        "type": "Weapon",
+        "weapon_type": "Staff"
+    }
+]

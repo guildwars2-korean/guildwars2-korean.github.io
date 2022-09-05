@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Bleeding you inflict is more dangerous.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 33,
+                "text": "데미지 증가",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/42C214653B5A57D0020F3293322EF30E121E7541/1012647.png",
+        "id": 1846,
+        "name": "Hidden Barbs",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 30,
+        "tier": 2
+    }
+]

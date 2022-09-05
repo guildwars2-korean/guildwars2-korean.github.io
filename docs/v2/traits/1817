@@ -1,0 +1,45 @@
+[
+    {
+        "description": "Periodically gain barrier for each unique boon you have.",
+        "facts": [
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "Barrier per Boon",
+                "type": "AttributeAdjust",
+                "value": 229
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "Barrier per Boon",
+                "type": "AttributeAdjust",
+                "value": 160
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+                "text": "Maximum Boon Scaling",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "전투시에만 적용",
+                "type": "NoData"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/181F40F0C0E261E457010DA1D9144D680B0E0415/1012709.png",
+        "id": 1817,
+        "name": "Resilient Spirit",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 12,
+        "tier": 2
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BpAFAQA=]",
+        "description": "Mai Trin follows up with another sweep of her rapier.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 100
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/E093DCAAD0F35BB0A2C1369ABB40242A0E42DB70/104096.png",
+        "id": 66960,
+        "name": "Slash"
+    }
+]

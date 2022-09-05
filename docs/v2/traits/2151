@@ -1,0 +1,286 @@
+[
+    {
+        "description": "Gain access to <c=@abilitytype>Stances</c>. Survival in the desert has enhanced your connection to your pet, granting you the ability to meld with them by entering beastmode.<br><c=@reminder>You cannot swap pets in combat.</c><br><c=@reminder>Traits that affect your pet may affect you differently while in beastmode.</c>",
+        "icon": "https://render.guildwars2.com/file/59CBE2049C451991A62F07135B92BDB94501B1F6/1769984.png",
+        "id": 2151,
+        "name": "Elevated Bond",
+        "order": 0,
+        "skills": [
+            {
+                "chat_link": "[&Bm+pAAA=]",
+                "description": "Beast. Pull foes toward you and bind them briefly.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                        "text": "Recharge",
+                        "type": "Recharge",
+                        "value": 25
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "이동할 수 없다(지속시간 중첩).",
+                        "duration": 2,
+                        "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                        "status": "속박",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "dmg_multiplier": 0.4,
+                        "hit_count": 1,
+                        "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                        "text": "데미지",
+                        "type": "Damage"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/D5F6EBC4630F0E10F3DDB7A6DBB63592CD4B00BC/2440717.png",
+                        "text": "Pull",
+                        "type": "Number",
+                        "value": 300
+                    },
+                    {
+                        "distance": 300,
+                        "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                        "text": "범위",
+                        "type": "Distance"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "text": "적용 대상",
+                        "type": "Number",
+                        "value": 5
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/6BE209FCDE6DB2A802F54910DB73C0B70FF0E91B/1770563.png",
+                "id": 43375,
+                "name": "Prelude Lash",
+                "traited_facts": [
+                    {
+                        "apply_count": 1,
+                        "description": "다음 공격이 빗나간다(지속시간 중첩).",
+                        "duration": 5,
+                        "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                        "requires_trait": 1861,
+                        "status": "실명",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    }
+                ]
+            },
+            {
+                "chat_link": "[&BoyeAAA=]",
+                "description": "Beast. Tap into your primal essence and unleash a debilitating roar.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                        "text": "Recharge",
+                        "type": "Recharge",
+                        "value": 20
+                    },
+                    {
+                        "apply_count": 3,
+                        "description": "매초 데미지를 준다(강도 중첩).",
+                        "duration": 6,
+                        "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                        "status": "출혈",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "dmg_multiplier": 0.4,
+                        "hit_count": 3,
+                        "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                        "text": "데미지",
+                        "type": "Damage"
+                    },
+                    {
+                        "apply_count": 9,
+                        "description": "받는 데미지가 증가한다(강도 중첩).",
+                        "duration": 6,
+                        "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                        "status": "취약",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "distance": 360,
+                        "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                        "text": "범위",
+                        "type": "Distance"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "text": "적용 대상",
+                        "type": "Number",
+                        "value": 5
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/2B9826ADA82C1D2D3E9EE5B1F3E37CCD65DB4160/1770564.png",
+                "id": 40588,
+                "name": "Primal Cry"
+            },
+            {
+                "chat_link": "[&BlKuAAA=]",
+                "description": "Beast. Restore health to your allies and grant them a reprieve from conditions.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                        "text": "Recharge",
+                        "type": "Recharge",
+                        "value": 40
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "데미지를 주지않는 상태이상 효과를 무시한다(지속시간 중첩).",
+                        "duration": 3,
+                        "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+                        "status": "저항",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                        "target": "Healing",
+                        "text": "회복",
+                        "type": "AttributeAdjust",
+                        "value": 4235
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                        "target": "Healing",
+                        "text": "회복",
+                        "type": "AttributeAdjust",
+                        "value": 3600
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "text": "아군 적용 대상",
+                        "type": "Number",
+                        "value": 5
+                    },
+                    {
+                        "distance": 600,
+                        "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                        "text": "범위",
+                        "type": "Distance"
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/0FA53836694C91EA3934E2929701EE56F32B7899/1770566.png",
+                "id": 44626,
+                "name": "Spiritual Reprieve"
+            },
+            {
+                "chat_link": "[&BuWyAAA=]",
+                "description": "Beast. Shrug off all movement-impairing conditions and become unflinching in the face of normal attacks.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                        "text": "Recharge",
+                        "type": "Recharge",
+                        "value": 35
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                        "text": "스턴 해제",
+                        "type": "StunBreak",
+                        "value": true
+                    },
+                    {
+                        "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
+                        "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                        "status": "불구",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
+                        "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                        "status": "냉기",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "description": "이동할 수 없다(지속시간 중첩).",
+                        "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                        "status": "속박",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "Take no damage from incoming attacks.",
+                        "duration": 4,
+                        "icon": "https://render.guildwars2.com/file/0A0059CF0F036DBBE3EDAAFBC6136EA5F01E43CD/1770567.png",
+                        "status": "Unflinching Fortitude",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/0A0059CF0F036DBBE3EDAAFBC6136EA5F01E43CD/1770567.png",
+                "id": 45797,
+                "name": "Unflinching Fortitude"
+            },
+            {
+                "chat_link": "[&BhmfAAA=]",
+                "description": "Beast. Jump up and slam the ground beneath you, severely damaging nearby foes.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                        "text": "Recharge",
+                        "type": "Recharge",
+                        "value": 25
+                    },
+                    {
+                        "distance": 240,
+                        "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                        "text": "범위",
+                        "type": "Distance"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "text": "적용 대상",
+                        "type": "Number",
+                        "value": 5
+                    },
+                    {
+                        "dmg_multiplier": 1.89,
+                        "hit_count": 1,
+                        "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                        "text": "데미지",
+                        "type": "Damage"
+                    },
+                    {
+                        "finisher_type": "Leap",
+                        "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                        "percent": 100,
+                        "text": "콤보 피니셔",
+                        "type": "ComboFinisher"
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/CFC8BF0C0DFEE030C12FDF0ABDD4E22F9C002924/1770572.png",
+                "id": 40729,
+                "name": "Worldly Impact",
+                "traited_facts": [
+                    {
+                        "apply_count": 1,
+                        "description": "다음 공격이 빗나간다(지속시간 중첩).",
+                        "duration": 5,
+                        "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                        "requires_trait": 1861,
+                        "status": "실명",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    }
+                ]
+            }
+        ],
+        "slot": "Minor",
+        "specialization": 55,
+        "tier": 1
+    }
+]

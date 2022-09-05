@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Your first attack after entering shroud transfers conditions.<br><c=@reminder>Only activates if you have conditions.</c>",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Conditions Transferred",
+                "type": "Number",
+                "value": 2
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/F004E33D079E4B5762EEF51F94CA493B64FFC4A2/1012547.png",
+        "id": 2013,
+        "name": "Plague Sending",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 39,
+        "tier": 1
+    }
+]

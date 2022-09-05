@@ -1,0 +1,27 @@
+[
+    {
+        "description": "When you heal an ally, you are also healed.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 1
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "회복",
+                "type": "AttributeAdjust",
+                "value": 207
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/F2A3C305087AFA5141FABEF5FB09AD05CCE8A46A/1128540.png",
+        "id": 1862,
+        "name": "Live Vicariously",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 5,
+        "tier": 2
+    }
+]

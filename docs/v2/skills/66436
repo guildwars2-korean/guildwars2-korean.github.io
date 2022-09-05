@@ -1,0 +1,24 @@
+[
+    {
+        "chat_link": "[&BoQDAQA=]",
+        "description": "Minister Li swings his blade with mighty strength, creating a cone-shaped shock wave that deals significant damage and launches enemies.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 300
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 1
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/E10E62663EDE5FD4C635B9E2D01212C2BF48E891/2491630.png",
+        "id": 66436,
+        "name": "Dragon Slash—Wave"
+    }
+]

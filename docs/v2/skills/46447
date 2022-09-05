@@ -1,0 +1,112 @@
+[
+    {
+        "attunement": "Fire",
+        "chat_link": "[&Bm+1AAA=]",
+        "description": "Dual Attack. Cover yourself in an increasing barrier while dealing damage to nearby enemies.",
+        "dual_attunement": "Earth",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 18
+            },
+            {
+                "apply_count": 1,
+                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "status": "견고",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Gain barrier over time, and pulse damage in the area.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/C328476928DFDE7FF3C2F65143FC7852C3F69CF9/1770377.png",
+                "status": "Molten Armor",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "dmg_multiplier": 0.33,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다(강도 중첩).",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "화상",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "Initial Barrier",
+                "type": "AttributeAdjust",
+                "value": 650
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "Barrier per Pulse",
+                "type": "AttributeAdjust",
+                "value": 379
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "횟수",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/C328476928DFDE7FF3C2F65143FC7852C3F69CF9/1770377.png",
+        "id": 46447,
+        "name": "Lava Skin",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_3",
+        "specialization": 56,
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "overrides": 5,
+                "requires_trait": 2077,
+                "target": "Healing",
+                "text": "Initial Barrier",
+                "type": "AttributeAdjust",
+                "value": 1018
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Sword"
+    }
+]

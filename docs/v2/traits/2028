@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Soothing Mist is more effective.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 100,
+                "text": "효과 증가",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/6F7761ECC1979C1207C6166DF8EA7BA9B726B609/1012326.png",
+        "id": 2028,
+        "name": "Soothing Power",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 17,
+        "tier": 3
+    }
+]

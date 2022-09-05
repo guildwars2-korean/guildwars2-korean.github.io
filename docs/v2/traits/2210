@@ -1,0 +1,41 @@
+[
+    {
+        "description": "Triggered virtue effects now grant might in addition to their bonuses. Gain fury when activating Rushing Justice.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "데미지가 증가한다(강도 중첩).",
+                "duration": 15,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "데미지가 증가한다(강도 중첩).",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                "status": "분노",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/1A1A95F133208028F0492A66C1D3F2F03A6ABED5/2479318.png",
+        "id": 2210,
+        "name": "Holy Reckoning",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 65,
+        "tier": 2
+    }
+]
