@@ -5,7 +5,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "Healing",
+                "text": "회복",
                 "type": "AttributeAdjust",
                 "value": 292
             },
@@ -48,14 +48,14 @@
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "Healing",
+                "text": "회복",
                 "type": "AttributeAdjust",
                 "value": 292
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "Healing",
+                "text": "회복",
                 "type": "AttributeAdjust",
                 "value": 292
             }
@@ -81,7 +81,7 @@
                 "overrides": 7,
                 "requires_trait": 2147,
                 "target": "Healing",
-                "text": "Healing",
+                "text": "회복",
                 "type": "AttributeAdjust",
                 "value": 204
             },
@@ -90,7 +90,7 @@
                 "overrides": 8,
                 "requires_trait": 2147,
                 "target": "Healing",
-                "text": "Healing",
+                "text": "회복",
                 "type": "AttributeAdjust",
                 "value": 204
             }
