@@ -20,6 +20,8 @@ import ProfessionsWarrior from './professions/professions.warrior';
 
 function Main(props) {
 	return (
+        <>
+        개발중인 사이트입니다. 많은 관심 부탁드립니다~~
         <Router>
             <Routes>
                 <Route path="/professions/elementalist" element={<ProfessionsElementalist />}/>
@@ -33,6 +35,7 @@ function Main(props) {
                 <Route path="/professions/warrior" element={<ProfessionsWarrior />}/>
             </Routes>
         </Router>
+        </>
 	);
 };
 
