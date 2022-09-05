@@ -42,7 +42,7 @@
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "text": "범위",
-                "type": "범위"
+                "type": "Radius"
             }
         ],
         "flags": [

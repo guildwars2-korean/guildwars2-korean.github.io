@@ -4,7 +4,7 @@ DICTIONARY_FOR_TRANSLATION = {
     # 그 외에는 아래와 같이 작성한다.
     # '"Radius"': '"범위"',
     # ETC.
-    '"Radius"': '"범위"',
+    '"text": "Radius"': '"text": "범위"',
     '"Interval"': '"주기"',
     '"Pulses"': '"횟수"',
     '"Number of Targets"': '"적용 대상"',
@@ -32,6 +32,7 @@ DICTIONARY_FOR_TRANSLATION = {
     '"text": "Ferocity Increase"': '"text": "페로시티 증가"',
     '"text": "Vitality Increase"': '"text": "생명력 증가"',
     '"text": "Toughness Increase"': '"text": "방어력 증가"',
+    '"Condition Duration Reduction"': '"상태이상 지속시간 감소"',
     '"Critical Chance Increase"': '"크리티컬 확률 증가"',
     '"Critical Damage Increase"': '"크리티컬 데미지 증가"',
     '"Duration Increase"': '"지속시간 증가"',
