@@ -1,4 +1,8 @@
 DICTIONARY_FOR_TRANSLATION = {
+    # Type에 들어갈 수 있는 텍스트는 text만 변경하는것을 명시해야 하기 때문에, 아래와 같이 작성한다.
+    # '"text": "Healing"': '"text": "회복"',
+    # 그 외에는 아래와 같이 작성한다.
+    # '"Radius"': '"범위"',
     # ETC.
     '"Radius"': '"범위"',
     '"Interval"': '"주기"',
@@ -10,11 +14,11 @@ DICTIONARY_FOR_TRANSLATION = {
     '"Barrier"': '"보호막"',
     '"Break Stun"': '"스턴해제"',
     '"text": "Damage Increase"': '"text": "데미지 증가"',
-    '"Power Increase"': '"파워 증가"',
-    '"Precision Increase"': '"프리시전 증가"',
-    '"Ferocity Increase"': '"페로시티 증가"',
-    '"Vitality Increase"': '"생명력 증가"',
-    '"Toughness Increase"': '"방어력 증가"',
+    '"text": "Power Increase"': '"text": "파워 증가"',
+    '"text": "Precision Increase"': '"text": "프리시전 증가"',
+    '"text": "Ferocity Increase"': '"text": "페로시티 증가"',
+    '"text": "Vitality Increase"': '"text": "생명력 증가"',
+    '"text": "Toughness Increase"': '"text": "방어력 증가"',
     '"Critical Chance Increase"': '"크리티컬 확률 증가"',
     '"Critical Damage Increase"': '"크리티컬 데미지 증가"',
     '"Duration Increase"': '"지속시간 증가"',
