@@ -52,7 +52,7 @@ DICTIONARY_FOR_TRANSLATION = {
     '"Nondamaging conditions currently on you are ineffective; stacks duration."': '"데미지를 주지않는 상태이상 효과를 무시한다(지속시간 중첩)."',
     '"Resolution"': '"결의"',
     '"Incoming condition damage decreased by 33%; stacks duration."': '"받는 상태이상 데미지가 33% 감소한다(지속시간 중첩)."',
-    '"Stability"': '"견고"',
+    '"Stability"': '"',
     '"Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted."': '"쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다."',
     '"Swiftness"': '"신속"',
     '"Movement speed increased by 33%; stacks duration."': '"이동속도가 33% 증가한다(지속시간 중첩)."',
