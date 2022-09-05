@@ -7,7 +7,7 @@
                 "description": "다음 공격을 한번 막는다(지속시간 중첩).",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
-                "status": "방호",
+                "status": "이지스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -34,7 +34,7 @@
                 "description": "데미지가 증가한다(세기 중첩).",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "강력",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

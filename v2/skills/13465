@@ -26,7 +26,7 @@
                 "description": "데미지가 증가한다(세기 중첩).",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "강력",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -62,7 +62,7 @@
                 "description": "데미지가 증가한다(세기 중첩).",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "강력",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -108,7 +108,7 @@
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "overrides": 2,
                 "requires_trait": 473,
-                "status": "강력",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -152,7 +152,7 @@
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "overrides": 6,
                 "requires_trait": 473,
-                "status": "강력",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

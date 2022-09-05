@@ -74,7 +74,7 @@
                         "description": "다음 공격을 한번 막는다(지속시간 중첩).",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
-                        "status": "방호",
+                        "status": "이지스",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },

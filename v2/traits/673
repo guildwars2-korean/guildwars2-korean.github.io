@@ -34,7 +34,7 @@
                     "status": "화상",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "방호",
+                "status": "이지스",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
@@ -79,7 +79,7 @@
                     "status": "고통",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "강력",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }

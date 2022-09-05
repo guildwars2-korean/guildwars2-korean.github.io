@@ -31,7 +31,7 @@
                     "status": "Unleashed",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "초신속",
+                "status": "슈퍼스피드",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },

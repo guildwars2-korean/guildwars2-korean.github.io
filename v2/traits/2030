@@ -73,7 +73,7 @@
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                         "requires_trait": 1687,
-                        "status": "강력",
+                        "status": "마이트",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },

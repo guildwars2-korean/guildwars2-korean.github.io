@@ -32,7 +32,7 @@
                 "description": "이동속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-                "status": "초신속",
+                "status": "슈퍼스피드",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
