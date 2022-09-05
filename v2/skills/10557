@@ -26,7 +26,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Number of Impacts",
+                "text": "타격 횟수",
                 "type": "Number",
                 "value": 10
             },
@@ -38,13 +38,13 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용대상",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "아군 적용대상",
+                "text": "아군 적용 대상",
                 "type": "Number",
                 "value": 4
             },
@@ -109,7 +109,7 @@
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "overrides": 3,
                 "requires_trait": 799,
-                "text": "Number of Impacts",
+                "text": "타격 횟수",
                 "type": "Number",
                 "value": 15
             },

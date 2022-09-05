@@ -79,13 +79,13 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Number of Impacts",
+                "text": "타격 횟수",
                 "type": "Number",
                 "value": 3
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용대상",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 3
             },
@@ -104,7 +104,7 @@
                 "finisher_type": "Whirl",
                 "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
                 "percent": 100,
-                "text": "Combo Finisher",
+                "text": "콤보 피니셔",
                 "type": "ComboFinisher"
             }
         ],

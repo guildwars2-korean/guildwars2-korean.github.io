@@ -5,13 +5,13 @@
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 7,
-                "text": "Revive Percentage",
+                "text": "부활 게이지",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 1,
-                "text": "Revive Percentage",
+                "text": "부활 게이지",
                 "type": "Percent"
             }
         ],
@@ -52,7 +52,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용대상",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
@@ -65,7 +65,7 @@
                     {
                         "field_type": "Light",
                         "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-                        "text": "Combo Field",
+                        "text": "콤보 필드",
                         "type": "ComboField"
                     }
                 ],

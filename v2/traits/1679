@@ -23,7 +23,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "Range",
+                        "text": "사정거리",
                         "type": "Range",
                         "value": 900
                     },
@@ -54,20 +54,20 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용대상",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                        "text": "Maximum Count",
+                        "text": "최대 횟수",
                         "type": "Number",
                         "value": 2
                     },
                     {
                         "duration": 16,
                         "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-                        "text": "Count Recharge",
+                        "text": "충전 대기시간",
                         "type": "Time"
                     },
                     {
@@ -83,7 +83,7 @@
                         "finisher_type": "Blast",
                         "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
                         "percent": 100,
-                        "text": "Combo Finisher",
+                        "text": "콤보 피니셔",
                         "type": "ComboFinisher"
                     }
                 ],
@@ -105,7 +105,7 @@
                         "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                         "overrides": 7,
                         "requires_trait": 1679,
-                        "text": "Count Recharge",
+                        "text": "충전 대기시간",
                         "type": "Time"
                     },
                     {
@@ -154,7 +154,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
-                        "text": "Unblockable",
+                        "text": "방어 불가",
                         "type": "NoData"
                     },
                     {
@@ -208,7 +208,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "Range",
+                        "text": "사정거리",
                         "type": "Range",
                         "value": 900
                     },
@@ -220,7 +220,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "Unblockable",
+                        "text": "방어 불가",
                         "type": "Unblockable",
                         "value": true
                     },
@@ -253,12 +253,12 @@
                         "finisher_type": "Blast",
                         "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
                         "percent": 100,
-                        "text": "Combo Finisher",
+                        "text": "콤보 피니셔",
                         "type": "ComboFinisher"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용대상",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
@@ -300,7 +300,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                        "text": "스턴해제",
+                        "text": "스턴 해제",
                         "type": "StunBreak",
                         "value": true
                     },
@@ -377,7 +377,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "Range",
+                        "text": "사정거리",
                         "type": "Range",
                         "value": 130
                     },
@@ -402,14 +402,14 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                        "text": "Maximum Count",
+                        "text": "최대 횟수",
                         "type": "Number",
                         "value": 2
                     },
                     {
                         "duration": 20,
                         "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-                        "text": "Count Recharge",
+                        "text": "충전 대기시간",
                         "type": "Time"
                     },
                     {
@@ -429,13 +429,13 @@
                     {
                         "duration": 16,
                         "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-                        "text": "Count Recharge",
+                        "text": "충전 대기시간",
                         "type": "Time"
                     },
                     {
                         "duration": 24,
                         "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-                        "text": "Count Recharge",
+                        "text": "충전 대기시간",
                         "type": "Time"
                     }
                 ],
@@ -457,7 +457,7 @@
                         "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                         "overrides": 5,
                         "requires_trait": 1679,
-                        "text": "Count Recharge",
+                        "text": "충전 대기시간",
                         "type": "Time"
                     },
                     {
@@ -483,7 +483,7 @@
                         "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                         "overrides": 8,
                         "requires_trait": 1679,
-                        "text": "Count Recharge",
+                        "text": "충전 대기시간",
                         "type": "Time"
                     },
                     {
@@ -491,7 +491,7 @@
                         "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                         "overrides": 9,
                         "requires_trait": 1679,
-                        "text": "Count Recharge",
+                        "text": "충전 대기시간",
                         "type": "Time"
                     }
                 ]

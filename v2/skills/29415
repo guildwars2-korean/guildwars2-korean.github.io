@@ -15,7 +15,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                "text": "스턴해제",
+                "text": "스턴 해제",
                 "type": "StunBreak",
                 "value": true
             },
@@ -77,13 +77,13 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "아군 적용대상",
+                "text": "아군 적용 대상",
                 "type": "Number",
                 "value": 5
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "아군 적용대상",
+                "text": "아군 적용 대상",
                 "type": "Number",
                 "value": 5
             }

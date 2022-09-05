@@ -21,19 +21,19 @@
                 "dmg_multiplier": 0.3,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Minimum Damage",
+                "text": "최소 데미지",
                 "type": "Damage"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "Damage Reduction per Hit",
+                "text": "피격당 데미지 감소",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 45,
-                "text": "Damage Reduction per Hit",
+                "text": "피격당 데미지 감소",
                 "type": "Percent"
             },
             {
@@ -70,7 +70,7 @@
                 "finisher_type": "Whirl",
                 "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
                 "percent": 100,
-                "text": "Combo Finisher",
+                "text": "콤보 피니셔",
                 "type": "ComboFinisher"
             }
         ],

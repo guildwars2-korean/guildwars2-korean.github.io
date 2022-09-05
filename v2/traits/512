@@ -103,7 +103,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용대상",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 3
                     }
@@ -119,7 +119,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "Unblockable",
+                        "text": "방어 불가",
                         "type": "Unblockable",
                         "value": true
                     },
@@ -138,13 +138,13 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "Blast Radius",
+                        "text": "폭발 범위",
                         "type": "Number",
                         "value": 180
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용대상",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
@@ -210,14 +210,14 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용대상",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "field_type": "Ethereal",
                         "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-                        "text": "Combo Field",
+                        "text": "콤보 필드",
                         "type": "ComboField"
                     }
                 ],

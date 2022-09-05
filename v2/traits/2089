@@ -116,7 +116,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 622,
-                        "text": "Blast Radius",
+                        "text": "폭발 범위",
                         "type": "Number",
                         "value": 240
                     }

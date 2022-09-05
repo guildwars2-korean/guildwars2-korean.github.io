@@ -20,18 +20,18 @@
                 "dmg_multiplier": 0.24,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Minimum Damage",
+                "text": "최소 데미지",
                 "type": "Damage"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "Damage Reduction per Hit",
+                "text": "피격당 데미지 감소",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Number of Impacts",
+                "text": "타격 횟수",
                 "type": "Number",
                 "value": 20
             },
