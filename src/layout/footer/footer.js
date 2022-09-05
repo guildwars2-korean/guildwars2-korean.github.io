@@ -1,6 +1,8 @@
 import React from 'react';
 import './footer.css'
 
+import discordIcon from '../../discord.svg'
+
 import Container from 'react-bootstrap/Container'
 import Nav from 'react-bootstrap/Nav'
 import Navbar from 'react-bootstrap/NavBar'
@@ -12,9 +14,7 @@ function Footer(props) {
         <Navbar bg="light" variant="light" fixed="bottom">
           <Container>
             <Nav className="me-auto">
-              <Nav.Link href="#home">Home</Nav.Link>
-              <Nav.Link href="#features">Features</Nav.Link>
-              <Nav.Link href="#pricing">Pricing</Nav.Link>
+              <Nav.Link href="https://discord.gg/hZzJV2Y"><img src={discordIcon} width={30} /> [rn] This is M</Nav.Link>
             </Nav>
           </Container>
         </Navbar>

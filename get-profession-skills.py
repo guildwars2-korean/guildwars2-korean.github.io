@@ -11,8 +11,8 @@ ignore_file_name = 'index.html'
 
 dictionary_for_translation = DICTIONARY_FOR_TRANSLATION
 
-def main(profession):
-    skills = get_skills(profession)
+def main(profession, specialization):
+    skills = get_skills(profession, specialization)
     for skill in skills:  
         id = skill['id']
         name = skill['name']
@@ -24,7 +24,7 @@ def get_skill_ids():
     items.remove(ignore_file_name)
     return items
 
-def get_skills(profession):
+def get_skills(profession, specialization):
     skill_ids = get_skill_ids()
     skills = []
     for skill_id in skill_ids:
@@ -32,6 +32,8 @@ def get_skills(profession):
         skill = read_item(path)
         if not skill:
             continue
+        if specialization != skill.get('specialization', None):
+                continue
         if skill.get('slot', '') not in ['Heal', 'Utility']:
             continue
         if len(skill.get('professions', [])) > 1:
@@ -47,5 +49,7 @@ def read_item(item_path):
 
 
 if __name__ == '__main__':
-    profession = 'Elementalist'
-    main(profession)
+    profession = 'Warrior'
+    # 코어 직업은 specialization = None
+    specialization = 68
+    main(profession, specialization)
