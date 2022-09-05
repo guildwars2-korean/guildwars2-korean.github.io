@@ -14,6 +14,7 @@ DICTIONARY_FOR_TRANSLATION = {
     '"text": "Duration"': '"text": "지속시간"',
     '"Barrier"': '"보호막"',
     '"Breaks Stun"': '"스턴해제"',
+    '"text": "StunBreak"': '"text": "스턴해제"',
     '"text": "Damage Increase"': '"text": "데미지 증가"',
     '"text": "Power Increase"': '"text": "파워 증가"',
     '"text": "Precision Increase"': '"text": "프리시전 증가"',
