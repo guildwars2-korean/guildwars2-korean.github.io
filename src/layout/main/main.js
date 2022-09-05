@@ -6,7 +6,7 @@ import {
     Route,
 } from "react-router-dom";
 
-
+import Home from './home';
 import ProfessionsElementalist from './professions/professions.elementalist';
 import ProfessionsEngineer from './professions/professions.engineer';
 import ProfessionsGuardian from './professions/professions.guardian';
@@ -21,9 +21,9 @@ import ProfessionsWarrior from './professions/professions.warrior';
 function Main(props) {
 	return (
         <>
-        개발중인 사이트입니다. 많은 관심 부탁드립니다~~
         <Router>
             <Routes>
+                <Route path="/" element={<Home />}/>
                 <Route path="/professions/elementalist" element={<ProfessionsElementalist />}/>
                 <Route path="/professions/engineer" element={<ProfessionsEngineer />}/>
                 <Route path="/professions/guardian" element={<ProfessionsGuardian />}/>
