@@ -11,7 +11,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
                 "percent": 15,
-                "text": "Critical Damage Increase",
+                "text": "크리티컬 데미지 증가",
                 "type": "Percent"
             }
         ],
