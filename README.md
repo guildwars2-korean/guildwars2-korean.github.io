@@ -3,3 +3,6 @@
 - 본 프로젝트를 통해 길드워2 직업별 특성, 스킬을 번역하고 나아가 길드워2 내 모든 내용을 한글화 하는 것이 목표입니다.
 ## 사이트 주소
 - https://guildwars2-korean.github.io
+## 참고
+- http://github.com/discretize/discretize-ui
+- https://github.com/rafgraph/spa-github-pages
