@@ -11,7 +11,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Boons Stolen",
+                "text": "버프 강탈",
                 "type": "Number",
                 "value": 0
             },
