@@ -13,9 +13,9 @@ function ProfessionsNecromancer() {
   return (
     <>
     <Container>
-      <Row>
+      <Row style={{paddingTop: 20}}>
         {/* 오리지널 / Original */}
-        <Card>
+        <Card style={{padding: 0}}>
           <Card.Header>Original</Card.Header>
           <Card.Body>
             <Row>
@@ -87,9 +87,9 @@ function ProfessionsNecromancer() {
           </Card.Body>
         </Card>
       </Row>
-      <Row>
+      <Row style={{paddingTop: 20}}>
         {/* HoT / Heart of Thorns */}
-        <Card>
+        <Card style={{padding: 0}}>
           <Card.Header>HoT(Heart Of Thorns)</Card.Header>
           <Card.Body>
             <Row>
@@ -120,9 +120,9 @@ function ProfessionsNecromancer() {
           </Card.Body>
         </Card>
       </Row>
-      <Row>
+      <Row style={{paddingTop: 20}}>
         {/* PoF / Path of Fire */}
-        <Card>
+        <Card style={{padding: 0}}>
           <Card.Header>PoF(Path of Fire)</Card.Header>
           <Card.Body>
             <Row>
@@ -153,9 +153,9 @@ function ProfessionsNecromancer() {
           </Card.Body>
         </Card>
       </Row>
-      <Row>
+      <Row style={{paddingTop: 20}}>
         {/* EoD / End of Dragons */}
-        <Card>
+        <Card style={{padding: 0}}>
           <Card.Header>EoD(End of Dragons)</Card.Header>
           <Card.Body>
             <Row>
