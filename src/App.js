@@ -16,13 +16,13 @@ function App() {
     <div>
       <Header />
       <Row>
-        <Col sm="1">
+        <Col sm="2">
           
         </Col>
-        <Col sm="10">
+        <Col sm="8">
           <Main />
         </Col>
-        <Col sm="1">
+        <Col sm="2">
           <div style={{marginTop: 100}}>
             <GoogleAd/>
           </div>
