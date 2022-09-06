@@ -19,7 +19,7 @@ function ProfessionsNecromancer() {
           <Card.Header>Original</Card.Header>
           <Card.Body>
             <Row>
-              <Col xs="6">
+              <Col xl="6">
                 {/* 특성 / Traits */}
                 <Card>
                   <Card.Header>특성</Card.Header>
@@ -39,7 +39,7 @@ function ProfessionsNecromancer() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xs="6">
+              <Col xl="6">
                 {/* 스킬 / Skills */}
                 <Card>
                   <Card.Header>스킬</Card.Header>
@@ -93,7 +93,7 @@ function ProfessionsNecromancer() {
           <Card.Header>HoT(Heart Of Thorns)</Card.Header>
           <Card.Body>
             <Row>
-              <Col xs="6">
+              <Col xl="6">
                 {/* 특성 / Traits */}
                 <Card>
                   <Card.Header>특성</Card.Header>
@@ -103,7 +103,7 @@ function ProfessionsNecromancer() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xs="6">
+              <Col xl="6">
                 {/* 스킬 / Skills */}
                 <Card>
                   <Card.Header>스킬</Card.Header>
@@ -126,7 +126,7 @@ function ProfessionsNecromancer() {
           <Card.Header>PoF(Path of Fire)</Card.Header>
           <Card.Body>
             <Row>
-              <Col xs="6">
+              <Col xl="6">
                 {/* 특성 / Traits */}
                 <Card>
                   <Card.Header>특성</Card.Header>
@@ -136,7 +136,7 @@ function ProfessionsNecromancer() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xs="6">
+              <Col xl="6">
                 {/* 스킬 / Skills */}
                 <Card>
                   <Card.Header>스킬</Card.Header>
@@ -159,7 +159,7 @@ function ProfessionsNecromancer() {
           <Card.Header>EoD(End of Dragons)</Card.Header>
           <Card.Body>
             <Row>
-              <Col xs="6">
+              <Col xl="6">
                 {/* 특성 / Traits */}
                 <Card>
                   <Card.Header>특성</Card.Header>
@@ -169,7 +169,7 @@ function ProfessionsNecromancer() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xs="6">
+              <Col xl="6">
                 {/* 스킬 / Skills */}
                 <Card>
                   <Card.Header>스킬</Card.Header>

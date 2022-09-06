@@ -8,7 +8,7 @@ function Home() {
     <>
     <Container>
       <Row style={{paddingTop: 20}}>
-        <Col sm="6">
+        <Col md="6">
           <Card>
             <Card.Header>안내</Card.Header>
             <Card.Body>
@@ -16,11 +16,11 @@ function Home() {
               현재 지속적인 개발 중이니 많은 관심 부탁드립니다.<br></br>
               특성/스킬은 기본적인 번역 이후 구글 번역 API를 사용해 우선 번역해두었고,<br></br>
               이후 하나씩 직접 번역한 내용으로 업데이트 할 예정입니다.<br></br>
-              번역에 관해 의견 주실분들께서는 basic.6395로 인게임 메일 부탁드립니다.
+              의견 및 도움주실 분들께서는 <a href="https://discord.gg/m8XwaW4waa">guildwars2-korean.github.io</a>로 참여 부탁드립니다.
             </Card.Body>
           </Card>
         </Col>
-        <Col sm="6">
+        <Col md="6">
           <Card>
             <Card.Header>유용한 사이트 모음</Card.Header>
             <Card.Body>

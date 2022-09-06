@@ -19,7 +19,7 @@ function ProfessionsMesmer() {
           <Card.Header>Original</Card.Header>
           <Card.Body>
             <Row>
-              <Col xs="6">
+              <Col xl="6">
                 {/* 특성 / Traits */}
                 <Card>
                   <Card.Header>특성</Card.Header>
@@ -37,7 +37,7 @@ function ProfessionsMesmer() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xs="6">
+              <Col xl="6">
                 {/* 스킬 / Skills */}
                 <Card>
                   <Card.Header>스킬</Card.Header>
@@ -84,7 +84,7 @@ function ProfessionsMesmer() {
           <Card.Header>HoT(Heart Of Thorns)</Card.Header>
           <Card.Body>
             <Row>
-              <Col xs="6">
+              <Col xl="6">
                 {/* 특성 / Traits */}
                 <Card>
                   <Card.Header>특성</Card.Header>
@@ -94,7 +94,7 @@ function ProfessionsMesmer() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xs="6">
+              <Col xl="6">
                 {/* 스킬 / Skills */}
                 <Card>
                   <Card.Header>스킬</Card.Header>
@@ -117,7 +117,7 @@ function ProfessionsMesmer() {
           <Card.Header>PoF(Path of Fire)</Card.Header>
           <Card.Body>
             <Row>
-              <Col xs="6">
+              <Col xl="6">
                 {/* 특성 / Traits */}
                 <Card>
                   <Card.Header>특성</Card.Header>
@@ -127,7 +127,7 @@ function ProfessionsMesmer() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xs="6">
+              <Col xl="6">
                 {/* 스킬 / Skills */}
                 <Card>
                   <Card.Header>스킬</Card.Header>
@@ -153,7 +153,7 @@ function ProfessionsMesmer() {
           <Card.Header>EoD(End of Dragons)</Card.Header>
           <Card.Body>
             <Row>
-              <Col xs="6">
+              <Col xl="6">
                 {/* 특성 / Traits */}
                 <Card>
                   <Card.Header>특성</Card.Header>
@@ -163,7 +163,7 @@ function ProfessionsMesmer() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xs="6">
+              <Col xl="6">
                 {/* 스킬 / Skills */}
                 <Card>
                   <Card.Header>스킬</Card.Header>
