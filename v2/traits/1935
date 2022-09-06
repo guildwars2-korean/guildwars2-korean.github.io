@@ -13,7 +13,7 @@
                 "description": "Unable to activate skills.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                "status": "Daze",
+                "status": "침묵",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -56,7 +56,7 @@
                 "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
                 "overrides": 1,
                 "requires_trait": 1070,
-                "status": "Daze",
+                "status": "침묵",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

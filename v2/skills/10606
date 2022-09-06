@@ -54,13 +54,13 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/63015872E20761F5E76F803A90666FBE4E262BC9/536051.png",
-                "text": "Cannot Critical Hit",
+                "text": "크리티컬 불가",
                 "type": "NoData"
             },
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 50,
-                "text": "Duration Decreased",
+                "text": "지속시간 감소",
                 "type": "Percent"
             },
             {

@@ -326,7 +326,7 @@
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "Daze",
+                        "text": "침묵",
                         "type": "Time"
                     },
                     {
@@ -453,7 +453,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
                         "requires_trait": 1329,
-                        "text": "Pierces",
+                        "text": "관통",
                         "type": "NoData"
                     },
                     {
@@ -530,7 +530,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
-                        "text": "Pierces",
+                        "text": "관통",
                         "type": "NoData"
                     },
                     {
@@ -618,7 +618,7 @@
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "Daze",
+                        "text": "침묵",
                         "type": "Time"
                     },
                     {
@@ -783,7 +783,7 @@
                     {
                         "duration": 0,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "Daze",
+                        "text": "침묵",
                         "type": "Time"
                     },
                     {
@@ -818,7 +818,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
                         "requires_trait": 1329,
-                        "text": "Pierces",
+                        "text": "관통",
                         "type": "NoData"
                     },
                     {
@@ -964,7 +964,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
-                        "text": "Pierces",
+                        "text": "관통",
                         "type": "NoData"
                     },
                     {

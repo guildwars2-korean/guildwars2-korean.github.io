@@ -48,7 +48,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/63015872E20761F5E76F803A90666FBE4E262BC9/536051.png",
-                "text": "Cannot Critical Hit",
+                "text": "크리티컬 불가",
                 "type": "NoData"
             }
         ],
