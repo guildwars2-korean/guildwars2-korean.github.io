@@ -85,6 +85,8 @@ DICTIONARY_FOR_TRANSLATION = {
     '"Endurance regeneration increased by 50%; stacks duration."': '"지구력 회복이 50% 증가한다(지속시간 중첩)."',
     '"Superspeed"': '"슈퍼스피드"',
     '"Movement speed is greatly increased. Maximum duration: 10s"': '"이동속도가 비약적으로 증가한다. 최대 지속시간 : 10초."',
+    '"Stealth"': '"은신"',
+    '"Currently invisible. Ends if you deal damage."': '"보이지 않는다. 공격시 해제된다."',
     # Condition
     '"Daze"': '"침묵"',
     '"Unable to activate skills."': '"스킬을 시전할 수 없다."',

@@ -50,6 +50,6 @@ def read_item(item_path):
 
 if __name__ == '__main__':
     profession = 'Warrior'
-    # 코어 직업은 specialization = None
+    # 코어 직업은 specialization = None, 그 외는 각 specialization id 입력
     specialization = 68
     main(profession, specialization)
