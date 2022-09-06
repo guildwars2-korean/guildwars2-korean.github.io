@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BgL2AAA=]",
-        "description": "군비.자신을 치유하고 Stim State에 들어갑니다.Stim State가 만료되면 다시 치유됩니다.State State 에서이 기술을 사용하면 Boons가 있습니다.",
+        "description": "군비. 자신을 치유하고 Stim State로 들어갑니다. 자극 상태가 만료되면 다시 치유됩니다. Stim State에 있는 동안 이 기술을 사용하면 혜택이 부여됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

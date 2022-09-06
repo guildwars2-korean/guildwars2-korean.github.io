@@ -4,7 +4,7 @@
             "Deception"
         ],
         "chat_link": "[&BgidAAA=]",
-        "description": "기만.현재 위치에서 신기루를 만들고 시간이 지남에 따라 치유하십시오.Mirage가 만료되면 Mirage 거울을 낳습니다.",
+        "description": "기만. 현재 위치에 신기루를 만들고 시간이 지남에 따라 치유합니다. 신기루가 만료되면 신기루 거울이 생성됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

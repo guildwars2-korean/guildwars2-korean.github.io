@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신이 왜곡을 줄 때마다 다른 인근 동맹국들에게 Aegis를 부여하거나 Shatter Skill 4를 사용할 때마다 4.",
+        "description": "자신에게 왜곡을 부여하거나 샤터 스킬 4를 사용할 때마다 주변의 다른 아군에게 가호를 부여합니다.",
         "facts": [
             {
                 "distance": 300,

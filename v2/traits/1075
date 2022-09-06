@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 트랩 </c>에 의해 적용된 혜택 및 조건의 지속 시간을 늘립니다.<c =@activetype> 트랩 </c> gain gain 줄어 듭니다.",
+        "description": "적용되는 혜택 및 조건의 지속 시간 증가<c=@abilitytype> 트랩</c> .<c=@abilitytype> 트랩</c> 감소된 재충전을 얻고 공격적인 재충전은 불구를 유발합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

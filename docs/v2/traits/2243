@@ -1,6 +1,6 @@
 [
     {
-        "description": "전설을 교환하거나 <C =@Skill> Alliance Tactics를 활성화 할 때 영역에서 지구력을 부여합니다.\n<c =@reminder> 다른 vindicator 전문화에 미치는 영향 감소. </c>",
+        "description": "범례를 바꾸거나 활성화할 때 해당 지역에 지구력 부여<c=@skill> 동맹 전술</c> .<c=@reminder> 다른 변명자 전문화에 대한 효과가 감소했습니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

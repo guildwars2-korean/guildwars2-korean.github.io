@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Brw3AAA=]",
-        "description": "닷지 롤 끝에 적을 손상시킵니다.이 공격으로 강타한 각 원수에 대한 이득.",
+        "description": "회피 굴림이 끝나면 적에게 피해를 줍니다. 이 공격으로 적중당한 적마다 위력을 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

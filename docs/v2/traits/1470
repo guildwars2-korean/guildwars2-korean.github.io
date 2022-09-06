@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> Shout </c> 기술은 재충전을 줄이고 동맹국을 치유합니다.당신의 힘에 따라 치유력을 얻으십시오.",
+        "description": "<c=@abilitytype>외침</c> 스킬은 감소된 충전량을 얻고 아군을 치유합니다. 당신의 힘에 따라 치유력을 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

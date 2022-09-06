@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신이 유발하는 출혈은 기간이 증가했습니다.출혈 적의 피해 증가.",
+        "description": "당신이 가하는 출혈의 지속 시간이 증가했습니다. 출혈 중인 적에게 추가 피해를 줍니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

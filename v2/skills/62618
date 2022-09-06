@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bpr0AAA=]",
-        "description": "간격으로 적을 손상시키는 화염.\n\n이 능력을 활성화하면 다른 활성 윌 벤더 화염 효과가 파괴됩니다.",
+        "description": "일정 간격으로 적에게 피해를 주는 화염을 나타냅니다. 이 능력을 활성화하면 활성화된 다른 Willbender Flames 효과가 파괴됩니다.",
         "facts": [
             {
                 "dmg_multiplier": 0.22,

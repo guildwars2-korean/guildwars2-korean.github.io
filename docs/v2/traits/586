@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 명상 </c> 기술은 당신을 치유하고, 인근 동맹국에게 분노를 부여하고, 재충전을 줄였습니다.",
+        "description": "<c=@abilitytype>심사 숙고</c> 스킬은 당신을 치유하고, 주변 아군에게 분노를 부여하고, 감소된 재충전을 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

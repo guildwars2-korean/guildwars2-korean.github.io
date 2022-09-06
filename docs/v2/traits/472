@@ -1,6 +1,6 @@
 [
     {
-        "description": "동맹국을 보호 할 때 조건을 정화하십시오.",
+        "description": "아군에게 보호를 부여할 때 아군으로부터 상태를 제거하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

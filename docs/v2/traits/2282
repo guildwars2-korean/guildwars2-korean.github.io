@@ -1,6 +1,6 @@
 [
     {
-        "description": "Mech Command Skill Rolling Smash의 잠금을 해제합니다.당신의 기계의 공격은 출혈을 적용합니다.이 효과는 간격 당 한 번만 주어진 대상에만 영향을 줄 수 있습니다.",
+        "description": "기계 명령 스킬 롤링 스매시를 잠금 해제합니다. 기계의 공격은 출혈을 가합니다. 이 효과는 간격당 한 번만 주어진 대상에 영향을 줄 수 있습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

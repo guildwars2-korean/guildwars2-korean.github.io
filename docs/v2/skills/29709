@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bg10AAA=]",
-        "description": "측판.당신의 갑옷을 폭파하여 주변의 적을 두려워하게합니다.",
+        "description": "측판. 갑옷을 폭발시켜 주위의 적들이 두려움에 떨게 만드십시오.",
         "facts": [
             {
                 "apply_count": 1,

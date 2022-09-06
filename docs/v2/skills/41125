@@ -2,7 +2,7 @@
     {
         "attunement": "Fire",
         "chat_link": "[&BqWgAAA=]",
-        "description": "이중 공격.적에게 충격을주는 혈장 공을 발사하십시오.",
+        "description": "듀얼 어택. 적에게 충격을 가하면 폭발하는 플라즈마 볼을 발사합니다.",
         "dual_attunement": "Air",
         "facts": [
             {

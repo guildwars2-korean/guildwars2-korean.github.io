@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@ablectionType> 호출 고문 </c> 저항을 보조합니다.저항은 모든 간격을 치유합니다.",
+        "description": "<c=@abilitytype>고통을 불러일으키다</c> 저항을 부여합니다. 저항은 모든 간격을 치유합니다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신이 재생을 부여하는 동맹국의 조건을 정화합니다.",
+        "description": "재생을 부여한 아군의 상태를 정화합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

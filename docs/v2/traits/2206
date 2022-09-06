@@ -1,6 +1,6 @@
 [
     {
-        "description": "전투 중에 자동으로 <c =@ablection -type> 블레이드 </c>.",
+        "description": "자동 재고<c=@abilitytype> 블레이드</c> 전투 중에.",
         "facts": [
             {
                 "duration": 3,

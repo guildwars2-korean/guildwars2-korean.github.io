@@ -1,6 +1,6 @@
 [
     {
-        "description": "임계 값 이상으로 얻을 때 안정성을 얻습니다.보너스 파워를 부여 할 수 있습니다.",
+        "description": "힘이 임계값 이상일 때 안정성을 얻으십시오. 추가 능력을 부여할 수도 있습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

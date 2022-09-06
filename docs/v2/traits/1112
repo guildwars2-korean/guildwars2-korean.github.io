@@ -1,6 +1,6 @@
 [
     {
-        "description": "건강 임계 값 아래에서 쳤을 때 회피를 얻습니다.",
+        "description": "체력 임계값 아래에 있는 동안 공격을 받으면 회피를 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

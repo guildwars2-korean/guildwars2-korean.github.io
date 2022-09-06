@@ -1,6 +1,6 @@
 [
     {
-        "description": "Scepter의 잠금을 해제하십시오.<c =@activetype> 도둑질 </c>는 <c =@activetype> siphon </c>가되고 이니셔티브가 줄어 듭니다.지출 이니셔티브를 통해 섀도우 힘에 접근하고 섀도우 슈라우드 능력에 접근하십시오.",
+        "description": "홀을 잠금 해제하십시오.<c=@abilitytype> 훔치다</c> 된다<c=@abilitytype> 사이펀</c> 그리고 당신의 주도권이 줄어듭니다. 지출 이니셔티브를 통해 그림자 세력에 액세스하고 그림자 장막 능력에 액세스하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

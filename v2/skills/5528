@@ -2,7 +2,7 @@
     {
         "attunement": "Earth",
         "chat_link": "[&BpgVAAA=]",
-        "description": "지상이 분출하고 적을 손상시킬 때까지 땅을 흔들어보십시오.",
+        "description": "폭발할 때까지 땅을 흔들어 적에게 피해를 줍니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

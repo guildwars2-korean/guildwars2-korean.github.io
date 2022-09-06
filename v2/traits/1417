@@ -1,6 +1,6 @@
 [
     {
-        "description": "무기 스왑에서 얻을 수 있습니다.<c =@activetype> 버스트 </c> 기술은 재충전 감소를 얻습니다.",
+        "description": "무기 교환 시 힘을 얻습니다.<c=@abilitytype> 터지다</c> 스킬 획득 감소 재충전.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

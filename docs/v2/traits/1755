@@ -1,6 +1,6 @@
 [
     {
-        "description": "치유 기술을 사용한 후 사이펀 건강.",
+        "description": "치유 기술을 사용한 후 건강을 흡수합니다.",
         "facts": [
             {
                 "apply_count": 5,

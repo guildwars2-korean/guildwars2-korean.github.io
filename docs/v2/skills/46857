@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bgm3AAA=]",
-        "description": "여러분 주위의 적을 공격하여 여러 조건을 부여합니다.",
+        "description": "주변의 적을 공격하여 여러 조건을 부여합니다.",
         "facts": [
             {
                 "dmg_multiplier": 0.75,

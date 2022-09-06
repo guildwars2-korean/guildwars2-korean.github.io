@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BlnLAAA=]",
-        "description": "Wyvern은 적 근처에 적을 없으면 화염 공을 쏘게됩니다.",
+        "description": "와이번은 근처에 적이 없을 경우 화염구를 발사합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

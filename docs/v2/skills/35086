@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bg6JAAA=]",
-        "description": "Keep Construct는 천장에서 떨어지면서 적을 으르렁 거리며 무너집니다.",
+        "description": "Keep Construct가 천장에서 떨어져 아래에 있는 적을 부수고 넘어뜨립니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

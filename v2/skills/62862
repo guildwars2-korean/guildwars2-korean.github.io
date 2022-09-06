@@ -2,7 +2,7 @@
     {
         "attunement": "Water",
         "chat_link": "[&Bo71AAA=]",
-        "description": "적을 식히기 위해 땅을 깨뜨리십시오.",
+        "description": "땅을 파서 적을 식히십시오.",
         "facts": [
             {
                 "dmg_multiplier": 1.2,

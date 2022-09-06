@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BoApAAA=]",
-        "description": "주변의 적을 약화시키고 손상시킵니다.적에 맞는 생명력을 얻습니다.이 지역의 각 적에게 진홍색 조수를 발사하십시오.",
+        "description": "주변의 적을 약화시키고 피해를 줍니다. 적중한 적 하나당 생명력을 얻습니다. 해당 지역의 각 적에게 크림슨 타이드를 발사합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

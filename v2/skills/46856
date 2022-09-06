@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bgi3AAA=]",
-        "description": "당신 주위의 적을 때리고, 적을 강타하는 조건을 가졌습니다.",
+        "description": "주위의 적을 공격하여 적중한 적에게 조건을 건다.",
         "facts": [
             {
                 "dmg_multiplier": 0.9,

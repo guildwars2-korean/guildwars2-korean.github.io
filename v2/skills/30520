@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bjh3AAA=]",
-        "description": "당신 앞에서 적을 때리고 뒤로 굴러 가서 고정화 효과를 끊습니다.",
+        "description": "전방의 적을 공격하고 뒤로 굴러 이동 불가 효과를 해제합니다.",
         "dual_wield": "None",
         "facts": [
             {

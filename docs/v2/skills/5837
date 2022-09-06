@@ -4,7 +4,7 @@
             "Turret"
         ],
         "chat_link": "[&Bs0WAAA=]",
-        "description": "터릿.근처의 원수를 고정시키는 순 포탑을 건설하십시오.이 포탑은 처음 배치 될 때 과충전됩니다.",
+        "description": "터릿. 주변의 적을 움직이지 못하게 하는 그물 포탑을 만드십시오. 이 포탑은 처음 배치될 때 과충전됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

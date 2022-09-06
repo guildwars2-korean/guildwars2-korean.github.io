@@ -5,7 +5,7 @@
         ],
         "chat_link": "[&BiScAAA=]",
         "cost": 10,
-        "description": "터지다.대상을 간단히 기절시킵니다.기술을 사용하여 대상을 치면 아드레날린을 회수하십시오.",
+        "description": "터지다. 대상을 잠시 기절시킵니다. 스킬을 사용하여 목표물을 명중하면 아드레날린이 약간 회복됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

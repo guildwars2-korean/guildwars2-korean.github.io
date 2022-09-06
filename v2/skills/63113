@@ -4,7 +4,7 @@
             "Signet"
         ],
         "chat_link": "[&Bon2AAA=]",
-        "description": "Signet Passive : 조건 손상을 처리합니다.\nSignet Active : 근처의 적에게 조건을 적용하는 주변의 손상된 필드를 만듭니다.당신의 기계가 활동적이면, 필드는 대신 기계에서 발사하고 따릅니다.",
+        "description": "인장 패시브: 입히는 조건 피해가 증가합니다. 시그넷 액티브: 주변 적에게 조건을 적용하는 데미지 필드를 생성합니다. 기계가 활성화된 경우 필드는 대신 기계에서 방사되고 기계를 따릅니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

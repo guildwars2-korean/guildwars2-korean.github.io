@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bvt6AAA=]",
-        "description": "Gorseval의 단순한 존재는 범위 내의 모든 적들이 3 초마다 손상을 입히게합니다.",
+        "description": "Gorseval의 존재만으로도 범위 내의 모든 적이 3초마다 피해를 입습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

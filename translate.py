@@ -2,12 +2,12 @@ import copy
 from multiprocessing import Pool
 import json
 import os
-# pip install googletrans==4.0.0-rc1
-import googletrans
+from google.cloud import translate_v2 as translate
 
 from dictionary import DICTIONARY_FOR_TRANSLATION
 
 
+# export GOOGLE_APPLICATION_CREDENTIALS="C:\Users\kwonj\Downloads\guildwars2-korean-527df6fc8ba1.json"
 num_of_processes = 32
 
 origin_dir_name = 'origin'
@@ -16,7 +16,8 @@ ignore_file_name = 'index.html'
 
 dictionary_for_translation = DICTIONARY_FOR_TRANSLATION
 dictionary_from_google = {}
-translator = googletrans.Translator()
+client = translate.Client()
+
 
 def main():
     translated_dir = './{}'.format(translated_dir_name)
@@ -41,17 +42,34 @@ def translate_resource(resource):
     p = Pool(num_of_processes)
     p.map(translate_item, params)
 
+def pre_translate_item(origin_text):
+    copied_text = copy.deepcopy(origin_text)
+    ignore_texts = [
+        '<c=@abilitytype> ',
+        '<c =@reminder> ',
+        '<c =@activetype> ',
+        '<c =@ablection> ',
+        '<c=@abilitytype> ',
+        '<c =@ablectionType> '
+        '<c =@ablection -type> ',
+        '<c=@reminder> ',
+        ' <c/>'
+        '<c/>'
+    ]
+    for ignore_text in ignore_texts:
+        copied_text = copied_text.replace(ignore_text, '')
+    return copied_text
+
 def post_translate_item(item_json):
     description = item_json.get('description')
-    print('- {}'.format(description))
     if not description:
         return item_json
 
     discription_kr = dictionary_from_google.get(description)
     if not discription_kr:
-        discription_kr = translator.translate(description, src='en', dest='ko').text
+        res = client.translate(description, target_language='ko')
+        discription_kr = res['translatedText']
         dictionary_from_google[description] = discription_kr
-    print('  - {}'.format(discription_kr))
     item_json['description'] = discription_kr
     return item_json
 
@@ -61,6 +79,8 @@ def translate_item(param):
 
     origin_item_path = './{}/{}/{}'.format(origin_dir_name, resource, item_id)
     origin_item_text = read_item(origin_item_path)
+
+    origin_item_text = pre_translate_item(origin_item_text)
 
     translated_item_path = './{}/{}/{}'.format(translated_dir_name, resource, item_id)
     custom_translated_text = get_custom_transalted_text(origin_item_text, dictionary_for_translation)

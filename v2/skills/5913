@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BhkXAAA=]",
-        "description": "터렛을 폭발하는 로켓을 발사하기 위해 과다 충전하십시오.",
+        "description": "터렛을 과충전하여 폭발성 로켓을 발사하세요.",
         "facts": [
             {
                 "dmg_multiplier": 2.75,

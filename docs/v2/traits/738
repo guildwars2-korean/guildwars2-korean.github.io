@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신이 <c =@activetype> mantra </c>를 캐스트 할 때 주변의 동맹국을 치유하십시오.",
+        "description": "시전 시 주변 아군을 치유합니다.<c=@abilitytype> 만트라</c> .",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

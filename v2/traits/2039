@@ -1,6 +1,6 @@
 [
     {
-        "description": "A <C =@AbilityType> Rage </c> 기술을 사용하면 근처의 적에게 타는 것을 유발합니다.",
+        "description": "사용할 때<c=@abilitytype> 격노</c> 스킬, 주변의 적에게 화상을 입힌다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -5,7 +5,7 @@
             "Glyph"
         ],
         "chat_link": "[&BmkWAAA=]",
-        "description": "글리프.대상 지역에서 번개 폭풍을 만듭니다.\n이 기술에 적을 때릴 때마다 대상 당 손상이 줄어 듭니다.",
+        "description": "글리프. 대상 지역에 번개 폭풍을 생성합니다. 이 스킬에 적중당할 때마다 대상당 데미지가 감소합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

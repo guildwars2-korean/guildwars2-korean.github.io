@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 산산조각 </c> 기술은 히트시 고통을 유발합니다.",
+        "description": "<c=@abilitytype>파편</c> 스킬은 명중 시 고통을 줍니다.",
         "facts": [
             {
                 "apply_count": 1,

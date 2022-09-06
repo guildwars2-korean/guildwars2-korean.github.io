@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BsKbAAA=]",
-        "description": "모든 플레이어를 대상으로하고 위치를 향해 튀는 발사체를 발사하여 각 바운스 후에 불을 남깁니다.",
+        "description": "모든 플레이어를 대상으로 하고 해당 위치를 향해 튀는 발사체를 발사하여 튕길 때마다 불을 남깁니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

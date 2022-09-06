@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BtEXAAA=]",
-        "description": "작살 포탑을 폭발시킵니다.",
+        "description": "작살 포탑을 폭발시키십시오.",
         "facts": [
             {
                 "dmg_multiplier": 2,

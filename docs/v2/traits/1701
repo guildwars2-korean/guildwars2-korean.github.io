@@ -1,6 +1,6 @@
 [
     {
-        "description": "A <c =@ablection -type> beast </c> 능력을 사용하면 애완 동물의 다음 공격은 독을 영향을 미칩니다.독 피해가 증가합니다.",
+        "description": "사용 시<c=@abilitytype> 짐승</c> 능력, 당신의 애완 동물의 다음 공격은 독을 입힐 것입니다. 당신의 독 데미지가 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

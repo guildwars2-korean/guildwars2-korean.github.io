@@ -4,7 +4,7 @@
             "Trap"
         ],
         "chat_link": "[&BvUwAAA=]",
-        "description": "덫.트리거 될 때 적에게 독을 펄럭이는 함정을 설정하십시오.",
+        "description": "덫. 발동 시 적에게 독을 퍼붓는 함정을 설정합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

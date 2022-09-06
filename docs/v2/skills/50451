@@ -4,7 +4,7 @@
             "StealthAttack"
         ],
         "chat_link": "[&BhPFAAA=]",
-        "description": "스텔스 공격.피를 흘리고 적을 고정시키는 화살을 쏘십시오.화살표가 표시된 대상을 때리면 모든 악의와 파편이 소비되어 소비되는 각 악의에 대해 인근 적에 새로운 화살을 발사합니다.",
+        "description": "스텔스 공격. 출혈을 일으키고 적을 움직이지 못하게 하는 화살을 쏘십시오. 화살이 표시된 목표물에 명중하면 모든 악의와 파편을 소모하여 소모된 악의에 대해 근처의 적에게 새로운 화살을 발사합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

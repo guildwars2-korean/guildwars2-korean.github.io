@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 산산조각 </c> 기술은 활력을주고 활력을 부여하면 조건 손상이 발생합니다.",
+        "description": "<c=@abilitytype>파편</c> 기술은 활력을 주고, 활력은 상태 피해를 줍니다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -2,7 +2,7 @@
     {
         "attunement": "Water",
         "chat_link": "[&Bq0VAAA=]",
-        "description": "인근 동맹국을 치유하기 위해 튀는 원수에 물을 뿌립니다.",
+        "description": "적에게 물을 분사하여 주변 아군을 치유합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

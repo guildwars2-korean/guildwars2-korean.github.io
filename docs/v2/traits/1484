@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 배너 </c> 아군이 떨어질 때 동맹국에게 신속하게 부여합니다.<c =@activetype> 배너를 통해 적용되는 맥박 </c>는 더 오래 지속됩니다.",
+        "description": "<c=@abilitytype>배너</c> 아군이 드롭될 때 신속함을 부여합니다. 을 통해 적용된 펄스 혜택<c=@abilitytype> 배너</c> 더 오래 지속됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

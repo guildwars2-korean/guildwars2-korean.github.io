@@ -2,7 +2,7 @@
     {
         "attunement": "Air",
         "chat_link": "[&BlGlAAA=]",
-        "description": "이중 공격.짧은 채널 후에, 경로에서 적을 소멸시키는 초고속 바위를 발사하십시오.",
+        "description": "듀얼 어택. 짧은 채널 후, 경로에 있는 적을 제거하는 초고속 바위를 발사합니다.",
         "dual_attunement": "Earth",
         "facts": [
             {

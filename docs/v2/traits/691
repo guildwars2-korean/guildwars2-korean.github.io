@@ -1,6 +1,6 @@
 [
     {
-        "description": "횃불 기술의 재충전을 줄입니다.토치 기술에서 불꽃이 터지는 것은 추가로 타는 것을 유발합니다.",
+        "description": "토치 스킬의 재충전을 줄입니다. 토치 스킬의 화염 폭발은 추가 화상을 입힙니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

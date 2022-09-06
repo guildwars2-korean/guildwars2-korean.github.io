@@ -1,6 +1,6 @@
 [
     {
-        "description": "성공적인 전체 카운터 후에 보호를 얻습니다.",
+        "description": "전체 카운터 성공 후 보호를 받습니다.",
         "facts": [
             {
                 "apply_count": 1,

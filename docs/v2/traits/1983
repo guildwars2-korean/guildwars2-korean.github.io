@@ -1,6 +1,6 @@
 [
     {
-        "description": "<br> <c =@reminder> 비활성화 된 적을 비활성화합니다.",
+        "description": "비활성화한 적을 불구로 만듭니다.<br><c=@reminder> 비활성화에는 기절, 멍, 넉백, 당기기, 넉다운, 가라앉기, 뜨기, 발사, 도발 및 공포가 포함됩니다.</c>",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Br4wAAA=]",
-        "description": "공격을 피하는 동안 적을 찌르고 독살하십시오.이 공격은 움직임에 장애가있는 적들에 대한 피해와 독에 대한 증가를 다룹니다.",
+        "description": "공격을 피하면서 적을 찌르고 중독시킵니다. 이 공격은 이동 장애가 있는 적에게 증가된 피해와 독을 줍니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BrIwAAA=]",
-        "description": "여러 적들 사이에서 도끼를 튕겨서 각 적마다 힘을 얻습니다.",
+        "description": "여러 적 사이에 도끼를 튕겨 적중한 적마다 위력을 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

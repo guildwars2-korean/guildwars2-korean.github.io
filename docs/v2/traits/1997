@@ -1,6 +1,6 @@
 [
     {
-        "description": "블라인드 또는 비활성화시 유틸리티 고글을 활성화하십시오. <br> <c =@reminder> 비활성화, 스턴, 멍청한, 녹백, 풀, 녹다운, 싱크, 플로트, 발사, 도발 및 두려움이 포함됩니다. </c>",
+        "description": "눈이 멀거나 비활성화된 경우 하급 유틸리티 고글을 활성화합니다.<br><c=@reminder> 비활성화에는 기절, 멍, 넉백, 당기기, 넉다운, 가라앉기, 뜨기, 발사, 도발 및 공포가 포함됩니다.</c>",
         "icon": "https://render.guildwars2.com/file/9DFA2D5E0C5E0EBBC0CD011E1FC6181F6D9ED5CC/1012379.png",
         "id": 1997,
         "name": "Reactive Lenses",

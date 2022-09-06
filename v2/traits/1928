@@ -1,6 +1,6 @@
 [
     {
-        "description": "Berserk 모드에서는 타격 피해가 증가했습니다.",
+        "description": "버서커 모드에서 증가된 스트라이크 데미지를 입힙니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BospAAA=]",
-        "description": "무작위 대상에서 쇠약 한 발사체를 발사하십시오.",
+        "description": "근처에 있는 무작위 대상에게 쇠약하게 하는 발사체를 발사합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

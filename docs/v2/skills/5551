@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bq8VAAA=]",
-        "description": "대상 지역의 치유 비를 부르며 동맹국에 재생 및 3 초마다 한 번씩 치료 조건을 부여하십시오.",
+        "description": "대상 지역에 치유의 비를 내려 3초에 한 번씩 아군에게 재생 및 치료 조건을 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

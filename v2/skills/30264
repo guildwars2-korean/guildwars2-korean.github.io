@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bjh2AAA=]",
-        "description": "과충전 상자의 포탑.",
+        "description": "보급 상자의 포탑을 과충전하십시오.",
         "flags": [
             "NoUnderwater"
         ],

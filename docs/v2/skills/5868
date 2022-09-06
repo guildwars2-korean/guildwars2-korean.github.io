@@ -4,7 +4,7 @@
             "Turret"
         ],
         "chat_link": "[&BuwWAAA=]",
-        "description": "터릿.포탑의 공급 방울을 요청하십시오.포탑이 처음 떨어 졌을 때 과충전합니다.",
+        "description": "터릿. 포탑 보급품 투하를 요청하십시오. 포탑은 처음 떨어뜨렸을 때 과충전됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

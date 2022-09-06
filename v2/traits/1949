@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@ablection -type> 물리적 </c> 기술은 활성화 될 때 인구력을 부여하고 재충전 감소.",
+        "description": "<c=@abilitytype>물리적 인</c> 스킬을 활성화하면 지구력이 부여되고 재충전량이 감소합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

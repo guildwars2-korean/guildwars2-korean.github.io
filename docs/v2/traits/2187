@@ -1,6 +1,6 @@
 [
     {
-        "description": "치유력이 증가합니다.<c =@activetype> willbender flames </c> 이제 그들이 적을 때릴 때 당신을 치료하십시오.",
+        "description": "치유력이 증가합니다.<c=@abilitytype> 윌벤더 플레임</c> 이제 적을 공격할 때 치유합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",

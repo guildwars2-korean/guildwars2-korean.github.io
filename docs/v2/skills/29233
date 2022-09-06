@@ -2,7 +2,7 @@
     {
         "chat_link": "[&BjFyAAA=]",
         "cost": 5,
-        "description": "근처의 모든 적을 공격 한 다음 두 번째 타격을 입히는 미스트 에너지 파열을 풀어줍니다.두 번째 스트라이크는 적만 치면 보너스 피해를 입 힙니다.",
+        "description": "주변의 모든 적을 공격한 다음 두 번째 공격을 가하는 안개 에너지를 방출합니다. 두 번째 공격은 한 명의 적에게만 맞으면 추가 피해를 줍니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

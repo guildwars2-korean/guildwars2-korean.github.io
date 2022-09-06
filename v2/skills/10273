@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BiEoAAA=]",
-        "description": "적과 동맹국 사이에 에너지의 구를 튕 깁니다.첫 번째 히트는 고통을 적용하는 반면, 적에게 후속 히트는 혼란을 적용합니다.오브가 튀어 나와 분노를 얻는 동맹국.",
+        "description": "적과 아군 사이에 에너지 구체를 튕깁니다. 첫 번째 공격은 고통을 적용하고 이후의 적에게는 혼란이 적용됩니다. 구체가 분노와 힘을 얻기 위해 튕겨 나오는 아군.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

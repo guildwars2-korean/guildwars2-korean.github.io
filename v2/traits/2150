@@ -1,6 +1,6 @@
 [
     {
-        "description": "닷지 롤링 대신 신기루 망토를 얻으십시오.<c =@activetype> Ambush </c> 기술은 신기루 망토를 얻을 때마다 짧은 시간 동안 이용할 수있게됩니다.<c =@activetype> deception </c> 기술에 액세스하십시오.",
+        "description": "회피 굴림 대신 신기루 망토를 얻습니다.<c=@abilitytype> 매복</c> 신기루 망토를 얻을 때마다 잠시 동안 스킬을 사용할 수 있습니다. 액세스 권한 얻기<c=@abilitytype> 기만</c> 기술.",
         "facts": [
             {
                 "apply_count": 1,

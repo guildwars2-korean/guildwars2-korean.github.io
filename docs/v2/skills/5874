@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BvIWAAA=]",
-        "description": "소총 포탑을 취약성을 부여하는 피어싱 샷을 과도하게 충전하십시오.",
+        "description": "취약성을 유발하는 관통 사격을 하기 위해 소총 포탑을 과충전하십시오.",
         "facts": [
             {
                 "dmg_multiplier": 0.75,

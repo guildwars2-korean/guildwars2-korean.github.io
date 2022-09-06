@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bl6XAAA=]",
-        "description": "공급 상자 포탑을 폭발시킵니다.",
+        "description": "보급 상자 포탑을 폭발시키십시오.",
         "facts": [
             {
                 "dmg_multiplier": 2,

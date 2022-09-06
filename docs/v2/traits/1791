@@ -1,6 +1,6 @@
 [
     {
-        "description": "에너지 임계 값 이하에서 전설을 불러 내면 새로운 전설에 추가 에너지를 부여합니다.",
+        "description": "에너지 임계값 이하에서 범례를 호출하면 새 범례에 추가 에너지가 부여됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

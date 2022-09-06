@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> elixirs </c> gain은 재충전 감소 및 기간 증가 및 보조금이 가능합니다.",
+        "description": "<c=@abilitytype>비약</c> 감소된 재충전 및 증가된 지속 시간을 얻고 힘을 부여합니다.",
         "facts": [
             {
                 "apply_count": 2,

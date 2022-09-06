@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bq3GAAA=]",
-        "description": "공격을 목표로하는 생명체가 주어진 그림자.타일이 터치합니다.",
+        "description": "공격할 대상을 찾는 살아있는 형태의 그림자. 닿는 모든 타일을 파괴합니다.",
         "flags": [],
         "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
         "id": 50861,

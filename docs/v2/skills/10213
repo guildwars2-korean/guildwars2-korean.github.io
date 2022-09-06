@@ -4,7 +4,7 @@
             "Mantra"
         ],
         "chat_link": "[&BuUnAAA=]",
-        "description": "만트라.회복의 만트라를 노래하고 즉시 자신을 치유하십시오.건강 임계 값 미만이라면 치유가 증가합니다.",
+        "description": "만트라. 회복의 만트라를 외우고 즉시 자신을 치유하십시오. 체력 임계값 미만인 경우 치유량이 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

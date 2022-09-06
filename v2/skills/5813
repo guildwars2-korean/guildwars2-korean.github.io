@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BrUWAAA=]",
-        "description": "근처의 적을 시작하는 큰 폭발로 시간이 지남에 따라 충전하십시오.",
+        "description": "근처의 적을 발사하는 큰 폭발로 시간 제한을 설정합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "지출 된 탄약의 라운드마다 스트라이크 피해가 증가합니다.",
+        "description": "탄약을 소모할 때마다 공격 피해가 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",

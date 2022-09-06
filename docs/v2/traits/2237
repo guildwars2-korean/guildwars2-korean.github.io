@@ -1,6 +1,6 @@
 [
     {
-        "description": "들어오는 치유가 증가했습니다.자신을 치유하면 유량이 증가합니다. <br> <c =@reminder> 재생 효과는 유량이 증가하지 않습니다. </c>",
+        "description": "받는 치유량이 증가했습니다. 자신을 치유하면 유속이 증가합니다.<br><c=@reminder> 재생 효과는 유량 증가를 유발하지 않습니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

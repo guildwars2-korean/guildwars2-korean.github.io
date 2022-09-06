@@ -2,7 +2,7 @@
     {
         "attunement": "Air",
         "chat_link": "[&BgOgAAA=]",
-        "description": "이중 공격.돌의 폭풍으로 적을 파쇄합니다.폭풍이 활성화되는 동안 손상이 줄어 듭니다.",
+        "description": "듀얼 어택. 돌 폭풍으로 적을 갈가리 찢습니다. 폭풍이 활성화되는 동안 받는 피해가 감소합니다.",
         "dual_attunement": "Earth",
         "facts": [
             {

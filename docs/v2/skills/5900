@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BgwXAAA=]",
-        "description": "화염 포탑을 과도하게 충전하고 근처의 적을 눈을 멀게하는 연기 스크린을 방출하십시오.",
+        "description": "화염 포탑을 과충전하여 주변 적의 눈을 멀게 하는 연막을 방출합니다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BpW/AAA=]",
-        "description": "각 간격에서 가까운 동맹국의 조건을 정화하기 위해 정화 증기를 방출합니다.",
+        "description": "각 간격마다 주변 아군의 상태를 정화하기 위해 정화 증기를 방출합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

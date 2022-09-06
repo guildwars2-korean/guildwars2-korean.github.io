@@ -1,6 +1,6 @@
 [
     {
-        "description": "공격을 성공적으로 차단하거나 회피 할 때 공격자에게 적은 판타 질 수비수를 캐스트하십시오.",
+        "description": "공격을 성공적으로 차단하거나 회피하면 공격자에게 하급 판타스멀 디펜더를 시전합니다.",
         "icon": "https://render.guildwars2.com/file/EC7602C0FABB72AFB01379563ED7FB76079BB9CA/1012528.png",
         "id": 2005,
         "name": "Mental Defense",

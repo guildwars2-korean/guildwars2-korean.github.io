@@ -4,7 +4,7 @@
             "Gadget"
         ],
         "chat_link": "[&BhEYAAA=]",
-        "description": "간단한 기계 장치.손상을 입히고, 뒤로 물러나고, 근처의 적들로부터 혜택을 제거하는 원격 제어 된 지뢰를 버리십시오.",
+        "description": "간단한 기계 장치. 원격 제어 지뢰를 던져 주변 적에게 피해를 입히고 뒤로 밀치고 혜택을 제거합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

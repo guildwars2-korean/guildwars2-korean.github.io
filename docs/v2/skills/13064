@@ -4,7 +4,7 @@
             "Signet"
         ],
         "chat_link": "[&BggzAAA=]",
-        "description": "Signet Passive : 10 초마다 하나의 추가 이니셔티브를 재생합니다.\nSignet Active : 적에게 Shadowstep.",
+        "description": "인장 패시브: 10초마다 하나의 추가 계획을 재생합니다. 시그넷 액티브: 적에게 섀도스텝.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Photon Forge는 들어오는 손상을 줄이지 만 수동적 열 발생이 증가했습니다.",
+        "description": "Photon Forge는 받는 피해를 줄이지만 패시브 열 생성을 증가시켰습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

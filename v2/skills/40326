@@ -2,7 +2,7 @@
     {
         "attunement": "Fire",
         "chat_link": "[&BoadAAA=]",
-        "description": "칼을 두 번째로 가열하고 적을 때려 피해를 입으십시오.",
+        "description": "검을 두 번째로 가열하고 적을 공격하여 데미지를 높입니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

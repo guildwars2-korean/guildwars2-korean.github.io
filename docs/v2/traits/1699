@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 생존 </c> 기술은 재충전 감소, 분노를 부여하며 조건을 제거합니다.",
+        "description": "<c=@abilitytype>활착</c> 스킬은 재충전 감소, 분노 부여 및 조건 제거를 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

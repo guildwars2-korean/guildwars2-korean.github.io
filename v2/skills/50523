@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BlvFAAA=]",
-        "description": "적을 쓰러 뜨리는 도약 공격.",
+        "description": "적을 넘어뜨리는 도약 공격.",
         "facts": [
             {
                 "finisher_type": "Leap",

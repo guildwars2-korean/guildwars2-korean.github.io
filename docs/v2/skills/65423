@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bo//AAA=]",
-        "description": "3 초마다 에너지를 펄럭이며 모든 적을 범위로 손상시키고, 혜택을 손상시키고, 장벽을 깨뜨립니다.",
+        "description": "3초마다 에너지를 펄스하여 범위 내의 모든 적에게 피해를 입히고, 적의 이익을 손상시키고, 보호막을 파괴합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

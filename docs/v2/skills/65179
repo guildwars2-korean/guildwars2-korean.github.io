@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bpv+AAA=]",
-        "description": "옥 봇이 당신을 부활 시키도록 명령하십시오.",
+        "description": "옥 봇에게 명령하여 당신을 소생시키십시오.",
         "flags": [
             "NoUnderwater"
         ],

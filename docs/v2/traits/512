@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@ablection -type> 엔지니어링 키트를 장비하면 공격 또는 주문을 생성하고 신속하게 부여합니다.",
+        "description": "장비하기<c=@abilitytype> 엔지니어링 키트</c> 공격이나 주문을 생성하고 신속함을 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Berserk 모드에 액세스하고 <c =@active -type> Primal Bursts </c>에 액세스하십시오.",
+        "description": "버서크 모드에 액세스하고<c=@abilitytype> 원시 버스트</c> .",
         "icon": "https://render.guildwars2.com/file/FF5A46180F4096BE3749D038E298F44EE9BEC4F6/1029976.png",
         "id": 1831,
         "name": "Primal Rage",

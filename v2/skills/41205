@@ -4,7 +4,7 @@
             "Cantrip"
         ],
         "chat_link": "[&BvWgAAA=]",
-        "description": "주문.단기간 지연 후에도 스텔스가 있고 목표를 고정시키면서 자신을 드러내면서 분을 제거하십시오.원수가 당신의 표시된 대상이라면, 그것은 또한 무너졌습니다.",
+        "description": "주문. 은신 상태인 경우 자신을 드러내고 잠시 후 대상을 움직이지 못하게 하는 동시에 혜택을 제거합니다. 적이 당신의 표식 대상이라면, 그것도 쓰러뜨립니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

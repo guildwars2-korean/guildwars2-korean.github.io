@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bu8JAQA=]",
-        "description": "소총에서 폭발적인 수류탄을 발사하십시오.",
+        "description": "소총에서 폭발성 수류탄을 발사하십시오.",
         "facts": [
             {
                 "dmg_multiplier": 0.4,

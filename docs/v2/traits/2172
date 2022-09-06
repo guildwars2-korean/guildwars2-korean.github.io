@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신의 마크가 패배하면 Deadeye의 마크가 재충전됩니다.이 재충전이 발생하면 재생을 얻습니다.",
+        "description": "당신의 표식이 패배하면 Deadeye&#39;s Mark가 재충전됩니다. 이 재충전이 발생하면 재생을 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -4,7 +4,7 @@
             "Physical"
         ],
         "chat_link": "[&BmH0AAA=]",
-        "description": "물리적 인.Shadowstep과 땅을 때리고 타겟팅 된 적을 쓰러 뜨립니다.대상이 아닌 적들은 대신 무너집니다.",
+        "description": "물리적 인. 섀도우 스텝을 밟고 땅을 내리쳐 목표한 적을 쓰러뜨립니다. 목표로 지정되지 않은 적은 대신 뒤로 밀려납니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

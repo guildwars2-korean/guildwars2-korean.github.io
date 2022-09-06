@@ -2,7 +2,7 @@
     {
         "chat_link": "[&Bn1tAAA=]",
         "cost": 10,
-        "description": "도끼가 통과하는 적을 손상시키고 식히고 대상에 도끼를 던지십시오.도끼가 목표에 도달하면 Shadowstep을 사용하여 큰 타격을줍니다.",
+        "description": "대상에게 도끼를 던져 도끼가 통과하는 적에게 피해를 입히고 냉각시킵니다. 도끼가 목표물에 도달하면 그림자를 밟아 큰 일격을 날립니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

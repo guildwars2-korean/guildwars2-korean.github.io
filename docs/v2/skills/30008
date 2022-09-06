@@ -2,7 +2,7 @@
     {
         "attunement": "Air",
         "chat_link": "[&Bjh1AAA=]",
-        "description": "적을 위치로 끌어 당기고 영향을 미치는 동맹국들에게 신속성을 부여하는 사이클론을 폭파하십시오.",
+        "description": "적을 해당 위치로 끌어당기고 영향을 받는 아군에게 신속함을 부여하는 회오리바람을 내뿜습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

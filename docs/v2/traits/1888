@@ -1,6 +1,6 @@
 [
     {
-        "description": "Fury는 낙관성을 부여하고 추가로 중요한 스트라이크 기회를 증가시킵니다.건강 임계 값 아래에서 쳤을 때 분노를 얻으십시오.",
+        "description": "Fury는 흉포함을 부여하고 추가로 치명타 확률을 높입니다. 체력 임계값 미만일 때 공격을 받으면 분노를 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

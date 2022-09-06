@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BmgwAAA=]",
-        "description": "Norn 늑대 형태의 모양 이동.",
+        "description": "노른 울프 형태에서 뒤로 형태 변경.",
         "flags": [
             "NoUnderwater"
         ],

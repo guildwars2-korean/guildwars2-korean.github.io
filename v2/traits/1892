@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@ablection -type> 폭발 </c> 그들이 치면 흉내 내기 흉상.",
+        "description": "<c=@abilitytype>폭발</c> 적중 시 중첩되는 포악함을 부여합니다.",
         "facts": [
             {
                 "apply_count": 1,

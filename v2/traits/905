@@ -1,6 +1,6 @@
 [
     {
-        "description": "Shroud Skill 1은 목표에 화상을 입습니다.",
+        "description": "슈라우드 스킬 1은 대상에게 화상을 입힙니다.",
         "facts": [
             {
                 "apply_count": 1,

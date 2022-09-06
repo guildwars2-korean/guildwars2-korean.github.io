@@ -1,6 +1,6 @@
 [
     {
-        "description": "미덕 기술 1에서 피해를 입은 효과로 적을 때리는 진노의 징후가 적습니다.",
+        "description": "미덕 스킬 1의 데미지 효과로 적을 공격하면 하급 분노의 인장을 시전합니다.",
         "icon": "https://render.guildwars2.com/file/CD1F3745DD010649D5F53553B695021580221DC0/1012417.png",
         "id": 578,
         "name": "Wrath of Justice",

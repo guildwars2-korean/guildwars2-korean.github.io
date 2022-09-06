@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 캔 트립 </c> gain gain wefted reckarge and grant boon.",
+        "description": "<c=@abilitytype>캔트립스</c> 감소된 재충전을 얻고 혜택을 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

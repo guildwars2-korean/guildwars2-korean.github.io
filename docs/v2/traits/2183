@@ -1,6 +1,6 @@
 [
     {
-        "description": "Death Shroud는 Harbinger Shroud로 대체되어 강력한 공격 기술을 부여하지만 공격에 취약하게 만듭니다. <br> Harbinger Shroud에 머무르면 스태킹 Blight가 축적됩니다. <br> <c =@reminder> Blight는 최대 건강을 감소시킵니다. <./c>",
+        "description": "죽음의 수의가 선구자 수의로 대체되어 강력한 공격 기술을 제공하지만 공격에 취약합니다.<br> 선구자 장막에 남아 있으면 역병이 누적됩니다.<br><c=@reminder> 역병은 최대 체력을 감소시킵니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

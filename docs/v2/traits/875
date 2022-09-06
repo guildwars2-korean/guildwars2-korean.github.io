@@ -1,6 +1,6 @@
 [
     {
-        "description": "슈라우드 기술 1은 취약성을 가해집니다.",
+        "description": "슈라우드 스킬 1은 취약성을 부여합니다.",
         "facts": [
             {
                 "apply_count": 2,

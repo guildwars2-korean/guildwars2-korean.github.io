@@ -1,6 +1,6 @@
 [
     {
-        "description": "시선 트리거를 갱신 할 때,이 특성은 치유, 유용성 및 엘리트 기술에 필요한 재충전 시간의 일부를 복원합니다. <br> <c =@reminder> 인종 기술 제외. </c>",
+        "description": "Renewing Gaze가 발동되면 이 특성은 치유, 유틸리티 및 엘리트 기술에 필요한 재충전 시간의 일부를 회복합니다.<br><c=@reminder> 종족 스킬 제외.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

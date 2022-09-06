@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 버스트 </c> 기술은 중요한 기회가 증가합니다.",
+        "description": "<c=@abilitytype>터지다</c> 스킬의 크리티컬 확률이 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",

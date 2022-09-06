@@ -1,6 +1,6 @@
 [
     {
-        "description": "치유 기술을 사용할 때 혼돈 폭풍이 적습니다.",
+        "description": "치유 스킬 사용 시 하급 혼돈 폭풍을 시전합니다.",
         "icon": "https://render.guildwars2.com/file/319D02A993BE08CEFA0798C256AE6F972D623749/1012462.png",
         "id": 670,
         "name": "Method of Madness",

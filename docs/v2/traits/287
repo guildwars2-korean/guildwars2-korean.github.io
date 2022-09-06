@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> signets </c> gain은 재충전을 줄이고 재충전하는 동안 수동적 보너스를 계속 부여합니다.",
+        "description": "<c=@abilitytype>인장</c> 감소된 재충전을 얻고 재충전하는 동안 계속해서 패시브 보너스를 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

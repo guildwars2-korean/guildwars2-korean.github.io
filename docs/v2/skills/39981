@@ -2,7 +2,7 @@
     {
         "attunement": "Air",
         "chat_link": "[&Bi2cAAA=]",
-        "description": "적에게 뒤틀린 흙 소용돌이를 발사하십시오.",
+        "description": "뒤틀린 흙 소용돌이를 적에게 발사합니다.",
         "dual_attunement": "Earth",
         "facts": [
             {

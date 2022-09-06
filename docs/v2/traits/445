@@ -1,6 +1,6 @@
 [
     {
-        "description": "이동 속도가 증가합니다.절름발이, 냉기 및 고정 기간이 줄어 듭니다.",
+        "description": "이동 속도가 증가합니다. 불구, 냉기 및 고정 지속 시간이 감소합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

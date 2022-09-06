@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BpPdAAA=]",
-        "description": "홀로그램의 존재는 범위 내의 모든 적들이 3 초마다 손상을 일으킨다.",
+        "description": "홀로그램의 존재는 범위 내의 모든 적에게 3초마다 피해를 입힙니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

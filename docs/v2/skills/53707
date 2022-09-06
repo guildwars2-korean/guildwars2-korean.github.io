@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BsvRAAA=]",
-        "description": "이 지역에서 적을 피하고, 어리석은 적을 대상으로 얼음 혜성을 떨어 뜨립니다.",
+        "description": "대상 적에게 얼음 혜성을 떨어뜨려 해당 지역의 적에게 피해를 입히고 멍하게 만듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

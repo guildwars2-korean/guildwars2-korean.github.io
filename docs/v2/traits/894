@@ -1,6 +1,6 @@
 [
     {
-        "description": "슈라우드에 들어가거나 나가면 기간 동안 다루는 모든 피해가 증가합니다.",
+        "description": "장막에 들어가거나 나가면 지속 시간 동안 입히는 모든 피해가 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

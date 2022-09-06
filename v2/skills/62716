@@ -2,7 +2,7 @@
     {
         "attunement": "Air",
         "chat_link": "[&Bvz0AAA=]",
-        "description": "목적지에 도달했을 때 폭발하는 번개의 폭발을 불러 일으켜 근처의 적을 놀라게하십시오.",
+        "description": "목적지에 도달하면 폭발하는 번개를 발사하여 주변의 적을 기절시킵니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

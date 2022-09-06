@@ -4,7 +4,7 @@
             "Stance"
         ],
         "chat_link": "[&BqGnAAA=]",
-        "description": "위치.입장 과정에서 정기적으로 장벽을 얻는 흙 상태에 들어갑니다.",
+        "description": "위치. 흙 상태로 들어가며, 자세를 유지하는 동안 주기적으로 장벽을 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

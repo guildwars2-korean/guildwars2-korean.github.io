@@ -1,6 +1,6 @@
 [
     {
-        "description": "독한 폭발은 더 많은 피해를 입히고 다른 효과 외에도 실명을 적용합니다.<c =@activetype> Unleashed Ambush </c> 기술은 더 많은 피해를 입 힙니다.",
+        "description": "맹독 폭발은 더 많은 피해를 입히고 다른 효과와 함께 실명을 적용합니다.<c=@abilitytype> 해방된 매복</c> 스킬이 더 많은 피해를 줍니다.",
         "facts": [
             {
                 "apply_count": 1,

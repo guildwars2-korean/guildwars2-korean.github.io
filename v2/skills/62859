@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bov1AAA=]",
-        "description": "위에서 떨어지면서 동맹국에게 이익을 부여하면서 적에게 강력한 공격을 전달하십시오.",
+        "description": "위에서 떨어뜨려 적에게는 강력한 공격을 가하고 아군에게는 혜택을 줍니다.",
         "facts": [
             {
                 "dmg_multiplier": 1.25,

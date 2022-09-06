@@ -1,6 +1,6 @@
 [
     {
-        "description": "Berserk 모드에서 치명적인 피해를 받으면 Berserk가 끝나고 치유됩니다.들어오는 치유가 증가합니다.",
+        "description": "버서크 모드에서 치명적인 피해를 입으면 버서크가 종료되고 치유됩니다. 받는 치유량이 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

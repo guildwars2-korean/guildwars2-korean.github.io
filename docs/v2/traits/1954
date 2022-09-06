@@ -1,6 +1,6 @@
 [
     {
-        "description": "지연 후에 취한 모든 스트라이크 피해의 비율이 전달됩니다.",
+        "description": "당신이 받는 모든 타격 피해의 일정 비율은 지연 후에 전달됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

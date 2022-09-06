@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@ablection -type> 포탑. </c> 포탑은 정기적으로 주변의 동맹국들에게 이익을 주었을 때 반사 장벽을 만듭니다.",
+        "description": "<c=@abilitytype>포탑.</c> 포탑은 건설 시 반사 장벽을 생성하고 정기적으로 주변 아군에게 혜택을 줍니다.",
         "facts": [
             {
                 "apply_count": 3,

@@ -4,7 +4,7 @@
             "Signet"
         ],
         "chat_link": "[&Bnf2AAA=]",
-        "description": "Signet Passive : 다른 서명의 재충전을 줄입니다.\nSignet Active : Mech에게 최고의 무기 인 Jade Buster Cannon을 발사하도록 주문하십시오.당신의 기계가 존재하지 않으면, Crash Down이 재사용 대기 시간에 있더라도 대신 당신의 기계가 소환됩니다.",
+        "description": "인장 패시브: 다른 인장의 재충전을 줄입니다. Signet Active: 기계에게 궁극의 무기인 비취 버스터 대포를 발사하도록 명령하십시오. 기계가 없으면 충돌이 쿨다운에 있더라도 대신 기계가 소환됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

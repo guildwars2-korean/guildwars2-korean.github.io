@@ -1,6 +1,6 @@
 [
     {
-        "description": "Aegis와의 들어오는 공격을 차단할 때 보호를 얻습니다.",
+        "description": "이지스로 들어오는 공격을 차단하면 보호를 받습니다.",
         "facts": [
             {
                 "apply_count": 1,

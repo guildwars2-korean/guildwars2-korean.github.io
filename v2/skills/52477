@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bv3MAAA=]",
-        "description": "중단 된 물의 거품은 적을 둘러싸고 공중으로 들어 올립니다.기포가 최대 높이에 도달하면 적을 터지고 적을 땅에 떨어 뜨립니다.",
+        "description": "생성된 물의 방울이 적을 둘러싸고 공중으로 들어 올립니다. 거품이 최대 높이에 도달하면 터져 적을 땅에 떨어뜨립니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

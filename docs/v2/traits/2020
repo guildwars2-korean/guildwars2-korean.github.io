@@ -1,6 +1,6 @@
 [
     {
-        "description": "냉장 적에 대한 치명적인 타격은 인접한 적을 식히는 폭발을 일으킨다.",
+        "description": "냉각된 적에 대한 치명타는 인접한 적을 냉각시키는 폭발을 일으킵니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

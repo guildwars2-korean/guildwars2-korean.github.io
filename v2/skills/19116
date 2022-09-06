@@ -4,7 +4,7 @@
             "Mark"
         ],
         "chat_link": "[&BqxKAAA=]",
-        "description": "표시.트리거시 적을 손상시키고 조건을 전송하는 마크를 삽입하십시오.",
+        "description": "표시. 적에게 피해를 입히는 표식을 새기고 발동 시 상태를 전가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

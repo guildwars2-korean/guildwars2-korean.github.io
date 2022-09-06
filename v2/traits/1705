@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activeType> 스텔스 공격 <c/> siphon health가 치면. <br> <c =@reminder> 간격 당 한 번 이상 동일한 대상을 사이펀 할 수 없습니다. </c>",
+        "description": "<c=@abilitytype>은신 공격<c/> 그들이 히트하면 사이펀 건강.<br><c=@reminder> 간격당 한 번 이상 동일한 대상을 흡입할 수 없습니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

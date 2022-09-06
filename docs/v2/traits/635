@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 스피릿 무기 </c> 추가 캐스트를 얻고, 재충전 카운트를 향상시키고, 첫 번째 스트라이크로 적을 화상을 입 힙니다.",
+        "description": "<c=@abilitytype>영혼의 무기</c> 추가 시전, 향상된 카운트 재충전, 첫 번째 공격으로 적을 불태웁니다.",
         "facts": [
             {
                 "apply_count": 1,

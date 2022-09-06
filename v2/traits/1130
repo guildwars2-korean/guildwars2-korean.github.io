@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> venom </c> 유틸리티 기술이 쳤다.스텔스에 들어가거나 종료 할 때 거미 독을 얻습니다. <br> <c =@reminder> siphoning은 스트라이크 당 한 번만 발생할 수 있습니다. </c>.",
+        "description": "<c=@abilitytype>독액</c> 유틸리티 스킬은 공격당한 적의 생명력을 흡수합니다. 은신에 들어가거나 나올 때 거미 독의 스택을 얻습니다.<br><c=@reminder> 사이펀은 공격당 한 번만 발생할 수 있습니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

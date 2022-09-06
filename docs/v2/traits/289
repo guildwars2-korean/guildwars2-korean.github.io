@@ -1,6 +1,6 @@
 [
     {
-        "description": "동맹국들에게 부여하는 오라도 보호를 부여합니다.",
+        "description": "아군에게 부여하는 오라는 보호 효과도 부여합니다.",
         "facts": [
             {
                 "apply_count": 1,

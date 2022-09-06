@@ -2,7 +2,7 @@
     {
         "attunement": "Water",
         "chat_link": "[&BgauAAA=]",
-        "description": "이중 공격.적을 무너 뜨리고 손상시키는 지역을 만듭니다.",
+        "description": "듀얼 어택. 적을 불구로 만들고 피해를 입히는 영역을 만듭니다.",
         "dual_attunement": "Earth",
         "facts": [
             {

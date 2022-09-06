@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 웰스 </c> 동맹국이 끝나면 치료합니다.",
+        "description": "<c=@abilitytype>웰스</c> 아군이 끝날 때 치유합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

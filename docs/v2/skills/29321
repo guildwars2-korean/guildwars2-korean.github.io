@@ -2,7 +2,7 @@
     {
         "chat_link": "[&BolyAAA=]",
         "cost": 15,
-        "description": "동맹국의 조건을 치유하고 제거하는 안개 에너지의 버스트를 방출하십시오.조건을 잃는 각 동맹국에 대한 치유 구를 만듭니다.",
+        "description": "아군을 치유하고 상태를 제거하는 안개 에너지의 폭발을 방출합니다. 상태를 잃은 아군마다 치유의 구슬을 만듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "A <C =@AbilityType> Shatter </c>을 활성화하면 환상이 슈퍼 스피드를 제공합니다.산산조각은 움직임에 장애가있는 적에 대한 피해가 증가합니다.",
+        "description": "활성화<c=@abilitytype> 파편</c> 당신의 환상에 초고속을 제공합니다. 산산조각은 이동 장애가 있는 적에게 증가된 피해를 줍니다.",
         "facts": [
             {
                 "apply_count": 1,

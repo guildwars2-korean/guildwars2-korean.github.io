@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BujEAAA=]",
-        "description": "근처의 적을 눈을 멀게하는 대상의 위치에서 그림자 폭발을 불러 일으키십시오.",
+        "description": "표시된 대상의 위치에 그림자 폭발을 일으켜 주변 적의 시야를 가리게 합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

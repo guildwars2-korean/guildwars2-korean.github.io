@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신의 <c =@activetype> Celestial Avatar </c> 능력의 반경 내에서 동맹국에 대한 손상 출력이 증가했습니다.",
+        "description": "자신의 반경 내의 아군에게 증가된 피해량을 부여합니다.<c=@abilitytype> 천상의 아바타</c> 능력.",
         "facts": [
             {
                 "apply_count": 1,

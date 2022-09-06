@@ -1,6 +1,6 @@
 [
     {
-        "description": "다른 동맹국에 대한 치유를 증가시킵니다.수상 기술은 재충전 감소를 얻습니다.",
+        "description": "다른 아군에 대한 치유량을 증가시킵니다. 물 무기 스킬의 재충전량이 감소합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

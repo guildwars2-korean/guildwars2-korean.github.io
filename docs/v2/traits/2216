@@ -1,6 +1,6 @@
 [
     {
-        "description": "클론이 소환 될 때마다 대신 a <c =@activetype> 블레이드 </c>를 구입합니다.블레이드는 사용될 때까지 무한정 지속됩니다.산산이 부서는 <c =@ablection -type> bladesongs </c>로 대체되지만 스톡 블레이드를 소비하지만 핵심 특성의 목적으로 산산이 부서로 계산됩니다. <br> <br> <c =@reminder> 전투에서 벗어나, 당신은 10 초마다 블레이드를 자동으로 비축합니다. </c>",
+        "description": "클론이 소환될 때마다 대신 비축합니다.<c=@abilitytype> 잎</c> . 블레이드는 사용할 때까지 무기한 지속됩니다. 당신의 산산조각이 대체됩니다<c=@abilitytype> 블레이드송</c> 비축된 칼날을 소모하지만 핵심 특성의 목적에서는 여전히 산산조각으로 간주됩니다.<br><br><c=@reminder> 전투 중이 아닐 때 10초마다 자동으로 칼날을 비축합니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

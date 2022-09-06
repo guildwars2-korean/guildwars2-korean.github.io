@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 캔 트립 </c> 당신과 당신의 애완 동물에게 장벽을 부여합니다.",
+        "description": "<c=@abilitytype>캔트립</c> 당신과 당신의 애완 동물에게 장벽을 부여하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",

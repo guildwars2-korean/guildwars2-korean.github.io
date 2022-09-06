@@ -1,6 +1,6 @@
 [
     {
-        "description": "범위 임계 값을 넘어서 적들로부터 파업 피해를 줄입니다.",
+        "description": "범위 임계값을 초과하는 적에게 가하는 타격 피해를 줄입니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

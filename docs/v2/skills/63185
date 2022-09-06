@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BtH2AAA=]",
-        "description": "당신의 기계는 적중한 도전 막대가있는 적에게 도전 피해를 입히는 폭발적인 주먹을 발사합니다.이 기술은 무기에서 기술 3을 활성화 할 때만 사용됩니다.",
+        "description": "기계가 적중 시 폭발하는 폭발성 주먹을 발사하여 활성 저항 막대가 있는 적에게 저항 피해를 입힙니다. 이 스킬은 무기에 스킬 3을 발동했을 때만 사용됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

@@ -2,7 +2,7 @@
     {
         "attunement": "Fire",
         "chat_link": "[&BjiqAAA=]",
-        "description": "이중 공격.적에게 혈장의 과열 혈장 제트를 발사하십시오.",
+        "description": "듀얼 어택. 적에게 과열된 플라즈마 제트를 발사합니다.",
         "dual_attunement": "Air",
         "facts": [
             {

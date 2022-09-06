@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BtcyAAA=]",
-        "description": "적에게 섀도우 스테프를 치고 공격하십시오.그림자를 사용하여 Shadowstep으로 돌아가서 하나의 조건을 치료하십시오.",
+        "description": "적에게 섀도우 스텝을 걸어 공격합니다. 섀도우 리턴을 사용하여 섀도우 스텝을 뒤로하고 한 가지 상태를 치료하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

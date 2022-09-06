@@ -1,6 +1,6 @@
 [
     {
-        "description": "Photon Forge Skill 1은 이제 폭발성 발사체를 발사하지만 여분의 열이 발생합니다.",
+        "description": "Photon Forge 스킬 1은 이제 폭발성 발사체를 발사하지만 추가 열을 생성합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",

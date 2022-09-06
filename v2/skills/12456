@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BqgwAAA=]",
-        "description": "대상 위치에 시드 포탑을 만들어 근처의 적을 공격 할 수 있습니다.",
+        "description": "목표 위치에 시드 포탑을 만들어 주변의 적을 공격합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

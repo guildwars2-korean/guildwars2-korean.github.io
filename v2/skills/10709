@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BtUpAAA=]",
-        "description": "당신의 목표를 공격하고, 생명력을 얻고, 당신의 적에게 혜택을 부패시킵니다.조건 임계 값까지 대상의 각 조건에 대해 추가 생명력을 얻고 고통을 유발하십시오.",
+        "description": "목표물을 공격하고 생명력을 얻고 적에게 피해를 입히십시오. 조건 임계값까지 대상의 각 조건에 대해 추가 생명력을 얻고 고통을 가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

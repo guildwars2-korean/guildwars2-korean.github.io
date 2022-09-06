@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 블레이드 </c> 중요한 히트에 대한 취약성을 가질 수 있습니다.<c =@ablection -type> bladesong </c>를 성공적으로 캐스팅 한 후 짧은 시간 동안 모든 손상을 늘립니다.이것은 스택이 아닙니다.",
+        "description": "<c=@abilitytype>블레이드</c> 크리티컬 히트에 취약성을 부여합니다. 성공적으로 캐스팅한 후<c=@abilitytype> 블레이드송</c> , 짧은 시간 동안 모든 피해를 증가시킵니다. 이것은 쌓이지 않습니다.",
         "facts": [
             {
                 "apply_count": 1,

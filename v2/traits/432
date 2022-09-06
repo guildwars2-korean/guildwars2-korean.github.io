@@ -1,6 +1,6 @@
 [
     {
-        "description": "전투에 들어갈 때 첫 공격은 폭발하여 근처의 적에게 피해를 입 힙니다.이 능력은 닷지 롤 후에 상쾌합니다.",
+        "description": "전투 진입 시 첫 번째 공격이 폭발하여 주변 적에게 피해를 줍니다. 이 능력은 회피 굴림 후에 새로 고쳐집니다.",
         "icon": "https://render.guildwars2.com/file/61510F0752BC696F210F92CA0E13AD290F13AD33/2261507.png",
         "id": 432,
         "name": "Explosive Entrance",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "조율을 바탕으로 <c =@activetype> glyph </c>를 캐스팅 할 때 혜택을 얻으십시오.<c =@activetype> glyphs </c> gain 줄어드는 재충전.",
+        "description": "시전 시 혜택을 얻습니다.<c=@abilitytype> 글리프</c> 당신의 조율을 기반으로.<c=@abilitytype> 글리프</c> 감소된 재충전을 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

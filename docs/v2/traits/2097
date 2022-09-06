@@ -1,6 +1,6 @@
 [
     {
-        "description": "전체 카운터는 절름발이와 느리게 적용됩니다.",
+        "description": "풀 카운터는 불구와 슬로우를 적용합니다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BigXAAA=]",
-        "description": "움직이는 동안 원뿔 패턴으로 불을 스프레이하고, 최종 공격에서 적을 태우십시오.연소 목표에 10% 보너스 피해를 입 힙니다.",
+        "description": "이동 중 원뿔 모양으로 불을 뿜어 최종 공격 시 적을 불태웁니다. 불타는 대상에게 10%의 추가 피해를 줍니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

@@ -4,7 +4,7 @@
             "Glyph"
         ],
         "chat_link": "[&BvDWAAA=]",
-        "description": "글리프.내려진 상태에서 건강 배수를 방지하고 타겟팅 된 지역의 동맹국을 부활시킵니다.그 지역의 동맹국들에게 멍청이를 치유하고 보조하십시오.",
+        "description": "글리프. 쓰러진 상태에서 체력 소모를 방지하고 대상 지역에서 쓰러진 아군을 소생시킵니다. 해당 지역의 아군을 치유하고 혜택을 줍니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

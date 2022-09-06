@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> phantasms </c> 처음 소환 될 때 조건을 취하십시오.",
+        "description": "<c=@abilitytype>환상</c> 그들이 처음 소환될 때 당신의 조건을 취하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

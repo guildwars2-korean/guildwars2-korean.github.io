@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bom1AAA=]",
-        "description": "그늘.생명력의 일부를 사용하여 모래 그늘을 나타냅니다.그늘 능력을 사용하면 적과 당신의 그늘이 부딪칩니다.",
+        "description": "그늘. 생명력의 일부를 사용하여 모래 그늘을 나타냅니다. 그늘 능력을 사용하면 당신과 당신의 그늘 근처에 있는 적들을 공격합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

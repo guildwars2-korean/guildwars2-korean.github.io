@@ -1,6 +1,6 @@
 [
     {
-        "description": "상태 손상이 증가합니다.Scepter 기술에 의해 가해진 조건은 기간이 길고 부패의 축제는 어둠을 삼켜 버립니다.",
+        "description": "상태 데미지가 증가합니다. 셉터 스킬에 의해 가해진 상태의 지속 시간이 더 길어지고, 타락의 향연이 포식하는 어둠이 됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

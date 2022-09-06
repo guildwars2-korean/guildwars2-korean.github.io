@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> phantasms </c> 빠른 속성.환상을 만들 때 신속하게 얻습니다.",
+        "description": "<c=@abilitytype>환상</c> 신속하게 산란합니다. 환상을 만들 때 민첩성을 얻으십시오.",
         "facts": [
             {
                 "apply_count": 1,

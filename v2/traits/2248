@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 전설 동맹 </c> 능력은 추가 보너스를 얻습니다.활성화 에너지 Meld 또는 Alliance Tactics는이 보너스를 동시에 더 많은 양으로 부여합니다. <br> kurzick 능력은 주변 지역에서 재생을 보장합니다. <br> Luxon Abilities Grant는 주변 지역에 있습니다.",
+        "description": "<c=@abilitytype>전설적인 동맹</c> 능력은 추가 보너스를 얻습니다. Energy Meld 또는 Alliance Tactics를 활성화하면 이 두 가지 보너스를 동시에 더 많이 부여합니다.<br> Kurzick 능력은 주변 지역에 재생을 부여합니다.<br> Luxon 능력은 주변 지역에 힘을 부여합니다.",
         "facts": [
             {
                 "apply_count": 1,

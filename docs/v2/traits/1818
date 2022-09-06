@@ -1,6 +1,6 @@
 [
     {
-        "description": "동맹국에서 조건을 제거 할 때 보호 보호.",
+        "description": "아군에게서 상태를 제거할 때 보호를 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

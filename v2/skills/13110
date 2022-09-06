@@ -4,7 +4,7 @@
             "DualWield"
         ],
         "chat_link": "[&BjYzAAA=]",
-        "description": "제자리에 회전하여 근처의 적을 때리십시오.각 히트는 출혈을 유발합니다.",
+        "description": "제자리에서 회전하여 주변의 적을 공격합니다. 각 타격은 출혈을 일으킵니다.",
         "dual_wield": "Nothing",
         "facts": [
             {

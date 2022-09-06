@@ -1,6 +1,6 @@
 [
     {
-        "description": "탄약 기술에 탄약의 마지막 라운드를 사용하면 장벽을 부여합니다.",
+        "description": "탄약 스킬에 마지막 탄약을 사용하면 장벽이 부여됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",

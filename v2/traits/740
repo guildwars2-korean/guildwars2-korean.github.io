@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 산산이 </c> 기술을 사용할 때 자신을 치유하고 상태를 잃습니다.",
+        "description": "사용 시 자신을 치유하고 상태를 잃습니다.<c=@abilitytype> 파편</c> 기술.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

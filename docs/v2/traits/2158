@@ -1,6 +1,6 @@
 [
     {
-        "description": "Photon Forge는 공구 벨트 기술을 대체합니다. 5. <c =@ablection -type> 초과 </c> 기술에 액세스하십시오.",
+        "description": "Photon Forge는 도구 벨트 기술 5를 대체합니다.<c=@abilitytype> 초과하다</c> 기술.",
         "icon": "https://render.guildwars2.com/file/5E01A22E14BB552CCEB5B5E99417DD20D0C45B67/1769936.png",
         "id": 2158,
         "name": "Photon Projector",

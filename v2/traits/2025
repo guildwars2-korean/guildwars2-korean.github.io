@@ -1,6 +1,6 @@
 [
     {
-        "description": "일정 시간 동안 조율을 유지함으로써 원소 특이점을 얻습니다.특이점을 얻을 때, 당신은 인근에 조율을 과부하시킬 수 있습니다.<c =@activetype> shouts </c>에 액세스하십시오.",
+        "description": "일정 시간 동안 조화를 유지하여 원소 특이점을 얻으십시오. 특이점에 도달하면 주변에 튜닝에 과부하가 걸릴 수 있습니다. 액세스 권한 얻기<c=@abilitytype> 외침</c> .",
         "icon": "https://render.guildwars2.com/file/B5B020BD12E7A490DE9551FA06D920AC4F9A6036/1029952.png",
         "id": 2025,
         "name": "Singularity",

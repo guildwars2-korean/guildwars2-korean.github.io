@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@ablection -type> rot wallow venom </c>를 당신이 장벽을 부여하는 동맹국에게 적용하십시오.동맹국에 대한 나가는 치유가 증가합니다.\n<c =@reminder> Rot Wallow Venom 효과는 자신에게 적용 할 수 없습니다. </c>",
+        "description": "적용하다<c=@abilitytype> 썩은 벽의 독</c> 당신이 장벽을 부여하는 아군에게. 아군에게 주는 치유량이 증가합니다.<c=@reminder> Rot Wallow Venom 효과는 자신에게 적용할 수 없습니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

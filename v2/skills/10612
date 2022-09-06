@@ -4,7 +4,7 @@
             "Signet"
         ],
         "chat_link": "[&BnQpAAA=]",
-        "description": "Signet Passive : 이동 속도가 증가합니다.\nSignet Active : 근처의 적에서 혜택을 치고 제거하십시오.파업마다 치유하고 각각이 제거되었습니다.",
+        "description": "인장 패시브: 이동 속도가 증가합니다. 시그넷 액티브: 근처의 적들을 공격하고 제거합니다. 공격한 각 적과 제거된 각 혜택에 대해 치유합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

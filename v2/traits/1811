@@ -1,6 +1,6 @@
 [
     {
-        "description": "치유 기술을 사용할 때 안개의 돔을 캐스팅하십시오.",
+        "description": "치유 스킬 사용 시 Dome of the Mist를 시전합니다.",
         "icon": "https://render.guildwars2.com/file/6FCF4CED0607CA91AD1F2F03FCE118637BDDB5D8/1012694.png",
         "id": 1811,
         "name": "Planar Protection",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 폭발 </c> 취약성을 유발합니다.",
+        "description": "<c=@abilitytype>폭발</c> 취약성을 유발합니다.",
         "icon": "https://render.guildwars2.com/file/5CE792230BB9F5047F09042D052604E143BBB460/1012352.png",
         "id": 517,
         "name": "Steel-Packed Powder",

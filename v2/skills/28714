@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BipwAAA=]",
-        "description": "원수를 향해 안개 창을 던지고, 적에게 더 가까이 갈수록 고통의 기간이 증가하고 있습니다.",
+        "description": "적에게 안개 창을 던져 적에게 가까울수록 고통의 지속 시간이 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

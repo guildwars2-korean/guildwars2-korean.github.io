@@ -1,6 +1,6 @@
 [
     {
-        "description": "렌딩 덩굴은 혜택을 제거하는 대신 조건으로 변환합니다.<c =@activetype> unteashed armbush </c> 기술은 적에서 혜택을 제거합니다.<c =@reminder> 스킬 당 한 번 이상 적에게 영향을 줄 수 없습니다. </c>",
+        "description": "Rending Vines는 혜택을 제거하는 대신 조건으로 변환합니다.<c=@abilitytype> 해방된 매복</c> 기술은 적으로부터 혜택을 제거합니다.<c=@reminder> 스킬당 한 번 이상 적에게 영향을 줄 수 없습니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

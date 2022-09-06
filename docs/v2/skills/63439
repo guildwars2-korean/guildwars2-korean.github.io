@@ -2,7 +2,7 @@
     {
         "attunement": "Air",
         "chat_link": "[&Bs/3AAA=]",
-        "description": "요소를 기준으로 반경으로 동맹국에게 콤보 필드를 만들고 동맹국에게 이익을 부여하는 옥상 구체를 소환하십시오.",
+        "description": "비취 구체를 소환하여 콤보 필드를 만들고 해당 요소에 따라 반경 내 아군에게 혜택을 줍니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

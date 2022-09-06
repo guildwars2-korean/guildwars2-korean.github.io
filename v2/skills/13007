@@ -4,7 +4,7 @@
             "DualWield"
         ],
         "chat_link": "[&Bs8yAAA=]",
-        "description": "이중 휘발.당신의 적을 찌르고 그들로부터 이익을 훔칩니다.이익없이 적에 닿는 경우 피해가 증가합니다.",
+        "description": "듀얼 와일드. 적을 찌르고 혜택을 훔치세요. 효과가 없는 적에게 적중하면 피해가 증가합니다.",
         "dual_wield": "Dagger",
         "facts": [
             {

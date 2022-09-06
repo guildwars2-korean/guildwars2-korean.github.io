@@ -1,6 +1,6 @@
 [
     {
-        "description": "물에 조율 할 때 인근 동맹국을 치유하십시오. <br> <c =@reminder>이 효과는 동일한 요소에 조율 할 때 유발되지 않지만 과부하 기술에 의해 유발됩니다. </c>.",
+        "description": "물에 맞추면 주변 아군을 치유합니다.<br><c=@reminder> 이 효과는 동일한 요소에 동조할 때 발동되지 않지만, 과부하 스킬에 의해 발동됩니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

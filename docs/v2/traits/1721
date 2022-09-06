@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 고문 호출 </c>는 당신의 조건을 적에게 전송합니다.",
+        "description": "<c=@abilitytype>고통을 불러일으키다</c> 당신의 조건을 적에게 이전합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "직원 기술의 재충전을 줄입니다.직원에게 교환 할 때 근처의 적을 다루십시오.",
+        "description": "스태프 스킬의 재충전을 줄입니다. 지팡이로 바꾸면 주변의 적을 멍하게 만듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

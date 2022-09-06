@@ -5,7 +5,7 @@
         ],
         "chat_link": "[&BuN0AAA=]",
         "cost": 10,
-        "description": "원시 버스트.불타는 파괴의 흔적을 만듭니다.",
+        "description": "원시 버스트. 불타는 파괴의 흔적을 생성하는 불타는 총을 지면에 발사합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

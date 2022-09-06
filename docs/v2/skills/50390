@@ -2,7 +2,7 @@
     {
         "chat_link": "[&BtbEAAA=]",
         "cost": 5,
-        "description": "대상을 포화시키고 캐스팅시 어떤 범례에 적용되는 필드 유형으로 주변의 냉각 영역을 만듭니다.영향을받는 지역의 동맹국은 유익한 효과를 얻습니다.",
+        "description": "대상을 포화 상태로 만들고 캐스팅 시 어떤 범례에 맞춰야 하는지에 따라 필드 유형으로 대상 주변에 오싹한 영역을 만듭니다. 영향을 받는 지역의 아군은 유익한 효과를 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

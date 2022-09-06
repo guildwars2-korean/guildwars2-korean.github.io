@@ -1,6 +1,6 @@
 [
     {
-        "description": "Berserk 모드에 들어갈 때 속도가 파열됩니다.",
+        "description": "버서크 모드에 진입하면 폭발적인 속도를 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

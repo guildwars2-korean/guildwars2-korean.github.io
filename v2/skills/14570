@@ -5,7 +5,7 @@
             "Banner"
         ],
         "chat_link": "[&Buo4AAA=]",
-        "description": "배너.초기 배치에 장벽과 혜택을 부여하는 배너를 놓고 나중에 추가 혜택을 펄럭입니다.",
+        "description": "배너. 처음 배치할 때 보호막과 혜택을 부여하는 배너를 배치한 다음 나중에 자신과 주변 아군에게 추가 혜택을 제공합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

@@ -4,7 +4,7 @@
             "Mark"
         ],
         "chat_link": "[&Bl42AAA=]",
-        "description": "표시.적을 촉발 할 때 피를 흘리는 마크를 삽입하고 동맹국에게 재생을 부여하십시오.",
+        "description": "표시. 적을 발동시키면 출혈을 일으키는 표식을 새기고 아군에게 재생을 부여합니다.",
         "facts": [
             {
                 "dmg_multiplier": 1.5,

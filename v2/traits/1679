@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 가제트 </c> 기술은 더 강력하고 재충전을 줄였습니다.",
+        "description": "<c=@abilitytype>간단한 기계 장치</c> 스킬이 더 강력해지고 재충전량이 줄어듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

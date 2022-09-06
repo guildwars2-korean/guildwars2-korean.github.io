@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BvEyAAA=]",
-        "description": "대상 지역에서 클러스터 폭탄을 발사하십시오.다중 폭발을 위해 공중에서 폭발하십시오.",
+        "description": "목표 지역에 집속탄을 발사합니다. 공중에서 여러 번 폭발합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

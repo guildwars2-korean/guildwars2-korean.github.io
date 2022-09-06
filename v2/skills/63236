@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BgT3AAA=]",
-        "description": "Mech 명령.당신의 기계는 공중으로 들어가서 근처의 각 원수에서 미사일을 발사하기 전에 추락하고 발 아래에 잡힌 모든 것에 추가 피해를 입 힙니다.",
+        "description": "기계 명령. 기계가 공중으로 날아가 근처의 각 적에게 미사일을 발사한 후 바닥에 닿은 모든 것에 추가 피해를 입힙니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

@@ -2,7 +2,7 @@
     {
         "attunement": "Fire",
         "chat_link": "[&Bmm0AAA=]",
-        "description": "지구의 방패를 얻은 다음 위치에서 녹은 버스트를 방출하십시오.",
+        "description": "대지의 보호막을 얻은 다음 해당 위치에서 녹아내린 폭발을 방출합니다.",
         "dual_attunement": "Earth",
         "facts": [
             {

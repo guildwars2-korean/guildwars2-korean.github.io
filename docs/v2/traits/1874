@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> glyphs </c>에 액세스하십시오.충분한 아스트랄 힘을 얻으면 천상의 아바타가 되십시오.동맹국을 치유하고 적을 피해 아스트랄 힘을 창출하십시오.<c =@reminder> 당신의 애완 동물의 속성은 약합니다. </c>",
+        "description": "액세스 권한 얻기<c=@abilitytype> 글리프</c> . 충분한 아스트랄 포스를 얻으면 천상의 아바타가 됩니다. 아군을 치유하고 적에게 피해를 주어 아스트랄 포스를 생성합니다.<c=@reminder> 펫의 속성이 약합니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

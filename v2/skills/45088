@@ -4,7 +4,7 @@
             "Cantrip"
         ],
         "chat_link": "[&BiCwAAA=]",
-        "description": "주문.조건을 표시된 목표로 옮긴 다음 자신을 치유하십시오.",
+        "description": "주문. 표시된 대상에게 상태를 전달한 다음 자신을 치유하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

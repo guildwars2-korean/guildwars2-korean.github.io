@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BvFeAAA=]",
-        "description": "장애가있는 적에게 번개를 부르십시오.",
+        "description": "비활성화된 적에게 번개를 불러냅니다.",
         "facts": [
             {
                 "dmg_multiplier": 1.5,

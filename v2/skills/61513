@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BknwAAA=]",
-        "description": "대상 위치를 공격하기위한 유성을 소환합니다.충격 지점과의 거리에 따라 감소하는 심한 손상이 발생합니다.",
+        "description": "대상 위치를 공격하는 유성을 소환합니다. 충돌 지점에서 멀어질수록 감소하는 큰 피해를 줍니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

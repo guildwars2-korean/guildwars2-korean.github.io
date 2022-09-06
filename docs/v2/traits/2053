@@ -1,6 +1,6 @@
 [
     {
-        "description": "Celestial Avatar 형태를 떠날 때 인근 동맹국에게 슈퍼 스피드와 스텔스를 부여하십시오.",
+        "description": "천상의 아바타 형태를 벗어날 때 주변 아군에게 초고속과 은신을 부여합니다.",
         "facts": [
             {
                 "apply_count": 1,

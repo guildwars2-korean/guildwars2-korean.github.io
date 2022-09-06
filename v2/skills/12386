@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BmIwAAA=]",
-        "description": "Norn Bear 형태의 모양 이동.",
+        "description": "노른베어 형태에서 뒤로 모양이 이동합니다.",
         "flags": [
             "NoUnderwater"
         ],

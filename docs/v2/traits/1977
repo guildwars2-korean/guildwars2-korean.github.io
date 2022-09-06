@@ -1,6 +1,6 @@
 [
     {
-        "description": "Berserk 모드를 활성화하면 기절이 파손되고 들어오는 손상이 줄어 듭니다.",
+        "description": "버서크 모드를 활성화하면 기절을 깨고 받는 피해가 줄어듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",

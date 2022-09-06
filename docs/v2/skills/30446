@@ -2,7 +2,7 @@
     {
         "attunement": "Water",
         "chat_link": "[&Bu52AAA=]",
-        "description": "동맹국이 여행 할 때 물이 많은 구를 폭파하십시오.",
+        "description": "이동하는 동안 아군을 치유하는 물의 구체를 폭발시킵니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

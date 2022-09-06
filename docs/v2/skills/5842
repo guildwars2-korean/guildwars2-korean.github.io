@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BtIWAAA=]",
-        "description": "근처의 적의 피해를 폭로하는 폭발물을 설정하십시오.",
+        "description": "주변 적에게 피해를 주는 폭발물을 설치합니다.",
         "facts": [
             {
                 "dmg_multiplier": 1.2,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 기호 </c>는 개선되고 동맹국을 치료합니다.",
+        "description": "<c=@abilitytype>기호</c> 아군을 개선하고 치유합니다.",
         "facts": [
             {
                 "duration": 2,

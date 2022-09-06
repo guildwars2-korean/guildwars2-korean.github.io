@@ -2,7 +2,7 @@
     {
         "chat_link": "[&BtlxAAA=]",
         "cost": 5,
-        "description": "원수를 손상시키기 위해 당신 앞의 땅을 부수십시오.지연 후,이 지역의 동맹국이 치유됩니다.적을 때리면 더 많은 것을 치유하십시오.",
+        "description": "전방의 지면을 강타하여 적에게 피해를 줍니다. 지연 후 해당 지역의 아군이 치유됩니다. 적이 공격을 받으면 더 많은 치유를 받습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

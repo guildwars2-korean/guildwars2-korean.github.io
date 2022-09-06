@@ -2,7 +2,7 @@
     {
         "attunement": "Water",
         "chat_link": "[&BlygAAA=]",
-        "description": "당신의 칼날을 물로 흡수하고, 당신이 파는 각 대상에 대해 자신을 치유하십시오.",
+        "description": "칼날에 물을 주입하여 공격한 각 대상에 대해 자신을 치유합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

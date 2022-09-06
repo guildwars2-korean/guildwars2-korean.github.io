@@ -4,7 +4,7 @@
             "Well"
         ],
         "chat_link": "[&BpV1AAA=]",
-        "description": "잘.Bulwark 자이로를 배치하여 인근 동맹국으로부터 장벽과 피해를 방지합니다.\n당신의 초기 개인 장벽은 당신 근처의 동맹국의 수와 비늘입니다.",
+        "description": "잘. 보호막 자이로를 배치하여 보호막을 부여하고 주변 아군의 피해를 리디렉션합니다. 초기 개인 장벽은 주변 아군의 수에 따라 조정됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

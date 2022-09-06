@@ -2,7 +2,7 @@
     {
         "attunement": "Fire",
         "chat_link": "[&Bm+1AAA=]",
-        "description": "이중 공격.근처의 적에게 피해를 입히는 동안 장벽으로 자신을 덮으십시오.",
+        "description": "듀얼 어택. 주변 적에게 피해를 입히는 동안 증가하는 장벽으로 자신을 가립니다.",
         "dual_attunement": "Earth",
         "facts": [
             {

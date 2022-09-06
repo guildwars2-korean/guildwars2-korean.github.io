@@ -4,7 +4,7 @@
             "StealthAttack"
         ],
         "chat_link": "[&BhHFAAA=]",
-        "description": "스텔스 공격.스텔스에서 총을 발사하여 목표를 피 웁니다.마크를 쳤을 때 모든 악의를 소비하여 출혈 스택을 추가합니다.",
+        "description": "스텔스 공격. 은신 상태에서 총을 발사하여 대상을 출혈시킵니다. 추가 출혈 스택을 추가하기 위해 표식을 칠 때 모든 악의를 소모합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

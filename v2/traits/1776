@@ -1,6 +1,6 @@
 [
     {
-        "description": "움직임 기술은 고정 조건을 제거합니다.",
+        "description": "이동 기술은 고정 상태를 제거합니다.",
         "facts": [
             {
                 "description": "이동할 수 없다(지속시간 중첩).",

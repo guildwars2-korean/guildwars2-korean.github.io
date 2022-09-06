@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@ablection -type> 기호 </c> 적에게 취약성을 부여합니다.취약한 적에 대한 파업 피해 증가.",
+        "description": "<c=@abilitytype>기호</c> 적에게 취약성을 부여합니다. 취약한 적에게 증가된 공격 피해를 줍니다.",
         "facts": [
             {
                 "apply_count": 2,

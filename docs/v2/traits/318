@@ -1,6 +1,6 @@
 [
     {
-        "description": "화재 분위기를 얻고 화재를 일으킬 때 적을 손상시킵니다. <br> <c =@reminder> 또한 과부하 기술을 트리거합니다. </c>.",
+        "description": "불의 오라를 얻고 불에 맞추면 주변 적에게 피해를 줍니다.<br><c=@reminder> 또한 과부하 스킬에 발동됩니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

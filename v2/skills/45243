@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BruwAAA=]",
-        "description": "전진하고 여러 번 파업하여 조건을 가하고 시작 위치에 신기루를 남깁니다.만기가 만료되면 미라지 근처에 있으면 클론이 소환됩니다.",
+        "description": "앞으로 회전하고 여러 번 공격하여 조건을 부여하고 시작 위치에 신기루를 남깁니다. 적이 만료될 때 신기루 근처에 있으면 클론이 소환됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

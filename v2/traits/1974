@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 외침 </c> gain은 재충전 감소, 이제 사이펀 건강, 그리고 그들이 쳤던 각 원수에 대해 추가 재충전 감소를 얻습니다.",
+        "description": "<c=@abilitytype>외침</c> 감소된 재충전을 얻고 이제 체력을 흡수하고 적중한 적마다 추가 재충전 감소를 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

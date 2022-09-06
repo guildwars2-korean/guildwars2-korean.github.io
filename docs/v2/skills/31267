@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BiN6AAA=]",
-        "description": "공격을 피하고 단검을 해치고 적들에게 여러 조건을 다루십시오.",
+        "description": "공격을 피하고 피해를 주는 단검을 던져 적에게 여러 조건을 부여합니다.",
         "facts": [
             {
                 "dmg_multiplier": 0.1875,

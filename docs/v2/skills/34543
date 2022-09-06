@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bu+GAAA=]",
-        "description": "폭풍 구름은 그 아래에 서있는 모든 대상에 매 초마다 펄스가 손상됩니다.",
+        "description": "폭풍 구름은 그 아래에 서 있는 모든 대상에게 1초마다 펄스 피해를 줍니다.",
         "flags": [],
         "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
         "id": 34543,

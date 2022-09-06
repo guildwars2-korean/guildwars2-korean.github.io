@@ -1,6 +1,6 @@
 [
     {
-        "description": "Shadowstep을 완료 한 후에는 치유됩니다.인근 동맹국도 더 많은 양으로 치유됩니다. <br> <c =@reminder>는 도둑 섀도우 스텝에만 영향을 미칩니다. </c>",
+        "description": "그림자 단계를 완료하면 치유됩니다. 주변 아군도 더 많은 양의 치유를 받습니다.<br><c=@reminder> 도둑 섀도스텝에만 영향을 줍니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "적에 취약성을 적용하여 <c =@ablection -type> 배틀 흉터 </c>의 스택을 보조합니다.전투 흉터로부터의 치유는 건강 임계 값보다 낮은 동안 증가합니다.",
+        "description": "적에게 취약성을 적용하면<c=@abilitytype> 전투 흉터</c> . 체력 임계값 미만인 경우 전투 흉터의 치유량이 증가합니다.",
         "facts": [
             {
                 "apply_count": 1,

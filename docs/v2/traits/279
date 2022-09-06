@@ -1,6 +1,6 @@
 [
     {
-        "description": "지구에 조율 할 때 근처의 적에게 손상과 절름발이. <br> <c =@reminder> 또한 과부하 기술을 트리거합니다. </c>.",
+        "description": "땅에 동조하면 주변 적에게 피해를 입히고 불구로 만듭니다.<br><c=@reminder> 또한 과부하 스킬에 발동됩니다.</c>",
         "facts": [
             {
                 "dmg_multiplier": 0.36,

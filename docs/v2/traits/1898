@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 트랩 </c> gain은 재충전과 느린 적을 감소시킵니다.",
+        "description": "<c=@abilitytype>트랩</c> 감소된 재충전을 얻고 적을 느리게 만듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

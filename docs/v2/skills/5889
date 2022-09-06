@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BgEXAAA=]",
-        "description": "Thumper 포탑을 과도하게 충전하여 근처의 적을 발사하십시오.",
+        "description": "덤퍼 포탑을 과충전하여 근처의 적을 발사하세요.",
         "facts": [
             {
                 "dmg_multiplier": 1.5,

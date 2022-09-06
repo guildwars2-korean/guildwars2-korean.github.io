@@ -1,6 +1,6 @@
 [
     {
-        "description": "Dazes와 기절은 고정화됩니다.",
+        "description": "멍과 기절로 움직이지 못하게 만듭니다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "건강 임계 값 이상의 건강에 대한 적에 대한 적의 파업 피해 증가.",
+        "description": "생명력 임계값보다 높은 생명력을 가진 적에게 증가된 공격 피해를 줍니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

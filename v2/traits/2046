@@ -1,6 +1,6 @@
 [
     {
-        "description": "Berserk 모드는 전력과 상태 손상을 증가 시키지만 강인성을 줄입니다.",
+        "description": "Berserk 모드는 위력과 상태 피해를 증가시키지만 인성을 감소시킵니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",

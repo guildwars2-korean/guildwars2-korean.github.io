@@ -1,6 +1,6 @@
 [
     {
-        "description": "미사일 히트는 목표물에서 로켓을 발사합니다.충분한 로켓이 발사 된 후에는 궤도 파업이 대신 호출됩니다. <br> <c =@relement>이 특성은 내부 재사용 대기 시간이 있습니다. </c>",
+        "description": "미사일 히트는 목표물에 로켓을 발사합니다. 로켓이 충분히 발사된 후 궤도 공격이 대신 호출됩니다.<br><c=@reminder> 이 특성에는 내부 재사용 대기시간이 있습니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

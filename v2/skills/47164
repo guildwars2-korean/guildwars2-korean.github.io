@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bjy4AAA=]",
-        "description": "Dhuum은 두 가지 목표를 연결하여 영혼이 근접한 경우 서로 합병하고 파괴하게합니다.",
+        "description": "Dhuum은 두 대상을 연결하여 서로 가까이 있으면 영혼이 합쳐져 파괴됩니다.",
         "flags": [],
         "icon": "https://render.guildwars2.com/file/65113BC86C46294FD2A773E6ABED913BDD7D370C/103942.png",
         "id": 47164,

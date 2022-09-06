@@ -1,6 +1,6 @@
 [
     {
-        "description": "Elonian Lore에 대한 지식을 얻고, 부패를 제거하기위한 치열한 드라이브를 점화하고 <c =@ablection -type> 미덕을 신비한 주제로 나타냅니다.<c =@activetype> mantras </c>에 액세스하십시오.",
+        "description": "Elonian 지식에 대한 지식을 얻고 부패를 정화하려는 맹렬한 추진력에 불을 붙이고 당신의<c=@abilitytype> 미덕</c> 신비한 책처럼. 액세스 권한 얻기<c=@abilitytype> 만트라</c> .",
         "icon": "https://render.guildwars2.com/file/CC360DF028353A0C1AD09D97FA2CDF1D6D0AABA8/1769948.png",
         "id": 2089,
         "name": "Purity of Word",

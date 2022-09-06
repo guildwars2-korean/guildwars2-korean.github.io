@@ -1,6 +1,6 @@
 [
     {
-        "description": "이미 적어도 3 개의 출혈을 가지고있는 적에게 출혈을 가할 때 뱀파이어의 적은 시그니트를 캐스트하십시오.",
+        "description": "이미 출혈이 세 번 이상 있는 적에게 출혈을 가할 때 하급 흡혈의 인장을 시전합니다.",
         "icon": "https://render.guildwars2.com/file/E44619EFE79BCAE2030E0A3A1CDBAE411A062403/1012536.png",
         "id": 1876,
         "name": "Blood Bond",

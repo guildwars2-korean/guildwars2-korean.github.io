@@ -1,6 +1,6 @@
 [
     {
-        "description": "도둑질은 실명을 부여합니다.<c =@activetype> 스텔스 공격 </c>는 약점을 유발합니다.<c =@reminder> 간격 당 동일한 대상에 한 번 이상 영향을 줄 수 없습니다. </c>",
+        "description": "도둑질은 실명에 이르게 합니다.<c=@abilitytype> 은신 공격</c> 약점을 가하다.<c=@reminder> 간격당 두 번 이상 동일한 대상에 영향을 줄 수 없습니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

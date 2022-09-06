@@ -1,6 +1,6 @@
 [
     {
-        "description": "치유 기술을 사용할 때 활력을 얻으십시오.",
+        "description": "치유 스킬 사용 시 활력을 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BgubAAA=]",
-        "description": "태양 에너지를 배출하여 경로에서 적을 뒤로 물러냅니다.이 공격은 점프 될 수 있습니다.",
+        "description": "태양 에너지를 방출하여 경로에 있는 적을 밀쳐냅니다. 이 공격은 건너뛸 수 있습니다.",
         "flags": [],
         "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
         "id": 39691,

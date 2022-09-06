@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 짐승 </c> 능력은 강타한 사람들에게 약점을 유발합니다. <br> <c =@reminder>이 효과는 능력에 의해 강타 된 각 목표에서 한 번만 발생합니다. </c>",
+        "description": "<c=@abilitytype>짐승</c> 능력은 적중한 자에게 약점을 줍니다.<br><c=@reminder> 이 효과는 능력에 적중당한 각 대상에 대해 한 번만 발생합니다.</c>",
         "facts": [
             {
                 "apply_count": 1,

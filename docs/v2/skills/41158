@@ -4,7 +4,7 @@
             "Cantrip"
         ],
         "chat_link": "[&BsagAAA=]",
-        "description": "주문.대상 위치에서 적을 손상시키는 그림자 마법의 구를 던지십시오.이 기술을 재 활성화하여 장소를 구로 교체 할 수 있습니다.표시된 목표에 대한 손상이 증가합니다.",
+        "description": "주문. 대상 위치의 주변 적에게 피해를 입히는 그림자 마법의 구체를 던집니다. 이 스킬을 다시 활성화하여 오브와 장소를 바꿀 수 있습니다. 표시된 대상에게 추가 피해를 줍니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

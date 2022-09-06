@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BlWeAAA=]",
-        "description": "초과하다.광자 벽을 앞으로 발사하여 적을 쳤을 때 벽이 폭발하여 근처의 적에게 조건을 부여합니다.열 임계 값 위로 발사되면 추가 벽을 발사하십시오.",
+        "description": "초과하다. 광자 벽을 앞으로 발사하여 벽이 적을 공격하면 폭발하여 주변 적에게 조건을 부여합니다. 열 임계값 이상으로 발사되면 추가 벽을 발사합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

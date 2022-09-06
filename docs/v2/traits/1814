@@ -1,6 +1,6 @@
 [
     {
-        "description": "다른 동맹국에 대한 치유를 증가시킵니다.<c =@activetype> 전설적인 Centaur </c> 기술은 한 지역에 Boons를 적용합니다.",
+        "description": "다른 아군에 대한 치유량을 증가시킵니다.<c=@abilitytype> 전설의 켄타우로스</c> 기술은 지역에 혜택을 적용합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

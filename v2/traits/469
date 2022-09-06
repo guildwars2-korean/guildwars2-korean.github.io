@@ -1,6 +1,6 @@
 [
     {
-        "description": "건강 임계 값 아래에서 쳐 질 때 엘릭서 e를 마시십시오.",
+        "description": "체력 임계값 아래에 있는 동안 공격을 받으면 엘릭서 E를 마십니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

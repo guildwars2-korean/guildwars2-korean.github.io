@@ -2,7 +2,7 @@
     {
         "attunement": "Air",
         "chat_link": "[&Bte0AAA=]",
-        "description": "이중 공격.적을 때리고 들어 올려 사이클론을 만들어 장소에서 사이클론을 만듭니다.",
+        "description": "듀얼 어택. 적을 공격하고 들어 올려 적의 위치에 사이클론을 생성하십시오.",
         "dual_attunement": "Earth",
         "facts": [
             {

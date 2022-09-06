@@ -1,6 +1,6 @@
 [
     {
-        "description": "Mech Command Skill Barrier Burst를 잠금 해제합니다.전투 중에, 당신의 mech는 근처의 동맹국들에게 각 간격을 자동으로 부여합니다. <br> <br> <c =@reminder> mech는이 특성의 목표 수에 반대하지 않습니다. </c>.",
+        "description": "메크 커맨드 스킬 배리어 버스트를 잠금 해제합니다. 전투 중에 로봇은 자동으로 주변 아군에게 간격마다 작은 장벽을 부여합니다.<br><br><c=@reminder> 기계는 이 특성의 대상 수에 포함되지 않습니다.</c>",
         "facts": [
             {
                 "distance": 600,

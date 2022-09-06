@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BtIXAAA=]",
-        "description": "하포 터릿을 과도하게 충전하여 자동화 된 샷의 버스트를 발사하십시오.",
+        "description": "작살 포탑을 과충전하여 자동 사격을 가합니다.",
         "facts": [
             {
                 "dmg_multiplier": 2,

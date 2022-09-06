@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bt8wAAA=]",
-        "description": "포인트 블랭크 샷으로 적을 뒤로 밀어 넣으십시오.더 가까이있을수록 더 멀리 밀어냅니다.",
+        "description": "포인트 블랭크 샷으로 적을 밀어냅니다. 가까울수록 뒤로 밀립니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

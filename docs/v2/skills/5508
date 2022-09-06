@@ -2,7 +2,7 @@
     {
         "attunement": "Fire",
         "chat_link": "[&BoQVAAA=]",
-        "description": "불꽃으로 적을 치고 잠시 후 덜 공격하는 지역을 만드십시오.",
+        "description": "화염으로 적을 강타하고 잠시 후 공격력이 낮은 지역을 생성합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

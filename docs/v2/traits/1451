@@ -1,6 +1,6 @@
 [
     {
-        "description": "치유 기술 보조금을 사용하면 가능합니다.",
+        "description": "치유 스킬을 사용하면 능력이 부여됩니다.",
         "facts": [
             {
                 "apply_count": 5,

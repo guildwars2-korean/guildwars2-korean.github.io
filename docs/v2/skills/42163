@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BrOkAAA=]",
-        "description": "범위 내의 적의 소방 홀로그램 블레이드.열 임계 값을 초과하는 동안 손상이 증가했습니다.",
+        "description": "범위 내의 적에게 홀로그램 블레이드를 발사합니다. 열 임계값을 초과하는 동안 피해가 증가했습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

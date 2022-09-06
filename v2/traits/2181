@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신이 비판적으로 공격하거나, 적을 뒤에서 또는 측면에서 공격 할 때, 당신은 Kalla의 열정으로 자신을 영감을 줄 것입니다. <br> <c =@activetype> citadel Order </c> 능력에 액세스 할 수 있습니다.",
+        "description": "치명타 공격을 가하거나 적의 뒤나 측면에서 공격할 때 칼라의 열정으로 자신을 고무시킬 것입니다.<br> 액세스 권한 얻기<c=@abilitytype> 시타델 오더</c> 능력.",
         "facts": [
             {
                 "apply_count": 1,

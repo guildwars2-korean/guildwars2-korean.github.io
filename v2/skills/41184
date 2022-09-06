@@ -2,7 +2,7 @@
     {
         "attunement": "Water",
         "chat_link": "[&BuCgAAA=]",
-        "description": "이중 공격.방향으로 허리케인을 발사하고 동맹국을 치유하고 적을 해치십시오.",
+        "description": "듀얼 어택. 허리케인을 한 방향으로 발사하여 아군을 치유하고 적에게 피해를 줍니다.",
         "dual_attunement": "Air",
         "facts": [
             {

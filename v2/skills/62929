@@ -2,7 +2,7 @@
     {
         "chat_link": "[&BtH1AAA=]",
         "cost": 10,
-        "description": "손상을 입히는 안개에 구멍을 뚫고 구멍을 뚫고 그레이트 스포드를 소용돌이칩니다.\n\n이 기술에 닿을 때마다 대상 당 손상이 줄어 듭니다.",
+        "description": "대검을 휘둘러 안개에 구멍을 열어 피해를 입힙니다. 이 스킬에 적중당할 때마다 대상당 피해가 감소합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

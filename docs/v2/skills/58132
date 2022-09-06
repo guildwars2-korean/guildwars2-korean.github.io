@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BhTjAAA=]",
-        "description": "클로 스핀, 근처 대상을 시작합니다.목소리로 발사 된 화살표를 리디렉션하여 마법의 손상을 입지 않습니다.",
+        "description": "클로가 회전하여 근처의 목표물을 발사합니다. 보이스가 발사한 화살을 재지정하여 피해를 주는 마법장을 남깁니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

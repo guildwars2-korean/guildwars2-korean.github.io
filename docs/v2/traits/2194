@@ -1,6 +1,6 @@
 [
     {
-        "description": "Harbinger Shroud에있는 동안 각 간격을 펄럭이는 오라를 얻습니다.",
+        "description": "Harbinger Shroud에 있는 동안 각 간격을 펄스하여 자신과 주변 아군에게 혜택을 주는 오라를 얻습니다.",
         "facts": [
             {
                 "duration": 3,

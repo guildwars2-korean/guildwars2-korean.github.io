@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bt53AAA=]",
-        "description": "원수의 위치에 지연된 폭발물 팩을 떨어 뜨립니다.",
+        "description": "적의 위치에 지연된 폭발물 팩을 떨어뜨립니다.",
         "facts": [
             {
                 "distance": 240,

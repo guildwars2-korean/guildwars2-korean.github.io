@@ -1,6 +1,6 @@
 [
     {
-        "description": "A <C =@AbilityType> Shatter </c> 기술을 사용할 때 안정성을 얻으십시오.<c =@ablection -type> Shatter가 사용되는 것을 기준으로 추가 혜택을 얻으십시오.",
+        "description": "사용할 때 안정성 확보<c=@abilitytype> 파편</c> 기술. 다음에 따라 추가 혜택을 얻습니다.<c=@abilitytype> 파편</c> 사용.",
         "facts": [
             {
                 "apply_count": 5,

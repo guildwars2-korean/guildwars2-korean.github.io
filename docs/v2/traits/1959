@@ -1,6 +1,6 @@
 [
     {
-        "description": "툴 벨트 기술을 대체하는 기능 자이로에 액세스 할 수 있습니다.",
+        "description": "도구 벨트 기술 5를 대체하는 기능 자이로에 액세스할 수 있습니다.<c=@abilitytype> 자이로</c> 기술.",
         "icon": "https://render.guildwars2.com/file/62D43252CCF835C6A32113E9BD450A5CAC2E3E1E/1128527.png",
         "id": 1959,
         "name": "Function Gyro",

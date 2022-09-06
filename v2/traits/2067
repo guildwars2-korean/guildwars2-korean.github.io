@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 처벌 </c> 기술 기술은 재충전을 줄이고 다음 매니페스트 모래 그늘이 그 근처의 적에게 화상을 입히게합니다.",
+        "description": "<c=@AbilityType>처벌</c> 스킬의 재충전량이 감소하고 다음 Manifest Sand Shade가 근처의 적에게 화상을 입힙니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "기절을 끊을 때 안정성을 얻고 자신을 치유하십시오.",
+        "description": "기절을 깨면 안정을 얻고 자신을 치유하십시오.",
         "facts": [
             {
                 "apply_count": 1,

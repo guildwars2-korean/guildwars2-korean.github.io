@@ -2,7 +2,7 @@
     {
         "attunement": "Fire",
         "chat_link": "[&BgwWAAA=]",
-        "description": "앞으로 밀고 그 지역을 폭파하여 적을 태우는 불을 남깁니다.",
+        "description": "앞으로 미끄러져 해당 지역을 폭파하고, 적을 불태우는 불길을 남깁니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

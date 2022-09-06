@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BiApAAA=]",
-        "description": "스펙트럼 발톱을 소환하여 파업을 빠르게 타격으로 적을 때리고 파업 당 생명력을 얻습니다.이 공격은 목표에 대한 취약점 스택 당 손상이 증가합니다.",
+        "description": "유령의 발톱을 소환하여 적을 빠르게 휘둘러 공격당 생명력을 얻습니다. 이 공격은 대상의 취약성 스택당 증가된 피해를 줍니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

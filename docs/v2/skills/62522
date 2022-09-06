@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bjr0AAA=]",
-        "description": "psionic.자신을 치유하고 대상에 두 개의 날을 던지십시오.첫 번째 블레이드가 발생하면 조건이 손실됩니다.두 번째 블레이드가 발생하면 Aegis와 하나의 추가 임의의 혜택을 얻습니다.",
+        "description": "사이오닉. 자신을 치유하고 대상에게 두 개의 칼날을 던집니다. 첫 번째 칼날이 명중하면 조건을 잃게 됩니다. 두 번째 칼날이 명중하면 보호와 무작위 혜택 1개를 추가로 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

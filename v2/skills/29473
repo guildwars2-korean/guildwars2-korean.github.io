@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BiFzAAA=]",
-        "description": "당신의 광산을 폭파하여 적을 손상시키고 그들로부터 혜택을 제거하십시오.",
+        "description": "지뢰를 폭발시켜 적에게 피해를 입히고 혜택을 제거하세요.",
         "facts": [
             {
                 "dmg_multiplier": 3,

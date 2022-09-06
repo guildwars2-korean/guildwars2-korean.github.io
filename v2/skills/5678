@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bi4WAAA=]",
-        "description": "적과 보조금을 태우는 불 같은 방패에 자신을 감싸십시오.",
+        "description": "적을 불태우는 불의 방패로 자신을 감싸고 공격을 받을 때마다 위력을 부여합니다(공격자당 재사용 대기시간 1초).",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

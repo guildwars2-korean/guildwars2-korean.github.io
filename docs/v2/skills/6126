@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bu4XAAA=]",
-        "description": "자기장을 방출하여 근처의 적을 뒤로 물러납니다.",
+        "description": "자기장을 방출하여 주변의 적을 밀쳐냅니다.",
         "facts": [
             {
                 "dmg_multiplier": 0.25,

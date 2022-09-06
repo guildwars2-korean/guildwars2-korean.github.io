@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BpkVAAA=]",
-        "description": "적에게 번개를 타고 전기 버스트로 근처의 적을 때리십시오.적들이 버스트에 맞으면 스킬의 재충전이 절반으로 줄어 듭니다.",
+        "description": "번개를 타고 적을 공격한 다음 전기 폭발로 주변의 모든 적을 공격합니다. 버스트에 적중당하면 스킬의 재충전량이 절반으로 줄어든다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

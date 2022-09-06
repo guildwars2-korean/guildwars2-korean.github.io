@@ -1,6 +1,6 @@
 [
     {
-        "description": "전투 중에 <c =@activetype> 배틀 흉터 </c>의 스택을 얻습니다.",
+        "description": "스택 획득<c=@abilitytype> 전투 흉터</c> 전투 중에.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

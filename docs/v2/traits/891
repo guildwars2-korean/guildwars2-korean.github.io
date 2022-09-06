@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 슈라우드 </c> 기술은 재충전 감소를 얻습니다.",
+        "description": "<c=@abilitytype>측판</c> 스킬 획득 감소 재충전.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

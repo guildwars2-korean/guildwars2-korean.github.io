@@ -2,7 +2,7 @@
     {
         "attunement": "Water",
         "chat_link": "[&BuT1AAA=]",
-        "description": "목표를 뛰어 넘고 근처의 적을 공격하십시오.각 목표에 맞는 치유.첫 번째 목표를 넘어서는 각 대상에 대해 적은 금액을 치유하십시오.",
+        "description": "목표물을 향해 도약하여 주변의 적을 공격합니다. 적중한 각 대상에 대해 치유합니다. 첫 번째 공격 이후에 공격을 받은 각 대상에 대해 더 적은 양의 치유를 받습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

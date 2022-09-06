@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> signets </c>는 능동 효과가 향상되었으며 하나의 보조금을 활성화하여 왜곡을 활성화합니다.",
+        "description": "<c=@abilitytype>인장</c> 향상된 활성 효과가 있으며 하나를 활성화하면 왜곡이 생깁니다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "슈라우드에 들어갈 때 <c =@ablectype> carapace </c>를 얻습니다.",
+        "description": "얻다<c=@abilitytype> 등딱지</c> 슈라우드에 들어갈 때.",
         "facts": [
             {
                 "apply_count": 5,

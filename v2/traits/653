@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신의 힘이 증가합니다.그레이트 스포드를 휘두르면서 추가 전력을 얻으십시오.당신의 그레이트 스코드 기술은 재충전을 줄였습니다.",
+        "description": "당신의 힘이 증가합니다. 대검을 휘두르는 동안 추가 힘을 얻습니다. 대검 스킬의 충전량이 감소했습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",

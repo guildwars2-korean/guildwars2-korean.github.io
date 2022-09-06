@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bpl5AAA=]",
-        "description": "한 지역으로 도약하고 적에게 큰 타격을주십시오.",
+        "description": "지역으로 뛰어들어 적에게 엄청난 일격을 가합니다.",
         "facts": [
             {
                 "dmg_multiplier": 0.5,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "활력을 얻습니다.들어오는 치유가 증가합니다.",
+        "description": "활력을 얻습니다. 받는 치유량이 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

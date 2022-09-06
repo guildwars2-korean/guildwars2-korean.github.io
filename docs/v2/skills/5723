@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BlsWAAA=]",
-        "description": "대상 지역에서 얼음 폭풍을 부르십시오.물 화살표 스택마다 최종 아이스 파편의 수가 증가합니다.\n이 기술에 적을 때릴 때마다 대상 당 손상이 줄어 듭니다.",
+        "description": "대상 지역에 얼음 폭풍을 불러냅니다. 물 화살 스택당 최종 얼음 조각의 수가 증가합니다. 이 스킬에 적중당할 때마다 대상당 데미지가 감소합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

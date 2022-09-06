@@ -1,6 +1,6 @@
 [
     {
-        "description": "미덕을 활성화 한 후 파업 피해가 증가합니다.",
+        "description": "미덕 발동 후 가하는 스트라이크 데미지가 증가합니다.",
         "facts": [
             {
                 "apply_count": 1,

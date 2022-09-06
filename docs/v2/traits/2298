@@ -1,6 +1,6 @@
 [
     {
-        "description": "Mech Command Skill Sky Circus에 액세스하십시오.해고되거나 수리를 위해 멀리 떨어져있는 동안, 당신의 Mech는 가끔 공중 폭격으로 당신을 지원합니다. <br> Signet 기술은 수동적 효과를 향상시키고 재충전하는 동안 수동적 보너스를 계속 부여합니다.",
+        "description": "Mech Command 기술 Sky Circus에 액세스할 수 있습니다. 해고되거나 수리를 위해 자리를 비운 동안 기계는 이따금 공중 폭격으로 당신을 지원합니다.<br> 인장 스킬은 향상된 패시브 효과를 얻고 재충전하는 동안 패시브 보너스를 계속 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

@@ -4,7 +4,7 @@
             "StealthAttack"
         ],
         "chat_link": "[&BjTFAAA=]",
-        "description": "스텔스 공격.칼자루로 그들을 강타하여 적을 눈을 멀게하거나 뒤에서 공격하면 멍청이를 봅니다.취약점을 적용합니다.사용 된 악의에 따라 지구력을 회복시키기 위해 마크를 쳤을 때 모든 악의를 소비합니다.",
+        "description": "스텔스 공격. 칼자루로 적을 강타하여 눈을 멀게 하거나 뒤에서 공격하면 멍하게 만듭니다. 취약점을 적용합니다. 표식을 칠 때 모든 악의를 소모하여 사용한 악의에 따라 내구도를 회복합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

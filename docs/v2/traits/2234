@@ -1,6 +1,6 @@
 [
     {
-        "description": "귀하의 <c =@activetype> jade sphere </c>는 활성화시 현재의 조율에 따라 인근 동맹국에게 혜택을줍니다.",
+        "description": "당신의<c=@abilitytype> 옥 구체</c> 활성화되면 현재 조율에 따라 주변 아군에게 혜택을 줍니다.",
         "facts": [
             {
                 "apply_count": 5,

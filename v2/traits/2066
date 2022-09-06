@@ -1,6 +1,6 @@
 [
     {
-        "description": "닷지 롤링 통풍구는 근처의 적에 대한 공격으로 열이 열이 나옵니다. <br> <c =@reminder> (공격 없이는 공격이 발생하지 않습니다.) </c>",
+        "description": "닷지 롤링 벤트는 열을 방출하여 주변의 적에게 공격합니다.<br><c=@reminder> (열이 없으면 공격이 일어나지 않습니다.)</c>",
         "icon": "https://render.guildwars2.com/file/051954D32BCDA37DEAA1730C9CF09CAEF22F9FB3/1769933.png",
         "id": 2066,
         "name": "Thermal Release Valve",

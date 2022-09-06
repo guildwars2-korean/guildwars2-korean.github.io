@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BvH0AAA=]",
-        "description": "지구력을 얻고 주변의 적을 공격하여 각 적에 대해 보너스 지구력을 얻습니다.",
+        "description": "지구력을 얻고 주위의 적을 공격하여 적중당한 적마다 추가 지구력을 얻습니다.",
         "facts": [
             {
                 "dmg_multiplier": 0.93,

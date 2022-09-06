@@ -1,6 +1,6 @@
 [
     {
-        "description": "취약성 스택을 기준으로 목표에 대한 타격 피해가 증가했습니다.",
+        "description": "취약성 스택에 따라 대상에게 증가된 공격 피해를 줍니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

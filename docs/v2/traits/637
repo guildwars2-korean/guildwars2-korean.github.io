@@ -1,6 +1,6 @@
 [
     {
-        "description": "AEGIS가 공격을 차단하면 신비로운 책망이 나옵니다.",
+        "description": "적용한 보호가 공격을 차단하면 신비로운 책망이 발동됩니다.",
         "icon": "https://render.guildwars2.com/file/5D0BC6DF96B62BF5FBA1B41BEC064BD9D4E421F2/1012457.png",
         "id": 637,
         "name": "Shattered Aegis",

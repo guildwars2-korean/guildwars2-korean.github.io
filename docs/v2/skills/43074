@@ -2,7 +2,7 @@
     {
         "attunement": "Fire",
         "chat_link": "[&BkKoAAA=]",
-        "description": "이중 공격.당신 앞에있는 아크에서 적을 때리고, 당신이 치는 적에게 불타는 소용돌이를 만듭니다.",
+        "description": "듀얼 어택. 전방의 호를 그리며 적을 공격하여 적중한 적에게 불타는 소용돌이를 생성합니다.",
         "dual_attunement": "Air",
         "facts": [
             {

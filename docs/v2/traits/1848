@@ -1,6 +1,6 @@
 [
     {
-        "description": "가디언의 결의는 더욱 증가하여 <c =@activetype> 미덕이 물리적 측면으로 나타날 수있게되었습니다.<c =@activetype> 트랩 </c>에 액세스하십시오.",
+        "description": "수호자의 결의가 더욱 높아져<c=@abilitytype> 미덕</c> 물리적 측면으로 나타납니다. 액세스 권한 얻기<c=@abilitytype> 트랩</c> .",
         "icon": "https://render.guildwars2.com/file/E7C99D17DDC62D7E07E0D12B2DB27F1903D0D7C5/1012399.png",
         "id": 1848,
         "name": "Virtuous Action",

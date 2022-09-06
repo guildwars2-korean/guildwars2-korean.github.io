@@ -1,6 +1,6 @@
 [
     {
-        "description": "A <c =@ablection -type> shout </c>를 사용하면 동맹국이 적을 약점으로 가질 수 있습니다.",
+        "description": "사용<c=@abilitytype> 외침</c> 아군에게 힘을 부여하고 적에게 약점을 부여합니다.",
         "facts": [
             {
                 "apply_count": 2,

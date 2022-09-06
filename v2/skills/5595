@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BtsVAAA=]",
-        "description": "적을 손상시키고 충격 영역 주변의 동맹국을 치유하는 물의 화살을 쏘십시오.적을 때릴 때마다 물 화살 스택을 얻으십시오.",
+        "description": "적에게 피해를 입히고 충격 범위 주변의 아군을 치유하는 물 화살을 발사합니다. 적을 공격할 때마다 물 화살 중첩을 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

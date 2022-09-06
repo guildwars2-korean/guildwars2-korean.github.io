@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 미니언 </c>는 건강을 증가 시켰습니다.gain <c =@activetype> carapace </c> 당신이 통제하는 각 미니언.",
+        "description": "<c=@abilitytype>미니언즈</c> 건강이 증가했습니다. 얻다<c=@abilitytype> 등딱지</c> 당신이 제어하는 각 하수인에 대해.<br><c=@reminder> 이 특성이 재할당되면 하수인이 파괴됩니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

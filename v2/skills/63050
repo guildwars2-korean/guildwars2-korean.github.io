@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bkr2AAA=]",
-        "description": "대상 지역에서 Jade Mech를 소환하십시오.이 지역의 적들이 손상되었습니다.이 기술의 재충전 시간은 Mech가 얼마나 손상되었는지에 근거합니다.\n\n마우스 오른쪽 버튼을 클릭하여 Mech의 이름을 바꾸십시오.",
+        "description": "대상 지역에 비취 기계를 소환합니다. 해당 지역의 적들이 피해를 입습니다. 이 기술의 재충전 시간은 기계의 손상 정도에 따라 달라집니다. 마우스 오른쪽 버튼을 클릭하여 기계 이름을 바꿉니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 호출 고문 </c>는 독과 연소를 적용합니다.",
+        "description": "<c=@abilitytype>고통을 불러일으키다</c> 독과 화상을 적용합니다.",
         "facts": [
             {
                 "apply_count": 1,

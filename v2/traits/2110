@@ -1,6 +1,6 @@
 [
     {
-        "description": "전투에 들어갈 때, 첫 <c =@ablection -type> Ambush </c> 공격은 혼란을 초래합니다.이 능력은 <c =@activetype> 산산조각 </c> 기술을 사용할 때 상쾌합니다.",
+        "description": "전투에 들어갈 때 가장 먼저<c=@abilitytype> 매복</c> 공격은 혼란을 적용합니다. 이 능력은 다음을 사용하면 새로 고쳐집니다.<c=@abilitytype> 파편</c> 기술.",
         "facts": [
             {
                 "apply_count": 2,

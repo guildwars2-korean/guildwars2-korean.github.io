@@ -1,6 +1,6 @@
 [
     {
-        "description": "조건 기간은 당신과 당신의 애완 동물 사이에 나뉘어져 있습니다. <br> <c =@reminder> 애완 동물이 내려 가면 조건이 나오지 않습니다. </c>",
+        "description": "상태 지속 시간은 귀하와 귀하의 애완 동물로 나뉩니다.<br><c=@reminder> 애완동물이 쓰러진 동안에는 조건이 분할되지 않습니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

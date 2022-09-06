@@ -1,6 +1,6 @@
 [
     {
-        "description": "근처의 적들로부터의 타격 피해가 줄어 듭니다.지구 무기 기술은 재충전 감소를 얻습니다.",
+        "description": "주변 적의 공격 피해가 감소합니다. 대지 무기 스킬의 재충전량이 감소합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

@@ -4,7 +4,7 @@
             "Virtue"
         ],
         "chat_link": "[&BhF2AAA=]",
-        "description": "미덕 : 건강을 재생합니다.\n활성화 : 대상 지역으로 도약 하여이 지역의 동맹국을 치유하십시오.",
+        "description": "미덕: 건강을 회복합니다. 사용 효과: 대상 지역으로 도약하여 해당 지역의 아군을 치유합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

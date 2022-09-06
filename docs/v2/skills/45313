@@ -2,7 +2,7 @@
     {
         "attunement": "Fire",
         "chat_link": "[&BgGxAAA=]",
-        "description": "앞으로 뛰어 다니면서 그 지역에 불 같은 폭발을 전달하십시오.",
+        "description": "앞으로 점프하여 해당 지역에 화염 폭발을 일으킵니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신의 적극적인 조율은 이제 당신의 주 손에 적용되며, 오래된 조율은 당신의 손으로 움직입니다.조율 재충전이 줄어 듭니다.<c =@ablection -type> 듀얼 공격 </c> 및 <c =@ablection -type> stance </c> 유틸리티 유형에 액세스하십시오.",
+        "description": "활성 조정이 이제 주 손에 적용되고 이전 조정이 보조 손으로 이동합니다. 조율 충전량이 감소합니다. 액세스 권한 얻기<c=@abilitytype> 듀얼 어택</c> 그리고<c=@abilitytype> 위치</c> 유틸리티 유형.",
         "facts": [
             {
                 "duration": 4,

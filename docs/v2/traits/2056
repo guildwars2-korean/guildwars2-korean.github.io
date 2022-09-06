@@ -1,6 +1,6 @@
 [
     {
-        "description": "이동 장애 조건의 지속 시간을 줄입니다.이러한 조건이없는 한 이동 속도가 증가합니다.",
+        "description": "이동 장애 상태의 지속 시간을 줄입니다. 이러한 조건이 없는 한 이동 속도가 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

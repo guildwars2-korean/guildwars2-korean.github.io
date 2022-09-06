@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BgUXAAA=]",
-        "description": "포탑을 과제로 충전하여 고정화되고 기절시키는 전기 그물을 발사하십시오.",
+        "description": "포탑을 과충전하여 움직이지 못하게 하고 기절시키는 전기 그물을 발사하십시오.",
         "facts": [
             {
                 "dmg_multiplier": 0.5,

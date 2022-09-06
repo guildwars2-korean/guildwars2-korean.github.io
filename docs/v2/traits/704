@@ -1,6 +1,6 @@
 [
     {
-        "description": "피할 때 현재 위치에서 클론을 만듭니다.",
+        "description": "회피할 때 현재 위치에 클론을 생성합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

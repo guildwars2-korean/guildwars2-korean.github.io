@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@ablection -type> cantrips </c> 및 <c =@ablectype> unseh </c>에 액세스하십시오.애완 동물이 해방되는 동안 기술은 더 큰 영역 기술로 대체됩니다.간격 당 한 번, <c =@ablection -type> unfeashed armbush </c> 기술은 잠시 후 짧은 시간 동안 이용할 수있게됩니다.",
+        "description": "액세스 권한 얻기<c=@abilitytype> 캔트립</c> 그리고<c=@abilitytype> 해방</c> . 애완 동물이 해방되는 동안 해당 기술은 더 큰 효과 범위 기술로 대체됩니다. 간격당 한 번,<c=@abilitytype> 해방된 매복</c> 스킬은 해방 후 짧은 시간 동안 사용할 수 있습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

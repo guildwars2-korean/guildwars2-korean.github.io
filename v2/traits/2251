@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@ablectionType> jade sphere </c>에 의해 적용되는 BOON은 지속 시간이 증가했습니다.",
+        "description": "귀하가 적용한 혜택<c=@abilitytype> 옥 구체</c> 지속시간을 늘렸습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

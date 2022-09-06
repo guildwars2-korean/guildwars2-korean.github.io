@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bua5AAA=]",
-        "description": "근처의 적을 회전시키고 손상시켜 각 파업마다 상태를 적용합니다.",
+        "description": "회전할 때마다 주위의 적에게 피해를 입히고 조건을 적용합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",

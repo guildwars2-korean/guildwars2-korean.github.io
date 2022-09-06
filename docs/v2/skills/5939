@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BjMXAAA=]",
-        "description": "웅덩이에서 폭발하고 무서운 적에 잡힌 적을 고정시키는 적을 웅덩이로 폭발하는 폭발물을 설정하십시오.",
+        "description": "접착제 웅덩이로 폭발하는 폭발물을 설정하여 폭발에 갇힌 적을 움직이지 못하게 하고 웅덩이에 있는 적을 불구로 만듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

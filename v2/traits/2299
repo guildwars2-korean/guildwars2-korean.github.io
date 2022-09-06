@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신의 <c =@ablection -type> Shadow Shroud </c>에 의해 동맹국이 묶인 경우 치명적인 타격을 입고, 죽음을 막기 위해 덮개를 소비하고 치유하십시오. <br> 치명적인 타격을 입으면 대신 그림자 슈라우드에 들어가면 대신 그림자 슈라우드에 들어갑니다.당신의 슈라우드는 임계 값 이상입니다.",
+        "description": "아군이 당신에게 묶여 있다면<c=@abilitytype> 그림자 장막</c> 치명적인 일격을 가하고 당신의 수의를 삼켜 그들의 죽음을 막고 치유합니다.<br> 치명적인 일격을 당할 경우 수의가 임계값보다 높으면 대신 Shadow Shroud로 들어가십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

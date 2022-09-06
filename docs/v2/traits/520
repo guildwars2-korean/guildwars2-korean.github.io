@@ -1,6 +1,6 @@
 [
     {
-        "description": "동맹국에서 조건을 제거 할 때 재생 보조금.",
+        "description": "아군에게서 상태를 제거하면 재생이 부여됩니다.",
         "facts": [
             {
                 "apply_count": 1,

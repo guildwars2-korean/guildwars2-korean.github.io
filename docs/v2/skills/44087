@@ -4,7 +4,7 @@
             "StealthAttack"
         ],
         "chat_link": "[&BjesAAA=]",
-        "description": "스텔스 공격.자신을 드러내고 목표물에 강력한 샷을 발사하십시오.이 공격이 당신의 마크에 도달하면, 그것은 모든 악의를 소비하고 소비되는 각 악의에 대한 손상이 증가합니다.",
+        "description": "스텔스 공격. 자신을 드러내고 목표물에 강력한 사격을 가하세요. 이 공격이 당신의 표식에 맞으면 모든 악의를 소모하고 소모된 악의 하나당 증가된 피해를 입힙니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

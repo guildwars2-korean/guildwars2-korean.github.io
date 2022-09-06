@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> siphon </c> 이제 적을 목표로 할 때 장벽을 부여하고, 타겟팅 할 때 동맹국을 부활시킵니다.Shadowstepping은 당신의 장벽을 깨고 영향을받는 동맹국의 수에 비례하여 인근 동맹국에게 부여합니다.",
+        "description": "<c=@abilitytype>사이펀</c> 이제 적을 대상으로 할 때 장벽을 부여하고 대상을 대상으로 할 때 아군을 소생시킵니다. Shadowstepping은 장벽을 허물고 영향을 받는 아군의 수에 비례하여 주변 아군에게 보호막을 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

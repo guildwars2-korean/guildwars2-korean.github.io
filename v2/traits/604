@@ -1,6 +1,6 @@
 [
     {
-        "description": "a <c =@activetype> virtue </c>를 활성화 할 때 해상도를 얻습니다.당신이 부여한 결의안은 기간이 증가했습니다.",
+        "description": "a를 활성화하면 해상도를 얻습니다.<c=@abilitytype> 덕</c> . 부여한 결의의 지속 시간이 증가했습니다.",
         "facts": [
             {
                 "apply_count": 1,

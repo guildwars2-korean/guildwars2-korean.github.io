@@ -1,6 +1,6 @@
 [
     {
-        "description": "원수를 비활성화하면 속도가 느려집니다. <br> <c =@reminder> 비활성화 된 비활성화, Daze, Daze, Pull, Pull, Sink, Float, Launch, Taunt, Taunt 및 Fear.>이 특성은 간격 당 한 번만 동일한 적에게만 영향을 줄 수 있습니다. </c>",
+        "description": "적을 비활성화하면 속도가 느려집니다.<br><c=@reminder> 비활성화에는 기절, 멍, 넉백, 당기기, 넉다운, 가라앉기, 뜨기, 발사, 도발 및 공포가 포함됩니다.</c><br><c=@reminder> 이 특성은 간격당 한 번만 같은 적에게 영향을 줄 수 있습니다.</c>",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 과부하 </c> 보조금 보호.보호 이익은 손상 감소가 증가합니다.",
+        "description": "<c=@abilitytype>과부하</c> 보호를 부여합니다. 보호는 증가된 피해 감소를 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

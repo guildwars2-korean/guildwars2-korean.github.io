@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@activetype> 스텔스 공격 </c> 기술은 취약성을 가하고 적을 성공적으로 타격 할 때 분노를 부여합니다.",
+        "description": "<c=@abilitytype>스텔스 공격</c> 스킬은 적에게 성공하면 취약성을 부여하고 분노를 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

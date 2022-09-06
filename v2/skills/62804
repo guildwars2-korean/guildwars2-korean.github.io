@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BlT1AAA=]",
-        "description": "군비.에너지 벽 뒤에 남겨두고 발사체를 차단하고 그것을 통과하는 적을 막는 장치를 던지십시오.이미 무너진 적들은 고정되어 있습니다.",
+        "description": "군비. 에너지의 벽을 남기고 통과하는 발사체와 불구가 되는 적을 차단하는 장치를 던집니다. 이미 불구가 된 적은 이동 불가 상태가 됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "a <c =@activetype> phantasm </c>가 클론이되면, 그것은 당신에게 혜택을 전달합니다.",
+        "description": "언제<c=@abilitytype> 환상</c> 클론이 되면 그 혜택을 당신에게 이전합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bi0oAAA=]",
-        "description": "연기 구름에서 사라지고 근처의 적을 눈을 멀게하고 상태를 잃습니다.3 초 후에 다시 나타나서 근처의 적을 태워라.",
+        "description": "연기 구름 속으로 사라져 주변 적의 눈을 멀게 하고 상태를 잃습니다. 3초 후에 다시 나타나 주변의 적을 불태웁니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

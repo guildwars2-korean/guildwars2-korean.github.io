@@ -1,6 +1,6 @@
 [
     {
-        "description": "A <c =@ablection -type> 버스트 </c> 스킬로 타격을 받으면 범위 내에있는 경우 대상에 Magebane 테더를 캐스팅합니다.",
+        "description": "로 타격<c=@abilitytype> 터지다</c> 스킬은 대상이 범위 내에 있는 경우 대상에게 마법의 테더를 시전합니다.",
         "icon": "https://render.guildwars2.com/file/040FEAA53CC4AE3273E753D16A585EA3C9452F6E/1770020.png",
         "id": 2060,
         "name": "Magebane Tether",

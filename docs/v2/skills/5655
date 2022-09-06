@@ -2,7 +2,7 @@
     {
         "attunement": "Air",
         "chat_link": "[&BhcWAAA=]",
-        "description": "원수 주변의 물을 전기로 충전하십시오.현재 능력을 사용하고있는 적들은 멍청합니다.",
+        "description": "적 주변의 물을 전기로 충전합니다. 현재 능력을 사용하는 적은 멍해집니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

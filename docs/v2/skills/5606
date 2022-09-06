@@ -2,7 +2,7 @@
     {
         "attunement": "Water",
         "chat_link": "[&BuYVAAA=]",
-        "description": "적에게 닿거나 만료 될 때 산산이 부서지는 얼음의 벽을 만듭니다.",
+        "description": "적에게 닿거나 만료되면 부서지는 얼음 벽을 만들어 적에게 큰 피해를 입히고 오싹하게 만듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

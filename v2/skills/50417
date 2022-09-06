@@ -4,7 +4,7 @@
             "StealthAttack"
         ],
         "chat_link": "[&BvHEAAA=]",
-        "description": "스텔스 공격.스텔스에있는 동안 공격, 피가 나고 목표를 약화시킵니다.모든 악의를 소비하여 보너스 피해를 입히면 마크를 쳤다.",
+        "description": "스텔스 공격. 은신 상태에서 공격하여 대상을 출혈시키고 약화시킵니다. 모든 악의를 소모하여 표식이 맞으면 추가 피해를 줍니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

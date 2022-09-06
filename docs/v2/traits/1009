@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신의 오프닝 파업은 당신의 적에게 무자비합니다.",
+        "description": "당신의 시작 공격은 적에게 불구를 입힙니다.",
         "facts": [
             {
                 "apply_count": 1,

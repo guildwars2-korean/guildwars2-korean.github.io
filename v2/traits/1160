@@ -1,6 +1,6 @@
 [
     {
-        "description": "치유 기술을 사용할 때 인근 동맹국에게 장벽을 부여하십시오.",
+        "description": "치유 스킬 사용 시 주변 아군에게 보호막을 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",

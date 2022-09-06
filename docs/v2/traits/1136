@@ -1,6 +1,6 @@
 [
     {
-        "description": "스텔스에 들어가거나 나가면 슈퍼 스피드를 얻습니다.",
+        "description": "은신에 들어가거나 나올 때 초고속을 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

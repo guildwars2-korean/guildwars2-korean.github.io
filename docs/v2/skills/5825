@@ -4,7 +4,7 @@
             "Gadget"
         ],
         "chat_link": "[&BsEWAAA=]",
-        "description": "간단한 기계 장치.당신의 뒤에 오일을 뿌려 적을 쓰러 뜨 렸습니다.수중이라면, 들판에 들어가는 원수는 눈을 멀게하고 느려집니다.",
+        "description": "간단한 기계 장치. 뒤에 기름을 뿌려 적을 쓰러뜨립니다. 물속에 있으면 필드에 들어오는 적들은 눈이 멀고 느려집니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

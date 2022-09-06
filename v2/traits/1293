@@ -1,6 +1,6 @@
 [
     {
-        "description": "스텔스에 들어가거나 종료 할 때 조건을 제거하십시오.<c =@reminder>이 효과는 동맹국에게 부여하는 스텔스에도 적용됩니다. </c>",
+        "description": "은신에 들어가거나 나올 때 조건을 제거하십시오.<c=@reminder> 이 효과는 아군에게 부여하는 은신에도 적용됩니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

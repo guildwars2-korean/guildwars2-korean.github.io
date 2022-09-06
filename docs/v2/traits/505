@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c =@ablectionType> 폭발 </c>는 타격시 출혈을 일으키고 출혈을 일으킬 기회가 있습니다.",
+        "description": "<c=@abilitytype>폭발</c> 적중 시 불구가 되어 출혈을 일으킬 가능성이 있습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
