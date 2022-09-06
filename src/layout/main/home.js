@@ -39,6 +39,29 @@ function Home() {
           </Card>
         </Col>
       </Row>
+      <Row style={{paddingTop: 20}}>
+        <Col md="6">
+          <Card>
+            <Card.Header>한인 길드 리스트</Card.Header>
+            <Card.Body>
+              <ul>
+                <li>
+                  <a href="https://discord.gg/hZzJV2Y">This Is M [rn]</a>
+                </li>
+                <li>
+                  <a href="https://discord.gg/KVuhmFuFeg">End of Melee [End]</a>
+                </li>
+                <li>
+                  <a href="https://discord.gg/rJNa6EtuBC">Gamers World [kiwi]</a>
+                </li>
+                <li>
+                  <a href="https://discord.gg/M6ErTnFwJP">La campanella [LC]</a>
+                </li>
+              </ul>
+            </Card.Body>
+          </Card>
+        </Col>
+      </Row>
     </Container>
     </>
   );
