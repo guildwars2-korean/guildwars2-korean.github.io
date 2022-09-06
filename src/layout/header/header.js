@@ -16,7 +16,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown'
 
 function Header(props) {
     return (
-      <header class="sticky-top">
+      <header className="sticky-top">
         <Navbar bg="dark" variant="dark">
             <Container>
                 <Navbar.Brand href="/">GW2</Navbar.Brand>

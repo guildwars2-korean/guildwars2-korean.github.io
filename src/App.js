@@ -6,16 +6,34 @@ import Footer from './layout/footer/footer';
 import Main from './layout/main/main';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { Col, Row } from 'react-bootstrap';
+import { infeedProps, GoogleAd } from './layout/googleAd'
 
 
 function App() {
   return (
     <>
-      <div>
-        <Header />
-        <Main />
-        <Footer />
-      </div>
+    <div>
+      <Header />
+      <Row>
+        <Col sm="1">
+          
+        </Col>
+        <Col sm="10">
+          <Main />
+        </Col>
+        <Col sm="1">
+          <div style={{
+            marginTop: 100,
+          }}>
+            <GoogleAd
+                {...infeedProps}
+            />
+          </div>
+        </Col>
+      </Row>
+      <Footer />
+    </div>
     </>
   );
 }
