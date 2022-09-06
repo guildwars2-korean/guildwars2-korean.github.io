@@ -7,7 +7,7 @@ function Home() {
   return (
     <>
     <Container>
-      <Row style={{paddingTop: 20}}>
+      <Row style={{marginBottom: 10}}>
         <Col md="6">
           <Card>
             <Card.Header>안내</Card.Header>
@@ -39,7 +39,7 @@ function Home() {
           </Card>
         </Col>
       </Row>
-      <Row style={{paddingTop: 20}}>
+      <Row style={{marginBottom: 10}}>
         <Col md="6">
           <Card>
             <Card.Header>한인 길드 리스트</Card.Header>
