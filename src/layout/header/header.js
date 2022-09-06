@@ -19,7 +19,7 @@ function Header(props) {
       <header className="sticky-top">
         <Navbar bg="dark" variant="dark">
             <Container>
-                <Navbar.Brand href="/">GW2</Navbar.Brand>
+                <Navbar.Brand href="/">guildwars2-korean.github.io</Navbar.Brand>
                 <Nav className="me-auto">
                     <NavDropdown title="직업" id="dropdown-trait">
                         <NavDropdown.Item href='/professions/elementalist'>
