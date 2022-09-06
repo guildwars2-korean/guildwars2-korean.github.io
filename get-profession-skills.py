@@ -11,12 +11,12 @@ ignore_file_name = 'index.html'
 
 dictionary_for_translation = DICTIONARY_FOR_TRANSLATION
 
-def main(profession, specialization):
-    skills = get_skills(profession, specialization)
+def main(profession, specialization, type):
+    skills = get_skills(profession, specialization, type)
     for skill in skills:  
         id = skill['id']
         name = skill['name']
-        print('<Skill id={{{}}} /> {{/* {} */}}'.format(id, name))
+        print('                    <Skill id={{{}}} /> {{/* {} */}}'.format(id, name))
 
 
 def get_skill_ids():
@@ -24,7 +24,7 @@ def get_skill_ids():
     items.remove(ignore_file_name)
     return items
 
-def get_skills(profession, specialization):
+def get_skills(profession, specialization, type):
     skill_ids = get_skill_ids()
     skills = []
     for skill_id in skill_ids:
@@ -33,8 +33,8 @@ def get_skills(profession, specialization):
         if not skill:
             continue
         if specialization != skill.get('specialization', None):
-                continue
-        if skill.get('slot', '') not in ['Heal', 'Utility']:
+            continue
+        if type != skill.get('type', None):
             continue
         if len(skill.get('professions', [])) > 1:
             continue
@@ -49,7 +49,22 @@ def read_item(item_path):
 
 
 if __name__ == '__main__':
-    profession = 'Warrior'
+    # Elementalist, 
+    profession = 'Elementalist'
     # 코어 직업은 specialization = None, 그 외는 각 specialization id 입력
-    specialization = 68
-    main(profession, specialization)
+    # Elementalist : [None, 48, 56, 67]
+    # Engineer : [None, 43, 57, 70]
+    specialization = 67
+
+    types = [('Profession', '직업'), ('Heal', '힐'), ('Utility', '유틸리티'), ('Elite', '엘리트')]
+    card_pre_format = '''                <Card style={{{{marginBottom: 10}}}}>
+                  <Card.Header>{} 스킬</Card.Header>
+                  <Card.Body>'''
+    card_post_format = '''                  </Card.Body>
+                </Card>'''
+    for each in types:
+        type = each[0]
+        type_kr = each[1]
+        print(card_pre_format.format(type_kr))
+        skills = main(profession, specialization, type)
+        print(card_post_format)

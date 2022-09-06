@@ -55,7 +55,7 @@ function Home() {
                   <a href="https://discord.gg/rJNa6EtuBC" target="_blank">Gamers World [kiwi]</a>
                 </li>
                 <li>
-                  <a href="https://discord.gg/M6ErTnFwJP" target="_blank">La campanella [LC]</a>
+                  <a href="https://discord.gg/M6ErTnFwJP" target="_blank">La Campanella [LC]</a>
                 </li>
               </ul>
             </Card.Body>

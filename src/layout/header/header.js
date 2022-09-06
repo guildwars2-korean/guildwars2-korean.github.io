@@ -16,7 +16,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown'
 
 function Header(props) {
     return (
-      <header className="sticky-top">
+      <header className="sticky-top" style={{marginBottom: 20}}>
         <Navbar bg="dark" variant="dark">
             <Container>
                 <Navbar.Brand href="/">guildwars2-korean.github.io</Navbar.Brand>
