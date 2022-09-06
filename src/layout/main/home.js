@@ -26,13 +26,13 @@ function Home() {
             <Card.Body>
               <ul>
                 <li>
-                  <a href="https://cafe.daum.net/koreanguildwars2">길드워2 한인 모임</a>
+                  <a href="https://cafe.daum.net/koreanguildwars2" target="_blank">길드워2 한인 모임</a>
                 </li>
                 <li>
-                  <a href="https://metabattle.com/">Metabattle</a>
+                  <a href="https://metabattle.com/" target="_blank">Metabattle</a>
                 </li>
                 <li>
-                  <a href="https://snowcrows.com/">Snowcrows</a>
+                  <a href="https://snowcrows.com/" target="_blank">Snowcrows</a>
                 </li>
               </ul>
             </Card.Body>
@@ -46,16 +46,16 @@ function Home() {
             <Card.Body>
               <ul>
                 <li>
-                  <a href="https://discord.gg/hZzJV2Y">This Is M [rn]</a>
+                  <a href="https://discord.gg/hZzJV2Y" target="_blank">This Is M [rn]</a>
                 </li>
                 <li>
-                  <a href="https://discord.gg/KVuhmFuFeg">End of Melee [End]</a>
+                  <a href="https://discord.gg/KVuhmFuFeg" target="_blank">End of Melee [End]</a>
                 </li>
                 <li>
-                  <a href="https://discord.gg/rJNa6EtuBC">Gamers World [kiwi]</a>
+                  <a href="https://discord.gg/rJNa6EtuBC" target="_blank">Gamers World [kiwi]</a>
                 </li>
                 <li>
-                  <a href="https://discord.gg/M6ErTnFwJP">La campanella [LC]</a>
+                  <a href="https://discord.gg/M6ErTnFwJP" target="_blank">La campanella [LC]</a>
                 </li>
               </ul>
             </Card.Body>
