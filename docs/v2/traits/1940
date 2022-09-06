@@ -1,6 +1,6 @@
 [
     {
-        "description": "Inflicting a condition on a foe grants <c=@abilitytype>carapace</c>. Gain pulsing protection while at or above the <c=@abilitytype>carapace</c> threshold.",
+        "description": "적에게 조건을 부여하는 <c =@ablection -type> carapace </c>.<c =@ablection -type> carapace </c> 임계 값 이상에서 맥동 방지를 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

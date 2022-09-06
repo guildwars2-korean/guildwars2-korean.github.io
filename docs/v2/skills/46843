@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bvu2AAA=]",
-        "description": "Strike enemies around you, inflicting weakness, gaining barrier, and gaining additional barrier per target hit.",
+        "description": "주변의 적을 공격하고 약점을 부여하고, 장벽을 얻고, 목표 히트 당 추가 장벽을 얻습니다.",
         "facts": [
             {
                 "dmg_multiplier": 0.75,

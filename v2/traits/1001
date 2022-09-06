@@ -1,6 +1,6 @@
 [
     {
-        "description": "Activating a <c=@abilitytype>Signet</c> grants fury to nearby allies.  <c=@abilitytype>Signets</c> gain reduced recharge.",
+        "description": "<c =@ablection -type> signet </c> 활성화는 인근 동맹국들에게 분노를 부여합니다.<c =@activetype> 사인 </c> gain gain wefted reckarge.",
         "facts": [
             {
                 "apply_count": 1,

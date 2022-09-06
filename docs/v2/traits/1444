@@ -1,6 +1,6 @@
 [
     {
-        "description": "Deal increased strike damage. <c=@abilitytype>Physical</c> skills have reduced recharge and further increase all outgoing strike damage for a period of time.",
+        "description": "파업 피해 증가.<c =@activetype> 물리적 기술 </c> 기술은 재충전을 줄이고 일정 기간 동안 모든 발신 스트라이크 피해를 증가 시켰습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

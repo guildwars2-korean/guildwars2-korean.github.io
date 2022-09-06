@@ -16,7 +16,7 @@
             "Kit"
         ],
         "chat_link": "[&BoQXAAA=]",
-        "description": "Equip a kit that gives you grenade skills.",
+        "description": "수류탄 기술을 제공하는 키트를 장비하십시오.",
         "flags": [
             "NoUnderwater"
         ],

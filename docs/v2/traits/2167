@@ -1,6 +1,6 @@
 [
     {
-        "description": "Sand Flare now also grants barrier to nearby allies. Granting an ally a barrier removes conditions afflicting them.<br><c=@reminder>This effect only occurs with barrier from scourge skills and traits.</c>",
+        "description": "모래 플레어는 이제 인근 동맹국에게 장벽을 부여합니다.동맹국을 부여하면 장벽이 그들을 괴롭히는 조건을 제거합니다. <br> <c =@reminder>이 효과는 스컬지 기술과 특성의 장벽으로 만 발생합니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

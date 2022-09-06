@@ -1,6 +1,6 @@
 [
     {
-        "description": "Your first few attacks after entering or exiting Photon Forge inflict burning and deal increased strike damage. This bonus is also granted if you overheat.",
+        "description": "Photon Forge에 들어가거나 종료 한 후 처음 몇 번의 공격은 화상을 입히고 스트라이크 피해가 증가했습니다.이 보너스는 과열되면 부여됩니다.",
         "facts": [
             {
                 "apply_count": 2,

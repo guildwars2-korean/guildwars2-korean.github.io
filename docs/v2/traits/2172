@@ -1,6 +1,6 @@
 [
     {
-        "description": "Deadeye's Mark recharges if your mark is defeated. Gain regeneration when this recharge occurs.",
+        "description": "당신의 마크가 패배하면 Deadeye의 마크가 재충전됩니다.이 재충전이 발생하면 재생을 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BoHsAAA=]",
-        "description": "Targets a foe with a massive burst of frost magic. The damage done by this attack is distributed among all enemies caught in the blast.",
+        "description": "서리 마법의 거대한 버스트로 적을 목표로합니다.이 공격으로 인한 피해는 폭발에 사로 잡힌 모든 적들에게 분포됩니다.",
         "flags": [],
         "icon": "https://render.guildwars2.com/file/9D661C490109C13717F95520EF6ED7BB16BE99E3/103986.png",
         "id": 60545,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain superspeed when you enter or exit stealth.",
+        "description": "스텔스에 들어가거나 나가면 슈퍼 스피드를 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

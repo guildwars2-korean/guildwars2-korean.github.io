@@ -1,6 +1,6 @@
 [
     {
-        "description": "Unlocks the Mech Command skill Barrier Burst. While in combat, your mech will automatically grant a small barrier each interval to nearby allies.<br><br><c=@reminder>The mech does not count against the target count for this trait.</c>",
+        "description": "Mech Command Skill Barrier Burst를 잠금 해제합니다.전투 중에, 당신의 mech는 근처의 동맹국들에게 각 간격을 자동으로 부여합니다. <br> <br> <c =@reminder> mech는이 특성의 목표 수에 반대하지 않습니다. </c>.",
         "facts": [
             {
                 "distance": 600,

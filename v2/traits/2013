@@ -1,6 +1,6 @@
 [
     {
-        "description": "Your first attack after entering shroud transfers conditions.<br><c=@reminder>Only activates if you have conditions.</c>",
+        "description": "슈라우드 전송 조건에 들어간 후 첫 번째 공격. <br> <c =@reminder> 조건이있는 경우에만 활성화됩니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

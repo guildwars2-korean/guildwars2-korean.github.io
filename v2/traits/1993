@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain a burst of speed when entering berserk mode.",
+        "description": "Berserk 모드에 들어갈 때 속도가 파열됩니다.",
         "facts": [
             {
                 "apply_count": 1,

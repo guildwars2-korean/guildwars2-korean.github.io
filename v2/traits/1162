@@ -1,6 +1,6 @@
 [
     {
-        "description": "Steal boons from enemies you strike with <c=@abilitytype>stealth attacks</c>. Striking a boonless foe with a stealth attack inflicts fear on nearby foes.",
+        "description": "<c =@ablection -type> 스텔스 공격으로 파업하는 적들로부터의 이익을 훔칩니다 </c>.스텔스 공격으로 맹렬한 적을 치면 근처의 적에게 두려움이 생깁니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

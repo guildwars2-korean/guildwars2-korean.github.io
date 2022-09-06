@@ -1,6 +1,6 @@
 [
     {
-        "description": "Increases movement speed above the health threshold. Dagger skills recharge faster if activated while above the health threshold.",
+        "description": "건강 임계 값 이상의 이동 속도를 증가시킵니다.단검 기술은 건강 임계 값을 초과하는 동안 활성화되면 더 빨리 충전합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

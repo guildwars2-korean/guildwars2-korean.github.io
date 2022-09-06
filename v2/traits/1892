@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Explosions</c> grant stacking ferocity when they hit.",
+        "description": "<c =@ablection -type> 폭발 </c> 그들이 치면 흉내 내기 흉상.",
         "facts": [
             {
                 "apply_count": 1,

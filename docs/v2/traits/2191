@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain condition damage. <c=@abilitytype>Willbender Flames</c> now inflict burning on foes they strike.",
+        "description": "조건 손상을 얻습니다.<c =@activetype> willbender flames </c> 이제 그들이 공격하는 적에게 불타는 것을 유발합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",

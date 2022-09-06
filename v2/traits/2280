@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain barrier when you strike foes with a stealth attack. When you apply stealth to allies, you also grant them barrier.<br><c=@reminder>This effect can only be received once and will reset when stealth is removed.</c>",
+        "description": "스텔스 공격으로 적을 공격 할 때 장벽을 얻으십시오.동맹국에 스텔스를 적용하면 장벽을 부여합니다. <br> <c =@reminder>이 효과는 한 번만받을 수 있고 스텔스가 제거 될 때 재설정됩니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",

@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BtIXAAA=]",
-        "description": "Overcharge your harpoon turret to fire a burst of automated shots.",
+        "description": "하포 터릿을 과도하게 충전하여 자동화 된 샷의 버스트를 발사하십시오.",
         "facts": [
             {
                 "dmg_multiplier": 2,

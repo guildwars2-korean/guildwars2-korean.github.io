@@ -1,6 +1,6 @@
 [
     {
-        "description": "Cast \"Eye of the Storm!\" when disabled.<br><c=@reminder>Disables include stun, daze, knock back, pull, knock down, sink, float, launch, taunt, and fear.",
+        "description": "\"폭풍의 눈!\"비활성화 된 경우. <br> <c =@reminder> 비활성화에는 스턴, 멍청한, 넉 스, 쳐서 당기고, 넉다운, 싱크대, 부유물, 발사, 도발 및 두려움이 포함되지 않습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

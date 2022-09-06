@@ -1,6 +1,6 @@
 [
     {
-        "description": "Cast Geyser when you begin reviving a downed ally. Geyser now partially revives downed allies. When you begin reviving an ally, you gain an aura based on your attunement.",
+        "description": "다운 된 동맹국을 되살리기 시작할 때 간헐천을 캐스트하십시오.간헐천은 이제 부분적으로 동맹국을 부활시킨다.당신이 동맹국을 되살리기 시작하면, 당신은 당신의 조율에 따라 분위기를 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

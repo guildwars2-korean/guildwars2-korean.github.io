@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BkgXAAA=]",
-        "description": "Detonate your thumper turret.",
+        "description": "Thumper 포탑을 폭발시킵니다.",
         "facts": [
             {
                 "dmg_multiplier": 2,

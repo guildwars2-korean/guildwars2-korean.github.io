@@ -1,6 +1,6 @@
 [
     {
-        "description": "When entering combat, your first <c=@abilitytype>Ambush</c> attack applies confusion. This ability refreshes when you use a <c=@abilitytype>Shatter</c> skill.",
+        "description": "전투에 들어갈 때, 첫 <c =@ablection -type> Ambush </c> 공격은 혼란을 초래합니다.이 능력은 <c =@activetype> 산산조각 </c> 기술을 사용할 때 상쾌합니다.",
         "facts": [
             {
                 "apply_count": 2,

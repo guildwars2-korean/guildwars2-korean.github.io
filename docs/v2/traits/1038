@@ -1,6 +1,6 @@
 [
     {
-        "description": "Boons applied by <c=@abilitytype>Spirits</c> last longer, and the spirit loses less health per interval. <c=@abilitytype>Spirit</c>-activated skills affect a larger area and apply alacrity to allies.",
+        "description": "<c =@activetype> spirits </c>에 의해 적용된 분은 더 오래 지속되며, 정신은 간격 당 건강을 줄입니다.<c =@activetype> spirit </c>-활성화 된 기술은 더 큰 영역에 영향을 미치고 동맹국에 민첩성을 적용합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

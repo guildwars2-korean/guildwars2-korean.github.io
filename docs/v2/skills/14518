@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BrY4AAA=]",
-        "description": "Crush your opponent's armor, leaving them vulnerable and gaining might. Vulnerability and might stacks doubled if you hit a disabled foe.\nDisables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.",
+        "description": "상대방의 갑옷을 분쇄하여 취약하고 힘을 얻을 수 있습니다.장애가있는 적을 때리면 취약성과 스택이 두 배로 늘어날 수 있습니다.\n비활성화에는 Stun, Daze, Knockback, Pull, Knockdown, Sink, Float, Launch, Taunt 및 Fear가 포함됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

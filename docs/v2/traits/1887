@@ -1,6 +1,6 @@
 [
     {
-        "description": "Your next attack after dodging causes weakness to foes struck. Weakened enemies deal less damage to you, and you deal increased strike damage to them.",
+        "description": "피한 후 다음 공격으로 인해 적에게 약점이 발생합니다.약화 된 적들이 당신에게 손상이 줄어들고, 당신은 그들에게 스트라이크 피해가 증가합니다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain stacks of Consume Shadows at regular intervals while in Shadow Shroud. Exiting Shadow Shroud consumes your remaining shadow force and heals allies based on the number of stacks you have gained. Allies that are fully healed receive the rest of the value in barrier.",
+        "description": "그림자 슈라우드에있는 동안 규칙적인 간격으로 그림자를 소비하는 스택을 얻습니다.그림자 슈라우드를 빠져 나가면 남은 그림자 힘을 소비하고 얻은 스택의 수에 따라 동맹국을 치유합니다.완전히 치유 된 동맹국은 나머지 가치를 장벽으로받습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

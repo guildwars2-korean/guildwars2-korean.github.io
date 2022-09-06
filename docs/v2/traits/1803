@@ -1,6 +1,6 @@
 [
     {
-        "description": "Deal increased strike damage with active upkeep skills.<br><c=@reminder>Herald upkeep skills grant less damage but can be stacked.</c>",
+        "description": "활발한 유지 기술로 파업 피해가 증가했습니다. <br> <c =@reminder> 헤럴드 유지 기술은 피해를 줄이지 만 쌓을 수 있습니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

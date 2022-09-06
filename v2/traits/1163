@@ -1,6 +1,6 @@
 [
     {
-        "description": "When you Steal, you and all nearby allies gain fury, might, and swiftness for 10 seconds.",
+        "description": "당신이 훔칠 때, 당신과 근처의 모든 동맹국들은 10 초 동안 분노, 힘과 신속성을 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

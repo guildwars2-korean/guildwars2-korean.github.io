@@ -1,6 +1,6 @@
 [
     {
-        "description": "Pistol attacks from you and your illusions have a chance to cause bleeding. Interrupting a foe recharges pistol skills.<br><c=@reminder>This trait can only reduce recharge on enemies with defiance bars once per interval.</c>",
+        "description": "당신의 권총 공격과 당신의 환상은 출혈을 일으킬 기회가 있습니다.적을 방해하는 권총 기술을 재충전합니다. <br> <c =@reminder>이 특성은 간격 당 1 회 반도 막대로 적의 재충전을 줄일 수 있습니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Triggered virtue effects now grant might in addition to their bonuses. Gain fury when activating Rushing Justice.",
+        "description": "트리거 미덕 효과는 이제 보너스 외에도 보조금을 부여 할 수 있습니다.서두르는 정의를 활성화 할 때 분노를 얻으십시오.",
         "facts": [
             {
                 "apply_count": 1,

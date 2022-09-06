@@ -1,6 +1,6 @@
 [
     {
-        "description": "The guardian's resolve has further increased, allowing <c=@abilitytype>Virtues</c> to be manifested as physical aspects. Gain access to <c=@abilitytype>Traps</c>.",
+        "description": "가디언의 결의는 더욱 증가하여 <c =@activetype> 미덕이 물리적 측면으로 나타날 수있게되었습니다.<c =@activetype> 트랩 </c>에 액세스하십시오.",
         "icon": "https://render.guildwars2.com/file/E7C99D17DDC62D7E07E0D12B2DB27F1903D0D7C5/1012399.png",
         "id": 1848,
         "name": "Virtuous Action",

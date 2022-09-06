@@ -1,6 +1,7 @@
 import React from 'react';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
+import '../main.css'
 
 import 'discretize-monorepo-root/gw2-ui/dist/default_style.css';
 import 'discretize-monorepo-root/gw2-ui/dist/index.css';
@@ -10,12 +11,13 @@ import { Container, Col, Row, Card } from 'react-bootstrap';
 import { TraitLine, Skill } from 'discretize-monorepo-root/gw2-ui';
 
 function ProfessionsElementalist() {
+  
   return (
     <>
     <Container>
-      <Row style={{paddingTop: 20}}>
+      <Row>
         {/* 오리지널 / Original */}
-        <Card style={{padding: 0}}>
+        <Card>
           <Card.Header>Original</Card.Header>
           <Card.Body>
             <Row>
@@ -101,9 +103,9 @@ function ProfessionsElementalist() {
           </Card.Body>
         </Card>
       </Row>
-      <Row style={{paddingTop: 20}}>
+      <Row>
         {/* HoT / Heart of Thorns */}
-        <Card style={{padding: 0}}>
+        <Card>
           <Card.Header>HoT(Heart Of Thorns)</Card.Header>
           <Card.Body>
             <Row>
@@ -134,9 +136,9 @@ function ProfessionsElementalist() {
           </Card.Body>
         </Card>
       </Row>
-      <Row style={{paddingTop: 20}}>
+      <Row>
         {/* PoF / Path of Fire */}
-        <Card style={{padding: 0}}>
+        <Card>
           <Card.Header>PoF(Path of Fire)</Card.Header>
           <Card.Body>
             <Row>
@@ -167,9 +169,9 @@ function ProfessionsElementalist() {
           </Card.Body>
         </Card>
       </Row>
-      <Row style={{paddingTop: 20}}>
+      <Row>
         {/* EoD / End of Dragons */}
-        <Card style={{padding: 0}}>
+        <Card>
           <Card.Header>EoD(End of Dragons)</Card.Header>
           <Card.Body>
             <Row>

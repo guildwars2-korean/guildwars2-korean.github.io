@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain access to chronomancer shatter skills and <c=@abilitytype>Wells</c>.",
+        "description": "Chronomancer Shatter 기술 및 <C =@AbilityType> Wells </c>에 액세스하십시오.",
         "icon": "https://render.guildwars2.com/file/5A9347250FEF7B3431ECE3F6689EDCE20FB96CB6/1012483.png",
         "id": 2030,
         "name": "Time Splitter",

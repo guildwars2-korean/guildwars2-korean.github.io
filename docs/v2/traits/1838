@@ -1,6 +1,6 @@
 [
     {
-        "description": "Disabling a foe slows them.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c><br><c=@reminder>This trait can only affect the same enemy with once per interval.</c>",
+        "description": "원수를 비활성화하면 속도가 느려집니다. <br> <c =@reminder> 비활성화 된 비활성화, Daze, Daze, Pull, Pull, Sink, Float, Launch, Taunt, Taunt 및 Fear.>이 특성은 간격 당 한 번만 동일한 적에게만 영향을 줄 수 있습니다. </c>",
         "facts": [
             {
                 "apply_count": 1,

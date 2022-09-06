@@ -4,7 +4,7 @@
             "Mark"
         ],
         "chat_link": "[&Bl42AAA=]",
-        "description": "Mark. Inscribe a mark that bleeds foes when they trigger it, and grants regeneration to allies.",
+        "description": "표시.적을 촉발 할 때 피를 흘리는 마크를 삽입하고 동맹국에게 재생을 부여하십시오.",
         "facts": [
             {
                 "dmg_multiplier": 1.5,

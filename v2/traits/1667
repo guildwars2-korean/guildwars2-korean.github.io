@@ -1,6 +1,6 @@
 [
     {
-        "description": "Soldier's Focus grants quickness to affected allies.",
+        "description": "군인의 초점은 영향을받는 동맹국들에게 신속하게 부여합니다.",
         "facts": [
             {
                 "apply_count": 1,

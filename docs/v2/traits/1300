@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gaining stealth blinds nearby foes. Blinding a foe siphons health from them.",
+        "description": "근처의 스텔스 블라인드를 얻는다.그들로부터 적의 건강을 눈을 멀게합니다.",
         "facts": [
             {
                 "apply_count": 1,

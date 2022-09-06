@@ -1,6 +1,6 @@
 [
     {
-        "description": "Conditions you apply to foes last longer, but conditions applied to you also last longer.",
+        "description": "적에 적용되는 조건은 더 오래 지속되지만 적용되는 조건도 더 오래 지속됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Maximum adrenaline is capped at 2 bars, and only level 1 bursts are available. Gain access to the Full Counter burst and <c=@abilitytype>Meditation</c> skills.",
+        "description": "최대 아드레날린은 2 개의 막대에 막히고 레벨 1 버스트 만 사용할 수 있습니다.전체 카운터 버스트 및 <c =@activetype> 명상 기술에 액세스하십시오.",
         "icon": "https://render.guildwars2.com/file/BD996FC6ABFDC280A0B3356C786D7C5D20DE4139/1770021.png",
         "id": 2175,
         "name": "Spellbreaker's Conviction",

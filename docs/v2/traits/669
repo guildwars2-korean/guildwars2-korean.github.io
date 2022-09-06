@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain condition damage. Gain additional condition damage while wielding a staff. Staff and trident skills gain reduced recharge.",
+        "description": "조건 손상을 얻습니다.직원을 휘두르는 동안 추가 상태 손상을받습니다.직원과 트라이던트 기술은 재충전 감소를 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

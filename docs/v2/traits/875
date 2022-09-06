@@ -1,6 +1,6 @@
 [
     {
-        "description": "Shroud skill 1 inflicts vulnerability.",
+        "description": "슈라우드 기술 1은 취약성을 가해집니다.",
         "facts": [
             {
                 "apply_count": 2,

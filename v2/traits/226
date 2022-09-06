@@ -1,6 +1,6 @@
 [
     {
-        "description": "Deal increased strike damage to enemies below the health threshold.",
+        "description": "건강 임계 값 미만의 적에 대한 파업 피해가 증가했습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

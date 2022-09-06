@@ -1,6 +1,6 @@
 [
     {
-        "description": "Evading an attack grants quickness. Sword skills gain reduced recharge.",
+        "description": "공격을 피하면 신속하게 부여합니다.검 기술은 재충전 감소를 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

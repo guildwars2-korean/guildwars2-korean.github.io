@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Physical</c> skills grant endurance when activated and gain reduced recharge.",
+        "description": "<c =@ablection -type> 물리적 </c> 기술은 활성화 될 때 인구력을 부여하고 재충전 감소.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

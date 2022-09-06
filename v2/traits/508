@@ -1,6 +1,6 @@
 [
     {
-        "description": "Grant protection to nearby allies when you use a heal skill.",
+        "description": "치유 기술을 사용할 때 인근 동맹국을 보호하십시오.",
         "facts": [
             {
                 "apply_count": 1,

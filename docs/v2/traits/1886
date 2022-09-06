@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Overloads</c> grant an aura based on your attunement.",
+        "description": "<c =@activetype> 과부하 </c> 조율에 따라 기운을 부여하십시오.",
         "facts": [
             {
                 "apply_count": 1,

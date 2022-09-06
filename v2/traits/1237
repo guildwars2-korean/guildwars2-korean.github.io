@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain regeneration and remove damaging conditions when struck while below the health threshold.",
+        "description": "건강 임계 값 아래에서 쳤을 때 재생을 얻고 손상 조건을 제거하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

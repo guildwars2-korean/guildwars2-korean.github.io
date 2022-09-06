@@ -1,6 +1,6 @@
 [
     {
-        "description": "Hitting your marked target with a stolen skill grants boons to allies around your mark and to allies around you.<br><c=@reminder>Cannot grant boons to the same ally more than once per activation.</c>",
+        "description": "도난당한 기술로 표시된 대상을 때리면 주변의 동맹국과 주변의 동맹국들에게 이익을 부여합니다. <br> <c =@reminder> 활성화 당 같은 동맹국에게 한 번 이상의 동맹국을 부여 할 수 없습니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

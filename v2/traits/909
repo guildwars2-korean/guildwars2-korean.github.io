@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain enhanced versions of your equipped <c=@abilitytype>signet</c> passive effects while in shroud. Signets recharge every second you are in shroud.",
+        "description": "슈라우드에있는 동안 장착 된 <c =@activetype> signet </c> 수동 효과의 향상된 버전을 확보하십시오.Signets는 슈라우드에있는 초마다 재충전됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

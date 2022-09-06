@@ -1,6 +1,6 @@
 [
     {
-        "description": "Cripple enemies that you disable.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>",
+        "description": "<br> <c =@reminder> 비활성화 된 적을 비활성화합니다.",
         "facts": [
             {
                 "apply_count": 1,

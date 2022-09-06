@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Burst</c> skills restore endurance on hit.",
+        "description": "<c =@activetype> 버스트 </c> 기술은 인기에 대한 내구성을 회복시킵니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

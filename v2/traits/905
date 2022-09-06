@@ -1,6 +1,6 @@
 [
     {
-        "description": "Shroud skill 1 inflicts burning on your target.",
+        "description": "Shroud Skill 1은 목표에 화상을 입습니다.",
         "facts": [
             {
                 "apply_count": 1,

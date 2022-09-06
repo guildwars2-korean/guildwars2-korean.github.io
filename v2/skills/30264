@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bjh2AAA=]",
-        "description": "Overcharge supply crate's turrets.",
+        "description": "과충전 상자의 포탑.",
         "flags": [
             "NoUnderwater"
         ],

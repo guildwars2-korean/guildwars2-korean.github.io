@@ -1,6 +1,6 @@
 [
     {
-        "description": "Striking a stealthed foe triggers Invisible Analysis.<br>Disabling a foe triggers Controlled Analysis.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>",
+        "description": "스텔스 원수를 공격하는 것은 보이지 않는 분석을 유발합니다. <br> 적 트리거 제어 분석을 비활성화합니다. <br> <c =@reminder> 비활성화에는 기절, 다이즈, 넉백, 넉다운, 싱크대, 플로트, 런치, 도발 및 두려움이 포함됩니다.</c>",
         "icon": "https://render.guildwars2.com/file/CA19315C752AED07407344A15FA3DCDE47064473/1012382.png",
         "id": 1946,
         "name": "Lock On",

@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BtHbAAA=]",
-        "description": "Unleashes a bolt of lightning from the tornado, stunning the nearest foes.",
+        "description": "토네이도에서 번개의 볼트를 방출하여 가장 가까운 적을 놀라게합니다.",
         "facts": [
             {
                 "duration": 2,

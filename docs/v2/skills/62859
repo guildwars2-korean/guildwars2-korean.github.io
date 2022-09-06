@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bov1AAA=]",
-        "description": "Drop from above, delivering a powerful attack to enemies while granting boons to allies.",
+        "description": "위에서 떨어지면서 동맹국에게 이익을 부여하면서 적에게 강력한 공격을 전달하십시오.",
         "facts": [
             {
                 "dmg_multiplier": 1.25,

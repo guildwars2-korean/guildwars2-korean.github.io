@@ -1,6 +1,6 @@
 [
     {
-        "description": "Strike damage taken is reduced for each point of upkeep currently in use. Shield skills remove conditions.",
+        "description": "현재 사용중인 각 유지 지점마다 스트라이크 손상이 줄어 듭니다.방패 기술은 조건을 제거합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

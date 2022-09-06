@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain additional critical-hit chance against slowed enemies. This bonus also applies to your illusions.",
+        "description": "적을 느리게하는 것에 대한 추가적인 치명적인 기회를 얻으십시오.이 보너스는 당신의 환상에도 적용됩니다.",
         "facts": [
             {
                 "apply_count": 1,

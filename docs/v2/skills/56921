@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BlneAAA=]",
-        "description": "Create a lightning field at your location. Then summon gyros to finish foes and revive allies within the field. The recharge of this skill is increased for each gyro created beyond the first.\nInterrupted gyros are destroyed.",
+        "description": "위치에 번개를 만듭니다.그런 다음 자이로를 소환하여 적을 마치고 현장 내 동맹국을 부활시킵니다.이 기술의 재충전은 첫 번째를 넘어 생성 된 각 자이로에 대해 증가합니다.\n중단 된 자이로가 파괴됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

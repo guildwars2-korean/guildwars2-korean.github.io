@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain toughness and health when you break out of a stun.",
+        "description": "기절에서 벗어날 때 강인함과 건강을 얻으십시오.",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Heal allies around yourself when using a <c=@abilitytype>Legend</c> skill. Heal allies around Ventari's Tablet when using a <c=@abilitytype>Legendary Centaur</c> skill.<br><c=@reminder>Dragon Facet skills and Ventari's Will cannot activate this trait.</c>",
+        "description": "<c =@activetype> 범례 </c> 기술을 사용할 때 동맹국을 치유하십시오.<c =@ablection -type> 전설적인 Centaur </c> 기술을 사용할 때 Ventari의 태블릿 주위에 동맹국을 치유하십시오. <br> <c =@reminder> 드래곤 패싯 기술과 Ventari의 의지는이 특성을 활성화 할 수 없습니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

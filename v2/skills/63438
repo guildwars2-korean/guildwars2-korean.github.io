@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bs73AAA=]",
-        "description": "Unleashed Ambush. Spin and attack nearby foes, moving faster while channeling. Create a spore when striking an enemy for the first time.",
+        "description": "방해 매복.채널링을하는 동안 더 빨리 움직이는 적의 적을 회전시키고 공격합니다.처음으로 적을 때릴 때 포자를 만드십시오.",
         "facts": [
             {
                 "dmg_multiplier": 0.546,

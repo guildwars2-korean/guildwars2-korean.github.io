@@ -1,6 +1,6 @@
 [
     {
-        "description": "Chilling a foe inflicts vulnerability.",
+        "description": "적을 식히는 것은 취약성을 가해집니다.",
         "facts": [
             {
                 "apply_count": 3,

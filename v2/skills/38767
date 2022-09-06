@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bm+XAAA=]",
-        "description": "Invoke an explosion of dark energy at the target foe's location, damaging nearby foes.",
+        "description": "대상 적의 위치에서 암흑 에너지 폭발을 불러 일으켜 근처의 적을 손상시킵니다.",
         "facts": [
             {
                 "dmg_multiplier": 0.88,

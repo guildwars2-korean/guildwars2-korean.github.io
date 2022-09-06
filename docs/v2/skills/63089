@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BnH2AAA=]",
-        "description": "Recall your mech for repairs. The cooldown of Crash Down is determined by the amount of damage your mech has taken.\n\nRight-click to rename your mech.",
+        "description": "수리를 위해 Mech를 기억하십시오.충돌의 재사용 대기 시간은 당신의 기계가 취한 피해의 양에 의해 결정됩니다.\n\n마우스 오른쪽 버튼을 클릭하여 Mech의 이름을 바꾸십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

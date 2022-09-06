@@ -4,7 +4,7 @@
             "Cantrip"
         ],
         "chat_link": "[&Btv2AAA=]",
-        "description": "Cantrip. Teleport to your target, making nearby enemies vulnerable. If an enemy is struck, this skill's recharge is reduced.",
+        "description": "주문.대상으로 순간 이동하여 인근 적을 취약하게 만듭니다.적을 때리면이 기술의 재충전이 줄어 듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

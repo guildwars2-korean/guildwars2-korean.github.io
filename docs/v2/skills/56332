@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BgzcAAA=]",
-        "description": "Qadim steadily fires projectiles, hitting all foes near the target. Applies Chaos Corrosion.",
+        "description": "Qadim은 꾸준히 발사체를 발사하여 대상 근처의 모든 적을 때렸습니다.혼돈 부식을 적용합니다.",
         "facts": [
             {
                 "apply_count": 1,

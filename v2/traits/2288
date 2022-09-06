@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain increased shadow force when hitting a foe with <c=@abilitytype>Siphon</c>. Grant increased barrier when targeting an ally.",
+        "description": "<c =@activetype> siphon </c>로 적을 때릴 때 그림자 힘을 얻습니다.동맹국을 목표로 할 때 장벽을 높였습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

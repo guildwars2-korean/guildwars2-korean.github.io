@@ -1,6 +1,6 @@
 [
     {
-        "description": "A percentage of your condition damage heals you.<br><c=@reminder>Healing will not occur while life force replaces health.</c>",
+        "description": "상태 손상의 비율이 당신을 치유합니다. <br> <c =@reminder> 생명력이 건강을 대체하는 동안 치유가 발생하지 않습니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

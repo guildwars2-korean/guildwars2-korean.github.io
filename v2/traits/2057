@@ -1,6 +1,6 @@
 [
     {
-        "description": "Grant increased damage output to allies within the radius of your <c=@abilitytype>Celestial Avatar</c> abilities.",
+        "description": "당신의 <c =@activetype> Celestial Avatar </c> 능력의 반경 내에서 동맹국에 대한 손상 출력이 증가했습니다.",
         "facts": [
             {
                 "apply_count": 1,

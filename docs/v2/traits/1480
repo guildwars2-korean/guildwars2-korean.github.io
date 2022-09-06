@@ -1,6 +1,6 @@
 [
     {
-        "description": "Periodically gain Soldier's Focus. Hitting with a burst skill expends Soldier's Focus to grant might to nearby allies.",
+        "description": "정기적으로 군인의 초점을 얻습니다.버스트 기술로 타격을 받으면 근처의 동맹국에게 힘을주는 데 군인의 초점이 소비됩니다.",
         "facts": [
             {
                 "duration": 10,

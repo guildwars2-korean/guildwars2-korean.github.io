@@ -1,6 +1,6 @@
 [
     {
-        "description": "Activating Crashing Courage grants resistance. Shadowstepping grants resolution and protection.",
+        "description": "충돌하는 용기 활성화는 저항을 보조합니다.Shadowstepping은 해결 및 보호를 제공합니다.",
         "facts": [
             {
                 "apply_count": 1,

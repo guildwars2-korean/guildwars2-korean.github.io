@@ -1,6 +1,6 @@
 [
     {
-        "description": "You and your pet grant each other increased damage and movement speed when striking enemies. <c=@reminder>When this triggers, it refreshes the duration of all stacks.</c>",
+        "description": "당신과 당신의 애완 동물은 적을 때릴 때 서로에게 손상과 움직임 속도를 높이게합니다.<c =@reminder>이 트리거되면 모든 스택의 지속 시간을 새로 고칩니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Cast Lesser Smite Condition when you use a healing skill.",
+        "description": "치유 기술을 사용할 때 더 적은 Smite 상태를 캐스트하십시오.",
         "icon": "https://render.guildwars2.com/file/21B93A5D0C246A42957222350B45C00A14DF0DB7/1012427.png",
         "id": 581,
         "name": "Smiter's Boon",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "When you remove or corrupt a boon from an enemy, gain that boon.",
+        "description": "적에서 혜택을 제거하거나 손상시킬 때 그 혜택을 얻으십시오.",
         "facts": [
             {
                 "apply_count": 1,

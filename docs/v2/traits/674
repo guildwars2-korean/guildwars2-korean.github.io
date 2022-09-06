@@ -1,6 +1,6 @@
 [
     {
-        "description": "Increased stealth duration from mesmer skills. Gain random boons while you are in stealth.",
+        "description": "Mesmer 기술의 스텔스 지속 시간 증가.당신이 스텔스에있는 동안 임의의 이방을 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

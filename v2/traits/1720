@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Invoke Torment</c> grants resistance. Resistance heals you every interval.",
+        "description": "<c =@ablectionType> 호출 고문 </c> 저항을 보조합니다.저항은 모든 간격을 치유합니다.",
         "facts": [
             {
                 "apply_count": 1,

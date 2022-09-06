@@ -1,6 +1,6 @@
 [
     {
-        "description": "You cannot be critically hit while attuned to earth.",
+        "description": "지구에 조율하는 동안 비판적으로 맞을 수는 없습니다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -2,7 +2,7 @@
     {
         "attunement": "Water",
         "chat_link": "[&BuYVAAA=]",
-        "description": "Create a wall of ice that shatters when touched by enemies or when it expires, dealing heavy damage and chilling foes.",
+        "description": "적에게 닿거나 만료 될 때 산산이 부서지는 얼음의 벽을 만듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

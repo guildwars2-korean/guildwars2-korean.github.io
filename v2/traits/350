@@ -1,6 +1,6 @@
 [
     {
-        "description": "You and nearby allies recover health while you are attuned to water.",
+        "description": "당신과 인근 동맹국은 당신이 물에 조율되는 동안 건강을 회복합니다.",
         "facts": [
             {
                 "apply_count": 1,

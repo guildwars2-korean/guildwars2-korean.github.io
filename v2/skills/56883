@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BjPeAAA=]",
-        "description": "Gain a fire aura and damage nearby foes.",
+        "description": "소방 분위기를 얻고 적 근처의 적을 손상시킵니다.",
         "facts": [
             {
                 "dmg_multiplier": 0.6,

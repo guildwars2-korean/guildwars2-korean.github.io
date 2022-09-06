@@ -1,6 +1,6 @@
 [
     {
-        "description": "Your active attunement is now applied to your main hand, with the old attunement moving to your off hand. Attunement recharges are reduced. Gain access to <c=@abilitytype>Dual Attack</c> and the <c=@abilitytype>Stance</c> utility types.",
+        "description": "당신의 적극적인 조율은 이제 당신의 주 손에 적용되며, 오래된 조율은 당신의 손으로 움직입니다.조율 재충전이 줄어 듭니다.<c =@ablection -type> 듀얼 공격 </c> 및 <c =@ablection -type> stance </c> 유틸리티 유형에 액세스하십시오.",
         "facts": [
             {
                 "duration": 4,

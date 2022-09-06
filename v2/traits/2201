@@ -1,6 +1,6 @@
 [
     {
-        "description": "Lethal Tempo grants increased damage, but has reduced duration. Justice's duration is modified.",
+        "description": "치명적인 템포는 피해를 증가 시키지만 지속 시간이 줄어 듭니다.정의의 기간이 수정되었습니다.",
         "facts": [
             {
                 "apply_count": 1,

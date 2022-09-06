@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BvIWAAA=]",
-        "description": "Overcharge your rifle turret to fire piercing shots that inflict vulnerability.",
+        "description": "소총 포탑을 취약성을 부여하는 피어싱 샷을 과도하게 충전하십시오.",
         "facts": [
             {
                 "dmg_multiplier": 0.75,

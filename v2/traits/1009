@@ -1,6 +1,6 @@
 [
     {
-        "description": "Your opening strikes inflict cripple on your foes.",
+        "description": "당신의 오프닝 파업은 당신의 적에게 무자비합니다.",
         "facts": [
             {
                 "apply_count": 1,

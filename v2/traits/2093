@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain quickness when marking a foe. Your power and precision are increased while under this effect.",
+        "description": "적을 표시 할 때 신속하게 얻습니다.이 효과 아래에서 당신의 힘과 정밀도가 증가합니다.",
         "facts": [
             {
                 "apply_count": 1,

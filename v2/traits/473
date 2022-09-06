@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Elixirs</c> gain reduced recharge and increased durations, and grant might.",
+        "description": "<c =@activetype> elixirs </c> gain은 재충전 감소 및 기간 증가 및 보조금이 가능합니다.",
         "facts": [
             {
                 "apply_count": 2,

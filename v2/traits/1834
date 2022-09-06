@@ -1,6 +1,6 @@
 [
     {
-        "description": "Heal nearby allies when using a tool belt skill.",
+        "description": "도구 벨트 기술을 사용할 때 인근 동맹국을 치유하십시오.",
         "facts": [
             {
                 "distance": 360,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Carapace</c> stacks grant power.",
+        "description": "<c =@activetype> carapace </c> 스택은 전력을 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",

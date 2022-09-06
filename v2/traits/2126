@@ -1,6 +1,6 @@
 [
     {
-        "description": "Removing boons from a foe deals damage and gives you adrenaline.",
+        "description": "적에서 혜택을 제거하면 피해를 입히고 아드레날린을 제공합니다.",
         "facts": [
             {
                 "dmg_multiplier": 0.1,

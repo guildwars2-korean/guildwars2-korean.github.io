@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BhDHAAA=]",
-        "description": "A strike that applies bleeding to foes.",
+        "description": "적에게 출혈을 적용하는 파업.",
         "facts": [
             {
                 "apply_count": 1,

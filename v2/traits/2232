@@ -1,6 +1,6 @@
 [
     {
-        "description": "Dodging now grants boons to allies and inflicts chill on struck foes when landing. Extend boon duration for allies upon landing.",
+        "description": "피하면서 피하면서 동맹국들에게 이익을 부여하고 착륙 할 때 타인에게 차가워집니다.착륙시 동맹국의 혜택 기간을 연장하십시오.",
         "facts": [
             {
                 "duration": 2,

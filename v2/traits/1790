@@ -1,6 +1,6 @@
 [
     {
-        "description": "Heal every second for each point of upkeep currently in use.",
+        "description": "현재 사용중인 각 유지 지점마다 1 초마다 치유하십시오.",
         "facts": [
             {
                 "apply_count": 1,

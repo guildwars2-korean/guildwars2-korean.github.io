@@ -2,7 +2,7 @@
     {
         "attunement": "Water",
         "chat_link": "[&Bhi1AAA=]",
-        "description": "Send out a supercooled shard that freezes enemies it hits.",
+        "description": "적을 얼려서 냉각 된 샤드를 보내십시오.",
         "dual_attunement": "Air",
         "facts": [
             {

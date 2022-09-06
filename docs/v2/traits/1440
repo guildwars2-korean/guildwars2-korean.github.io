@@ -1,6 +1,6 @@
 [
     {
-        "description": "Hammer skills gain reduced recharge and deal increased damage when striking a disabled foe. Gain adrenaline when you disable a foe.<br><c=@reminder>Disables include stun, taunt, daze, knockback, pull, knockdown, sink, float, fear, and launch.</c>",
+        "description": "해머 기술은 장애인을 때릴 때 충전을 줄이고 손상이 증가합니다.원수를 비활성화 할 때 아드레날린을 얻습니다. <br> <c =@reminder> 비활성화, 기절, 도발, 멍청이, 넉백, 풀, 넉다운, 싱크, 플로트, 두려움 및 발사가 포함됩니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Burst skills inflict vulnerability if they hit and inflict additional vulnerability if the attack is a critical hit.<br><c=@reminder>Can only occur once per interval per target for multihit burst skills.</c>",
+        "description": "버스트 기술은 공격이 치명적인 타격을 입을 경우 추가 취약점을 부여하고 추가 취약점을 가질 경우 취약성을 가질 수 있습니다. <br> <c =@reminder> 멀티 하트 버스트 기술에 대한 대상 당 간격 당 한 번만 발생할 수 있습니다. </c>.",
         "facts": [
             {
                 "apply_count": 5,

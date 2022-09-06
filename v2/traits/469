@@ -1,6 +1,6 @@
 [
     {
-        "description": "Drink an Elixir E when you are struck while below the health threshold.",
+        "description": "건강 임계 값 아래에서 쳐 질 때 엘릭서 e를 마시십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bvn1AAA=]",
-        "description": "Flow is gained at a constant rate while in combat and decays quickly when combat ends. Attacking will not generate flow, and flow cannot be used for core warrior burst skills. Skills and traits that generate adrenaline will have their adrenaline gain converted to flow.",
+        "description": "전투 중에 일정한 속도로 흐름이 증가하고 전투가 끝나면 빠르게 붕괴됩니다.공격은 흐름을 생성하지 않으며 핵심 전사 버스트 기술에는 흐름을 사용할 수 없습니다.아드레날린을 생성하는 기술과 특성은 아드레날린 이득이 흐름으로 전환됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",

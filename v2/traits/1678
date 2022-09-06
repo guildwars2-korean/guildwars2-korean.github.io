@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Turrets.</c> Turrets create a reflective barrier when built and grant boons to allies around them on a regular interval.",
+        "description": "<c =@ablection -type> 포탑. </c> 포탑은 정기적으로 주변의 동맹국들에게 이익을 주었을 때 반사 장벽을 만듭니다.",
         "facts": [
             {
                 "apply_count": 3,

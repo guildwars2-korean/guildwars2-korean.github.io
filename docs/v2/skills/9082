@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BnojAAA=]",
-        "description": "Create a shield to block the next three attacks. If the shield is not destroyed, it explodes and damages nearby foes.",
+        "description": "다음 세 가지 공격을 차단하기 위해 방패를 만듭니다.방패가 파괴되지 않으면 폭발하고 근처의 적을 손상시킵니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

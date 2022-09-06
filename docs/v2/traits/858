@@ -1,6 +1,6 @@
 [
     {
-        "description": "Minions deal more damage and take conditions from you. When a minion attacks, it transfers conditions to its target.<br><c=@reminder>There is a 10 second cooldown per minion.</c>",
+        "description": "미니언은 더 많은 피해를 입히고 조건을 취합니다.미니언이 공격 할 때 조건을 대상으로 전송합니다. <br> <c =@reminder> 미니언 당 10 초의 재사용 대기 시간이 있습니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

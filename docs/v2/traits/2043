@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain toughness while in berserk mode. Gain stability and might when breaking stuns.",
+        "description": "Berserk 모드에서 강인함을 얻습니다.안정성을 얻고 기절을 끊을 때.",
         "facts": [
             {
                 "apply_count": 3,

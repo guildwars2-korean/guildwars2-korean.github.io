@@ -1,6 +1,6 @@
 [
     {
-        "description": "Invoking a legend while at or below the energy threshold grants extra energy to your new legend.",
+        "description": "에너지 임계 값 이하에서 전설을 불러 내면 새로운 전설에 추가 에너지를 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

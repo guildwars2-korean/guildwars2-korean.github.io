@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BlM2AAA=]",
-        "description": "Bleed and weaken nearby foes.",
+        "description": "근처의 적을 피와 약화시킵니다.",
         "facts": [
             {
                 "dmg_multiplier": 1.5,

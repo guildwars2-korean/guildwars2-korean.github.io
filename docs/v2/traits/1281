@@ -1,6 +1,6 @@
 [
     {
-        "description": "Critical-hit chance is increased while your health is above the threshold.",
+        "description": "건강이 임계 값을 초과하는 동안 중요한 타격 기회가 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain health when you successfully evade an attack. Remove a condition whenever you evade an attack.",
+        "description": "공격을 성공적으로 피할 때 건강을 얻으십시오.공격을 피할 때마다 조건을 제거하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

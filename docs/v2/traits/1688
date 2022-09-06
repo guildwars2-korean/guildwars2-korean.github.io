@@ -1,6 +1,6 @@
 [
     {
-        "description": "Interrupts deal damage and inflict weakness. Enemy skills that you interrupt have an increased cooldown.<br><c=@reminder>Cannot increase recharge of skills with no recharge or skills on creatures with defiance bars.</c><br><c=@reminder>This trait can only damage enemies with defiance bars once per interval.</c>",
+        "description": "인터럽트는 손상을 입히고 약점을 가질 수 있습니다.당신이 방해하는 적의 기술은 재사용 대기 시간이 증가합니다. <br> <c =@reminder> 도전 막대가있는 생물에 대한 재충전이나 기술이없는 기술의 재충전을 증가시킬 수 없습니다. </c> <br> <c =@reminder>이 특성간격 당 1 회 반도 막대로 적을 손상시킬 수 있습니다. </c>",
         "facts": [
             {
                 "duration": 15,

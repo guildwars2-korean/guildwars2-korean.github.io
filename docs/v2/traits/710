@@ -1,6 +1,6 @@
 [
     {
-        "description": "Illusions inflict bleeding on critical hits.",
+        "description": "환상은 치명적인 타격에 출혈을 일으킨다.",
         "facts": [
             {
                 "apply_count": 1,

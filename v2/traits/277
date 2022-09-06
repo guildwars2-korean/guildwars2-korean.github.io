@@ -1,6 +1,6 @@
 [
     {
-        "description": "Decrease the duration of movement-impairing conditions applied to you. Restore endurance when you receive one of these conditions.",
+        "description": "당신에게 적용되는 움직임 장애 조건의 지속 시간을 줄입니다.이러한 조건 중 하나를 받으면 지구력을 복원하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Creating an illusion increases your outgoing damage and gives increased condition damage for a short duration.<br><br><c=@reminder>Virtuoso: Triggers when stocking a blade.</c>",
+        "description": "환상을 만드는 것은 나가는 손상을 증가시키고 짧은 기간 동안 상태 손상을 증가시킵니다. <br> <br> <c =@reminder> virtuoso : 블레이드를 비축 할 때 트리거. </c>",
         "facts": [
             {
                 "apply_count": 1,

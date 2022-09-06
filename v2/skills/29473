@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BiFzAAA=]",
-        "description": "Detonate your mine to damage foes and remove a boon from them.",
+        "description": "당신의 광산을 폭파하여 적을 손상시키고 그들로부터 혜택을 제거하십시오.",
         "facts": [
             {
                 "dmg_multiplier": 3,

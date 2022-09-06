@@ -1,6 +1,6 @@
 [
     {
-        "description": "Deal increased critical damage while your health is above the threshold. Gain bonus critical-hit chance when hitting a foe from behind or the side.",
+        "description": "건강이 임계 값을 초과하는 동안 심각한 손상 증가를 처리하십시오.뒤에서 또는 측면에서 적을 때릴 때 보너스 비판적 히트 기회를 얻으십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",

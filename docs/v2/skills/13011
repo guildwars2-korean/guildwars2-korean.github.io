@@ -4,7 +4,7 @@
             "DualWield"
         ],
         "chat_link": "[&BtMyAAA=]",
-        "description": "Dual Wield. Blast your foe repeatedly with both pistols. Gain initiative if all attacks hit.",
+        "description": "이중 휘발.두 권총으로 적을 반복해서 폭파하십시오.모든 공격이 발생하면 이니셔티브를 얻습니다.",
         "dual_wield": "Pistol",
         "facts": [
             {

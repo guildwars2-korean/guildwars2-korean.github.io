@@ -2,7 +2,7 @@
     {
         "chat_link": "[&BptwAAA=]",
         "cost": 5,
-        "description": "Launch a sphere outward from the Mists. The sphere will attack nearby foes as it travels, poisoning them.",
+        "description": "안개에서 구체를 바깥쪽으로 시작하십시오.구체는 여행 할 때 근처의 적을 공격하여 중독합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

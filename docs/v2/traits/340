@@ -1,6 +1,6 @@
 [
     {
-        "description": "Fire auras have increased duration. Applying auras to allies removes conditions, and transmuting auras removes conditions from nearby allies.",
+        "description": "화재 아우라스는 지속 시간이 증가했습니다.동맹국에 분위기를 적용하면 조건이 제거되며, 오라스를 변환하는 것은 인근 동맹국의 조건을 제거합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

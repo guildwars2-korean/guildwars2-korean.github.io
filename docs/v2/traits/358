@@ -1,6 +1,6 @@
 [
     {
-        "description": "Remove conditions from nearby allies when attuning to water.",
+        "description": "물에 적합 할 때 인근 동맹국에서 조건을 제거하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

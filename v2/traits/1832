@@ -1,6 +1,6 @@
 [
     {
-        "description": "Striking a foe above the health threshold places a delayed explosive charge on them.",
+        "description": "건강 임계 값 위로 적을 치면 폭발적인 충전이 지연됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

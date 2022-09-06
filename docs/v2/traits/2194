@@ -1,6 +1,6 @@
 [
     {
-        "description": "While in Harbinger Shroud, gain an aura that pulses each interval to grant boons to yourself and nearby allies.",
+        "description": "Harbinger Shroud에있는 동안 각 간격을 펄럭이는 오라를 얻습니다.",
         "facts": [
             {
                 "duration": 3,

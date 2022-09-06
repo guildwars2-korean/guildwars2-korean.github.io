@@ -1,6 +1,6 @@
 [
     {
-        "description": "Summon only one shade at a time. This greater shade has a modified recharge. Influence a larger area with <c=@abilitytype>shade</c> skills. <br><c=@reminder>A greater shade counts as three shades for related traits.</c>",
+        "description": "한 번에 하나의 그늘 만 소환하십시오.이 더 큰 그늘에는 수정 된 재충전이 있습니다.<c =@activetype> grade </c> 기술로 더 큰 영역에 영향을 미칩니다.<br> <c =@reminder> 더 큰 그늘은 관련 특성에 대해 세 가지 음영으로 계산됩니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Minions</c> have increased health. Gain <c=@abilitytype>carapace</c> for each minion you control.<br><c=@reminder>Your minions are destroyed when this trait is reassigned.</c>",
+        "description": "<c =@activetype> 미니언 </c>는 건강을 증가 시켰습니다.gain <c =@activetype> carapace </c> 당신이 통제하는 각 미니언.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

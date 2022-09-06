@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Stealth attacks<c/> siphon health if they hit.<br><c=@reminder>Cannot siphon the same target more than once per interval.</c>",
+        "description": "<c =@activeType> 스텔스 공격 <c/> siphon health가 치면. <br> <c =@reminder> 간격 당 한 번 이상 동일한 대상을 사이펀 할 수 없습니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

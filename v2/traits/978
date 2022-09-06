@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain quickness when struck while below the threshold. You and your pet gain healing power based on power.",
+        "description": "임계 값 이하에서 쳤을 때 신속하게 얻습니다.당신과 당신의 애완 동물은 권력에 따라 치유력을 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

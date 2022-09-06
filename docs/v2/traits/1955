@@ -1,6 +1,6 @@
 [
     {
-        "description": "Striking an enemy tethered by your Spear of Justice inflicts vulnerability and increases strike damage dealt. Tether duration is increased.",
+        "description": "당신의 정의의 창에 의해 묶인 적을 때리는 것은 취약성을 가하고 파업 피해를 증가시킵니다.테더 지속 시간이 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

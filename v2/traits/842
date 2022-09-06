@@ -1,6 +1,6 @@
 [
     {
-        "description": "When you or one of your minions is downed, create a Poison Nova. Summon a jagged horror when you kill a foe.",
+        "description": "당신이나 당신의 미니언 중 한 명이 쓰러지면 독 Nova를 만드십시오.원수를 죽일 때 들쭉날쭉 한 공포를 소환하십시오.",
         "facts": [
             {
                 "duration": 30,

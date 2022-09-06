@@ -1,6 +1,6 @@
 [
     {
-        "description": "Drop a smoke bomb when you are disabled.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>",
+        "description": "장애가있을 때 연기 폭탄을 떨어 뜨립니다. <br> <c =@reminder> 비활성화, 스턴, 멍청한, 넉백, 풀다운, 싱크, 싱크, 플로트, 발사, 도발 및 두려움이 포함됩니다. </c>",
         "icon": "https://render.guildwars2.com/file/5580D97E0BC8B7AD57783CAD2CE6E64F0F3AD45F/1012368.png",
         "id": 507,
         "name": "Autodefense Bomb Dispenser",

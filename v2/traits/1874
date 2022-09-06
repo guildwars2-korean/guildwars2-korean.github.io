@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain access to <c=@abilitytype>Glyphs</c>. Become a celestial avatar once you gain enough astral force. Generate astral force by healing allies and damaging foes. <c=@reminder>Your pet's attributes are weaker.</c>",
+        "description": "<c =@activetype> glyphs </c>에 액세스하십시오.충분한 아스트랄 힘을 얻으면 천상의 아바타가 되십시오.동맹국을 치유하고 적을 피해 아스트랄 힘을 창출하십시오.<c =@reminder> 당신의 애완 동물의 속성은 약합니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

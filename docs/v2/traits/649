@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Symbols</c> deal increased strike damage.",
+        "description": "<c =@ablection -type> 기호 </c>는 스트라이크 피해를 증가시킵니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

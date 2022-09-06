@@ -1,6 +1,6 @@
 [
     {
-        "description": "Grant aegis to other nearby allies whenever you give yourself distortion or use Shatter skill 4.",
+        "description": "당신이 왜곡을 줄 때마다 다른 인근 동맹국들에게 Aegis를 부여하거나 Shatter Skill 4를 사용할 때마다 4.",
         "facts": [
             {
                 "distance": 300,

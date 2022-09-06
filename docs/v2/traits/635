@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Spirit Weapons</c> gain additional casts, improved count recharge, and burn foes with their first strike.",
+        "description": "<c =@activetype> 스피릿 무기 </c> 추가 캐스트를 얻고, 재충전 카운트를 향상시키고, 첫 번째 스트라이크로 적을 화상을 입 힙니다.",
         "facts": [
             {
                 "apply_count": 1,

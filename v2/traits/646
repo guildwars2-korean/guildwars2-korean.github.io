@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Symbols</c> inflict vulnerability on foes. Deal increased strike damage to vulnerable foes.",
+        "description": "<c =@ablection -type> 기호 </c> 적에게 취약성을 부여합니다.취약한 적에 대한 파업 피해 증가.",
         "facts": [
             {
                 "apply_count": 2,

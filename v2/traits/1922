@@ -1,6 +1,6 @@
 [
     {
-        "description": "Lose a condition when you enter shroud and every few seconds while you remain in shroud. Gain <c=@abilitytype>carapace</c> when removing conditions from yourself.",
+        "description": "슈라우드에 들어가면 슈라우드에 머무르는 동안 몇 초마다 상태를 잃습니다.자신의 상태를 제거 할 때 <c =@ablectype> carapace </c>를 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

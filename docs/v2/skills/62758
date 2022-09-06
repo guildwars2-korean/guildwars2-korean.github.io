@@ -2,7 +2,7 @@
     {
         "attunement": "Fire",
         "chat_link": "[&Bib1AAA=]",
-        "description": "Summon a projectile of fire that circles around you, striking enemies that it passes through. While this projectile is active, it grants you increased outgoing damage. Summoning a circular projectile refreshes the duration of all other circular projectiles.",
+        "description": "당신 주위를 돌고있는 불의 발사체를 소환하고, 그것을 통과하는 적을 치는 적을 쳤다.이 발사체가 활성화되어 있지만 나가는 손상을 증가시킵니다.원형 발사체를 소환하면 다른 모든 원형 발사체의 지속 시간이 새로워집니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

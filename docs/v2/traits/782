@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gaining health grants a proportionate amount of barrier. Conversion amount increases while at full health.",
+        "description": "건강을 얻는 것은 비례적인 양의 장벽을 부여합니다.전환 금액은 건강 상태에서 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

@@ -2,7 +2,7 @@
     {
         "chat_link": "[&BmhyAAA=]",
         "cost": 10,
-        "description": "Create a rift from the Mists that blocks incoming attacks. When the rift closes it blinds foes in front of you.",
+        "description": "들어오는 공격을 차단하는 안개에서 균열을 만듭니다.균열이 닫히면 당신 앞에서 적을 눈을 멀게합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

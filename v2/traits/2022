@@ -1,6 +1,6 @@
 [
     {
-        "description": "You and nearby allies gain quickness for each clone you <c=@abilitytype>shatter</c>. Tides of Time now also applies quickness in an area when cast.",
+        "description": "당신과 인근 동맹국은 각 클론에 대해 빠르게 얻습니다.시간의 조수는 이제 캐스트시 영역에서 신속성을 적용합니다.",
         "facts": [
             {
                 "apply_count": 1,

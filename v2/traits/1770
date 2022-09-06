@@ -1,6 +1,6 @@
 [
     {
-        "description": "Rite of the Great Dwarf affects condition damage as well. When struck below the health threshold, cast the Rite of the Great Dwarf. Gain power based on your toughness.",
+        "description": "큰 난쟁이의 의식은 조건 손상에도 영향을 미칩니다.건강 임계 값 아래로 쳤을 때, 큰 난쟁이의 의식을 캐스팅하십시오.강인함에 따라 힘을 얻으십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

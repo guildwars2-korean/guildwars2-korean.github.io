@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bl0WAAA=]",
-        "description": "Randomly strike the surrounding area with lightning.\nDamage is reduced per target each time foes are struck by this skill.",
+        "description": "번개로 주변 지역을 무작위로 공격합니다.\n이 기술에 적을 때릴 때마다 대상 당 손상이 줄어 듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

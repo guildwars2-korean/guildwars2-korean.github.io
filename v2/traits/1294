@@ -1,6 +1,6 @@
 [
     {
-        "description": "Heal when you enter or exit stealth. Stealth yourself and your target when reviving an ally. <c=@reminder>This effect also applies to stealth you grant to allies.</c>",
+        "description": "스텔스에 들어가거나 나가면 치유하십시오.동맹국을 부활시킬 때 자신과 당신의 목표를 스텔스하십시오.<c =@reminder>이 효과는 동맹국에게 부여하는 스텔스에도 적용됩니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

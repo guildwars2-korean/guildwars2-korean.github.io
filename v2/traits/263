@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Arcane</c> skills gain reduced recharge, grant increased ferocity, and inflict a condition based on your attunement.",
+        "description": "<c =@activetype> Arcane </c> 기술은 재충전 감소, 균형 증가 및 조율에 따라 조건을 가질 수 있습니다.",
         "facts": [
             {
                 "apply_count": 1,

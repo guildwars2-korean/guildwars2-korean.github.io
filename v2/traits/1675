@@ -1,6 +1,6 @@
 [
     {
-        "description": "Inflict blindness on foes you burn.<br><c=@reminder>This trait can only affect the same enemy once per interval.</c>",
+        "description": "화상을 입은 적에게 실명을 부여합니다. <br> <c =@reminder>이 특성은 간격 당 한 번만 같은 적에게만 영향을 줄 수 있습니다. </c>",
         "facts": [
             {
                 "apply_count": 1,

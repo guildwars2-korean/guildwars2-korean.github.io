@@ -1,6 +1,6 @@
 [
     {
-        "description": "Marks become unblockable and generate life force when triggered.",
+        "description": "자국은 차단 불가능 해지고 트리거 될 때 생명력을 생성합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

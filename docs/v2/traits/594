@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain protection when you block an incoming attack with aegis.",
+        "description": "Aegis와의 들어오는 공격을 차단할 때 보호를 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

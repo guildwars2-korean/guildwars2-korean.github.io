@@ -1,6 +1,6 @@
 [
     {
-        "description": "Steal is replaced with Deadeye's Mark, which unlocks new Stolen skills and malice generation. Stealth attacks consume malice for bonus effects. Gain access to rifles and cantrips.",
+        "description": "도둑질은 새로운 도난 기술과 악의적 인 세대를 잠금 해제하는 Deadeye 's Mark로 대체됩니다.스텔스 공격은 보너스 효과를 위해 악의를 소비합니다.소총과 캔 트립에 접근 할 수 있습니다.",
         "icon": "https://render.guildwars2.com/file/0AD214FC6FC10814E5397A1FC573D303B4A06EEC/1770009.png",
         "id": 2171,
         "name": "Deadeye's Gaze",

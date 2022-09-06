@@ -1,6 +1,6 @@
 [
     {
-        "description": "Increase the duration of boons and conditions applied by <c=@abilitytype>traps</c>. <c=@abilitytype>Traps</c> gain reduced recharges and offensive ones cause cripple.",
+        "description": "<c =@activetype> 트랩 </c>에 의해 적용된 혜택 및 조건의 지속 시간을 늘립니다.<c =@activetype> 트랩 </c> gain gain 줄어 듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

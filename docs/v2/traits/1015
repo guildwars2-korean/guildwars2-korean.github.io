@@ -1,6 +1,6 @@
 [
     {
-        "description": "Regain opening strike whenever you gain fury. Opening strike deals more damage.",
+        "description": "당신이 분노를 얻을 때마다 오프닝 스트라이크를 회복하십시오.오프닝 스트라이크는 더 많은 피해를 입 힙니다.",
         "facts": [
             {
                 "apply_count": 1,

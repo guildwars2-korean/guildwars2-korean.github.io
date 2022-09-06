@@ -1,6 +1,6 @@
 [
     {
-        "description": "Create muddy terrain when you use a healing skill.",
+        "description": "치유 기술을 사용할 때 진흙 투성이의 지형을 만듭니다.",
         "icon": "https://render.guildwars2.com/file/23742E1977C947E4692564FD7E443359A16AEBBC/2229317.png",
         "id": 1098,
         "name": "Child of Earth",

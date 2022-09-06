@@ -1,6 +1,6 @@
 [
     {
-        "description": "Activating Virtue skill 2 removes conditions from nearby allies. Virtue skill 2's passive effect is stronger.",
+        "description": "미덕 기술 활성화 2는 인근 동맹국의 조건을 제거합니다.미덕 기술 2의 수동 효과가 더 강합니다.",
         "facts": [
             {
                 "apply_count": 1,

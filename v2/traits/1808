@@ -1,6 +1,6 @@
 [
     {
-        "description": "Your first attack when entering combat applies vulnerability. This ability is refreshed when you use an elite skill.",
+        "description": "전투에 들어갈 때 첫 번째 공격은 취약성을 적용합니다.이 능력은 엘리트 기술을 사용할 때 상쾌합니다.",
         "facts": [
             {
                 "apply_count": 5,

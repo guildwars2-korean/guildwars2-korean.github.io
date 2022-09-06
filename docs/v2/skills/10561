@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BkEpAAA=]",
-        "description": "Slash your foe twice with ghostly claws to make them vulnerable. Vulnerability applied increases against foes below the health threshold.",
+        "description": "유령 발톱으로 적을 두 번 as 다.취약점은 건강 임계 값 미만의 원수에 대해 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

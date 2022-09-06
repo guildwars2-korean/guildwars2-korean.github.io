@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain stability and heal yourself when you break stuns.",
+        "description": "기절을 끊을 때 안정성을 얻고 자신을 치유하십시오.",
         "facts": [
             {
                 "apply_count": 1,

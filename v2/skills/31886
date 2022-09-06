@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bo58AAA=]",
-        "description": "The Seeker pulses magic damage every second, hitting all enemies in range.",
+        "description": "Seeker는 매 초마다 마법 피해를 입히고 모든 적을 범위로 치는 것입니다.",
         "flags": [],
         "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
         "id": 31886,

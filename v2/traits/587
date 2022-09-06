@@ -1,6 +1,6 @@
 [
     {
-        "description": "Mighty Blow becomes Glacial Blow. Chill and damage foes that you disable.\n<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>",
+        "description": "강력한 타격은 빙하 타격이됩니다.당신이 비활성화하는 적을 식히고 손상하십시오.\n<br> <c =@reminder> 비활성화, 스턴, 멍청이, 넉백, 풀, 녹다운, 싱크, 플로트, 발사, 도발 및 두려움이 포함됩니다. </c>",
         "icon": "https://render.guildwars2.com/file/B6B838104E585313E2FA34481FEDBD9F1B6F07B4/1012443.png",
         "id": 587,
         "name": "Glacial Heart",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Siphon health after using your healing skill.",
+        "description": "치유 기술을 사용한 후 사이펀 건강.",
         "facts": [
             {
                 "apply_count": 5,

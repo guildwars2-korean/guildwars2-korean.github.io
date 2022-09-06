@@ -1,6 +1,6 @@
 [
     {
-        "description": "When a <c=@abilitytype>phantasm</c> becomes a clone, it transfers its boons to you.",
+        "description": "a <c =@activetype> phantasm </c>가 클론이되면, 그것은 당신에게 혜택을 전달합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

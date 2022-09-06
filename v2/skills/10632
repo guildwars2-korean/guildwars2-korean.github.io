@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BogpAAA=]",
-        "description": "Siphon health from nearby enemies over time, gaining vitality each time you hit an enemy.\nPlayers struck by this ability lose equivalent vitality.",
+        "description": "시간이 지남에 따라 인근 적의 사이펀 건강, 적을 때릴 때마다 활력을 얻습니다.\n이 능력에 강타한 플레이어는 동등한 활력을 잃습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

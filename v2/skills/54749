@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bt3VAAA=]",
-        "description": "Spreads damage among foes within the attack's radius. The more targets hit, the weaker the damage.",
+        "description": "공격의 반경 내의 적들 사이에 손상이 퍼집니다.목표가 많을수록 피해가 약합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

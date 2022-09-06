@@ -1,6 +1,6 @@
 [
     {
-        "description": "You move 25% faster. The duration of incoming movement-impairing conditions is reduced by 25%.",
+        "description": "당신은 25% 더 빨리 움직입니다.들어오는 이동 장애 조건의 지속 시간은 25%감소합니다.",
         "facts": [
             {
                 "apply_count": 1,

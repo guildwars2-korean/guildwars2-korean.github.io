@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain kinetic charges when you use a tool belt skill. At maximum, charges gain a burst of speed.",
+        "description": "도구 벨트 기술을 사용할 때 운동 요금을 얻습니다.최대로 충전은 속도의 버스트를 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

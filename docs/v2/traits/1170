@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Stealth Attack</c> skills inflict vulnerability and grant fury upon successfully hitting foes.",
+        "description": "<c =@activetype> 스텔스 공격 </c> 기술은 취약성을 가하고 적을 성공적으로 타격 할 때 분노를 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

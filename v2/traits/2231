@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain an aura based on your current attunement when you combo. Gaining an aura grants you Elemental Empowerment. <c=@reminder>Auras can be gained this way once per attunement per interval.</c>",
+        "description": "콤보 할 때 현재 조율을 기반으로 한 분위기를 얻으십시오.오라를 얻는 것은 당신에게 원소 권한 부여를 부여합니다.<c =@reminder> auras는 간격 당 조율 당 한 번 이런 식으로 얻을 수 있습니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

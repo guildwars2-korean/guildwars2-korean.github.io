@@ -1,6 +1,6 @@
 [
     {
-        "description": "Wings of Resolve delivers an attack upon landing. Movement speed is increased when Wings of Resolve is not on cooldown.",
+        "description": "결의의 날개는 착륙에 대한 공격을 제공합니다.결의의 날개가 재사용 대기 시간에 있지 않으면 이동 속도가 증가합니다.",
         "facts": [
             {
                 "dmg_multiplier": 1.5,

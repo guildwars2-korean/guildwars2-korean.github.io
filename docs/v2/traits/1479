@@ -1,6 +1,6 @@
 [
     {
-        "description": "Use \"Shake It Off!\" automatically when you have a number of conditions on you. Removing a damaging condition from an ally heals them.",
+        "description": "\"흔들어!\"여러 조건이있을 때 자동으로.동맹국에서 손상된 상태를 제거하면 그들을 치료합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

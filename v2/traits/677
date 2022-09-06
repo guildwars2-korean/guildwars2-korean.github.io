@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Manipulations</c> gain recharge reduction and grant superspeed to yourself and allies affected by them.",
+        "description": "<c =@activetype> 조작 </c> 충전 감소를 얻고 그들에게 영향을받는 자신과 동맹국에게 슈퍼 스피드를 보조하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

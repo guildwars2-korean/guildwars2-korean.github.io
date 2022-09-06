@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BmEXAAA=]",
-        "description": "Detonate your flame turret.",
+        "description": "화염 포탑을 폭발시킵니다.",
         "facts": [
             {
                 "dmg_multiplier": 2,

@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BgEYAAA=]",
-        "description": "Launch a deployable net wall to immobilize foes caught within.",
+        "description": "배치 가능한 순 벽을 발사하여 내부에 잡힌 적을 고정시킵니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

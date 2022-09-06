@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Dual Attack</c> skills weaken enemies. Attacks against weakened foes have increased critical chance.",
+        "description": "<c =@activetype> 이중 공격 </c> 기술은 적을 약화시킵니다.적당한 적에 대한 공격은 중요한 기회를 증가시켰다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

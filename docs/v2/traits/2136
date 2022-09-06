@@ -1,6 +1,6 @@
 [
     {
-        "description": "When you cast a cantrip, gain a random new stolen skill.<br><c=@reminder>(Requires a marked target. Overwrites existing stolen skills.)</c>",
+        "description": "캔 트립을 시전하면 무작위로 새로운 도난 기술을 얻으십시오. <br> <c =@reminder> (표시된 목표가 필요합니다. 기존 도난 기술을 덮어 쓰십시오.) </c>.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain a light aura and blind nearby foes when you activate Virtue skill 1.",
+        "description": "미덕 기술을 활성화 할 때 가벼운 분위기와 근처의 원수를 얻으십시오 1.",
         "facts": [
             {
                 "apply_count": 1,

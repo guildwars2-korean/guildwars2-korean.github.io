@@ -1,6 +1,6 @@
 [
     {
-        "description": "Torment you inflict deals increased damage and causes your foes to burn.<br><c=@reminder>This trait can only inflict burning on a particular target once every three seconds. </c>",
+        "description": "고통은 피해가 증가하고 적을 화상으로 만듭니다. <br> <c =@reminder>이 특성은 3 초마다 한 번씩 특정 대상에 타는 것만 할 수 있습니다.</c>",
         "facts": [
             {
                 "apply_count": 1,

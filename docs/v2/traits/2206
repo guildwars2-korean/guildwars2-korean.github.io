@@ -1,6 +1,6 @@
 [
     {
-        "description": "Automatically stock <c=@abilitytype>blades</c> while in combat.",
+        "description": "전투 중에 자동으로 <c =@ablection -type> 블레이드 </c>.",
         "facts": [
             {
                 "duration": 3,

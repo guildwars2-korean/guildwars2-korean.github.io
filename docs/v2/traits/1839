@@ -1,6 +1,6 @@
 [
     {
-        "description": "Time to attain singularity is reduced. Upon successfully completing an overload, gain increased damage.",
+        "description": "특이점을 얻는 시간이 줄어 듭니다.오버로드를 성공적으로 완료하면 손상이 증가합니다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Deal increased strike damage to disabled foes. Outgoing stun duration increased. <br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>",
+        "description": "장애인에 대한 타격 피해가 증가했습니다.나가는 기절 시간이 증가했습니다.<br> <c =@reminder> 비활성화 된 비활성화는 Stun, Daze, Knockback, Pull, Knockdown, Sink, Float, Launch, Taunt 및 Fear가 포함됩니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

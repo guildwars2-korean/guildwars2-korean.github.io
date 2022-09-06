@@ -1,6 +1,6 @@
 [
     {
-        "description": "Stealing grants you and all nearby allies vigor. You rip boons from your target and grant them to nearby allies.",
+        "description": "훔치는 것은 당신과 인근 동맹국의 활력을 부여합니다.당신은 당신의 목표에서 혜택을 찢어 근처의 동맹국들에게 부여합니다.",
         "facts": [
             {
                 "apply_count": 1,

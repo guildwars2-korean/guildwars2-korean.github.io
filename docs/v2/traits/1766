@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain protection when you are disabled. Gain might when you break out of a stun.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, fear, launch, and taunt.</c>",
+        "description": "장애가 있으면 보호를받습니다.기절에서 벗어날 때 얻을 수 있습니다. <br> <c =@reminder> 비활성화 된 비활성화, Daze, Daze, Pull, Pull, Sink, Float, Fear, Launch, Taunt. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

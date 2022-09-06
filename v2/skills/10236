@@ -4,7 +4,7 @@
             "Signet"
         ],
         "chat_link": "[&BvwnAAA=]",
-        "description": "Signet Passive: Grant swiftness and an additional random boon every ten seconds.\nSignet Active: Extends the duration of all boons on yourself.",
+        "description": "Signet Passive : 10 초마다 신속하고 추가 임의의 혜택을 부여하십시오.\nSignet Active : 모든 혜택의 지속 시간을 연장합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Marking a target or striking your mark with a stealth attack will immediately grant malice.",
+        "description": "스텔스 공격으로 목표를 표시하거나 마크를 치면 즉시 악의를 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/5E50F7555EC3E9D7373B35C5FC73F24E74573459/1983628.png",

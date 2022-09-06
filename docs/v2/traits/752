@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Signets</c> have improved active effects, and activating one grants you distortion.",
+        "description": "<c =@activetype> signets </c>는 능동 효과가 향상되었으며 하나의 보조금을 활성화하여 왜곡을 활성화합니다.",
         "facts": [
             {
                 "apply_count": 1,

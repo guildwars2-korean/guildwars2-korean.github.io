@@ -1,6 +1,6 @@
 [
     {
-        "description": "A portion of condition damage is converted to healing power. Gain healing power, which is increased when wielding a scepter.",
+        "description": "상태 손상의 일부는 치유력으로 전환됩니다.홀을 휘두르면 치유력을 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",

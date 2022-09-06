@@ -1,6 +1,6 @@
 [
     {
-        "description": "Grant endurance in an area when swapping legends or activating <c=@skill>Alliance Tactics</c>. \n<c=@reminder>Reduced effect on other vindicator specializations.</c>",
+        "description": "전설을 교환하거나 <C =@Skill> Alliance Tactics를 활성화 할 때 영역에서 지구력을 부여합니다.\n<c =@reminder> 다른 vindicator 전문화에 미치는 영향 감소. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

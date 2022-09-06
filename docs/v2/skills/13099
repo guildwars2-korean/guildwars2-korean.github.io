@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BiszAAA=]",
-        "description": "Create an area that blocks projectiles and prevents enemies from entering or leaving.",
+        "description": "발사체를 차단하고 적들이 들어가거나 떠나는 것을 방지하는 영역을 만듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

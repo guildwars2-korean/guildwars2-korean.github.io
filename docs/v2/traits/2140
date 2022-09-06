@@ -1,6 +1,6 @@
 [
     {
-        "description": "Dazes and stuns inflict immobilize.",
+        "description": "Dazes와 기절은 고정화됩니다.",
         "facts": [
             {
                 "apply_count": 1,

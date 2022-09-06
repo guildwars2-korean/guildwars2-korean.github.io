@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Shatter</c> skills generate a clone if you have enough clones present.",
+        "description": "<c =@activetype> 산산조각 </c> 기술은 클론이 충분하면 클론을 생성합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Break stun and refill endurance when you are stunned, dazed, knocked back, pulled, knocked down, sink, floated, launched, or inflicted with fear.",
+        "description": "기절하고, 멍청이, 멍청이, 뒤로 물러나거나, 쓰러지거나, 싱크대, 싱크대, 떠 다니거나, 발사되거나, 두려움을 가질 때.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

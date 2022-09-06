@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Signets</c> gain reduced recharge and grant a stacking ferocity boon on use. Cast Lesser Signet of Might when striking a foe below the health threshold.",
+        "description": "<c =@activetype> 사인 </c> gain은 재충전 감소 및 사용시 스태킹 균열을 부여합니다.건강 임계 값 아래로 적을 때릴 때 적은 시인을 캐스트하십시오.",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain stability and swiftness when starting an <c=@abilitytype>overload</c>.",
+        "description": "<c =@activetype> 과부하 </c>를 시작할 때 안정성과 신속성을 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

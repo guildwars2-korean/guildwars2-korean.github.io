@@ -1,6 +1,6 @@
 [
     {
-        "description": "Dazing or stunning a foe also applies vulnerability.",
+        "description": "적을 다루거나 놀랍게도 취약성을 적용합니다.",
         "facts": [
             {
                 "apply_count": 5,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Weapon-swapping recharges faster.",
+        "description": "무기 봉쇄가 더 빨리 재충전됩니다.",
         "facts": [
             {
                 "duration": 5,

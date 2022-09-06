@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bpv+AAA=]",
-        "description": "Command your jade bot to revive you.",
+        "description": "옥 봇이 당신을 부활 시키도록 명령하십시오.",
         "flags": [
             "NoUnderwater"
         ],

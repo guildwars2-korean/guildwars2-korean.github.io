@@ -1,6 +1,6 @@
 [
     {
-        "description": "Stunning or dazing a foe applies vulnerability and weakness to them.",
+        "description": "적을 놀라게하거나 어둡게하는 것은 그들에게 취약성과 약점을 적용합니다.",
         "facts": [
             {
                 "apply_count": 1,

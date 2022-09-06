@@ -2,7 +2,7 @@
     {
         "attunement": "Fire",
         "chat_link": "[&Bm+1AAA=]",
-        "description": "Dual Attack. Cover yourself in an increasing barrier while dealing damage to nearby enemies.",
+        "description": "이중 공격.근처의 적에게 피해를 입히는 동안 장벽으로 자신을 덮으십시오.",
         "dual_attunement": "Earth",
         "facts": [
             {

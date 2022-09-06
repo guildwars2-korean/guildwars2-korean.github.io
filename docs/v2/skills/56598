@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BhbdAAA=]",
-        "description": "Energy orbs erupt from Qadim and detonate upon landing, damaging and applying Unbridled Chaos to all foes.",
+        "description": "에너지 오브는 Qadim에서 폭발하여 착륙시 폭발하여 모든 적에게 손상되지 않은 혼돈을 피하고 적용합니다.",
         "facts": [
             {
                 "apply_count": 1,

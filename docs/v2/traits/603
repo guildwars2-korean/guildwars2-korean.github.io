@@ -1,6 +1,6 @@
 [
     {
-        "description": "Strike damage dealt is increased after activating a virtue.",
+        "description": "미덕을 활성화 한 후 파업 피해가 증가합니다.",
         "facts": [
             {
                 "apply_count": 1,

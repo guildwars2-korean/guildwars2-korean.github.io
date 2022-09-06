@@ -1,6 +1,6 @@
 [
     {
-        "description": "Holo Leap removes movement-impairing conditions, grants superspeed instead of swiftness, and inflicts cripple.",
+        "description": "Holo Leap은 움직임 장애 조건을 제거하고 신속하게 대신 슈퍼 스피드를 부여하며 절름발이가 발생합니다.",
         "facts": [
             {
                 "apply_count": 1,

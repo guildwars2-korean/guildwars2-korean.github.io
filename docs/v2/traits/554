@@ -1,6 +1,6 @@
 [
     {
-        "description": "Nearby allies gain the passive effect of Virtue skill 2.<br><br><c=@reminder>Willbender: Heal allies when your Resolve effect triggers.</c>",
+        "description": "인근 동맹국은 미덕 기술의 수동적 효과를 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

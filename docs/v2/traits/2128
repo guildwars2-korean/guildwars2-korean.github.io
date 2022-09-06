@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Stance</c> skills gain increased duration on you and grant their effects to nearby allies for a reduced duration.",
+        "description": "<c =@activetype> 자세 </c> 기술은 당신에게 지속 시간이 증가하고 근처의 동맹국에게 영향을 줄 수 있습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

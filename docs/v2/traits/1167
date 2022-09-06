@@ -1,6 +1,6 @@
 [
     {
-        "description": "Use stolen skills twice. Recharge one random equipped utility skill when you steal.<br><c=@reminder>Goes on cooldown regardless of whether a utility skill is recharged. Does not affect inactive sequence skills.</c>",
+        "description": "도난 기술을 두 번 사용하십시오.훔칠 때 무작위로 장착 된 유틸리티 기술 하나를 재충전합니다. <br> <c =@reminder> 유틸리티 기술이 재충전되는지 여부에 관계없이 재사용 대기 시간이 있습니다.비활성 시퀀스 기술에 영향을 미치지 않습니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

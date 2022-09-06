@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BmAXAAA=]",
-        "description": "Detonate your net turret.",
+        "description": "순 포탑을 폭발시킵니다.",
         "facts": [
             {
                 "dmg_multiplier": 2,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Using a heal skill grants might.",
+        "description": "치유 기술 보조금을 사용하면 가능합니다.",
         "facts": [
             {
                 "apply_count": 5,

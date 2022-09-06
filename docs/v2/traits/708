@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain a stacking ferocity effect when you or one of your illusions strikes with a one-handed sword or a spear. Reduces recharge on sword and spear skills.",
+        "description": "당신이나 당신의 환상 중 하나가 한 손으로 칼이나 창으로 부딪 칠 때 쌓이는 사나운 효과를 얻으십시오.검과 창 기술의 재충전을 줄입니다.",
         "facts": [
             {
                 "apply_count": 1,

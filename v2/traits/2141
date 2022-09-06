@@ -1,6 +1,6 @@
 [
     {
-        "description": "Using a <c=@abilitytype>Deception</c> skill will create a clone if you have any other clones active.",
+        "description": "<c =@ablectionType> Deception </c> 기술을 사용하면 다른 클론이 활성화되면 클론이 생성됩니다.",
         "icon": "https://render.guildwars2.com/file/603C30B0D0F90E21BCCC569AE8B5A35BC9E0BDBC/1769951.png",
         "id": 2141,
         "name": "Self-Deception",

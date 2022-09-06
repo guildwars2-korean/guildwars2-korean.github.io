@@ -4,7 +4,7 @@
             "Signet"
         ],
         "chat_link": "[&BkIpAAA=]",
-        "description": "Signet Passive: Transfers conditions from nearby allies to yourself.\nSignet Active: Send your conditions to a foe.",
+        "description": "Signet Passive : 근처의 동맹국에서 자신에게 조건을 전송합니다.\nSignet Active : 조건을 적에게 보내십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Unlocks the Mech Command skill Rolling Smash. Your mech's attacks apply bleeding. This effect may only affect a given target once per interval.",
+        "description": "Mech Command Skill Rolling Smash의 잠금을 해제합니다.당신의 기계의 공격은 출혈을 적용합니다.이 효과는 간격 당 한 번만 주어진 대상에만 영향을 줄 수 있습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

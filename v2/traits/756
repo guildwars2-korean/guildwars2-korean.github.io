@@ -1,6 +1,6 @@
 [
     {
-        "description": "Cast Feedback while reviving an ally. Feedback revives allies inside its dome.",
+        "description": "동맹국을 부활시키는 동안 피드백을 캐스팅합니다.피드백은 돔 내부의 동맹국을 되 살립니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain attributes based on your current attunement. When dual attuned, gain both benefits.",
+        "description": "현재 조율에 따라 속성을 얻습니다.이중이 적용되면 두 가지 이점을 얻으십시오.",
         "facts": [
             {
                 "apply_count": 1,

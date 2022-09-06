@@ -1,6 +1,6 @@
 [
     {
-        "description": "Critical hits against chilled foes cause an explosion that chills adjacent foes.",
+        "description": "냉장 적에 대한 치명적인 타격은 인접한 적을 식히는 폭발을 일으킨다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

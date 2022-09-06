@@ -2,7 +2,7 @@
     {
         "chat_link": "[&BolyAAA=]",
         "cost": 15,
-        "description": "Release a burst of Mists energy that heals and removes conditions from allies. Create a healing orb for each ally that loses conditions.",
+        "description": "동맹국의 조건을 치유하고 제거하는 안개 에너지의 버스트를 방출하십시오.조건을 잃는 각 동맹국에 대한 치유 구를 만듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

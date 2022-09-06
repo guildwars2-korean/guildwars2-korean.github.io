@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bs50AAA=]",
-        "description": "Drop gunk at your location to inflict a random condition.",
+        "description": "당신의 위치에 덩어리를 떨어 뜨려 무작위 상태를가하십시오.",
         "facts": [
             {
                 "dmg_multiplier": 0.3,

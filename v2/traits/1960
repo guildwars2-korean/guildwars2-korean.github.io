@@ -1,6 +1,6 @@
 [
     {
-        "description": "Reflect projectiles after a successful evasion.",
+        "description": "성공적인 회피 후 발사체를 반영합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

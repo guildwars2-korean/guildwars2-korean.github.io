@@ -1,6 +1,6 @@
 [
     {
-        "description": "When you interrupt a foe, recharge one of your equipped-weapon skills at random.<br><c=@reminder>Only affects weapon skills that are recharging.</c>",
+        "description": "원수를 방해 할 때 장비원 기술 중 하나를 무작위로 재충전합니다. <br> <c =@relemend>는 재충전되는 무기 기술에만 영향을 미칩니다. </c>.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

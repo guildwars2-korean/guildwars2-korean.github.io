@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Invoke Torment</c> applies poison and burning.",
+        "description": "<c =@activetype> 호출 고문 </c>는 독과 연소를 적용합니다.",
         "facts": [
             {
                 "apply_count": 1,

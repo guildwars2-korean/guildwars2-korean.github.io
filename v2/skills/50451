@@ -4,7 +4,7 @@
             "StealthAttack"
         ],
         "chat_link": "[&BhPFAAA=]",
-        "description": "Stealth Attack. Shoot an arrow that bleeds and immobilizes your foe. If the arrow hits your marked target, it consumes all malice and splinters, firing new arrows at nearby foes for each malice consumed.",
+        "description": "스텔스 공격.피를 흘리고 적을 고정시키는 화살을 쏘십시오.화살표가 표시된 대상을 때리면 모든 악의와 파편이 소비되어 소비되는 각 악의에 대해 인근 적에 새로운 화살을 발사합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

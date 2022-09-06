@@ -1,6 +1,6 @@
 [
     {
-        "description": "The passive effect of Virtue skill 1 triggers more quickly and now burns in an area.",
+        "description": "미덕 기술의 수동적 효과 1은 더 빨리 유발하고 이제는 지역에서 화상을 입 힙니다.",
         "facts": [
             {
                 "apply_count": 1,

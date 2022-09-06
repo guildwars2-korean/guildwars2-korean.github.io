@@ -1,6 +1,6 @@
 [
     {
-        "description": "Healing done to other allies is increased for a short duration after invoking a legend.",
+        "description": "전설을 불러 일으킨 후 다른 동맹국에 대한 치유는 짧은 기간 동안 증가합니다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Striking an enemy with the damaging effect from Virtue skill 1 casts Lesser Signet of Wrath.",
+        "description": "미덕 기술 1에서 피해를 입은 효과로 적을 때리는 진노의 징후가 적습니다.",
         "icon": "https://render.guildwars2.com/file/CD1F3745DD010649D5F53553B695021580221DC0/1012417.png",
         "id": 578,
         "name": "Wrath of Justice",

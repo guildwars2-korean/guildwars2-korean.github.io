@@ -1,6 +1,6 @@
 [
     {
-        "description": "Whenever you inflict fear, you also chill.",
+        "description": "당신이 두려움을 가할 때마다, 당신도 차갑게합니다.",
         "facts": [
             {
                 "apply_count": 1,

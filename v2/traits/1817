@@ -1,6 +1,6 @@
 [
     {
-        "description": "Periodically gain barrier for each unique boon you have.",
+        "description": "당신이 가진 각각의 독특한 혜택에 대해 주기적으로 장벽을 얻으십시오.",
         "facts": [
             {
                 "duration": 3,

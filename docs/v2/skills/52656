@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BrDNAAA=]",
-        "description": "Deals damage to all foes outside of the platform section who are targeted by Pulverize.",
+        "description": "Plverize가 목표로하는 플랫폼 섹션 외부의 모든 적에게 손상이 발생합니다.",
         "flags": [],
         "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
         "id": 52656,

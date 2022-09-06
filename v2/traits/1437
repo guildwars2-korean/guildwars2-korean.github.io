@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain increased strike damage when you use a <c=@abilitytype>burst</c> skill; this damage increase is based on your adrenaline.",
+        "description": "A <C =@AbilityType> 버스트 </c> 기술을 사용할 때 스트라이크 피해가 증가합니다.이 손상 증가는 아드레날린을 기준으로합니다.",
         "facts": [
             {
                 "apply_count": 1,

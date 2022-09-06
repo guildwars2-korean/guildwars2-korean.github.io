@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BsfoAAA=]",
-        "description": "Charge up and release a burst of torment energy on nearby foes.",
+        "description": "근처의 적들에게 고통 에너지가 파열되고 방출됩니다.",
         "facts": [
             {
                 "dmg_multiplier": 1,

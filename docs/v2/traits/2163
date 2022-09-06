@@ -1,6 +1,6 @@
 [
     {
-        "description": "Removing a boon from a foe causes all nearby foes to lose additional boons.",
+        "description": "적에서 혜택을 제거하면 근처의 모든 적들이 추가 혜택을 잃게됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

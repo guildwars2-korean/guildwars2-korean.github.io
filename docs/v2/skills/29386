@@ -2,7 +2,7 @@
     {
         "chat_link": "[&BspyAAA=]",
         "cost": 8,
-        "description": "Send the energy of Glint toward the target area, granting protection to allies before releasing a burst of energy that heals allies and granting protection again when it returns to you.",
+        "description": "동맹국을 치유하는 에너지를 버리기 전에 동맹국에 대한 보호를 부여하고 다시 돌아올 때 다시 보호를 부여하기 전에 동맹국에 대한 보호를 부여하여 대상 지역으로 빛나는 에너지를 보내십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

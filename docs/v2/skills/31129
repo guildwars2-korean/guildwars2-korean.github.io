@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bpl5AAA=]",
-        "description": "Leap into an area, and deliver a massive blow to enemies.",
+        "description": "한 지역으로 도약하고 적에게 큰 타격을주십시오.",
         "facts": [
             {
                 "dmg_multiplier": 0.5,

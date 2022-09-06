@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BuzFAAA=]",
-        "description": "Leap attack that knocks down foes.",
+        "description": "적을 쓰러 뜨리는 도약 공격.",
         "facts": [
             {
                 "finisher_type": "Leap",

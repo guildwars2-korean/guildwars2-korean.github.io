@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BvH0AAA=]",
-        "description": "Gain endurance and strike enemies around you, gaining bonus endurance for each enemy struck.",
+        "description": "지구력을 얻고 주변의 적을 공격하여 각 적에 대해 보너스 지구력을 얻습니다.",
         "facts": [
             {
                 "dmg_multiplier": 0.93,

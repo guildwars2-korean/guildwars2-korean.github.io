@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain alacrity and regeneration when resolve's effect triggers, but you no longer heal. Resolve has a modified duration.",
+        "description": "Resolve의 효과가 유발할 때 민첩성과 재생을 얻으십시오. 그러나 더 이상 치유되지 않습니다.Resolve의 지속 시간이 수정됩니다.",
         "facts": [
             {
                 "apply_count": 1,

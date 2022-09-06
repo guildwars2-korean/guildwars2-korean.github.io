@@ -1,6 +1,6 @@
 [
     {
-        "description": "Grant regeneration when you remove a condition from an ally.",
+        "description": "동맹국에서 조건을 제거 할 때 재생 보조금.",
         "facts": [
             {
                 "apply_count": 1,

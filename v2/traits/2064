@@ -1,6 +1,6 @@
 [
     {
-        "description": "Overheat now blasts damage to nearby foes and no longer deals its initial damage to you. The tool belt recharge penalty for Overheat is reduced. Heat can only be lost after overheating.<br><c=@reminder>Damage over time from Overheat is still applied.</c>",
+        "description": "과열은 이제 근처의 적에게 피해를 입히고 더 이상 초기 피해를 입지 않습니다.과열에 대한 공구 벨트 재충전 페널티가 줄어 듭니다.과열 후에 만 열이 손실 될 수 있습니다. <br> <c =@reminder> 과열로 인한 시간에 따른 손상은 여전히 적용됩니다. </c>",
         "facts": [
             {
                 "dmg_multiplier": 5,

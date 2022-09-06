@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain Mirage Cloak instead of dodge rolling. <c=@abilitytype>Ambush</c> skills become available for a short time whenever you gain Mirage Cloak. Gain access to <c=@abilitytype>Deception</c> skills.",
+        "description": "닷지 롤링 대신 신기루 망토를 얻으십시오.<c =@activetype> Ambush </c> 기술은 신기루 망토를 얻을 때마다 짧은 시간 동안 이용할 수있게됩니다.<c =@activetype> deception </c> 기술에 액세스하십시오.",
         "facts": [
             {
                 "apply_count": 1,

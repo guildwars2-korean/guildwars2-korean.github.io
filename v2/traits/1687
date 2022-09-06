@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain stability when you use a <c=@abilitytype>Shatter</c> skill. Gain an additional boon based on which <c=@abilitytype>Shatter</c> is used.",
+        "description": "A <C =@AbilityType> Shatter </c> 기술을 사용할 때 안정성을 얻으십시오.<c =@ablection -type> Shatter가 사용되는 것을 기준으로 추가 혜택을 얻으십시오.",
         "facts": [
             {
                 "apply_count": 5,

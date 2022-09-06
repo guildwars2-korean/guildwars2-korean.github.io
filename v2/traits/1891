@@ -1,6 +1,6 @@
 [
     {
-        "description": "Using a <c=@abilitytype>shout</c> grants allies might and inflicts enemies with weakness.",
+        "description": "A <c =@ablection -type> shout </c>를 사용하면 동맹국이 적을 약점으로 가질 수 있습니다.",
         "facts": [
             {
                 "apply_count": 2,

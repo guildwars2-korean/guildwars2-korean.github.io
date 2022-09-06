@@ -1,6 +1,6 @@
 [
     {
-        "description": "While you are above the health threshold, your strikes inflict poison. While your pet's health is above the health threshold, its strikes inflict poison.",
+        "description": "당신이 건강 임계 값을 초과하는 동안, 당신의 파업은 독을 유발합니다.애완 동물의 건강이 건강 임계 값보다 높지만 파업은 독을 유발합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

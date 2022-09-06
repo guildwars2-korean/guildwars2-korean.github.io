@@ -1,6 +1,6 @@
 [
     {
-        "description": "Grant boons to allies you grant auras to.",
+        "description": "당신이 오라스에게 부여하는 동맹국들에게 이익을 부여하십시오.",
         "facts": [
             {
                 "apply_count": 1,

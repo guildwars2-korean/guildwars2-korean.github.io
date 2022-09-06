@@ -1,6 +1,6 @@
 [
     {
-        "description": "Auras you grant to allies also grant protection.",
+        "description": "동맹국들에게 부여하는 오라도 보호를 부여합니다.",
         "facts": [
             {
                 "apply_count": 1,

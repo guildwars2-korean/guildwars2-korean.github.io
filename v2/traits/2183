@@ -1,6 +1,6 @@
 [
     {
-        "description": "Death Shroud is replaced with Harbinger Shroud, granting powerful offensive skills but leaving you vulnerable to attack.<br>As you remain in Harbinger Shroud, you accumulate stacking Blight.<br><c=@reminder>Blight decreases your maximum health.</c>",
+        "description": "Death Shroud는 Harbinger Shroud로 대체되어 강력한 공격 기술을 부여하지만 공격에 취약하게 만듭니다. <br> Harbinger Shroud에 머무르면 스태킹 Blight가 축적됩니다. <br> <c =@reminder> Blight는 최대 건강을 감소시킵니다. <./c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

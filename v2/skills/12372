@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BlQwAAA=]",
-        "description": "Remove the Avatar of Melandru, returning to your normal form.",
+        "description": "Melandru의 아바타를 제거하여 정상적인 형태로 돌아갑니다.",
         "flags": [
             "NoUnderwater"
         ],

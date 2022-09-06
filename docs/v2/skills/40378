@@ -2,7 +2,7 @@
     {
         "attunement": "Fire",
         "chat_link": "[&BrqdAAA=]",
-        "description": "Create a thermal vent around your target.",
+        "description": "대상 주위에 열 통풍구를 만듭니다.",
         "dual_attunement": "Water",
         "facts": [
             {

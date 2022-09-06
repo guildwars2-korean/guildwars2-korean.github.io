@@ -1,6 +1,6 @@
 [
     {
-        "description": "Upon successfully completing an overload, apply alacrity to nearby allies.",
+        "description": "과부하를 성공적으로 완료하면 인근 동맹국에 민첩성을 적용하십시오.",
         "facts": [
             {
                 "distance": 360,

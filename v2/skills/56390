@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BkbcAAA=]",
-        "description": "Creates a tremor that knocks out foes and destroys raised pillars within its area of effect.",
+        "description": "적을 쓰러 뜨리고 효과 영역 내에서 올린 기둥을 파괴하는 떨림을 만듭니다.",
         "flags": [],
         "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
         "id": 56390,

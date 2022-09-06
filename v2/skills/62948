@@ -2,7 +2,7 @@
     {
         "attunement": "Water",
         "chat_link": "[&BuT1AAA=]",
-        "description": "Leap at your target and strike nearby foes. Heal for each target struck. Heal for a lesser amount for each target struck beyond the first.",
+        "description": "목표를 뛰어 넘고 근처의 적을 공격하십시오.각 목표에 맞는 치유.첫 번째 목표를 넘어서는 각 대상에 대해 적은 금액을 치유하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

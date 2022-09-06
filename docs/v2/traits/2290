@@ -1,6 +1,6 @@
 [
     {
-        "description": "Torment you inflict is increased. Gain shadow force when you torment a foe.<br>\n<c=@warning>Does not grant shadow force while in shroud.</c>",
+        "description": "당신이 겪는 고통이 증가합니다.원수를 괴롭힐 때 그림자 힘을 얻으십시오. <br>\n<c =@경고> 슈라우드에있는 동안 그림자 힘을 부여하지 않습니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

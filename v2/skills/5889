@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BgEXAAA=]",
-        "description": "Overcharge your thumper turret to launch nearby foes.",
+        "description": "Thumper 포탑을 과도하게 충전하여 근처의 적을 발사하십시오.",
         "facts": [
             {
                 "dmg_multiplier": 1.5,

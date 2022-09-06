@@ -1,6 +1,6 @@
 [
     {
-        "description": "Heal allies when you grant them boons.<br><c=@reminder>An ally can only be affected by this skill once per interval.</c>",
+        "description": "당신이 그들에게 혜택을 주면 동맹국을 치유하십시오. <br> <c =@reminder> 동맹국은 간격 당 한 번만이 기술의 영향을받을 수 있습니다. </c>.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

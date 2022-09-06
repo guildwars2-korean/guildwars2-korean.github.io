@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Well</c> abilities have an increased area of effect and grant superspeed to nearby allies on their final pulse. Your function gyro also grants superspeed to allies when cast.",
+        "description": "<c =@activetype> 우물 </c> 능력은 효과 영역이 증가하고 최종 펄스에 대한 인근 동맹국에게 슈퍼 스피드를 보조합니다.당신의 기능 자이로는 또한 캐스팅 할 때 동맹국들에게 슈퍼 스피드를 부여합니다.",
         "facts": [
             {
                 "apply_count": 1,

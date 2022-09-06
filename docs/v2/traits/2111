@@ -1,6 +1,6 @@
 [
     {
-        "description": "Increase the maximum malice-stack count. Restore initiative and gain boons upon reaching the maximum number of malice stacks.",
+        "description": "최대 악의적 인 수를 늘리십시오.최대의 악의적 인 스택에 도달하면 이니셔티브를 복원하고 이익을 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/5E50F7555EC3E9D7373B35C5FC73F24E74573459/1983628.png",

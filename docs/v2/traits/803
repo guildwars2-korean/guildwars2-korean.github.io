@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain fury when entering shroud. Gain additional precision.",
+        "description": "슈라우드에 들어갈 때 분노를 얻으십시오.추가 정밀도를 얻으십시오.",
         "facts": [
             {
                 "apply_count": 1,

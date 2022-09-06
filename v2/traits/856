@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain <c=@abilitytype>carapace</c> when entering shroud.",
+        "description": "슈라우드에 들어갈 때 <c =@ablectype> carapace </c>를 얻습니다.",
         "facts": [
             {
                 "apply_count": 5,

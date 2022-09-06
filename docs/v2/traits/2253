@@ -1,6 +1,6 @@
 [
     {
-        "description": "Using the final round of ammo on an ammunition skill grants barrier.",
+        "description": "탄약 기술에 탄약의 마지막 라운드를 사용하면 장벽을 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",

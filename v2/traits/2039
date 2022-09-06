@@ -1,6 +1,6 @@
 [
     {
-        "description": "When you use a <c=@abilitytype>rage</c> skill, inflict burning on nearby enemies.",
+        "description": "A <C =@AbilityType> Rage </c> 기술을 사용하면 근처의 적에게 타는 것을 유발합니다.",
         "facts": [
             {
                 "apply_count": 1,

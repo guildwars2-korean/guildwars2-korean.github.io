@@ -1,6 +1,6 @@
 [
     {
-        "description": "Cast Lesser Spinal Shivers on a foe when attacking them while their health is below the threshold.",
+        "description": "건강이 임계 값 미만인 동안 공격 할 때 적을 적은 척추에 시전하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

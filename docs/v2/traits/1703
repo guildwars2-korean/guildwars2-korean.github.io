@@ -1,6 +1,6 @@
 [
     {
-        "description": "While you have swiftness, movement-impairing conditions have reduced duration. When you gain swiftness, lose a movement-impairing condition.",
+        "description": "신속성이있는 동안 이동 장애 조건은 지속 시간이 줄었습니다.신속성을 얻으면 움직임 장애 상태를 잃습니다.",
         "facts": [
             {
                 "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",

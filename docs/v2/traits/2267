@@ -1,6 +1,6 @@
 [
     {
-        "description": "When your mech is struck while under half health, it activates Exigency Protocols, gaining damage reduction and regeneration for a short duration. Regeneration boons you apply are stronger.",
+        "description": "절반 건강에 따라 기계가 강타하면 긴급 프로토콜을 활성화하여 짧은 기간 동안 손상 감소 및 재생을 얻습니다.당신이 적용하는 재생 분은 더 강합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

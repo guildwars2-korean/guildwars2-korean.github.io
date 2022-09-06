@@ -4,7 +4,7 @@
             "Signet"
         ],
         "chat_link": "[&Bnf2AAA=]",
-        "description": "Signet Passive: Reduces recharge of other signets.\nSignet Active: Order your mech to fire its ultimate weapon, the jade buster cannon. If your mech is not present, instead your mech is summoned, even if Crash Down is on cooldown.",
+        "description": "Signet Passive : 다른 서명의 재충전을 줄입니다.\nSignet Active : Mech에게 최고의 무기 인 Jade Buster Cannon을 발사하도록 주문하십시오.당신의 기계가 존재하지 않으면, Crash Down이 재사용 대기 시간에 있더라도 대신 당신의 기계가 소환됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Grant superspeed and stealth to nearby allies when leaving celestial avatar form.",
+        "description": "Celestial Avatar 형태를 떠날 때 인근 동맹국에게 슈퍼 스피드와 스텔스를 부여하십시오.",
         "facts": [
             {
                 "apply_count": 1,

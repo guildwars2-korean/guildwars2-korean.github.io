@@ -1,6 +1,6 @@
 [
     {
-        "description": "Critical hits on foes within the range threshold have a chance to grant fury. Fury grants you ferocity.",
+        "description": "범위 임계 값 내의 적에 대한 치명적인 타격은 분노를 부여 할 기회가 있습니다.분노는 당신에게 사나운 것을 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

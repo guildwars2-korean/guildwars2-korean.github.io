@@ -1,6 +1,6 @@
 [
     {
-        "description": "Chill deals damage over time.",
+        "description": "냉기는 시간이 지남에 따라 피해를 입 힙니다.",
         "facts": [
             {
                 "apply_count": 1,

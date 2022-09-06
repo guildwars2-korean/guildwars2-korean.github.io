@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bgi3AAA=]",
-        "description": "Strike enemies around you, inflicting conditions on struck foes.",
+        "description": "당신 주위의 적을 때리고, 적을 강타하는 조건을 가졌습니다.",
         "facts": [
             {
                 "dmg_multiplier": 0.9,

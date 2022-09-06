@@ -1,6 +1,6 @@
 [
     {
-        "description": "Reflect missiles whenever you are blocking. Gain might when you block an attack or reflect a missile. Shield skills gain reduced recharge.",
+        "description": "막을 때마다 미사일을 반영하십시오.공격을 차단하거나 미사일을 반영 할 때 얻을 수 있습니다.방패 기술은 재충전 감소를 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

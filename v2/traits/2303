@@ -1,6 +1,6 @@
 [
     {
-        "description": "Using the first round of ammo on an ammunition skill reduces the recharge of all warrior skills. <br><c=@reminder>Does not affect the recharge of Unsheathe Gunsaber, Sheathe Gunsaber, and Dragon Trigger. </c>",
+        "description": "탄약 기술에 대한 첫 번째 탄약을 사용하면 모든 전사 기술의 재충전이 줄어 듭니다.<br> <c =@reminder>는 Unheathe Gunsaber, Sheathe Gunsaber 및 Dragon Trigger의 재충전에 영향을 미치지 않습니다.</c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

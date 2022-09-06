@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain condition damage based on your toughness. Inflict bleeding when you immobilize a foe.<br><c=@reminder>Bleeding can only occur on the same target once per interval.</c>",
+        "description": "강인함에 따라 상태 손상을 얻습니다.원수를 고정시킬 때 출혈을 가할 수 있습니다. <br> <c =@reminder> 출혈은 간격 당 1 회 동일한 대상에서만 발생할 수 있습니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",

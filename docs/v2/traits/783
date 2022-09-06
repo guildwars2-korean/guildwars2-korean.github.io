@@ -1,6 +1,6 @@
 [
     {
-        "description": "Siphon health whenever you hit a foe. Minions siphon health and transfer it to you.",
+        "description": "적을 때릴 때마다 사이펀 건강.미니언은 건강을 사이펀 건강하고 당신에게 전가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

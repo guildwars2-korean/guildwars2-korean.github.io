@@ -1,6 +1,6 @@
 [
     {
-        "description": "Your <c=@abilitytype>Shatter</c> skills are improved.",
+        "description": "귀하의 <c =@activetype> 산산이 </c> 기술이 향상됩니다.",
         "facts": [
             {
                 "apply_count": 1,

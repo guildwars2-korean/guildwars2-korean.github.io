@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BrP2AAA=]",
-        "description": "Ally Target: Enter shadow shroud and tether a targeted or previously siphoned ally, granting them barrier. If no target is selected, one will be chosen randomly in the indicated radius.",
+        "description": "동맹국 대상 : 그림자 슈라우드를 입력하고 대상이거나 이전에 사이펀을 한 동맹국을 테더로, 장벽을 부여하십시오.대상이 선택되지 않으면 표시된 반경에서 무작위로 선택됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

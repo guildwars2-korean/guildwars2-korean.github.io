@@ -1,6 +1,6 @@
 [
     {
-        "description": "Stealing also dazes the target. Reduces the recharge of Steal.",
+        "description": "도둑질은 또한 목표를 촉발합니다.도둑질의 재충전을 줄입니다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "You retain your <c=@abilitytype>facet</c> passives for a duration after using their <c=@abilitytype>consume</c> skills. Using a <c=@abilitytype>consume</c> skill grants quickness to allies around you.",
+        "description": "<c =@ablectivetype> facet </c> 패싯 </c> 패시브를 <c =@activetype> 소비 </c> 기술을 사용한 후 지속 시간 동안 유지합니다.<c =@activetype> 소비 </c> 기술을 사용하면 주변의 동맹국들에게 빠른 기술을 부여합니다.",
         "facts": [
             {
                 "duration": 6,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Virtues</c> apply boons to allies when activated. Deal increased strike damage for each boon on you.",
+        "description": "<c =@ablection -type> 미덕 </c> 활성화 될 때 동맹국에게 이익을 적용합니다.당신에게 각각의 각각에 대한 스트라이크 피해가 증가했습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

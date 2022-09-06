@@ -1,6 +1,6 @@
 [
     {
-        "description": "Deal increased strike damage to foes with a lower health percentage than you. Hitting with an <c=@abilitytype>Explosion</c> heals you over a few seconds.",
+        "description": "당신보다 건강 비율이 낮은 적에 대한 타격 피해를 획득하십시오.<c =@activetype> 폭발로 치면 몇 초에 걸쳐 당신을 치유합니다.",
         "facts": [
             {
                 "apply_count": 1,

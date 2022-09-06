@@ -2,7 +2,7 @@
     {
         "attunement": "Water",
         "chat_link": "[&Bp+zAAA=]",
-        "description": "Deliver a second strike that heals yourself for each target it hits.",
+        "description": "타겟이 맞는 각 대상에 대해 자신을 치유하는 두 번째 스트라이크를 제공하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

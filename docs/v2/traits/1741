@@ -1,6 +1,6 @@
 [
     {
-        "description": "While maintaining an upkeep skill, your energy pips are increased, but you apply torment to yourself every interval.",
+        "description": "유지 기술을 유지하는 동안 에너지 핍이 증가하지만 간격마다 자신에게 고통을 적용합니다.",
         "facts": [
             {
                 "apply_count": 1,

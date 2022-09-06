@@ -1,6 +1,6 @@
 [
     {
-        "description": "Cast \"Search and Rescue!\" when you begin reviving an ally.",
+        "description": "\"수색과 구조!\"당신이 동맹국을 되살리기 시작할 때.",
         "icon": "https://render.guildwars2.com/file/6F2F55CAEDEC8046D5EBE8A84FCB6A734F0835B9/1012632.png",
         "id": 1060,
         "name": "Allies' Aid",

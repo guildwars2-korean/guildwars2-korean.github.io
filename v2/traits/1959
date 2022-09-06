@@ -1,6 +1,6 @@
 [
     {
-        "description": "You gain access to the function gyro, which replaces your tool belt skill 5. Gain access to <c=@abilitytype>Gyro</c> skills.",
+        "description": "툴 벨트 기술을 대체하는 기능 자이로에 액세스 할 수 있습니다.",
         "icon": "https://render.guildwars2.com/file/62D43252CCF835C6A32113E9BD450A5CAC2E3E1E/1128527.png",
         "id": 1959,
         "name": "Function Gyro",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "While you have regeneration, condition damage you deal is increased, and condition damage you take is reduced.",
+        "description": "재생이 발생하지만 조건 손상이 증가하고 조건 손상이 줄어 듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

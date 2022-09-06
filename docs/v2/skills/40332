@@ -2,7 +2,7 @@
     {
         "attunement": "Fire",
         "chat_link": "[&BoydAAA=]",
-        "description": "Dual Attack. Send out a vaporous projectile that heals allies it passes through. This projectile violently explodes if it hits the ground or strikes an enemy, healing allies and damaging foes in the area.",
+        "description": "이중 공격.통과하는 동맹국을 치유하는 기발한 발사체를 보내십시오.이 발사체는 그것이 땅에 부딪 치거나 적을 때리면 동맹국을 치유하고 해당 지역의 적을 해치면 폭력적으로 폭발합니다.",
         "dual_attunement": "Water",
         "facts": [
             {

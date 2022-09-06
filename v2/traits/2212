@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Bladesongs</c> grant aegis.",
+        "description": "<c =@activetype> bladesongs </c> grant aegis.",
         "facts": [
             {
                 "apply_count": 1,

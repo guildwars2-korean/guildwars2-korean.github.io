@@ -1,6 +1,6 @@
 [
     {
-        "description": "Reduce physical and condition damage for each boon you have.",
+        "description": "가지고있는 각 혜택에 대한 신체적 및 상태 손상을 줄입니다.",
         "facts": [
             {
                 "apply_count": 1,

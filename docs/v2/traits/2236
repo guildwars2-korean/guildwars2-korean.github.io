@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain ferocity for a short duration when you hit with an <c=@abilitytype>explosion</c>. This effect stacks duration.",
+        "description": "<c =@ablection -type> 폭발 </c>에 닿을 때 짧은 기간 동안 사나리를 얻습니다.이 효과는 지속 시간을 스택합니다.",
         "facts": [
             {
                 "apply_count": 1,

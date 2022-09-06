@@ -1,6 +1,6 @@
 [
     {
-        "description": "Dragon Slash has a lower maximum charge level but reenters Dragon Trigger if you can pay the flow cost. The cooldown on Dragonscale Defense is reset when reentering Dragon Trigger. Tactical Reload is no longer removed when Dragon Trigger ends.",
+        "description": "드래곤 슬래시는 최대 충전 수준이 낮지 만 흐름 비용을 지불 할 수 있다면 드래곤 트리거를 리엔터합니다.드래곤 트리거를 재진입 할 때 Dragonscale 방어의 재사용 대기 시간이 재설정됩니다.드래곤 트리거가 끝나면 전술적 재 장전이 더 이상 제거되지 않습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Phantasms spawn with aegis.",
+        "description": "유령이 Aegis와 스폰됩니다.",
         "facts": [
             {
                 "apply_count": 1,

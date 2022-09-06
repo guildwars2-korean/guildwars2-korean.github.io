@@ -1,6 +1,6 @@
 [
     {
-        "description": "When you grant yourself might, grant it to nearby allies as well.",
+        "description": "당신이 스스로를 부여 할 때, 근처의 동맹국들에게도 그것을 부여하십시오.",
         "facts": [
             {
                 "apply_count": 1,

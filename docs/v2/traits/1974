@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Shouts</c> gain reduced recharge, now siphon health, and gain additional recharge reduction for each foe they hit.",
+        "description": "<c =@activetype> 외침 </c> gain은 재충전 감소, 이제 사이펀 건강, 그리고 그들이 쳤던 각 원수에 대해 추가 재충전 감소를 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

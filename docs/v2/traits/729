@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Phantasms</c> spawn with quickness. Gain quickness when you create a phantasm.",
+        "description": "<c =@activetype> phantasms </c> 빠른 속성.환상을 만들 때 신속하게 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

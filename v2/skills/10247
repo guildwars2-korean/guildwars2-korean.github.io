@@ -4,7 +4,7 @@
             "Signet"
         ],
         "chat_link": "[&BgcoAAA=]",
-        "description": "Signet Passive: Creates a clone every few seconds.\nSignet Active: Recharges shatter skills.",
+        "description": "Signet Passive : 몇 초마다 클론을 만듭니다.\nSignet Active : 산산조각이 재충전됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

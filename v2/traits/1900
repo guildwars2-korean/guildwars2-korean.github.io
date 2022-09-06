@@ -1,6 +1,6 @@
 [
     {
-        "description": "Your pet's attributes are improved and pet skills gain recharge reduction.<br><c=@reminder>Improved attributes are power, condition damage, precision, toughness, and vitality.</c>",
+        "description": "애완 동물의 속성은 개선되고 애완 동물 기술은 재충전 감소를 얻습니다. <br> <c =@reminder> 향상된 속성은 전력, 상태 손상, 정밀도, 강인성 및 활력입니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

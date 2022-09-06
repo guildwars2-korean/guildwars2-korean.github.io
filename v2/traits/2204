@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Blades</c> inflict vulnerability on critical hits. After successfully casting a <c=@abilitytype>Bladesong</c>, increase all damage dealt for a short time. This does not stack.",
+        "description": "<c =@activetype> 블레이드 </c> 중요한 히트에 대한 취약성을 가질 수 있습니다.<c =@ablection -type> bladesong </c>를 성공적으로 캐스팅 한 후 짧은 시간 동안 모든 손상을 늘립니다.이것은 스택이 아닙니다.",
         "facts": [
             {
                 "apply_count": 1,

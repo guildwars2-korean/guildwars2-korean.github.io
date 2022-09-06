@@ -1,6 +1,6 @@
 [
     {
-        "description": "Dodging removes a damaging condition and a non-damaging condition from you.",
+        "description": "피하면 피해를 입히는 상태와 손상되지 않은 상태가 제거됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bir6AAA=]",
-        "description": "Pulses energy every 3 seconds, damaging all foes in range.",
+        "description": "3 초마다 에너지를 펄싱하여 모든 적을 범위로 손상시킵니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Explosive Entrance inflicts blindness when it hits. Additionally it dazes foes above the health threshold.",
+        "description": "폭발성 입구는 타격을받을 때 실명을 부여합니다.또한 건강 임계 값 이상으로 적을 촉발합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

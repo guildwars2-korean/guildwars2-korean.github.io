@@ -1,6 +1,6 @@
 [
     {
-        "description": "Might grants you more power and less condition damage. Gain might when entering shroud.",
+        "description": "더 많은 전력과 조건 손상이 줄어들 수 있습니다.슈라우드에 들어갈 때 얻을 수 있습니다.",
         "facts": [
             {
                 "apply_count": 5,

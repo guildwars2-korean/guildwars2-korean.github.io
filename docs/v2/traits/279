@@ -1,6 +1,6 @@
 [
     {
-        "description": "Damage and cripple nearby foes when attuning to earth.<br><c=@reminder>Also triggers on overload skills.</c>",
+        "description": "지구에 조율 할 때 근처의 적에게 손상과 절름발이. <br> <c =@reminder> 또한 과부하 기술을 트리거합니다. </c>.",
         "facts": [
             {
                 "dmg_multiplier": 0.36,

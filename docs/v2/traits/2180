@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain increased condition damage and duration for a period of time after attuning to a different element.",
+        "description": "다른 요소에 조율 한 후 일정 기간 동안 조건 손상 및 지속 시간을 증가시킵니다.",
         "facts": [
             {
                 "apply_count": 1,

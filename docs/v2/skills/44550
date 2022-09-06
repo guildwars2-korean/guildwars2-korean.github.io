@@ -2,7 +2,7 @@
     {
         "attunement": "Water",
         "chat_link": "[&BgauAAA=]",
-        "description": "Dual Attack. Create an area that cripples and damages enemies.",
+        "description": "이중 공격.적을 무너 뜨리고 손상시키는 지역을 만듭니다.",
         "dual_attunement": "Earth",
         "facts": [
             {

@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Banners</c> grant quickness to allies when they are dropped. Pulsing boons applied through <c=@abilitytype>banners</c> last longer.",
+        "description": "<c =@activetype> 배너 </c> 아군이 떨어질 때 동맹국에게 신속하게 부여합니다.<c =@activetype> 배너를 통해 적용되는 맥박 </c>는 더 오래 지속됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

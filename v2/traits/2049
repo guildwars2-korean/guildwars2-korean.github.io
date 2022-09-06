@@ -1,6 +1,6 @@
 [
     {
-        "description": "Increases berserk mode duration.",
+        "description": "Berserk 모드 지속 시간을 증가시킵니다.",
         "facts": [
             {
                 "duration": 5,

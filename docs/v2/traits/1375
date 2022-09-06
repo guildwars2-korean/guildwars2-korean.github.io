@@ -1,6 +1,6 @@
 [
     {
-        "description": "Cast Lesser Balanced Stance when you are disabled. <c=@abilitytype>Stances</c> grant vigor when activated and have increased duration.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>",
+        "description": "장애가있을 때 덜 균형 잡힌 자세를 캐스트하십시오.<c =@activetype> Stances </c> 활성화 될 때 활력을 부여하고 지속 시간이 증가했습니다. <br> <c =@reminder> 비활성화, Daze, 넉백, 풀, 싱크, 싱크, 플로트, 발사, 도발 및 도발 및두려움. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

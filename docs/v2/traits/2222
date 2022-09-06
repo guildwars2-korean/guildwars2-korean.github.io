@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain increased movement speed. Gain swiftness when you activate a virtue.",
+        "description": "이동 속도를 높이십시오.미덕을 활성화 할 때 신속성을 얻으십시오.",
         "facts": [
             {
                 "apply_count": 1,

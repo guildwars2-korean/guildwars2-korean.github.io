@@ -2,7 +2,7 @@
     {
         "attunement": "Air",
         "chat_link": "[&BgOgAAA=]",
-        "description": "Dual Attack. Shred foes with a storm of stones. Take reduced damage while the storm is active.",
+        "description": "이중 공격.돌의 폭풍으로 적을 파쇄합니다.폭풍이 활성화되는 동안 손상이 줄어 듭니다.",
         "dual_attunement": "Earth",
         "facts": [
             {

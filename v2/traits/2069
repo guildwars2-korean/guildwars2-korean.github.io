@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Shatter</c> skills give vigor, and vigor grants condition damage.",
+        "description": "<c =@activetype> 산산조각 </c> 기술은 활력을주고 활력을 부여하면 조건 손상이 발생합니다.",
         "facts": [
             {
                 "apply_count": 1,

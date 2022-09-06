@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain ferocity and quickness while in Reaper's Shroud. Hitting with Life Reap reduces the recharge time of shroud skills.<br><c=@reminder>Recharge reduction can only occur once per use of Life Reap.</c>",
+        "description": "리퍼의 슈라우드에있는 동안 사나운과 신속성을 얻으십시오.생명을 불러 일으키는 슈라우드 기술의 재충전 시간이 줄어 듭니다. <br> <c =@reminder> 재충전 감소는 생명의 사용 당 한 번만 발생할 수 있습니다. </c> </c>",
         "facts": [
             {
                 "duration": 1,

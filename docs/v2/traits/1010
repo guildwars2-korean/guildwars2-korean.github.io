@@ -1,6 +1,6 @@
 [
     {
-        "description": "You and your pet inflict vulnerability with your first strike when entering combat.",
+        "description": "당신과 당신의 애완 동물은 전투에 들어갈 때 첫 파업에 취약성을 부여합니다.",
         "facts": [
             {
                 "apply_count": 1,

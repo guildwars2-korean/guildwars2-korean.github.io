@@ -1,6 +1,6 @@
 [
     {
-        "description": "Deal increased strike damage while downed. Inflict vulnerability when you strike a foe below the health threshold.<br><c=@reminder>Cannot apply vulnerability to the same target more than once per interval.</c>",
+        "description": "줄어드는 동안 파업 피해가 증가했습니다.건강 임계 값 아래로 적을 치면 취약성을 가할 수 있습니다. <br> <c =@reminder> 간격 당 한 번 이상 동일한 대상에 취약점을 적용 할 수 없습니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

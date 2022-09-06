@@ -1,6 +1,6 @@
 [
     {
-        "description": "Using a <c=@abilitytype>burst</c> skill grants fury. Fury gives an increased critical chance.",
+        "description": "A <c =@ablectionType> 버스트 </c> 기술을 사용하면 분노를 부여합니다.Fury는 중요한 기회를 제공합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

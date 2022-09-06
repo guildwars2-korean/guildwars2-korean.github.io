@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain fire aura when an ally picks up a conjured weapon. <c=@abilitytype>Conjure</c> weapon abilities have reduced recharge.",
+        "description": "동맹국이 중대한 무기를 집어 올 때 불 오라를 얻으십시오.<c =@ablection -type> CONCURE </c> 무기 능력이 재충전을 줄였습니다.",
         "facts": [
             {
                 "apply_count": 1,

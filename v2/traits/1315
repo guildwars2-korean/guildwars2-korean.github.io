@@ -1,6 +1,6 @@
 [
     {
-        "description": "Increased critical-hit chance against disabled foes.<br><c=@reminder>Disables include stun, daze, knock back, pull, knock down, sink, float, launch, taunt, and fear.</c>",
+        "description": "장애가있는 적에 대한 치명적인 타격 기회 증가. <br> <c =@reminder> 비활성화 된 비활성화, 기절, 멍청이, 넉 스, 넉다운, 싱크, 플로트, 발사, 도발 및 두려움이 포함됩니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",

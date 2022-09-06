@@ -1,6 +1,6 @@
 [
     {
-        "description": "Increases attack speed while wielding a scepter. Reduces recharge on scepter skills.",
+        "description": "홀을 사용하면서 공격 속도를 증가시킵니다.Scepter 기술의 재충전을 줄입니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

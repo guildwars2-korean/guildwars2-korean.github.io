@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain precision. Gain additional precision while wielding a rifle. Enter stealth when you dodge roll with a rifle equipped.",
+        "description": "정밀도를 얻으십시오.소총을 휘두르는 동안 추가 정밀도를 얻으십시오.소총이 장착 된 롤을 피하면 스텔스를 입력하십시오.",
         "facts": [
             {
                 "apply_count": 1,

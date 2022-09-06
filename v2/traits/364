@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Cantrips</c> gain reduced recharge and grant boons.",
+        "description": "<c =@activetype> 캔 트립 </c> gain gain wefted reckarge and grant boon.",
         "facts": [
             {
                 "apply_count": 1,

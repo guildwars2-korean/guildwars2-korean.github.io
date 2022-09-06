@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain swiftness when using a <c=@abilitytype>Dual Attack.</c> Deal increased strike damage to enemies while under the effects of swiftness or superspeed.",
+        "description": "<c =@ablection -type> 이중 공격을 사용할 때 신속하게 신속하게 얻습니다. </c>는 신속성이나 슈퍼 스피드의 영향을받는 동안 적에게 스트라이크 피해를 증가시킵니다.",
         "facts": [
             {
                 "apply_count": 1,

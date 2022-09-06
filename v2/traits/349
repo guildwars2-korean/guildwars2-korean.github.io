@@ -1,6 +1,6 @@
 [
     {
-        "description": "Deal increased strike damage when your health is above the threshold. Blocking or evading an attack heals you.",
+        "description": "건강이 임계 값보다 높을 때는 스트라이크 피해가 증가합니다.공격을 막거나 회피하면 치유됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

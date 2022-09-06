@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain health based on adrenaline spent.",
+        "description": "지출 된 아드레날린을 기준으로 건강을 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

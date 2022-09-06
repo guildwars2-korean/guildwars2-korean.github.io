@@ -1,6 +1,6 @@
 [
     {
-        "description": "Stuns, dazes, knockbacks, pulls, pushes, and launches inflict bleeding and weakness.",
+        "description": "기절, 멍청이, 녹아나, 당기고 밀고 밀기 및 발사는 출혈과 약점을 유발합니다.",
         "facts": [
             {
                 "apply_count": 1,

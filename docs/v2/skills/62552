@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Blj0AAA=]",
-        "description": "Create a ring of flame that damages enemies.\n\nActivating this skill destroys other active Willbender Flames effects.",
+        "description": "적을 손상시키는 불꽃의 고리를 만듭니다.\n\n이 기술을 활성화하면 다른 활성 윌 벤더 화염 효과가 파괴됩니다.",
         "facts": [
             {
                 "dmg_multiplier": 0.22,

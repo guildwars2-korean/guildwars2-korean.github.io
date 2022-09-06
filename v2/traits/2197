@@ -1,6 +1,6 @@
 [
     {
-        "description": "Triggered virtue effects reduce the cooldown of active weapon abilities. Gain alacrity when activating Flowing Resolve.",
+        "description": "트리거 된 미덕 효과는 활성 무기 능력의 재사용을 줄입니다.흐르는 결의를 활성화 할 때 민첩성을 얻으십시오.",
         "facts": [
             {
                 "apply_count": 1,

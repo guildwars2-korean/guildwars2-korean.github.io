@@ -1,6 +1,6 @@
 [
     {
-        "description": "You have a chance to inflict bleeding on critical hits, and bleeds that you apply last longer.",
+        "description": "중요한 타격에 출혈을 가할 수있는 기회와 더 오래 적용하는 출혈.",
         "facts": [
             {
                 "apply_count": 1,

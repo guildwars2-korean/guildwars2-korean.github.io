@@ -1,6 +1,6 @@
 [
     {
-        "description": "Discharge a bolt of lightning whenever you use a tool belt skill.",
+        "description": "도구 벨트 기술을 사용할 때마다 번개 볼트를 배출하십시오.",
         "icon": "https://render.guildwars2.com/file/0A376A98B571BCD3DAB7CD0C51343C3921AB0C34/1012378.png",
         "id": 532,
         "name": "Static Discharge",

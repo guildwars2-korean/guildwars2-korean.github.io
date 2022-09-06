@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Shatter</c> skills deal more damage. This bonus damage is doubled against foes that are not activating skills.",
+        "description": "<c =@activetype> 산산이 </c> 기술은 더 많은 피해를 입 힙니다.이 보너스 피해는 기술을 활성화하지 않는 적에 대해 두 배가됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

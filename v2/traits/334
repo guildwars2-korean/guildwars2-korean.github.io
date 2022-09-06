@@ -1,6 +1,6 @@
 [
     {
-        "description": "While at or above the might threshold, gain increased power. Power bonuses are doubled while attuned to fire.",
+        "description": "임계 값 이하 또는 그 이상으로 증가하는 전력을 얻으십시오.파워 보너스는 두 배가되어 화재가 발생합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

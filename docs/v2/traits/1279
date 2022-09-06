@@ -1,6 +1,6 @@
 [
     {
-        "description": "Stealing inflicts poison. While in the downed state, your attacks apply poison.",
+        "description": "도둑질은 독을 겪습니다.다운 된 상태에있는 동안, 당신의 공격은 독을 적용합니다.",
         "facts": [
             {
                 "apply_count": 2,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain regeneration when you are inflicted with bleeding, poison, or burning. While you have regeneration, you take reduced strike damage.",
+        "description": "출혈, 독 또는 연소로 가해지면 재생을 얻습니다.재생이있는 동안 스트라이크 피해가 줄어 듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

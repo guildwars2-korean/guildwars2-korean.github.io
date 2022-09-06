@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain health and boons when swapping legends, or by using <c=@abilitytype>Alliance Tactics</c> while attuned to the Legendary Alliance.",
+        "description": "전설을 교환 할 때 또는 <c =@ablection -type> 얼라이언스 전술을 사용하여 전설적인 동맹에 적합한 상태에서 건강과 이익을 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

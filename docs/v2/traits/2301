@@ -1,6 +1,6 @@
 [
     {
-        "description": "Venomous Outburst deals more damage and applies blindness in addition to its other effects. <c=@abilitytype>Unleashed Ambush</c> skills deal more damage.",
+        "description": "독한 폭발은 더 많은 피해를 입히고 다른 효과 외에도 실명을 적용합니다.<c =@activetype> Unleashed Ambush </c> 기술은 더 많은 피해를 입 힙니다.",
         "facts": [
             {
                 "apply_count": 1,

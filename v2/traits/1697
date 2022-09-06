@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Beast</c> abilities heal allies around the caster.",
+        "description": "<c =@activetype> 짐승 </c> 능력은 캐스터 주변의 동맹국을 치료합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

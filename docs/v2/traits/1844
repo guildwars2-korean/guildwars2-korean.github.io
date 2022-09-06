@@ -1,6 +1,6 @@
 [
     {
-        "description": "You and your nearby allies siphon health with attacks. This effect increases while in Shroud.",
+        "description": "당신과 당신의 인근 동맹국은 공격으로 건강을 사이펀 건강합니다.이 효과는 슈라우드에있는 동안 증가합니다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain barrier when activating a <c=@abilitytype>Stance</c>. Activate Lesser Stone Resonance when struck while below the health threshold.",
+        "description": "A <C =@AbilityType> 자세를 활성화 할 때 장벽을 얻습니다.건강 임계 값 아래에서 쳤을 때 더 적은 석재 공명을 활성화하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

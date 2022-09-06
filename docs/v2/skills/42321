@@ -2,7 +2,7 @@
     {
         "attunement": "Air",
         "chat_link": "[&BlGlAAA=]",
-        "description": "Dual Attack. After a short channel, launch a hyper-fast boulder that decimates foes in its path.",
+        "description": "이중 공격.짧은 채널 후에, 경로에서 적을 소멸시키는 초고속 바위를 발사하십시오.",
         "dual_attunement": "Earth",
         "facts": [
             {

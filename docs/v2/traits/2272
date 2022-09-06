@@ -1,6 +1,6 @@
 [
     {
-        "description": "Apply <c=@abilitytype>Rot Wallow Venom</c> to allies that you grant barrier to. Outgoing healing to allies is increased.\n<c=@reminder>Rot Wallow Venom effect cannot apply to yourself.</c>",
+        "description": "<c =@ablection -type> rot wallow venom </c>를 당신이 장벽을 부여하는 동맹국에게 적용하십시오.동맹국에 대한 나가는 치유가 증가합니다.\n<c =@reminder> Rot Wallow Venom 효과는 자신에게 적용 할 수 없습니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

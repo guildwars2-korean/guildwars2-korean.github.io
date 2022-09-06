@@ -1,6 +1,6 @@
 [
     {
-        "description": "Phantasms that successfully complete their attack launch a blade at their target and grant you fury when they expire.",
+        "description": "공격을 성공적으로 완료하는 환상은 목표에 블레이드를 발사하고 만료 될 때 분노를 부여합니다.",
         "facts": [
             {
                 "apply_count": 1,

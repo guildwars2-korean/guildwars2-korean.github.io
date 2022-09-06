@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BtIWAAA=]",
-        "description": "Set an explosive that damages nearby foes.",
+        "description": "근처의 적의 피해를 폭로하는 폭발물을 설정하십시오.",
         "facts": [
             {
                 "dmg_multiplier": 1.2,

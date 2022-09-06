@@ -1,6 +1,6 @@
 [
     {
-        "description": "Entering shroud transfers conditions from allies to you. Exiting shroud consumes conditions currently on you and converts them to life force.",
+        "description": "슈라우드에 들어가는 것은 동맹국에서 당신에게 조건을 전달합니다.슈라우드를 빠져 나가는 것은 현재 당신의 조건을 소비하고 그것들을 생명력으로 전환시킵니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

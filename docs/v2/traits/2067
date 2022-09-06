@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@AbilityType>Punishment</c> skills gain reduced recharge and cause your next Manifest Sand Shade to inflict burning on foes near it.",
+        "description": "<c =@activetype> 처벌 </c> 기술 기술은 재충전을 줄이고 다음 매니페스트 모래 그늘이 그 근처의 적에게 화상을 입히게합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

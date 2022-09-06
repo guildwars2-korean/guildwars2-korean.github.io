@@ -1,6 +1,6 @@
 [
     {
-        "description": "You can wield hammers.",
+        "description": "당신은 해머를 휘두를 수 있습니다.",
         "icon": "https://render.guildwars2.com/file/7EF96705D1BD149497FCACE3E1FD4D51F32F6F92/1770026.png",
         "id": 1951,
         "name": "Hammer Proficiency",

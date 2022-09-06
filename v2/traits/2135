@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain health per unit of heat lost.<br><c=@reminder>This trait does not function while cooling due to an overheat unless Photonic Blasting Module is equipped.</c>",
+        "description": "손실 된 열 단위당 건강을 얻습니다. <br> <c =@reminder>이 특성은 광자사 모듈이 장착되지 않는 한 과열로 인해 냉각하는 동안 작동하지 않습니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

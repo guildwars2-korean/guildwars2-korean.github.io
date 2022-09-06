@@ -1,6 +1,6 @@
 [
     {
-        "description": "Regenerate health while in shroud. If your life force is above the threshold, your shroud will activate if you would take a lethal blow.",
+        "description": "슈라우드에있는 동안 건강을 재생합니다.당신의 생명력이 임계 값보다 높으면 치명적인 타격을 입을 경우 슈라우드가 활성화됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

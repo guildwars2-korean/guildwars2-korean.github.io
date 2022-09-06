@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BuNXAAA=]",
-        "description": "Lash out against nearby foes.",
+        "description": "근처의 적들에게 래쉬.",
         "facts": [
             {
                 "dmg_multiplier": 1.2,

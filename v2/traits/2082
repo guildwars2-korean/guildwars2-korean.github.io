@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain regeneration when you gain Mirage Cloak. The duration of incoming damaging conditions is reduced while you are regenerating.",
+        "description": "신기루 망토를 얻을 때 재생을 얻으십시오.들어오는 피해 조건의 지속 시간은 재생되는 동안 감소합니다.",
         "facts": [
             {
                 "apply_count": 1,

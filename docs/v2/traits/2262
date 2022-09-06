@@ -1,6 +1,6 @@
 [
     {
-        "description": "Instead of dodging, deliver a powerful blow from above, striking foes when you hit the ground. Dodging costs all of your endurance and can only be executed at full endurance.",
+        "description": "피하는 대신, 위에서 강력한 타격을 주면서 땅에 부딪 칠 때 적을 치십시오.피는 비용은 모든 지구력 비용이 들며 완전 지구력으로 만 실행할 수 있습니다.",
         "facts": [
             {
                 "dmg_multiplier": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Illusions shattered by Distortion become Mirage Mirrors. <c=@abilitytype>Ambush</c> skills become available for a short time whenever you grant distortion to yourself.",
+        "description": "왜곡에 의해 산산이 부서진 환상은 신기루 거울이됩니다.<c =@activetype> Ambush </c> 기술은 자신에게 왜곡을 허용 할 때마다 짧은 시간 동안 이용할 수있게됩니다.",
         "facts": [
             {
                 "duration": 2,

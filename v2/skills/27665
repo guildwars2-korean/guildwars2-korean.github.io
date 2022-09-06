@@ -2,7 +2,7 @@
     {
         "chat_link": "[&BhFsAAA=]",
         "cost": 10,
-        "description": "Create a field from the Mists that blocks incoming projectiles in front of you.",
+        "description": "들어오는 발사체를 차단하는 안개에서 필드를 만듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

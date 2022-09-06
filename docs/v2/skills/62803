@@ -2,7 +2,7 @@
     {
         "chat_link": "[&BlP1AAA=]",
         "cost": 15,
-        "description": "Prepare to use Dragon Slash. While channeling, you drain flow. Each interval increases the charge level of Dragon Slash.\nThis skill is canceled if you move.",
+        "description": "드래곤 슬래시를 사용할 준비를하십시오.채널링하는 동안 배수구가 발생합니다.각 간격은 드래곤 슬래시의 전하 레벨을 증가시킵니다.\n이 기술은 이동하면 취소됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

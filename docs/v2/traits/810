@@ -1,6 +1,6 @@
 [
     {
-        "description": "Increases critical-hit chance for each condition on the foe. Gain condition damage based on your precision.",
+        "description": "적의 각 조건에 대한 치명적인 기회를 증가시킵니다.정밀도에 따라 상태 손상을 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",

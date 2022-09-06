@@ -1,6 +1,6 @@
 [
     {
-        "description": "Bleeding you apply deals increased damage. Stock a <c=@abilitytype>blade</c> after applying enough stacks of bleeding to foes.",
+        "description": "출혈이 적용하면 손상이 증가합니다.적에 충분한 출혈 더미를 적용한 후 a <c =@ablection -type> 블레이드를 재고하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

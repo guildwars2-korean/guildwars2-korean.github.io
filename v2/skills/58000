@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BpDiAAA=]",
-        "description": "Creates a launch orb if it completes its path. Refreshes Nova Launch when bouncing on party members. Explodes when contacting the ground.",
+        "description": "경로를 완료하면 런칭 구를 만듭니다.파티 멤버에게 튀어 나올 때 노바 발사를 새로 고칩니다.땅에 접촉 할 때 폭발합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

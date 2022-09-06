@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Burst</c> skills deal more damage, grant swiftness, and restore a portion of adrenaline spent.",
+        "description": "<c =@activetype> 버스트 </c> 기술은 더 많은 피해를 입히고, 신속성을 부여하며, 아드레날린의 일부를 복원합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

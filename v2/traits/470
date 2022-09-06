@@ -1,6 +1,6 @@
 [
     {
-        "description": "Recover health every second when using an <c=@abilitytype>Engineering Kit</c>.",
+        "description": "<c =@ablection -type> 엔지니어링 키트 </c>를 사용할 때마다 매 초마다 건강을 복구하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

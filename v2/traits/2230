@@ -1,6 +1,6 @@
 [
     {
-        "description": "Damage reduction is increased when you gain an aura. <c=@reminder>When this triggers, the durations of all stacks are refreshed. </c>",
+        "description": "기운을 얻을 때 손상 감소가 증가합니다.<c =@reminder>이 트리거되면 모든 스택의 지속 시간이 새로 고쳐집니다.</c>",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Strike your target with a bolt of lightning when attuning to air.<br><c=@reminder>Also triggers on overload skills.</c>",
+        "description": "공기에 적합 할 때 번개로 대상을 치십시오. <br> <c =@reminder> 또한 과부하 기술을 트리거합니다. </c>.",
         "facts": [
             {
                 "dmg_multiplier": 0.35,

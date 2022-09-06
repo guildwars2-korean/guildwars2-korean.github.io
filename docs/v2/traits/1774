@@ -1,6 +1,6 @@
 [
     {
-        "description": "Invoking a legend grants boons to nearby allies based on the legend that was invoked.",
+        "description": "전설을 불러 일으키는 것은 발병 된 전설을 바탕으로 인근 동맹국들에게 이익을 부여합니다.",
         "facts": [
             {
                 "apply_count": 2,

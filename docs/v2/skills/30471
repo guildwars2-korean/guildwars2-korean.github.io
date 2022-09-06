@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bgd3AAA=]",
-        "description": "Fire an arrow that pierces enemies. If the arrow hits a second target, all enemies struck are crippled.",
+        "description": "적을 뚫는 화살을 발사하십시오.화살표가 두 번째 대상을 때리면 모든 적들이 치면서 절름발이가됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

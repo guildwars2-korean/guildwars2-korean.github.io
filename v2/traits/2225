@@ -1,6 +1,6 @@
 [
     {
-        "description": "Swapping weapons strikes all nearby foes.<br><c=@reminder>Will not activate out of combat unless an enemy is within range.</c>",
+        "description": "무기를 교환하면 근처의 모든 원수가 부딪칩니다. <br> <c =@reminder> 적이 범위 내에 있지 않으면 전투에서 활성화되지 않습니다. </c>",
         "icon": "https://render.guildwars2.com/file/FB0FA6E411D0CC2623012BAFCF3C28D659B4BE06/2491545.png",
         "id": 2225,
         "name": "Unseen Sword",

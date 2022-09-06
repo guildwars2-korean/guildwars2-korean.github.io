@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain Insight when disabling foes or removing boons. Full Counter refreshes all <c=@abilitytype>burst</c> skills on hit.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt and fear.",
+        "description": "적을 비활성화하거나 혜택을 제거 할 때 통찰력을 얻으십시오.전체 카운터 새로 고침 <c =@activetype> 버스트 </c> 히트시 기술. <br> <c =@reminder> 비활성화, 스턴, 닥치, 넉백, 풀, 녹다운, 싱크, 플로트, 발사, 도발 및 두려움이 포함됩니다.",
         "facts": [
             {
                 "apply_count": 1,

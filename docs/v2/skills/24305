@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BvFeAAA=]",
-        "description": "Call down lightning on a disabled foe.",
+        "description": "장애가있는 적에게 번개를 부르십시오.",
         "facts": [
             {
                 "dmg_multiplier": 1.5,

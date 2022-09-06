@@ -4,7 +4,7 @@
             "Signet"
         ],
         "chat_link": "[&Bh73AAA=]",
-        "description": "Signet Passive: Incoming strike and condition damage is reduced.\nSignet Active: Create a projectile-blocking dome around yourself. You and allies inside the dome gain barrier every second. If your mech is active, the dome is centered on it and is larger. \n\nThe mech does not count against the target count for this skill.",
+        "description": "Signet Passive : 들어오는 파업 및 상태 손상이 줄어 듭니다.\nSignet Active : 주위에 발사체 차단 돔을 만듭니다.돔 내부의 당신과 동맹국들은 매 초마다 장벽을 얻습니다.당신의 기계가 활동적이면 돔은 그 중심에 있고 더 큽니다.\n\nMech는이 기술의 목표 수에 반대하지 않습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

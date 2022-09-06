@@ -1,6 +1,6 @@
 [
     {
-        "description": "Grant boons to nearby allies when swapping pets.<br><c=@reminder>Soulbeasts can trigger this trait by entering or leaving beastmode.</c>",
+        "description": "애완 동물을 교환 할 때 인근 동맹국에게 분을 부여합니다. <br> <c =@reminder> 소울 브 그것은 비스트 모드에 들어가거나 떠나서이 특성을 유발할 수 있습니다. </c>",
         "facts": [
             {
                 "apply_count": 1,

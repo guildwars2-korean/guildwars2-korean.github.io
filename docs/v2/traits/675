@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain a stacking damage reduction whenever you summon an illusion.<br><br><c=@reminder>Virtuoso: Triggers when stocking a blade.</c>",
+        "description": "환상을 소환 할 때마다 스태킹 손상 감소를 얻으십시오. <br> <br> <c =@reminder> Virtuoso : 블레이드를 비축 할 때 트리거 </c>.",
         "facts": [
             {
                 "apply_count": 1,

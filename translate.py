@@ -2,6 +2,8 @@ import copy
 from multiprocessing import Pool
 import json
 import os
+# pip install googletrans==4.0.0-rc1
+import googletrans
 
 from dictionary import DICTIONARY_FOR_TRANSLATION
 
@@ -13,6 +15,8 @@ translated_dir_name = 'v2'
 ignore_file_name = 'index.html'
 
 dictionary_for_translation = DICTIONARY_FOR_TRANSLATION
+dictionary_from_google = {}
+translator = googletrans.Translator()
 
 def main():
     translated_dir = './{}'.format(translated_dir_name)
@@ -37,6 +41,20 @@ def translate_resource(resource):
     p = Pool(num_of_processes)
     p.map(translate_item, params)
 
+def post_translate_item(item_json):
+    description = item_json.get('description')
+    print('- {}'.format(description))
+    if not description:
+        return item_json
+
+    discription_kr = dictionary_from_google.get(description)
+    if not discription_kr:
+        discription_kr = translator.translate(description, src='en', dest='ko').text
+        dictionary_from_google[description] = discription_kr
+    print('  - {}'.format(discription_kr))
+    item_json['description'] = discription_kr
+    return item_json
+
 def translate_item(param):
     resource = param[0]
     item_id = param[1]
@@ -45,7 +63,13 @@ def translate_item(param):
     origin_item_text = read_item(origin_item_path)
 
     translated_item_path = './{}/{}/{}'.format(translated_dir_name, resource, item_id)
-    translated_item_text = [json.loads(get_custom_transalted_text(origin_item_text, dictionary_for_translation))]
+    custom_translated_text = get_custom_transalted_text(origin_item_text, dictionary_for_translation)
+
+    custom_translated_json = json.loads(custom_translated_text)
+    custom_translated_json = post_translate_item(custom_translated_json)
+
+    translated_item_text = [custom_translated_json]
+
     translated_resource_dir = './{}/{}'.format(translated_dir_name, resource)
     create_dir(translated_resource_dir)
     save_item(translated_item_path, translated_item_text)

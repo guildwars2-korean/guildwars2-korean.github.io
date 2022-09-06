@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain increased power. <c=@abilitytype>Willbender Flames</c> deal increased damage to foes they strike.",
+        "description": "증가하는 전력을 얻습니다.<c =@activetype> willbender flames </c>는 그들이 공격하는 적에게 피해를 증가시켰다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

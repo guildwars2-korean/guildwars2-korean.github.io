@@ -1,6 +1,6 @@
 [
     {
-        "description": "Entering shroud grants swiftness and removes movement-impairing conditions.",
+        "description": "슈라우드에 들어가면 신속성을 부여하고 움직임 장애 조건을 제거합니다.",
         "facts": [
             {
                 "apply_count": 1,

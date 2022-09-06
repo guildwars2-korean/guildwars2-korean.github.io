@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain increased outgoing damage when you gain an aura. <c=@reminder>When this triggers, refresh the duration of all stacks. </c>",
+        "description": "기운을 얻을 때 나가는 손상이 증가합니다.<c =@reminder>이 트리거되면 모든 스택의 지속 시간을 새로 고치십시오.</c>",
         "facts": [
             {
                 "apply_count": 1,

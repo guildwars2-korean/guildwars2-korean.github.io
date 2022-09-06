@@ -1,6 +1,6 @@
 [
     {
-        "description": "Ranger weapon skills deal increased strike damage. Damage is further increased for foes above the range threshold.",
+        "description": "레인저 무기 기술은 스트라이크 피해를 증가시킵니다.범위 임계 값 이상의 적에 대한 손상이 더 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

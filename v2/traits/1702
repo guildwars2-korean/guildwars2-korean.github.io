@@ -1,6 +1,6 @@
 [
     {
-        "description": "You are healed for a percentage of outgoing critical-hit damage. This healing is increased while you are under the effects of fury.",
+        "description": "당신은 나가는 치명적인 타격 피해의 비율로 치유됩니다.이 치유는 당신이 분노의 영향을받는 동안 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

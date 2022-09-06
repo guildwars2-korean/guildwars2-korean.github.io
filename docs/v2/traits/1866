@@ -1,6 +1,6 @@
 [
     {
-        "description": "Summoning an illusion heals all allies around you.<br><br><c=@reminder>Virtuoso: Triggers when stocking a blade.</c>",
+        "description": "환상을 소환하면 주변의 모든 동맹국이 치유됩니다. <br> <br> <c =@reminder> virtuoso : 블레이드를 구입할 때 트리거. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

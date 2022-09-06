@@ -2,7 +2,7 @@
     {
         "attunement": "Air",
         "chat_link": "[&Blz1AAA=]",
-        "description": "Manifest a powerful cyclone at the target location, periodically damaging enemies.",
+        "description": "대상 위치에서 강력한 사이클론을 나타내며 주기적으로 적을 손상시킵니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

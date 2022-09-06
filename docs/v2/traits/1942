@@ -1,6 +1,6 @@
 [
     {
-        "description": "The first pulse of a well also applies alacrity to allies near the well. Tides of Time now also applies alacrity in an area when cast.",
+        "description": "우물의 첫 번째 맥박은 또한 우물 근처의 동맹국에게도 적용됩니다.시간의 조수는 이제 캐스트시 지역에 민첩성을 적용합니다.",
         "facts": [
             {
                 "apply_count": 1,

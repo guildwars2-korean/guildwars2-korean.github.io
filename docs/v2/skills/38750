@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bl6XAAA=]",
-        "description": "Detonate your supply crate turrets.",
+        "description": "공급 상자 포탑을 폭발시킵니다.",
         "facts": [
             {
                 "dmg_multiplier": 2,

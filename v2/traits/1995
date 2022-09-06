@@ -1,6 +1,6 @@
 [
     {
-        "description": "Activating a <c=@abilitytype>Shatter</c> gives your illusions superspeed. Shatters deal increased damage to movement-impaired foes.",
+        "description": "A <C =@AbilityType> Shatter </c>을 활성화하면 환상이 슈퍼 스피드를 제공합니다.산산조각은 움직임에 장애가있는 적에 대한 피해가 증가합니다.",
         "facts": [
             {
                 "apply_count": 1,

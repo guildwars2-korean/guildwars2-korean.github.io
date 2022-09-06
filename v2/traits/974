@@ -1,6 +1,6 @@
 [
     {
-        "description": "While your health is above the threshold, your pet deals increased strike damage. Your pet swap gains recharge reduction.",
+        "description": "건강이 임계 값을 초과하는 동안 애완 동물은 파업 피해가 증가합니다.애완 동물 스왑은 재충전 감소를 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

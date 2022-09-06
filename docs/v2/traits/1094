@@ -1,6 +1,6 @@
 [
     {
-        "description": "Condition durations are split between you and your pet.<br><c=@reminder>Conditions are not split while your pet is downed.</c>",
+        "description": "조건 기간은 당신과 당신의 애완 동물 사이에 나뉘어져 있습니다. <br> <c =@reminder> 애완 동물이 내려 가면 조건이 나오지 않습니다. </c>",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

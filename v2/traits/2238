@@ -1,6 +1,6 @@
 [
     {
-        "description": "The affected area of your dodge is increased. You now heal allies in an area when you land instead of dealing damage. Outgoing healing is increased for a period of time upon landing.",
+        "description": "닷지의 영향을받는 지역이 증가합니다.당신은 이제 피해를 입히는 대신 착륙 할 때 동맹국을 치유합니다.착륙시 출신 치유는 일정 기간 동안 증가합니다.",
         "facts": [
             {
                 "apply_count": 1,

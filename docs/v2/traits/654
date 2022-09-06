@@ -1,6 +1,6 @@
 [
     {
-        "description": "Cast Lesser Symbol of Protection when you use a healing skill.",
+        "description": "치유 기술을 사용할 때 보호 상징의 상징을 적게 캐스트하십시오.",
         "icon": "https://render.guildwars2.com/file/DB1111AB10B1D3FAA67EF4957A0167BB1E61C90C/1012404.png",
         "id": 654,
         "name": "Protector's Restoration",

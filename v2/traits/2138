@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain vigor when using a <c=@abilitytype>Dual Attack.</c> Dodge rolling grants a barrier.",
+        "description": "<c =@activetype> 듀얼 공격을 사용할 때 활력을 얻습니다. </c> 롤링 롤링은 장벽을 부여합니다.",
         "facts": [
             {
                 "apply_count": 1,

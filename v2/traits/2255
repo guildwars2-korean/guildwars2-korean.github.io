@@ -1,6 +1,6 @@
 [
     {
-        "description": "Grant vigor to yourself and nearby allies after dodging. Vigor has an increased effect on you.",
+        "description": "피한 후 자신과 인근 동맹국에게 활력을 부여하십시오.Vigor는 당신에게 영향을 미칩니다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bn6pAAA=]",
-        "description": "Mark a target, causing your initiative attacks to generate malice when they hit or critically hit your mark. Lose all malice when the mark ends or when this skill is recast on a new target.\nMalice is only gained once per skill use.",
+        "description": "목표를 표시하여 이니셔티브 공격으로 인해 악의가 발생하거나 비판적으로 부딪 칠 때 악의를 일으키십시오.마크가 끝나 거나이 기술이 새로운 목표물에 재활용 될 때 모든 악의를 잃게됩니다.\n악의는 기술 사용 당 한 번만 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "You have an increased critical hit chance against foes within the range threshold.",
+        "description": "범위 임계 값 내에서 적에 대한 치명적인 타격 기회가 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

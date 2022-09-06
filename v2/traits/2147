@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain the power to craft sand shadows and command them using your life force. Gain access to <c=@abilitytype>Punishment</c> and <c=@abilitytype>Shade</c> skills.<br><c=@reminder>Shade skills inherit the effects of traits that affect shroud skills.</c>",
+        "description": "모래 그림자를 만드는 힘을 얻고 생명력을 사용하여 명령하십시오.<c =@ablection -type> 처벌 </c> 및 <c =@activetype> shade </c> 기술에 액세스하십시오. <br> <c =@reminder> 그늘 기술에 영향을 미치는 특성의 영향을 물려받습니다. <</c>",
         "icon": "https://render.guildwars2.com/file/CC70C2E5CBD991510C2DF661111AD0351DAF186E/1769972.png",
         "id": 2147,
         "name": "Mantle of Sand",

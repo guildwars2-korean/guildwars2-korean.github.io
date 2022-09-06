@@ -1,6 +1,6 @@
 [
     {
-        "description": "Remove conditions when striking an enemy while your health is above the threshold.",
+        "description": "건강이 임계 값을 초과하는 동안 적을 때릴 때 상태를 제거하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain resolution when you block or are struck by a critical hit. Strike damage taken is reduced by a percentage while you have resolution.",
+        "description": "중요한 타격에 의해 차단되거나 타격을받을 때 해상도를 얻습니다.결의안이있는 동안 스트라이크 손상은 백분율 감소합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

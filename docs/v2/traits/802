@@ -1,6 +1,6 @@
 [
     {
-        "description": "Critical hits have a chance to cause bleeding. Increases bleed duration.",
+        "description": "치명적인 히트는 출혈을 일으킬 기회가 있습니다.출혈 지속 시간을 증가시킵니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

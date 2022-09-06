@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BhYYAAA=]",
-        "description": "Detonate your mine, damaging nearby foes.",
+        "description": "당신의 광산을 폭파시키고 근처의 적을 손상시킵니다.",
         "facts": [
             {
                 "dmg_multiplier": 0.77,

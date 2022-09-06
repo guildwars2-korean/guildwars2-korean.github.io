@@ -1,6 +1,6 @@
 [
     {
-        "description": "Strike damage taken is reduced by a percentage while you have resolution.",
+        "description": "결의안이있는 동안 스트라이크 손상은 백분율 감소합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

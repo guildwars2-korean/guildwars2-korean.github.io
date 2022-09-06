@@ -1,6 +1,6 @@
 [
     {
-        "description": "Your dodge ability is replaced by Bound, dealing damage to the area after you evade. Gain increased strike damage for a period of time after you dodge.",
+        "description": "당신의 닷지 능력은 바운드로 대체되어 피난 후 해당 지역에 손상을 입 힙니다.피한 후 일정 기간 동안 스트라이크 피해를 증가시킵니다.",
         "facts": [
             {
                 "apply_count": 1,

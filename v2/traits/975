@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Beast</c> abilities inflict weakness on those struck.<br><c=@reminder>This effect will only occur once on each target struck by an ability.</c>",
+        "description": "<c =@activetype> 짐승 </c> 능력은 강타한 사람들에게 약점을 유발합니다. <br> <c =@reminder>이 효과는 능력에 의해 강타 된 각 목표에서 한 번만 발생합니다. </c>",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain protection when Mirage Cloak ends.",
+        "description": "신기루 망토가 끝나면 보호를 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,

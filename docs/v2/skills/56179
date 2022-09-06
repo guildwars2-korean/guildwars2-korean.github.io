@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BnPbAAA=]",
-        "description": "Bombards random foes with boulders that can be blocked by pillars. The boulders damage pillars.",
+        "description": "기둥으로 막을 수있는 바위로 임의의 적을 폭격합니다.바위는 기둥을 손상시킵니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

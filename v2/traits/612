@@ -1,6 +1,6 @@
 [
     {
-        "description": "The active effect of Virtue skill 3 breaks stun and grants stability to nearby allies. Its passive effect gains a shorter interval.",
+        "description": "미덕 기술 3의 적극적인 영향은 기절하고 인근 동맹국에게 안정성을 부여합니다.수동 효과는 더 짧은 간격을 얻습니다.",
         "facts": [
             {
                 "apply_count": 3,

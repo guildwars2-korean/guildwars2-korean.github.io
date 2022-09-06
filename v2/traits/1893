@@ -1,6 +1,6 @@
 [
     {
-        "description": "Strike damage dealt increases based on endurance that is missing.",
+        "description": "누락 된 지구력에 따라 스트라이크 피해가 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

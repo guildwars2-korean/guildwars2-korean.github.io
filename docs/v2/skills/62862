@@ -2,7 +2,7 @@
     {
         "attunement": "Water",
         "chat_link": "[&Bo71AAA=]",
-        "description": "Crack the ground to chill your foes.",
+        "description": "적을 식히기 위해 땅을 깨뜨리십시오.",
         "facts": [
             {
                 "dmg_multiplier": 1.2,

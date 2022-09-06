@@ -1,6 +1,6 @@
 [
     {
-        "description": "Heals allies around you when you cast a <c=@abilitytype>Mantra</c>.",
+        "description": "당신이 <c =@activetype> mantra </c>를 캐스트 할 때 주변의 동맹국을 치유하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

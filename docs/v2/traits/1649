@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain adrenaline when hit. Remove a condition for every bar of adrenaline spent when you hit with a <c=@abilitytype>burst</c> skill.",
+        "description": "맞으면 아드레날린을 얻으십시오.<c =@ablection -type> burst </c> 스킬을 쳤을 때 소비 된 모든 아드레날린 막대에 대한 상태를 제거하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",

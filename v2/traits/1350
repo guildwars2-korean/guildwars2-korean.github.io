@@ -1,6 +1,6 @@
 [
     {
-        "description": "Reduce incoming damage while your health is above the threshold.",
+        "description": "건강이 임계 값을 초과하는 동안 들어오는 손상을 줄입니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

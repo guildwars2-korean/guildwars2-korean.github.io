@@ -1,6 +1,6 @@
 [
     {
-        "description": "Full Counter applies cripple and slow.",
+        "description": "전체 카운터는 절름발이와 느리게 적용됩니다.",
         "facts": [
             {
                 "apply_count": 1,

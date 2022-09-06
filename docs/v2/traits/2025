@@ -1,6 +1,6 @@
 [
     {
-        "description": "Attain elemental singularity by remaining in an attunement for a period of time. Upon attaining singularity, you may overload the attunement to your vicinity. Gain access to <c=@abilitytype>Shouts</c>.",
+        "description": "일정 시간 동안 조율을 유지함으로써 원소 특이점을 얻습니다.특이점을 얻을 때, 당신은 인근에 조율을 과부하시킬 수 있습니다.<c =@activetype> shouts </c>에 액세스하십시오.",
         "icon": "https://render.guildwars2.com/file/B5B020BD12E7A490DE9551FA06D920AC4F9A6036/1029952.png",
         "id": 2025,
         "name": "Singularity",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Your passive life-force generation from nearby deaths is increased. Kills grant <c=@abilitytype>carapace</c>.",
+        "description": "인근 사망으로 인한 수동적 인 생명력 세대가 증가합니다.grant <c =@activetype> carapace </c>를 죽입니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

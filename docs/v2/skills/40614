@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BqaeAAA=]",
-        "description": "Generate a phantom axe that spins around you and applies conditions if it strikes a foe.",
+        "description": "주위에 회전하는 팬텀 도끼를 생성하고 적에 맞는 경우 조건을 적용합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Receiving fatal damage while in berserk mode ends berserk and heals you. Incoming healing is increased.",
+        "description": "Berserk 모드에서 치명적인 피해를 받으면 Berserk가 끝나고 치유됩니다.들어오는 치유가 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

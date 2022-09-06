@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain might for using any skill while attuned to fire. When leaving fire attunement or successfully completing a fire overload, unleash a Flame Expulsion.",
+        "description": "화재가 발생하면서 모든 기술을 사용할 수 있습니다.화재 조율을 떠나거나 화재 과부하를 성공적으로 완료 할 때 화염 퇴학을 방출하십시오.",
         "facts": [
             {
                 "apply_count": 1,

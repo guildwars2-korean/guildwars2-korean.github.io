@@ -1,6 +1,6 @@
 [
     {
-        "description": "Blocking or dodging an attack stocks <c=@abilitytype>blades</c> and causes your next Bladesong to be unblockable.",
+        "description": "공격 주식을 차단하거나 피하면서 <c =@ablection -type> 블레이드 </c>를 차단하고 다음 블레이드를 차단할 수 없게 만듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

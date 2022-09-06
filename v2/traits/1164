@@ -1,6 +1,6 @@
 [
     {
-        "description": "Inflict poison when striking a foe with a dual wield attack. Gain increased condition damage.<br><c=@reminder>Applies poison once per attack use.</c>",
+        "description": "이중 휘발 공격으로 적을 때릴 때 독을 입력하십시오.조건 손상 증가. <br> <c =@reminder> 공격 당 1 회 독을 적용합니다. </c>",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Your <c=@abilitytype>jade sphere</c> grants a boon to nearby allies based on your current attunement when activated.",
+        "description": "귀하의 <c =@activetype> jade sphere </c>는 활성화시 현재의 조율에 따라 인근 동맹국에게 혜택을줍니다.",
         "facts": [
             {
                 "apply_count": 5,

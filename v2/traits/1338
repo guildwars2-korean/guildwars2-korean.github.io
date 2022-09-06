@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain power and a chance to gain might on critical strike. Double these bonuses while wielding a greatsword or spear. Greatsword and spear skills recharge faster.",
+        "description": "중요한 파업에서 힘을 얻고 얻을 수있는 기회를 얻을 수 있습니다.그레이트 스포드 나 스피어를 사용 하면서이 보너스를 두 배로 늘리십시오.Greatsword와 Spear 기술이 더 빨리 재충전됩니다.",
         "facts": [
             {
                 "apply_count": 1,

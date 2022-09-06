@@ -2,7 +2,7 @@
     {
         "attunement": "Air",
         "chat_link": "[&BrAVAAA=]",
-        "description": "Charge a lightning surge that damages and blinds foes near your target when it discharges.",
+        "description": "대상이 방전 할 때 적을 손상시키고 블라인드로 배치하는 번개를 충전하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

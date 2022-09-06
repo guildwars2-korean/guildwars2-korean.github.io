@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>Symbols</c> are improved and heal allies.",
+        "description": "<c =@activetype> 기호 </c>는 개선되고 동맹국을 치료합니다.",
         "facts": [
             {
                 "duration": 2,

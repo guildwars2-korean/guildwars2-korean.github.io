@@ -1,6 +1,6 @@
 [
     {
-        "description": "Deal increased critical-hit damage. This bonus is doubled against boonless foes.",
+        "description": "크리티컬 타임 피해를 증가시킵니다.이 보너스는 Boonless 원수에 대해 두 배가됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",

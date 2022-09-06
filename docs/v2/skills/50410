@@ -2,7 +2,7 @@
     {
         "chat_link": "[&BurEAAA=]",
         "cost": 10,
-        "description": "Release a blast of Mists energy that heals allies and knocks enemies back, infusing your foes with dangerous power. Inflict conditions based on your current legend each time a target is struck.",
+        "description": "동맹국을 치유하고 적을 돌려주는 안개 에너지의 폭발을 방출하여 적을 위험한 힘으로 주입하십시오.대상이 닥칠 때마다 현재 전설에 따라 조건을 유발합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

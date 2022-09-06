@@ -1,6 +1,6 @@
 [
     {
-        "description": "Shatter skill 2 inflicts blindness.",
+        "description": "산산조각 2는 실명을 부여합니다.",
         "facts": [
             {
                 "apply_count": 1,

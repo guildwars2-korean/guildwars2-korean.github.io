@@ -1,6 +1,6 @@
 [
     {
-        "description": "Increase outgoing healing to other allies whenever you heal an ally besides yourself.",
+        "description": "자신 외에 동맹국을 치유 할 때마다 다른 동맹국에 대한 나가는 치유를 늘리십시오.",
         "facts": [
             {
                 "apply_count": 1,

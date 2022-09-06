@@ -1,6 +1,6 @@
 [
     {
-        "description": "Gain condition damage based on your vitality. <c=@abilitytype>Virtues</c> gain reduced recharge.",
+        "description": "활력에 따라 상태 손상을 얻습니다.<c =@activetype> 미덕 </c> gain geanced reckarge.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",

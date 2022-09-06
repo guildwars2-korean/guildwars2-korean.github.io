@@ -1,6 +1,6 @@
 [
     {
-        "description": "Create a clone when you gain stealth.",
+        "description": "스텔스를 얻을 때 클론을 만듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Fire fields created by weapon skills last longer. Whenever your fire fields hit a foe, gain increased strike damage for a duration.",
+        "description": "무기 기술로 생성 된 화재 필드는 더 오래 지속됩니다.화재 필드가 적에 닿을 때마다 기간 동안 스트라이크 피해가 증가합니다.",
         "facts": [
             {
                 "duration": 2,

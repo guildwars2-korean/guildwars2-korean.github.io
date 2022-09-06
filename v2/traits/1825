@@ -1,6 +1,6 @@
 [
     {
-        "description": "Take reduced strike damage for a duration after healing. Lasts longer if you heal an ally other than yourself.",
+        "description": "치유 후 기간 동안 스트라이크 피해를 줄입니다.자신 이외의 동맹국을 치유하면 더 오래 지속됩니다.",
         "facts": [
             {
                 "apply_count": 1,

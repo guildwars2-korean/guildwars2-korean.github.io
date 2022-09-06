@@ -1,6 +1,6 @@
 [
     {
-        "description": "Strike damage dealt to your marked target is increased, and strike damage taken from your marked target is reduced.",
+        "description": "표시된 대상으로 처리 된 스트라이크 피해가 증가하고 표시된 대상에서 취한 스트라이크 피해가 줄어 듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

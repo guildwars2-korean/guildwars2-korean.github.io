@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BgUXAAA=]",
-        "description": "Overcharge your turret to fire an electrified net that immobilizes and stuns.",
+        "description": "포탑을 과제로 충전하여 고정화되고 기절시키는 전기 그물을 발사하십시오.",
         "facts": [
             {
                 "dmg_multiplier": 0.5,

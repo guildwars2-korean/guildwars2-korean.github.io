@@ -1,6 +1,6 @@
 [
     {
-        "description": "Your dodge ability is replaced by a long-range dash that removes inhibiting conditions and grants swiftness and damage reduction. Removing conditions in this way temporarily reduces endurance gain.",
+        "description": "닷지 능력은 방해 조건을 제거하고 신속성과 손상 감소를 보조하는 장거리 대시로 대체됩니다.이러한 방식으로 조건을 제거하면 일시적으로 내구성 이득이 줄어 듭니다.",
         "facts": [
             {
                 "apply_count": 1,

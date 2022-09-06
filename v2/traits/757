@@ -1,6 +1,6 @@
 [
     {
-        "description": "Cast Lesser Power Cleanse when you use a healing skill.",
+        "description": "치유 기술을 사용할 때 더 적은 전력 정화를 캐스트하십시오.",
         "icon": "https://render.guildwars2.com/file/05AB640373CFD462B305061165617C0D0FE0A878/1012531.png",
         "id": 757,
         "name": "Mender's Purity",

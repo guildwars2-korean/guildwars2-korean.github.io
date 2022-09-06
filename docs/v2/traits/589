@@ -1,6 +1,6 @@
 [
     {
-        "description": "Aegis you grant reduces the recharge time of Virtue skill 3 when it blocks an attack.",
+        "description": "Aegis 당신이 부여하면 공격을 차단할 때 미덕 기술의 재충전 시간을 줄입니다.",
         "facts": [
             {
                 "duration": 1,

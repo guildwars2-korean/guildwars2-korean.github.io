@@ -1,6 +1,6 @@
 [
     {
-        "description": "When you gain a boon, it is shared with your pet.",
+        "description": "당신이 혜택을 얻을 때, 그것은 당신의 애완 동물과 공유됩니다.",
         "facts": [
             {
                 "apply_count": 1,

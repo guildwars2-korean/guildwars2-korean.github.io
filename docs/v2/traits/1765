@@ -1,6 +1,6 @@
 [
     {
-        "description": "Might grants you more power and less condition damage. Gain might when using a legendary stance skill.",
+        "description": "더 많은 전력과 조건 손상이 줄어들 수 있습니다.전설적인 자세 기술을 사용할 때 얻을 수 있습니다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Blinding a target will also apply chill.",
+        "description": "대상을 눈을 멀게하면 냉기가 적용됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
