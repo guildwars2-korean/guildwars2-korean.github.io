@@ -7,7 +7,7 @@ import Main from './layout/main/main';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Col, Row } from 'react-bootstrap';
-import { infeedProps, GoogleAd } from './layout/googleAd'
+import { GoogleAd } from './layout/googleAd'
 
 
 function App() {
@@ -23,12 +23,8 @@ function App() {
           <Main />
         </Col>
         <Col sm="1">
-          <div style={{
-            marginTop: 100,
-          }}>
-            <GoogleAd
-                {...infeedProps}
-            />
+          <div style={{marginTop: 100}}>
+            <GoogleAd/>
           </div>
         </Col>
       </Row>
