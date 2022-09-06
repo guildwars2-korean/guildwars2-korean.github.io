@@ -5,7 +5,9 @@ export const GoogleAd = ({
 }) => {
   useEffect(() => {
     try {
-      (window.adsbygoogle = window.adsbygoogle || []).push({});
+        window.onload = function() {
+            (window.adsbygoogle = window.adsbygoogle || []).push({});
+        }
     } catch (e) {
       if (process.env.NODE_ENV !== "production") {
         console.error("AdvertiseError", e);
