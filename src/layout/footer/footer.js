@@ -15,6 +15,7 @@ function Footer(props) {
           <Container>
             <Nav className="me-auto">
               <Nav.Link href="https://discord.gg/hZzJV2Y"><img src={discordIcon} width={30} /> [rn] This is M</Nav.Link>
+              <Nav.Link href="#" style={{pointerEvents: "none", cursor: "default"}}>/&nbsp;&nbsp;basic.6395</Nav.Link>
             </Nav>
           </Container>
         </Navbar>
