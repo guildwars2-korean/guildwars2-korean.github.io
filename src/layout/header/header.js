@@ -22,15 +22,42 @@ function Header(props) {
                 <Navbar.Brand href="/">GW2</Navbar.Brand>
                 <Nav className="me-auto">
                     <NavDropdown title="직업" id="dropdown-trait">
-                        <NavDropdown.Item href='/professions/elementalist'>엘리멘탈리스트</NavDropdown.Item>
-                        <NavDropdown.Item href='/professions/engineer'>엔지니어</NavDropdown.Item>
-                        <NavDropdown.Item href='/professions/guardian'>가디언</NavDropdown.Item>
-                        <NavDropdown.Item href='/professions/mesmer'>메스머</NavDropdown.Item>
-                        <NavDropdown.Item href='/professions/necromancer'>네크로맨서</NavDropdown.Item>
-                        <NavDropdown.Item href='/professions/ranger'>레인저</NavDropdown.Item>
-                        <NavDropdown.Item href='/professions/revenant'>레버넌트</NavDropdown.Item>
-                        <NavDropdown.Item href='/professions/thief'>시프</NavDropdown.Item>
-                        <NavDropdown.Item href='/professions/warrior'>워리어</NavDropdown.Item>
+                        <NavDropdown.Item href='/professions/elementalist'>
+                          <img alt="elementalist" src="https://wiki.guildwars2.com/images/4/4e/Elementalist_icon_small.png"/>&nbsp;
+                          엘리멘탈리스트
+                        </NavDropdown.Item>
+                        <NavDropdown.Item href='/professions/engineer'>
+                          <img alt="engineer" src="https://wiki.guildwars2.com/images/0/07/Engineer_icon_small.png"/>&nbsp;
+                          엔지니어
+                        </NavDropdown.Item>
+                        <NavDropdown.Item href='/professions/guardian'>
+                          <img alt="guardian" src="https://wiki.guildwars2.com/images/c/c7/Guardian_icon_small.png"/>&nbsp;
+                          가디언
+                        </NavDropdown.Item>
+                        <NavDropdown.Item href='/professions/mesmer'>
+                          <img alt="mesmer" src="https://wiki.guildwars2.com/images/7/79/Mesmer_icon_small.png"/>&nbsp;
+                          메스머
+                        </NavDropdown.Item>
+                        <NavDropdown.Item href='/professions/necromancer'>
+                          <img alt="necromancer" src="https://wiki.guildwars2.com/images/1/10/Necromancer_icon_small.png"/>&nbsp;
+                          네크로맨서
+                        </NavDropdown.Item>
+                        <NavDropdown.Item href='/professions/ranger'>
+                          <img alt="ranger" src="https://wiki.guildwars2.com/images/1/1e/Ranger_icon_small.png"/>&nbsp;
+                          레인저
+                        </NavDropdown.Item>
+                        <NavDropdown.Item href='/professions/revenant'>
+                          <img alt="revenant" src="https://wiki.guildwars2.com/images/4/4c/Revenant_icon_small.png"/>&nbsp;
+                          레버넌트
+                        </NavDropdown.Item>
+                        <NavDropdown.Item href='/professions/thief'>
+                          <img alt="thief" src="https://wiki.guildwars2.com/images/a/a0/Thief_icon_small.png"/>&nbsp;
+                          시프
+                        </NavDropdown.Item>
+                        <NavDropdown.Item href='/professions/warrior'>
+                          <img alt="warrior" src="https://wiki.guildwars2.com/images/4/45/Warrior_icon_small.png"/>&nbsp;
+                          워리어
+                        </NavDropdown.Item>
                     </NavDropdown>
                 </Nav>
             </Container>
