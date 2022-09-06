@@ -7,7 +7,6 @@ DICTIONARY_FOR_TRANSLATION = {
     '"text": "Radius"': '"text": "범위"',
     '"Interval"': '"주기"',
     '"Pulses"': '"횟수"',
-    '"Daze"': '"침묵"',
     '"Evade"': '"회피"',
     '"Number of Targets"': '"적용 대상"',
     '"Number of Allied Targets"': '"아군 적용 대상"',
@@ -87,6 +86,8 @@ DICTIONARY_FOR_TRANSLATION = {
     '"Superspeed"': '"슈퍼스피드"',
     '"Movement speed is greatly increased. Maximum duration: 10s"': '"이동속도가 비약적으로 증가한다. 최대 지속시간 : 10초."',
     # Condition
+    '"Daze"': '"침묵"',
+    '"Unable to activate skills."': '"스킬을 시전할 수 없다."',
     '"Bleeding"': '"출혈"',
     '"Deals damage every second; stacks intensity."': '"매초 데미지를 준다(강도 중첩)."',
     '"Blinded"': '"실명"',
