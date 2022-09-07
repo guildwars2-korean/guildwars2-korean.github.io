@@ -1,6 +1,6 @@
 [
     {
-        "description": "&quot;폭풍의 눈!&quot; 비활성화된 경우.<br><c=@reminder> 무력화에는 기절, 멍, 넉백, 당기기, 쓰러뜨리기, 가라앉기, 띄우기, 발사, 도발 및 공포가 포함됩니다.",
+        "description": "무력화 시 \"폭풍의 눈!\"을 사용한다;<br> 무력화에는 기절, 멍, 넉백, 당기기, 쓰러뜨리기, 가라앉기, 띄우기, 발사, 도발 및 공포가 포함됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
