@@ -12,7 +12,7 @@ function Header(props) {
       <header className="sticky-top" style={{marginBottom: 20}}>
         <Navbar bg="dark" variant="dark">
             <Container>
-                <Navbar.Brand href="/">guildwars2-korean.github.io</Navbar.Brand>
+                <Navbar.Brand href="/">gw2kr</Navbar.Brand>
                 <Nav className="me-auto">
                     <NavDropdown title="직업" id="dropdown-trait">
                         <NavDropdown.Item href='/professions/elementalist'>
