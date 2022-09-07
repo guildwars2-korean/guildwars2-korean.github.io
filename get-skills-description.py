@@ -1,0 +1,73 @@
+from multiprocessing import Pool
+import json
+import os
+
+from dictionary import DICTIONARY_FOR_TRANSLATION
+
+
+origin_dir_name = 'origin'
+ignore_file_name = 'index.html'
+
+professions = [
+    'Elementalist',
+    'Engineer',
+    'Guardian',
+    'Mesmer',
+    'Necromancer',
+    'Ranger',
+    'Revenant',
+    'Thief',
+    'Warrior',
+    ]
+
+specializations = [
+    48, 57, 67,
+    43, 57, 70,
+    27, 62, 65,
+    40, 59, 66,
+    34, 60, 64,
+    5, 55, 72,
+    52, 63, 69,
+    7, 58, 71,
+    18, 61, 68,
+]
+
+
+def main():
+    skills = get_skills()
+
+
+def get_skill_ids():
+    items = os.listdir('./{}/{}'.format(origin_dir_name, 'skills'))
+    items.remove(ignore_file_name)
+    return items
+
+def get_skills():
+    skill_ids = sorted(get_skill_ids())
+    skills = []
+    for skill_id in skill_ids:
+        path = './{}/{}/{}'.format(origin_dir_name, 'skills', skill_id)
+        skill = read_item(path)
+        if not skill:
+            continue
+        if skill.get('specialization', None) not in specializations:
+            continue
+        each_professions = skill.get('professions', [])
+        if not each_professions:
+            continue
+        if len(each_professions) > 1:
+            continue
+        if each_professions[0] not in professions:
+            continue
+        description = skill.get('description', None)
+        if not description:
+            continue
+        print(repr(description))
+
+def read_item(item_path):
+    with open(item_path, 'r') as f:
+        return json.load(f)
+
+
+if __name__ == '__main__':
+    main()

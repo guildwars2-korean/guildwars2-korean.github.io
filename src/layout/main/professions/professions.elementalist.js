@@ -42,10 +42,6 @@ function ProfessionsElementalist() {
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>직업 스킬</Card.Header>
                   <Card.Body>
-                    <Skill id={29415} /> {/* Overload Water */}
-                    <Skill id={29618} /> {/* Overload Earth */}
-                    <Skill id={29706} /> {/* Overload Fire */}
-                    <Skill id={29719} /> {/* Overload Air */}
                     <Skill id={5492} /> {/* Fire Attunement */}
                     <Skill id={5493} /> {/* Water Attunement */}
                     <Skill id={5494} /> {/* Air Attunement */}
@@ -158,6 +154,10 @@ function ProfessionsElementalist() {
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>직업 스킬</Card.Header>
                   <Card.Body>
+                    <Skill id={29415} /> {/* Overload Water */}
+                    <Skill id={29618} /> {/* Overload Earth */}
+                    <Skill id={29706} /> {/* Overload Fire */}
+                    <Skill id={29719} /> {/* Overload Air */}
                   </Card.Body>
                 </Card>
                 <Card style={{marginBottom: 10}}>

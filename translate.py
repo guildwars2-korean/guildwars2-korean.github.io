@@ -53,8 +53,14 @@ def pre_translate_item(origin_text):
         '<c =@ablectionType> '
         '<c =@ablection -type> ',
         '<c=@reminder> ',
-        ' <c/>'
-        '<c/>'
+        '<c=@abilitytype>',
+        '<c=@reminder>',
+        '<c=@warning>',
+        '<c=@skill>',
+        '<c=@AbilityType>',
+        ' <c/>',
+        '<c/>',
+        '</c>',
     ]
     for ignore_text in ignore_texts:
         copied_text = copied_text.replace(ignore_text, '')

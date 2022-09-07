@@ -49,12 +49,20 @@ def read_item(item_path):
 
 
 if __name__ == '__main__':
-    # Elementalist, 
-    profession = 'Elementalist'
     # 코어 직업은 specialization = None, 그 외는 각 specialization id 입력
     # Elementalist : [None, 48, 56, 67]
     # Engineer : [None, 43, 57, 70]
-    specialization = 67
+    # Guardian : [None, 27, 62, 65]
+    # Mesmer : [None, 40, 59, 66]
+    # Necromancer : [None, 34, 60, 64]
+    # Ranger : [None, 5, 55, 72]
+    # Revenant : [None, 52, 63, 69]
+    # Thief : [None, 7, 58, 71]
+    # Warrior : [None, 18, 61, 68]
+
+    profession = 'Warrior'
+    specialization = 68
+
 
     types = [('Profession', '직업'), ('Heal', '힐'), ('Utility', '유틸리티'), ('Elite', '엘리트')]
     card_pre_format = '''                <Card style={{{{marginBottom: 10}}}}>

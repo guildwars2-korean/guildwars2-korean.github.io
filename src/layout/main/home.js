@@ -9,7 +9,7 @@ function Home() {
     <Container>
       <Row style={{marginBottom: 10}}>
         <Col md="6">
-          <Card>
+          <Card style={{marginBottom: 10}}>
             <Card.Header>안내</Card.Header>
             <Card.Body>
               본 사이트는 길드워2 한글화 팬사이트입니다.<br></br>
@@ -21,7 +21,7 @@ function Home() {
           </Card>
         </Col>
         <Col md="6">
-          <Card>
+          <Card style={{marginBottom: 10}}>
             <Card.Header>유용한 사이트 모음</Card.Header>
             <Card.Body>
               <ul>
@@ -41,7 +41,7 @@ function Home() {
       </Row>
       <Row style={{marginBottom: 10}}>
         <Col md="6">
-          <Card>
+          <Card style={{marginBottom: 10}}>
             <Card.Header>한인 길드 리스트</Card.Header>
             <Card.Body>
               <ul>

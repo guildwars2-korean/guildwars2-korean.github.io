@@ -39,10 +39,28 @@ function ProfessionsGuardian() {
               </Col>
               <Col xl="6">
                 {/* 스킬 / Skills */}
-                <Card>
-                  <Card.Header>스킬</Card.Header>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>직업 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={9115} /> {/* Virtue of Justice */}
+                    <Skill id={9118} /> {/* Virtue of Courage */}
+                    <Skill id={9120} /> {/* Virtue of Resolve */}
+                    <Skill id={9250} /> {/* Virtue of Resolve */}
+                    <Skill id={9268} /> {/* Virtue of Courage */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>힐 스킬</Card.Header>
                   <Card.Body>
                     <Skill id={21664} /> {/* Litany of Wrath */}
+                    <Skill id={9083} /> {/* "Receive the Light!" */}
+                    <Skill id={9102} /> {/* Shelter */}
+                    <Skill id={9158} /> {/* Signet of Resolve */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>유틸리티 스킬</Card.Header>
+                  <Card.Body>
                     <Skill id={24414} /> {/* Signet of Mercy */}
                     <Skill id={31159} /> {/* Purging Flames */}
                     <Skill id={31295} /> {/* Sanctuary */}
@@ -58,18 +76,15 @@ function ProfessionsGuardian() {
                     <Skill id={55037} /> {/* Shield of the Avenger */}
                     <Skill id={55040} /> {/* Hammer of Wisdom */}
                     <Skill id={55053} /> {/* Hammer of Wisdom */}
-                    <Skill id={9083} /> {/* "Receive the Light!" */}
                     <Skill id={9084} /> {/* "Advance!" */}
                     <Skill id={9085} /> {/* "Save Yourselves!" */}
                     <Skill id={9093} /> {/* Bane Signet */}
-                    <Skill id={9102} /> {/* Shelter */}
                     <Skill id={9125} /> {/* Hammer of Wisdom */}
                     <Skill id={9128} /> {/* Sanctuary */}
                     <Skill id={9150} /> {/* Signet of Judgment */}
                     <Skill id={9151} /> {/* Signet of Wrath */}
                     <Skill id={9152} /> {/* "Hold the Line!" */}
                     <Skill id={9153} /> {/* "Stand Your Ground!" */}
-                    <Skill id={9158} /> {/* Signet of Resolve */}
                     <Skill id={9163} /> {/* Signet of Mercy */}
                     <Skill id={9168} /> {/* Sword of Justice */}
                     <Skill id={9175} /> {/* Bow of Truth */}
@@ -81,6 +96,14 @@ function ProfessionsGuardian() {
                     <Skill id={9248} /> {/* Contemplation of Purity */}
                     <Skill id={9251} /> {/* Wall of Reflection */}
                     <Skill id={9253} /> {/* Hallowed Ground */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>엘리트 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={29965} /> {/* "Feel My Wrath!" */}
+                    <Skill id={30461} /> {/* Signet of Courage */}
+                    <Skill id={9154} /> {/* Renewed Focus */}
                   </Card.Body>
                 </Card>
               </Col>
@@ -106,14 +129,38 @@ function ProfessionsGuardian() {
               </Col>
               <Col xl="6">
                 {/* 스킬 / Skills */}
-                <Card>
-                  <Card.Header>스킬</Card.Header>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>직업 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={29887} /> {/* Spear of Justice */}
+                    <Skill id={30029} /> {/* Shield of Courage */}
+                    <Skill id={30039} /> {/* Shield of Courage */}
+                    <Skill id={30083} /> {/* Wings of Resolve */}
+                    <Skill id={30225} /> {/* Wings of Resolve */}
+                    <Skill id={30286} /> {/* Wings of Resolve */}
+                    <Skill id={30783} /> {/* Wings of Resolve */}
+                    <Skill id={33134} /> {/* Hunter's Verdict */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>힐 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={30025} /> {/* Purification */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>유틸리티 스킬</Card.Header>
                   <Card.Body>
                     <Skill id={29786} /> {/* Test of Faith */}
-                    <Skill id={30025} /> {/* Purification */}
                     <Skill id={30364} /> {/* Procession of Blades */}
                     <Skill id={30553} /> {/* Fragments of Faith */}
                     <Skill id={30871} /> {/* Light's Judgment */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>엘리트 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={30273} /> {/* Dragon's Maw */}
                   </Card.Body>
                 </Card>
               </Col>
@@ -139,14 +186,36 @@ function ProfessionsGuardian() {
               </Col>
               <Col xl="6">
                 {/* 스킬 / Skills */}
-                <Card>
-                  <Card.Header>스킬</Card.Header>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>직업 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={41380} /> {/* Stow Tome */}
+                    <Skill id={41780} /> {/* Tome of Resolve */}
+                    <Skill id={42259} /> {/* Tome of Courage */}
+                    <Skill id={42371} /> {/* Tome of Courage */}
+                    <Skill id={44364} /> {/* Tome of Justice */}
+                    <Skill id={45023} /> {/* Tome of Resolve */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>힐 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={41714} /> {/* Mantra of Solace */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>유틸리티 스킬</Card.Header>
                   <Card.Body>
                     <Skill id={40915} /> {/* Mantra of Potence */}
-                    <Skill id={41714} /> {/* Mantra of Solace */}
                     <Skill id={44080} /> {/* Mantra of Truth */}
                     <Skill id={45460} /> {/* Mantra of Lore */}
                     <Skill id={46148} /> {/* Mantra of Flame */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>엘리트 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={43357} /> {/* Mantra of Liberation */}
                   </Card.Body>
                 </Card>
               </Col>
@@ -172,16 +241,42 @@ function ProfessionsGuardian() {
               </Col>
               <Col xl="6">
                 {/* 스킬 / Skills */}
-                <Card>
-                  <Card.Header>스킬</Card.Header>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>직업 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={62528} /> {/* Willbender Flames */}
+                    <Skill id={62532} /> {/* Crashing Courage */}
+                    <Skill id={62552} /> {/* Willbender Flames */}
+                    <Skill id={62555} /> {/* Crashing Courage */}
+                    <Skill id={62596} /> {/* Crashing Courage */}
+                    <Skill id={62603} /> {/* Flowing Resolve */}
+                    <Skill id={62618} /> {/* Willbender Flames */}
+                    <Skill id={62635} /> {/* Flowing Resolve */}
+                    <Skill id={62648} /> {/* Crashing Courage */}
+                    <Skill id={62668} /> {/* Rushing Justice */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>힐 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={62622} /> {/* Reversal of Fortune */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>유틸리티 스킬</Card.Header>
                   <Card.Body>
                     <Skill id={62521} /> {/* Roiling Light */}
                     <Skill id={62549} /> {/* Heel Crack */}
                     <Skill id={62565} /> {/* Whirling Light */}
                     <Skill id={62608} /> {/* Flash Combo */}
-                    <Skill id={62622} /> {/* Reversal of Fortune */}
                     <Skill id={62669} /> {/* Repose */}
                     <Skill id={62676} /> {/* Quick Retribution */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>엘리트 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={62561} /> {/* Heaven's Palm */}
                   </Card.Body>
                 </Card>
               </Col>

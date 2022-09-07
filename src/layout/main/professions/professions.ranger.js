@@ -39,12 +39,27 @@ function ProfessionsRanger() {
               </Col>
               <Col xl="6">
                 {/* 스킬 / Skills */}
-                <Card>
-                  <Card.Header>스킬</Card.Header>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>직업 스킬</Card.Header>
                   <Card.Body>
-                    <Skill id={12476} /> {/* Spike Trap */}
+                    <Skill id={40729} /> {/* Worldly Impact */}
+                    <Skill id={44626} /> {/* Spiritual Reprieve */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>힐 스킬</Card.Header>
+                  <Card.Body>
                     <Skill id={12483} /> {/* Troll Unguent */}
                     <Skill id={12489} /> {/* Healing Spring */}
+                    <Skill id={21773} /> {/* Water Spirit */}
+                    <Skill id={21775} /> {/* Aqua Surge */}
+                    <Skill id={31914} /> {/* "We Heal As One!" */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>유틸리티 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={12476} /> {/* Spike Trap */}
                     <Skill id={12491} /> {/* Signet of the Wild */}
                     <Skill id={12492} /> {/* Frost Trap */}
                     <Skill id={12493} /> {/* Storm Spirit */}
@@ -70,11 +85,17 @@ function ProfessionsRanger() {
                     <Skill id={12631} /> {/* "Protect Me!" */}
                     <Skill id={12632} /> {/* "Guard!" */}
                     <Skill id={12633} /> {/* "Sic 'Em!" */}
-                    <Skill id={21773} /> {/* Water Spirit */}
-                    <Skill id={21775} /> {/* Aqua Surge */}
-                    <Skill id={31914} /> {/* "We Heal As One!" */}
                     <Skill id={34309} /> {/* "Search and Rescue!" */}
                     <Skill id={51395} /> {/* Spike Trap */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>엘리트 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={12516} /> {/* "Strength of the Pack!" */}
+                    <Skill id={12569} /> {/* Spirit of Nature */}
+                    <Skill id={12580} /> {/* Entangle */}
+                    <Skill id={12596} /> {/* Nature's Renewal */}
                   </Card.Body>
                 </Card>
               </Col>
@@ -100,8 +121,23 @@ function ProfessionsRanger() {
               </Col>
               <Col xl="6">
                 {/* 스킬 / Skills */}
-                <Card>
-                  <Card.Header>스킬</Card.Header>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>직업 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={31411} /> {/* Release Celestial Avatar */}
+                    <Skill id={31869} /> {/* Celestial Avatar */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>힐 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={31407} /> {/* Glyph of Rejuvenation */}
+                    <Skill id={31819} /> {/* Glyph of Rejuvenation */}
+                    <Skill id={31867} /> {/* Glyph of Rejuvenation */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>유틸리티 스킬</Card.Header>
                   <Card.Body>
                     <Skill id={29558} /> {/* Glyph of the Tides */}
                     <Skill id={30238} /> {/* Glyph of the Tides */}
@@ -109,15 +145,20 @@ function ProfessionsRanger() {
                     <Skill id={31322} /> {/* Glyph of Alignment */}
                     <Skill id={31348} /> {/* Glyph of Alignment */}
                     <Skill id={31401} /> {/* Glyph of Equality */}
-                    <Skill id={31407} /> {/* Glyph of Rejuvenation */}
                     <Skill id={31582} /> {/* Glyph of Unity */}
                     <Skill id={31607} /> {/* Glyph of Alignment */}
                     <Skill id={31658} /> {/* Glyph of Equality */}
                     <Skill id={31740} /> {/* Glyph of Unity */}
                     <Skill id={31746} /> {/* Glyph of Equality */}
-                    <Skill id={31819} /> {/* Glyph of Rejuvenation */}
-                    <Skill id={31867} /> {/* Glyph of Rejuvenation */}
                     <Skill id={31888} /> {/* Glyph of Unity */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>엘리트 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={31677} /> {/* Glyph of the Stars */}
+                    <Skill id={55024} /> {/* Glyph of the Stars */}
+                    <Skill id={55046} /> {/* Glyph of the Stars */}
                   </Card.Body>
                 </Card>
               </Col>
@@ -143,14 +184,78 @@ function ProfessionsRanger() {
               </Col>
               <Col xl="6">
                 {/* 스킬 / Skills */}
-                <Card>
-                  <Card.Header>스킬</Card.Header>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>직업 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={40111} /> {/* Narcotic Spores */}
+                    <Skill id={40255} /> {/* Smoke Assault */}
+                    <Skill id={40588} /> {/* Primal Cry */}
+                    <Skill id={40625} /> {/* Bite */}
+                    <Skill id={41206} /> {/* Rain of Spikes */}
+                    <Skill id={41406} /> {/* Maul */}
+                    <Skill id={41461} /> {/* Devourer Retreat */}
+                    <Skill id={41524} /> {/* Kick */}
+                    <Skill id={41537} /> {/* Chomp */}
+                    <Skill id={41575} /> {/* Tail Swipe */}
+                    <Skill id={41837} /> {/* Dark Water */}
+                    <Skill id={41908} /> {/* Wing Buffet */}
+                    <Skill id={42042} /> {/* Quickening Screech */}
+                    <Skill id={42717} /> {/* Protection */}
+                    <Skill id={42797} /> {/* Charging Bite */}
+                    <Skill id={42809} /> {/* Worldly Impact */}
+                    <Skill id={42894} /> {/* Brutal Charge */}
+                    <Skill id={42907} /> {/* Takedown */}
+                    <Skill id={42944} /> {/* Beastmode */}
+                    <Skill id={43014} /> {/* Leave Beastmode */}
+                    <Skill id={43060} /> {/* Defy Pain */}
+                    <Skill id={43068} /> {/* Tail Lash */}
+                    <Skill id={43136} /> {/* Bite */}
+                    <Skill id={43186} /> {/* Healing Cloud */}
+                    <Skill id={43375} /> {/* Prelude Lash */}
+                    <Skill id={43548} /> {/* Frenzied Attack */}
+                    <Skill id={43671} /> {/* Poison Gas */}
+                    <Skill id={43701} /> {/* Photosynthesize */}
+                    <Skill id={43726} /> {/* Crippling Leap */}
+                    <Skill id={43788} /> {/* Call Lightning */}
+                    <Skill id={44097} /> {/* Entangling Web */}
+                    <Skill id={44360} /> {/* Fear */}
+                    <Skill id={44384} /> {/* Crippling Anguish */}
+                    <Skill id={44514} /> {/* Maul */}
+                    <Skill id={44617} /> {/* Harmonic Cry */}
+                    <Skill id={44885} /> {/* Chomp */}
+                    <Skill id={44991} /> {/* Swoop */}
+                    <Skill id={45479} /> {/* Sharpen Spines */}
+                    <Skill id={45743} /> {/* Charge */}
+                    <Skill id={45797} /> {/* Unflinching Fortitude */}
+                    <Skill id={46386} /> {/* Tail Lash */}
+                    <Skill id={46432} /> {/* Brutal Charge */}
+                    <Skill id={64038} /> {/* Wicked Bite */}
+                    <Skill id={64699} /> {/* Jade Cannon */}
+                    <Skill id={64882} /> {/* Undead Plague */}
+                    <Skill id={66258} /> {/* Snap */}
+                    <Skill id={66780} /> {/* Vampiric Bite */}
+                    <Skill id={67382} /> {/* Phase Pounce */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>힐 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={44948} /> {/* Bear Stance */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>유틸리티 스킬</Card.Header>
                   <Card.Body>
                     <Skill id={40498} /> {/* Vulture Stance */}
-                    <Skill id={44948} /> {/* Bear Stance */}
                     <Skill id={45142} /> {/* Griffon Stance */}
                     <Skill id={45789} /> {/* Dolyak Stance */}
                     <Skill id={45970} /> {/* Moa Stance */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>엘리트 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={45717} /> {/* One Wolf Pack */}
                   </Card.Body>
                 </Card>
               </Col>
@@ -176,14 +281,35 @@ function ProfessionsRanger() {
               </Col>
               <Col xl="6">
                 {/* 스킬 / Skills */}
-                <Card>
-                  <Card.Header>스킬</Card.Header>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>직업 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={63094} /> {/* Enveloping Haze */}
+                    <Skill id={63147} /> {/* Unleash Ranger */}
+                    <Skill id={63209} /> {/* Venomous Outburst */}
+                    <Skill id={63258} /> {/* Rending Vines */}
+                    <Skill id={63344} /> {/* Unleash Pet */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>힐 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={63319} /> {/* Perilous Gift */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>유틸리티 스킬</Card.Header>
                   <Card.Body>
                     <Skill id={63130} /> {/* Nature's Binding */}
                     <Skill id={63157} /> {/* Exploding Spores */}
                     <Skill id={63195} /> {/* Unnatural Traversal */}
                     <Skill id={63256} /> {/* Mutate Conditions */}
-                    <Skill id={63319} /> {/* Perilous Gift */}
+                  </Card.Body>
+                </Card>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>엘리트 스킬</Card.Header>
+                  <Card.Body>
+                    <Skill id={63163} /> {/* Forest's Fortification */}
                   </Card.Body>
                 </Card>
               </Col>
