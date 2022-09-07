@@ -38,8 +38,6 @@ function Home() {
             </Card.Body>
           </Card>
         </Col>
-      </Row>
-      <Row style={{marginBottom: 10}}>
         <Col md="6">
           <Card style={{marginBottom: 10}}>
             <Card.Header>주요 업데이트</Card.Header>
@@ -61,7 +59,10 @@ function Home() {
             <Card.Body>
               <ul>
                 <li>
-                  <a href="https://discord.gg/hZzJV2Y" target="_blank" rel="noreferrer" >This Is M [rn]</a>
+                  Dcinside [DC]
+                </li>
+                <li>
+                  El Rosen Ritter [RR]
                 </li>
                 <li>
                   <a href="https://discord.gg/KVuhmFuFeg" target="_blank" rel="noreferrer" >End of Melee [End]</a>
@@ -71,6 +72,12 @@ function Home() {
                 </li>
                 <li>
                   <a href="https://discord.gg/M6ErTnFwJP" target="_blank" rel="noreferrer" >La Campanella [LC]</a>
+                </li>
+                <li>
+                  Never Die [ND]
+                </li>
+                <li>
+                  <a href="https://discord.gg/hZzJV2Y" target="_blank" rel="noreferrer" >This Is M [rn]</a>
                 </li>
               </ul>
             </Card.Body>
