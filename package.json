@@ -23,7 +23,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && cp -fpr v2 docs/ && echo 'Build complete!'",
+    "build": "react-scripts build && cp -fpr v2 docs/ && cp ./CNAME docs/ && echo 'Build complete!'",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "deploy": "git add --all && git commit -m 'Deploy' && git push"
