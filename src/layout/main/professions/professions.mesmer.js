@@ -21,7 +21,7 @@ function ProfessionsMesmer() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Dueling */}
@@ -110,7 +110,7 @@ function ProfessionsMesmer() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Chronomancer */}
@@ -165,7 +165,7 @@ function ProfessionsMesmer() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Mirage */}
@@ -217,7 +217,7 @@ function ProfessionsMesmer() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Virtuoso */}

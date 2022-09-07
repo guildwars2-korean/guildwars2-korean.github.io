@@ -21,7 +21,7 @@ function ProfessionsEngineer() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Explosives */}
@@ -150,7 +150,7 @@ function ProfessionsEngineer() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Scrapper */}
@@ -201,7 +201,7 @@ function ProfessionsEngineer() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Holosmith */}
@@ -255,7 +255,7 @@ function ProfessionsEngineer() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Mechanist */}

@@ -21,7 +21,7 @@ function ProfessionsGuardian() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Valor */}
@@ -119,7 +119,7 @@ function ProfessionsGuardian() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Dragonhunter */}
@@ -176,7 +176,7 @@ function ProfessionsGuardian() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Firebrand */}
@@ -231,7 +231,7 @@ function ProfessionsGuardian() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Willbender */}

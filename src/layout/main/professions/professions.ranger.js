@@ -21,7 +21,7 @@ function ProfessionsRanger() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Marksmanship */}
@@ -111,7 +111,7 @@ function ProfessionsRanger() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Druid */}
@@ -174,7 +174,7 @@ function ProfessionsRanger() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Soulbeast */}
@@ -271,7 +271,7 @@ function ProfessionsRanger() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Untamed */}

@@ -21,7 +21,7 @@ function ProfessionsNecromancer() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Death Magic */}
@@ -146,7 +146,7 @@ function ProfessionsNecromancer() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Reaper */}
@@ -195,7 +195,7 @@ function ProfessionsNecromancer() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Scourge */}
@@ -253,7 +253,7 @@ function ProfessionsNecromancer() {
             <Row>
               <Col xl="6">
                 {/* 특성 / Traits */}
-                <Card>
+                <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
                   <Card.Body>
                     {/* Harbinger */}
