@@ -48,6 +48,9 @@ function Home() {
                 <li>
                   <a href="https://wiki.guildwars2.com/wiki/Event_timers" target="_blank" rel="noreferrer">Event timers</a>
                 </li>
+                <li>
+                  <a href="https://gw2crafts.net/" target="_blank" rel="noreferrer">gw2crafts</a>
+                </li>
               </ul>
             </Card.Body>
           </Card>
