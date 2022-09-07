@@ -44,7 +44,6 @@ def get_skill_ids():
 
 def get_skills():
     skill_ids = sorted(get_skill_ids())
-    skills = []
     for skill_id in skill_ids:
         path = './{}/{}/{}'.format(origin_dir_name, 'skills', skill_id)
         skill = read_item(path)
@@ -62,7 +61,16 @@ def get_skills():
         description = skill.get('description', None)
         if not description:
             continue
-        print(repr(description))
+
+        name = skill.get('name', None)
+        if not name:
+            continue
+
+        description = repr(description)
+        description = description[1:]
+        description = description[:-1]
+
+        print('{}@{}'.format(name, description))
 
 def read_item(item_path):
     with open(item_path, 'r') as f:

@@ -60,6 +60,7 @@ function Header(props) {
                         </NavDropdown.Item>
                     </NavDropdown>
                 </Nav>
+                <a href="https://hits.seeyoufarm.com" style={{float: "right" }}><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fguildwars2-korean.github.io&count_bg=%23353535&title_bg=%23969696&icon=&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false"/></a>
             </Container>
         </Navbar>
       </header>

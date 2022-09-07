@@ -53,9 +53,16 @@ def get_trait_descriptions():
         if not description:
             continue
 
-        description = pre_translate_item(description)
+        name = trait.get('name', None)
+        if not name:
+            continue
 
-        print(repr(description))
+        description = pre_translate_item(description)
+        description = repr(description)
+        description = description[1:]
+        description = description[:-1]
+
+        print('{}@{}'.format(name, description))
 
 def read_item(item_path):
     with open(item_path, 'r') as f:
