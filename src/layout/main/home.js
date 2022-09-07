@@ -21,7 +21,7 @@ function Home() {
           </Card>
         </Col>
         <Col md="6">
-          <Card style={{marginBottom: 10}}>
+        <Card style={{marginBottom: 10}}>
             <Card.Header>유용한 사이트 모음</Card.Header>
             <Card.Body>
               <ul>
@@ -40,6 +40,21 @@ function Home() {
         </Col>
       </Row>
       <Row style={{marginBottom: 10}}>
+        <Col md="6">
+          <Card style={{marginBottom: 10}}>
+            <Card.Header>주요 업데이트</Card.Header>
+            <Card.Body>
+              <ul>
+                <li>
+                  [2022.09.07] 스킬을 분류별로 묶음(직업, 힐, 유틸리티, 엘리트)
+                </li>
+                <li>
+                  [2022.09.06] Beta 오픈
+                </li>
+              </ul>
+            </Card.Body>
+          </Card>
+        </Col>
         <Col md="6">
           <Card style={{marginBottom: 10}}>
             <Card.Header>한인 길드 리스트</Card.Header>
