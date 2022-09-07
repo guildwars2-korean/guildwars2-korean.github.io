@@ -8,6 +8,7 @@ function Home() {
     <>
     <Container>
       <Row style={{marginBottom: 10}}>
+        {/* 안내 */}
         <Col md="6">
           <Card style={{marginBottom: 10}}>
             <Card.Header>안내</Card.Header>
@@ -20,24 +21,38 @@ function Home() {
             </Card.Body>
           </Card>
         </Col>
+        {/* 유용한 사이트 모음 */}
         <Col md="6">
         <Card style={{marginBottom: 10}}>
             <Card.Header>유용한 사이트 모음</Card.Header>
             <Card.Body>
               <ul>
                 <li>
-                  <a href="https://cafe.daum.net/koreanguildwars2" target="_blank" rel="noreferrer" >길드워2 한인 모임</a>
+                  <a href="https://cafe.daum.net/koreanguildwars2" target="_blank" rel="noreferrer">길드워2 한인 모임</a>
                 </li>
                 <li>
-                  <a href="https://metabattle.com/" target="_blank" rel="noreferrer" >Metabattle</a>
+                  <a href="https://metabattle.com/" target="_blank" rel="noreferrer">Metabattle</a>
                 </li>
                 <li>
-                  <a href="https://snowcrows.com/" target="_blank" rel="noreferrer" >Snowcrows</a>
+                  <a href="https://snowcrows.com/" target="_blank" rel="noreferrer">Snowcrows</a>
+                </li>
+                <li>
+                  <a href="https://wiki.guildwars2.com/" target="_blank" rel="noreferrer">Guild Wars 2 Wiki</a>
+                </li>
+                <li>
+                  <a href="https://www.deltaconnected.com/arcdps/" target="_blank" rel="noreferrer">arcdps</a>
+                </li>
+                <li>
+                  <a href="http://www.gw2taco.com/" target="_blank" rel="noreferrer">TacO</a>
+                </li>
+                <li>
+                  <a href="https://wiki.guildwars2.com/wiki/Event_timers" target="_blank" rel="noreferrer">Event timers</a>
                 </li>
               </ul>
             </Card.Body>
           </Card>
         </Col>
+        {/* 주요 업데이트 */}
         <Col md="6">
           <Card style={{marginBottom: 10}}>
             <Card.Header>주요 업데이트</Card.Header>
@@ -53,6 +68,7 @@ function Home() {
             </Card.Body>
           </Card>
         </Col>
+        {/* 한인 길드 리스트 */}
         <Col md="6">
           <Card style={{marginBottom: 10}}>
             <Card.Header>한인 길드 리스트</Card.Header>
