@@ -96,7 +96,7 @@ function Home() {
                   Never Die [ND]
                 </li>
                 <li>
-                  <a href="https://discord.gg/hZzJV2Y" target="_blank" rel="noreferrer" >This Is M [rn]</a>
+                  <a href="https://discord.gg/r2mdc8D" target="_blank" rel="noreferrer" >This Is M [rn]</a>
                 </li>
               </ul>
             </Card.Body>
