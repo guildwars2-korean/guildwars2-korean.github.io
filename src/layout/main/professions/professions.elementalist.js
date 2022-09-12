@@ -103,7 +103,7 @@ function ProfessionsElementalist() {
                                 <Card.Header>4</Card.Header>
                                 <Card.Body>
                                   <Skill id={5691} /> {/* Ring of Fire */}<br></br>
-                                  <Skill id={5520} /> {/* Frost Aura */}<br></br>
+                                  <Skill id={5520} /> {/* Frost Aura */}
                                   <Skill id={51646} /> {/* Transmute Frost */}<br></br>
                                   <Skill id={5529} /> {/* Ride the Lightning */}<br></br>
                                   <Skill id={5690} /> {/* Earthquake */}<br></br>
