@@ -19,7 +19,404 @@ function ProfessionsMesmer() {
           <Card.Header>메스머 : Original</Card.Header>
           <Card.Body>
             <Row>
-              <Col xl="6">
+              <Col xl="12" style={{marginBottom: 10}}>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>무기 스킬</Card.Header>
+                  <Card.Body>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Downed</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10196} /> {/* Mind Blast */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10366} /> {/* Deception */}<br></br>
+                                  <Skill id={62454} /> {/* Deception */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10224} /> {/* Phantasmal Rogue */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Focus</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10186} /> {/* Temporal Curtain */}<br></br>
+                                  <Skill id={10363} /> {/* Into the Void */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10282} /> {/* Phantasmal Warden */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Greatsword</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10219} /> {/* Spatial Surge */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10333} /> {/* Mirror Blade */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10218} /> {/* Mind Stab */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10221} /> {/* Phantasmal Berserker */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10220} /> {/* Illusionary Wave */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Pistol</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10175} /> {/* Phantasmal Duelist */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10229} /> {/* Magic Bullet */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Scepter</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10289} /> {/* Ether Bolt */}<br></br>
+                                  <Skill id={10290} /> {/* Ether Blast */}<br></br>
+                                  <Skill id={10291} /> {/* Ether Clone */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10276} /> {/* Illusionary Counter */}<br></br>
+                                  <Skill id={10314} /> {/* Counterspell */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10168} /> {/* Confusing Images */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Staff</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10273} /> {/* Winds of Chaos */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10310} /> {/* Phase Retreat */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10216} /> {/* Phantasmal Warlock */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10331} /> {/* Chaos Armor */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10169} /> {/* Chaos Storm */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Sword</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10170} /> {/* Mind Slash */}<br></br>
+                                  <Skill id={10171} /> {/* Mind Gash */}<br></br>
+                                  <Skill id={10172} /> {/* Mind Spike */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10334} /> {/* Blurred Frenzy */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10173} /> {/* Illusionary Leap */}<br></br>
+                                  <Skill id={10337} /> {/* Swap */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10280} /> {/* Illusionary Riposte */}<br></br>
+                                  <Skill id={10358} /> {/* Counter Blade */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10174} /> {/* Phantasmal Swordsman */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Torch</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10285} /> {/* The Prestige */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10189} /> {/* Phantasmal Mage */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Spear</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10315} /> {/* Stab */}<br></br>
+                                  <Skill id={10316} /> {/* Jab */}<br></br>
+                                  <Skill id={10317} /> {/* Evasive Strike */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10318} /> {/* Feigned Surge */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10251} /> {/* Phantasmal Mariner */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10325} /> {/* Slipstream */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10255} /> {/* Vortex */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Trident</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10258} /> {/* Siren's Call */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10259} /> {/* Blinding Tide */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10327} /> {/* Imminent Voyage */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10328} /> {/* Phantasmal Whaler */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={10260} /> {/* Illusion of Drowning */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                    </Card.Body>
+                  </Card>
+              </Col>
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 특성 / Traits */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
@@ -37,7 +434,7 @@ function ProfessionsMesmer() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 스킬 / Skills */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>직업 스킬</Card.Header>
@@ -108,7 +505,41 @@ function ProfessionsMesmer() {
           <Card.Header>크로노맨서 : HoT(Heart Of Thorns)</Card.Header>
           <Card.Body>
             <Row>
-              <Col xl="6">
+              <Col xl="12" style={{marginBottom: 10}}>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>무기 스킬</Card.Header>
+                  <Card.Body>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Shield</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={30769} /> {/* Echo of Memory */}<br></br>
+                                  <Skill id={29649} /> {/* Deja Vu */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={30643} /> {/* Tides of Time */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                    </Card.Body>
+                  </Card>
+              </Col>
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 특성 / Traits */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
@@ -118,7 +549,7 @@ function ProfessionsMesmer() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 스킬 / Skills */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>직업 스킬</Card.Header>
@@ -163,7 +594,164 @@ function ProfessionsMesmer() {
           <Card.Header>미라지 : PoF(Path of Fire)</Card.Header>
           <Card.Body>
             <Row>
-              <Col xl="6">
+              <Col xl="12" style={{marginBottom: 10}}>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>무기 스킬</Card.Header>
+                  <Card.Body>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Axe</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={41164} /> {/* Mirror Strikes */}
+                                  <Skill id={44840} /> {/* Ethereal Chop */}
+                                  <Skill id={44791} /> {/* Lacerating Chop */}<br></br>
+                                  <Skill id={44321} /> {/* Imaginary Axes */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={45243} /> {/* Lingering Thoughts */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={43761} /> {/* Axes of Symmetry */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Greatsword</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={44241} /> {/* Split Surge */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Scepter</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={42304} /> {/* Ether Barrage */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Staff</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={40184} /> {/* Chaos Vortex */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Sword</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={45230} /> {/* Mirage Thrust */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Spear</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={44864} /> {/* Ambush Assault */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Trident</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={39959} /> {/* Wave of Panic */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                    </Card.Body>
+                  </Card>
+              </Col>
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 특성 / Traits */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
@@ -173,7 +761,7 @@ function ProfessionsMesmer() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 스킬 / Skills */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>직업 스킬</Card.Header>
@@ -215,7 +803,67 @@ function ProfessionsMesmer() {
           <Card.Header>버츄오소 : EoD(End of Dragons)</Card.Header>
           <Card.Body>
             <Row>
-              <Col xl="6">
+              <Col xl="12" style={{marginBottom: 10}}>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>무기 스킬</Card.Header>
+                  <Card.Body>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Dagger</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={62510} /> {/* Flying Cutter */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={62560} /> {/* Bladecall */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={62607} /> {/* Unstable Bladestorm */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Sword</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={62568} /> {/* Blade Leap */}<br></br>
+                                  <Skill id={62675} /> {/* Returning Edge */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                    </Card.Body>
+                  </Card>
+              </Col>
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 특성 / Traits */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
@@ -225,7 +873,7 @@ function ProfessionsMesmer() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 스킬 / Skills */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>직업 스킬</Card.Header>

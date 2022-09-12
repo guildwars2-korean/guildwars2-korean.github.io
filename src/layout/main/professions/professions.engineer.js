@@ -19,7 +19,220 @@ function ProfessionsEngineer() {
           <Card.Header>엔지니어 : Original</Card.Header>
           <Card.Body>
             <Row>
-              <Col xl="6">
+              <Col xl="12" style={{marginBottom: 10}}>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>무기 스킬</Card.Header>
+                  <Card.Body>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Downed</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={5820} /> {/* Throw Junk */}<br></br>
+                                  <Skill id={5916} /> {/* Floating Mine */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={5962} /> {/* Grappling Line */}<br></br>
+                                  <Skill id={5917} /> {/* Anchor */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={5963} /> {/* Booby Trap */}<br></br>
+                                  <Skill id={5918} /> {/* Buoy */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Pistol</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={5827} /> {/* Fragmentation Shot */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={5828} /> {/* Poison Dart Volley */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={5829} /> {/* Static Shot */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={5831} /> {/* Blowtorch */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={5830} /> {/* Glue Shot */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Rifle</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={6003} /> {/* Rifle Burst */}<br></br>
+                                  <Skill id={68079} /> {/* Rifle Burst Grenade */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={6153} /> {/* Blunderbuss */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={6004} /> {/* Net Shot */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={6154} /> {/* Overcharged Shot */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={6005} /> {/* Jump Shot */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Shield</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={6053} /> {/* Magnetic Shield */}<br></br>
+                                  <Skill id={6126} /> {/* Magnetic Inversion */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={6054} /> {/* Static Shield */}<br></br>
+                                  <Skill id={6057} /> {/* Throw Shield */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Speargun</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={6148} /> {/* Homing Torpedo */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={6147} /> {/* Scatter Mines */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={50380} /> {/* Capture Line */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={6149} /> {/* Timed Charge */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={6145} /> {/* Net Wall */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                    </Card.Body>
+                  </Card>
+              </Col>
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 특성 / Traits */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
@@ -37,7 +250,7 @@ function ProfessionsEngineer() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 스킬 / Skills */}
                 <Card style={{marginBottom: 10}}>     
                   <Card.Header>직업 스킬</Card.Header>
@@ -148,7 +361,63 @@ function ProfessionsEngineer() {
           <Card.Header>스크래퍼 : HoT(Heart Of Thorns)</Card.Header>
           <Card.Body>
             <Row>
-              <Col xl="6">
+              <Col xl="12" style={{marginBottom: 10}}>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>무기 스킬</Card.Header>
+                  <Card.Body>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Hammer</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={29785} /> {/* Negative Bash */}<br></br>
+                                  <Skill id={30489} /> {/* Equalizing Blow */}<br></br>
+                                  <Skill id={30501} /> {/* Positive Strike */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={30088} /> {/* Electro-whirl */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={30665} /> {/* Rocket Charge */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={29840} /> {/* Shock Shield */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={30713} /> {/* Thunderclap */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                    </Card.Body>
+                  </Card>
+              </Col>
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 특성 / Traits */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
@@ -158,7 +427,7 @@ function ProfessionsEngineer() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 스킬 / Skills */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>직업 스킬</Card.Header>
@@ -199,7 +468,101 @@ function ProfessionsEngineer() {
           <Card.Header>홀로스미스 : PoF(Path of Fire)</Card.Header>
           <Card.Body>
             <Row>
-              <Col xl="6">
+              <Col xl="12" style={{marginBottom: 10}}>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>무기 스킬</Card.Header>
+                  <Card.Body>
+                  <Card style={{marginBottom: 10}}>
+                      <Card.Header>직업</Card.Header>
+                      <Card.Body>
+                        <Row>
+                          <Col>
+                            <Card style={{marginBottom: 10}}>
+                              <Card.Header>1</Card.Header>
+                              <Card.Body>
+                                <Skill id={44588} /> {/* Light Strike */}
+                                <Skill id={45756} /> {/* Bright Slash */}
+                                <Skill id={45890} /> {/* Flash Cutter */}<br></br>
+                                <Skill id={44260} /> {/* Light Strike—Storm */}
+                                <Skill id={42475} /> {/* Bright Slash—Storm */}
+                                <Skill id={41684} /> {/* Flash Cutter—Storm */}<br></br>
+                              </Card.Body>
+                            </Card>
+                          </Col>
+                          <Col>
+                            <Card style={{marginBottom: 10}}>
+                              <Card.Header>2</Card.Header>
+                              <Card.Body>
+                                <Skill id={42965} /> {/* Holo Leap */}<br></br>
+                              </Card.Body>
+                            </Card>
+                          </Col>
+                          <Col>
+                            <Card style={{marginBottom: 10}}>
+                              <Card.Header>3</Card.Header>
+                              <Card.Body>
+                                <Skill id={44530} /> {/* Corona Burst */}<br></br>
+                              </Card.Body>
+                            </Card>
+                          </Col>
+                          <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={45783} /> {/* Photon Blitz */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={42521} /> {/* Holographic Shockwave */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                        </Row>
+                      </Card.Body>
+                    </Card>
+                    <Card style={{marginBottom: 10}}>
+                      <Card.Header>Sword</Card.Header>
+                      <Card.Body>
+                        <Row>
+                          <Col>
+                            <Card style={{marginBottom: 10}}>
+                              <Card.Header>1</Card.Header>
+                              <Card.Body>
+                                <Skill id={43476} /> {/* Sun Edge */}<br></br>
+                                <Skill id={45581} /> {/* Sun Ripper */}<br></br>
+                                <Skill id={45979} /> {/* Gleam Saber */}<br></br>
+                              </Card.Body>
+                            </Card>
+                          </Col>
+                          <Col>
+                            <Card style={{marginBottom: 10}}>
+                              <Card.Header>2</Card.Header>
+                              <Card.Body>
+                                <Skill id={44110} /> {/* Refraction Cutter */}<br></br>
+                              </Card.Body>
+                            </Card>
+                          </Col>
+                          <Col>
+                            <Card style={{marginBottom: 10}}>
+                              <Card.Header>3</Card.Header>
+                              <Card.Body>
+                                <Skill id={40160} /> {/* Radiant Arc */}<br></br>
+                              </Card.Body>
+                            </Card>
+                          </Col>
+                          <Col></Col>
+                          <Col></Col>
+                        </Row>
+                      </Card.Body>
+                    </Card>
+                  </Card.Body>
+                </Card>
+              </Col>
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 특성 / Traits */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
@@ -209,7 +572,7 @@ function ProfessionsEngineer() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 스킬 / Skills */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>직업 스킬</Card.Header>
@@ -253,7 +616,49 @@ function ProfessionsEngineer() {
           <Card.Header>메카니스트 : EoD(End of Dragons)</Card.Header>
           <Card.Body>
             <Row>
-              <Col xl="6">
+              <Col xl="12" style={{marginBottom: 10}}>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>무기 스킬</Card.Header>
+                  <Card.Body>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Mace</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={63186} /> {/* Mace Strike */}<br></br>
+                                  <Skill id={63077} /> {/* Mace Smash */}<br></br>
+                                  <Skill id={63174} /> {/* Barrier Blast */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={63169} /> {/* Energizing Slam */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={63234} /> {/* Rocket Fist Prototype */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                    </Card.Body>
+                  </Card>
+              </Col>
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 특성 / Traits */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
@@ -263,7 +668,7 @@ function ProfessionsEngineer() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 스킬 / Skills */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>직업 스킬</Card.Header>

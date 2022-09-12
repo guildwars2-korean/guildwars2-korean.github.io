@@ -96,8 +96,8 @@ if __name__ == '__main__':
     # Thief : [None, 7, 58, 71]
     # Warrior : [None, 18, 61, 68]
 
-    profession = 'Elementalist'
-    specialization = 67
+    profession = 'Warrior'
+    specialization = 68
 
 
     types = [('Weapon', '무기')]

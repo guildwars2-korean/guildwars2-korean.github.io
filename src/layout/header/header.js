@@ -6,6 +6,17 @@ import Nav from 'react-bootstrap/Nav'
 import Navbar from 'react-bootstrap/NavBar'
 import NavDropdown from 'react-bootstrap/NavDropdown'
 
+import elementalist_icon from '../../images/Elementalist_icon_small.png'
+import engineer_icon from '../../images/Engineer_icon_small.png'
+import guardian_icon from '../../images/Guardian_icon_small.png'
+import mesmer_icon from '../../images/Mesmer_icon_small.png'
+import necromancer_icon from '../../images/Necromancer_icon_small.png'
+import ranger_icon from '../../images/Ranger_icon_small.png'
+import revenant_icon from '../../images/Revenant_icon_small.png'
+import thief_icon from '../../images/Thief_icon_small.png'
+import warrior_icon from '../../images/Warrior_icon_small.png'
+
+
 
 function Header(props) {
     return (
@@ -16,39 +27,39 @@ function Header(props) {
                 <Nav className="me-auto">
                     <NavDropdown title="직업" id="dropdown-trait">
                         <NavDropdown.Item href='/professions/elementalist'>
-                          <img alt="elementalist" src="https://wiki.guildwars2.com/images/4/4e/Elementalist_icon_small.png"/>&nbsp;
+                          <img alt="elementalist" src={elementalist_icon}/>&nbsp;
                           엘리멘탈리스트
                         </NavDropdown.Item>
                         <NavDropdown.Item href='/professions/engineer'>
-                          <img alt="engineer" src="https://wiki.guildwars2.com/images/0/07/Engineer_icon_small.png"/>&nbsp;
+                          <img alt="engineer" src={engineer_icon}/>&nbsp;
                           엔지니어
                         </NavDropdown.Item>
                         <NavDropdown.Item href='/professions/guardian'>
-                          <img alt="guardian" src="https://wiki.guildwars2.com/images/c/c7/Guardian_icon_small.png"/>&nbsp;
+                          <img alt="guardian" src={guardian_icon}/>&nbsp;
                           가디언
                         </NavDropdown.Item>
                         <NavDropdown.Item href='/professions/mesmer'>
-                          <img alt="mesmer" src="https://wiki.guildwars2.com/images/7/79/Mesmer_icon_small.png"/>&nbsp;
+                          <img alt="mesmer" src={mesmer_icon}/>&nbsp;
                           메스머
                         </NavDropdown.Item>
                         <NavDropdown.Item href='/professions/necromancer'>
-                          <img alt="necromancer" src="https://wiki.guildwars2.com/images/1/10/Necromancer_icon_small.png"/>&nbsp;
+                          <img alt="necromancer" src={necromancer_icon}/>&nbsp;
                           네크로맨서
                         </NavDropdown.Item>
                         <NavDropdown.Item href='/professions/ranger'>
-                          <img alt="ranger" src="https://wiki.guildwars2.com/images/1/1e/Ranger_icon_small.png"/>&nbsp;
+                          <img alt="ranger" src={ranger_icon}/>&nbsp;
                           레인저
                         </NavDropdown.Item>
                         <NavDropdown.Item href='/professions/revenant'>
-                          <img alt="revenant" src="https://wiki.guildwars2.com/images/4/4c/Revenant_icon_small.png"/>&nbsp;
+                          <img alt="revenant" src={revenant_icon}/>&nbsp;
                           레버넌트
                         </NavDropdown.Item>
                         <NavDropdown.Item href='/professions/thief'>
-                          <img alt="thief" src="https://wiki.guildwars2.com/images/a/a0/Thief_icon_small.png"/>&nbsp;
+                          <img alt="thief" src={thief_icon}/>&nbsp;
                           시프
                         </NavDropdown.Item>
                         <NavDropdown.Item href='/professions/warrior'>
-                          <img alt="warrior" src="https://wiki.guildwars2.com/images/4/45/Warrior_icon_small.png"/>&nbsp;
+                          <img alt="warrior" src={warrior_icon}/>&nbsp;
                           워리어
                         </NavDropdown.Item>
                     </NavDropdown>

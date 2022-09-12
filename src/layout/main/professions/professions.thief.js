@@ -19,7 +19,344 @@ function ProfessionsThief() {
           <Card.Header>시프 : Original</Card.Header>
           <Card.Body>
             <Row>
-              <Col xl="6">
+              <Col xl="12" style={{marginBottom: 10}}>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>무기 스킬</Card.Header>
+                  <Card.Body>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Downed</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13003} /> {/* Trail of Knives */}<br></br>
+                                  <Skill id={13138} /> {/* Venomous Knife */}<br></br>
+                                  <Skill id={13079} /> {/* Diving Knife */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13140} /> {/* Shadow Escape */}<br></br>
+                                  <Skill id={13081} /> {/* Cheap Shot */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13033} /> {/* Smoke Bomb */}<br></br>
+                                  <Skill id={13080} /> {/* Vanish in the Deep */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Dagger</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13004} /> {/* Double Strike */}
+                                  <Skill id={13087} /> {/* Wild Strike */}
+                                  <Skill id={13108} /> {/* Lotus Strike */}<br></br>
+                                  <Skill id={13005} /> {/* Backstab */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13097} /> {/* Heartseeker */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13006} /> {/* Death Blossom */}<br></br>
+                                  <Skill id={13040} /> {/* Shadow Shot */}<br></br>
+                                  <Skill id={13110} /> {/* Twisting Fangs */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13019} /> {/* Dancing Dagger */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={16432} /> {/* Cloak and Dagger */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Pistol</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13084} /> {/* Vital Shot */}<br></br>
+                                  <Skill id={13115} /> {/* Sneak Attack */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13008} /> {/* Bola Shot */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13010} /> {/* Shadow Strike */}<br></br>
+                                  <Skill id={13011} /> {/* Unload */}<br></br>
+                                  <Skill id={13111} /> {/* Repeater */}<br></br>
+                                  <Skill id={59526} /> {/* Repeater */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13012} /> {/* Head Shot */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13113} /> {/* Black Powder */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Shortbow</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13022} /> {/* Trick Shot */}<br></br>
+                                  <Skill id={13129} /> {/* Surprise Shot */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13041} /> {/* Cluster Bomb */}<br></br>
+                                  <Skill id={13043} /> {/* Detonate Cluster */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13083} /> {/* Disabling Shot */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13024} /> {/* Choking Gas */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13025} /> {/* Infiltrator's Arrow */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Sword</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13009} /> {/* Slice */}<br></br>
+                                  <Skill id={13088} /> {/* Slash */}<br></br>
+                                  <Skill id={13116} /> {/* Crippling Strike */}<br></br>
+                                  <Skill id={13114} /> {/* Tactical Strike */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13015} /> {/* Infiltrator's Strike */}<br></br>
+                                  <Skill id={13128} /> {/* Infiltrator's Return */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13007} /> {/* Larcenous Strike */}<br></br>
+                                  <Skill id={13016} /> {/* Flanking Strike */}<br></br>
+                                  <Skill id={13031} /> {/* Pistol Whip */}<br></br>
+                                  <Skill id={13112} /> {/* Stab */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Spear</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13119} /> {/* Stab */}<br></br>
+                                  <Skill id={13120} /> {/* Jab */}<br></br>
+                                  <Skill id={13121} /> {/* Poison Tip Strike */}<br></br>
+                                  <Skill id={13125} /> {/* Deadly Strike */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13069} /> {/* Flanking Dive */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13122} /> {/* Nine-Tailed Strike */}<br></br>
+                                  <Skill id={13130} /> {/* Break Stance */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13070} /> {/* Tow Line */}<br></br>
+                                  <Skill id={50379} /> {/* Hooked Spear */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13068} /> {/* Shadow Assault */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Speargun</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13072} /> {/* Piercing Shot */}<br></br>
+                                  <Skill id={13126} /> {/* The Ripper */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13073} /> {/* Deluge */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13074} /> {/* Escape */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13075} /> {/* Crippling Shot */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={13076} /> {/* Ink Shot */}<br></br>
+                                  <Skill id={13078} /> {/* Smoke Trail */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                    </Card.Body>
+                </Card>
+              </Col>
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 특성 / Traits */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
@@ -37,7 +374,7 @@ function ProfessionsThief() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 스킬 / Skills */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>직업 스킬</Card.Header>
@@ -104,7 +441,64 @@ function ProfessionsThief() {
           <Card.Header>데어데블 : HoT(Heart Of Thorns)</Card.Header>
           <Card.Body>
             <Row>
-              <Col xl="6">
+              <Col xl="12" style={{marginBottom: 10}}>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>무기 스킬</Card.Header>
+                  <Card.Body>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Staff</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={30135} /> {/* Staff Bash */}<br></br>
+                                  <Skill id={30614} /> {/* Staff Strike */}<br></br>
+                                  <Skill id={30434} /> {/* Punishing Strikes */}<br></br>
+                                  <Skill id={30210} /> {/* Hook Strike */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={29911} /> {/* Weakening Charge */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={30520} /> {/* Debilitating Arc */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={30775} /> {/* Dust Strike */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={30597} /> {/* Vault */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                    </Card.Body>
+                  </Card>
+              </Col>
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 특성 / Traits */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
@@ -114,7 +508,7 @@ function ProfessionsThief() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 스킬 / Skills */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>직업 스킬</Card.Header>
@@ -158,7 +552,173 @@ function ProfessionsThief() {
           <Card.Header>데드아이 : PoF(Path of Fire)</Card.Header>
           <Card.Body>
             <Row>
-              <Col xl="6">
+            <Col xl="12" style={{marginBottom: 10}}>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>무기 스킬</Card.Header>
+                  <Card.Body>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Dagger</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={50481} /> {/* Malicious Backstab */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Pistol</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={50466} /> {/* Malicious Sneak Attack */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Rifle</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={41422} /> {/* Brutal Aim */}<br></br>
+                                  <Skill id={44087} /> {/* Death's Judgment */}<br></br>
+                                  <Skill id={40710} /> {/* Deadly Aim */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={41494} /> {/* Skirmisher's Shot */}<br></br>
+                                  <Skill id={44591} /> {/* Spotter's Shot */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={43916} /> {/* Double Tap */}<br></br>
+                                  <Skill id={44695} /> {/* Three Round Burst */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>4</Card.Header>
+                                <Card.Body>
+                                  <Skill id={41937} /> {/* Death's Retreat */}<br></br>
+                                  <Skill id={40436} /> {/* Sniper's Cover */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>5</Card.Header>
+                                <Card.Body>
+                                  <Skill id={40600} /> {/* Kneel */}<br></br>
+                                  <Skill id={41068} /> {/* Free Action */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Shortbow</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={50451} /> {/* Malicious Surprise Shot */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Sword</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={50484} /> {/* Malicious Tactical Strike */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Spear</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={50417} /> {/* Malicious Deadly Strike */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Speargun</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={50449} /> {/* Malicious Ripper */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                    </Card.Body>
+                  </Card>
+              </Col>
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 특성 / Traits */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
@@ -168,7 +728,7 @@ function ProfessionsThief() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 스킬 / Skills */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>직업 스킬</Card.Header>
@@ -217,7 +777,53 @@ function ProfessionsThief() {
           <Card.Header>스펙터 : EoD(End of Dragons)</Card.Header>
           <Card.Body>
             <Row>
-              <Col xl="6">
+              <Col xl="12" style={{marginBottom: 10}}>
+                <Card style={{marginBottom: 10}}>
+                  <Card.Header>무기 스킬</Card.Header>
+                  <Card.Body>
+                      <Card style={{marginBottom: 10}}>
+                        <Card.Header>Scepter</Card.Header>
+                        <Card.Body>
+                          <Row>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>1</Card.Header>
+                                <Card.Body>
+                                  <Skill id={63066} /> {/* Shadow Bolt */}<br></br>
+                                  <Skill id={63134} /> {/* Triple Bolt */}<br></br>
+                                  <Skill id={63182} /> {/* Double Bolt */}<br></br>
+                                  <Skill id={63314} /> {/* Shadowsquall */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>2</Card.Header>
+                                <Card.Body>
+                                  <Skill id={63351} /> {/* Shadow Sap */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col>
+                              <Card style={{marginBottom: 10}}>
+                                <Card.Header>3</Card.Header>
+                                <Card.Body>
+                                  <Skill id={63154} /> {/* Triple Threat */}<br></br>
+                                  <Skill id={63128} /> {/* Endless Night */}<br></br>
+                                  <Skill id={63254} /> {/* Twilight Combo */}<br></br>
+                                  <Skill id={63267} /> {/* Measured Shot */}<br></br>
+                                </Card.Body>
+                              </Card>
+                            </Col>
+                            <Col></Col>
+                            <Col></Col>
+                          </Row>
+                        </Card.Body>
+                      </Card>
+                    </Card.Body>
+                  </Card>
+              </Col>
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 특성 / Traits */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
@@ -227,7 +833,7 @@ function ProfessionsThief() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 스킬 / Skills */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>직업 스킬</Card.Header>
