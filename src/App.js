@@ -14,7 +14,7 @@ function App() {
   return (
   <div>
     <Header />
-    <Row>
+    <Row style={{minHeight: "calc(100vh - 215px)", width: "100%"}}>
       <Col sm="1">
         
       </Col>
@@ -27,7 +27,7 @@ function App() {
         </div>
       </Col>
     </Row>
-    <Footer />
+    <Footer style={{position: "sticky", "bottom": 0}} />
   </div>
   );
 }

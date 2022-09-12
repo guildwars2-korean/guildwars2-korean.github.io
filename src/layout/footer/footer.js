@@ -9,7 +9,7 @@ function Footer(props) {
     return (
       <>
       <footer className="footer">
-        <Navbar bg="light" variant="light" fixed="bottom">
+        <Navbar bg="light" variant="light">
           <Container>
             <Nav className="me-auto">
               <Nav.Link href="#" style={{pointerEvents: "none", cursor: "default"}}>
