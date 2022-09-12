@@ -24,7 +24,7 @@ function ProfessionsWarrior() {
                   <Card.Header>무기 스킬</Card.Header>
                   <Card.Body>
                       <Card style={{marginBottom: 10}}>
-                        <Card.Header>Downed</Card.Header>
+                        <Card.Header>다운 스킬</Card.Header>
                         <Card.Body>
                           <Row>
                             <Col>
