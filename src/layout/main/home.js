@@ -39,7 +39,7 @@ function Home() {
                   <a href="https://metabattle.com/" target="_blank" rel="noreferrer">Metabattle</a> 빌드
                 </li>
                 <li>
-                  <a href="https://snowcrows.com/" target="_blank" rel="noreferrer">Snowcrows</a> 빌드
+                  <a href="https://snowcrows.com/" target="_blank" rel="noreferrer">Snowcrows</a> 레이드 빌드
                 </li>
                 <li>
                   <a href="https://www.deltaconnected.com/arcdps/" target="_blank" rel="noreferrer">arcdps</a> 애드온
@@ -54,7 +54,7 @@ function Home() {
                   <a href="https://gw2crafts.net/" target="_blank" rel="noreferrer">gw2crafts</a> 제작 가이드
                 </li>
                 <li>
-                  <a href="https://discretize.eu/" target="_blank" rel="noreferrer">discretize</a> 프랙탈
+                  <a href="https://discretize.eu/" target="_blank" rel="noreferrer">discretize</a> 프랙탈 가이드
                 </li>
                 <li>
                   <a href="https://fast.farming-community.eu/" target="_blank" rel="noreferrer">fast.farming-community</a> 파밍 가이드

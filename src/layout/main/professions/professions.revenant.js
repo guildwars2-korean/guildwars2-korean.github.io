@@ -16,7 +16,7 @@ function ProfessionsRevenant() {
       <Row style={{marginBottom: 10}}>
         {/* 오리지널 / Original */}
         <Card style={{padding: 0}}>
-          <Card.Header>Original</Card.Header>
+          <Card.Header>레버넌트 : Original</Card.Header>
           <Card.Body>
             <Row>
               <Col xl="6">
@@ -102,7 +102,7 @@ function ProfessionsRevenant() {
       <Row style={{marginBottom: 10}}>
         {/* HoT / Heart of Thorns */}
         <Card style={{padding: 0}}>
-          <Card.Header>HoT(Heart Of Thorns)</Card.Header>
+          <Card.Header>헤럴드 : HoT(Heart Of Thorns)</Card.Header>
           <Card.Body>
             <Row>
               <Col xl="6">
@@ -163,7 +163,7 @@ function ProfessionsRevenant() {
       <Row style={{marginBottom: 10}}>
         {/* PoF / Path of Fire */}
         <Card style={{padding: 0}}>
-          <Card.Header>PoF(Path of Fire)</Card.Header>
+          <Card.Header>레네게이드 : PoF(Path of Fire)</Card.Header>
           <Card.Body>
             <Row>
               <Col xl="6">
@@ -218,7 +218,7 @@ function ProfessionsRevenant() {
       <Row style={{marginBottom: 10}}>
         {/* EoD / End of Dragons */}
         <Card style={{padding: 0}}>
-          <Card.Header>EoD(End of Dragons)</Card.Header>
+          <Card.Header>빈디케이터 : EoD(End of Dragons)</Card.Header>
           <Card.Body>
             <Row>
               <Col xl="6">

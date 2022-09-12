@@ -16,7 +16,7 @@ function ProfessionsWarrior() {
       <Row style={{marginBottom: 10}}>
         {/* 오리지널 / Original */}
         <Card style={{padding: 0}}>
-          <Card.Header>Original</Card.Header>
+          <Card.Header>워리어 : Original</Card.Header>
           <Card.Body>
             <Row>
               <Col xl="6">
@@ -135,7 +135,7 @@ function ProfessionsWarrior() {
       <Row style={{marginBottom: 10}}>
         {/* HoT / Heart of Thorns */}
         <Card style={{padding: 0}}>
-          <Card.Header>HoT(Heart Of Thorns)</Card.Header>
+          <Card.Header>버서커 : HoT(Heart Of Thorns)</Card.Header>
           <Card.Body>
             <Row>
               <Col xl="6">
@@ -195,7 +195,7 @@ function ProfessionsWarrior() {
       <Row style={{marginBottom: 10}}>
         {/* PoF / Path of Fire */}
         <Card style={{padding: 0}}>
-          <Card.Header>PoF(Path of Fire)</Card.Header>
+          <Card.Header>스펠브레이커 : PoF(Path of Fire)</Card.Header>
           <Card.Body>
             <Row>
               <Col xl="6">
@@ -261,7 +261,7 @@ function ProfessionsWarrior() {
       <Row style={{marginBottom: 10}}>
         {/* EoD / End of Dragons */}
         <Card style={{padding: 0}}>
-          <Card.Header>EoD(End of Dragons)</Card.Header>
+          <Card.Header>블레이드스원 : EoD(End of Dragons)</Card.Header>
           <Card.Body>
             <Row>
               <Col xl="6">

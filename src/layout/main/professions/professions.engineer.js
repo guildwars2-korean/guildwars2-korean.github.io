@@ -16,7 +16,7 @@ function ProfessionsEngineer() {
       <Row style={{marginBottom: 10}}>
         {/* 오리지널 / Original */}
         <Card style={{padding: 0}}>
-          <Card.Header>Original</Card.Header>
+          <Card.Header>엔지니어 : Original</Card.Header>
           <Card.Body>
             <Row>
               <Col xl="6">
@@ -145,7 +145,7 @@ function ProfessionsEngineer() {
       <Row style={{marginBottom: 10}}>
         {/* HoT / Heart of Thorns */}
         <Card style={{padding: 0}}>
-          <Card.Header>HoT(Heart Of Thorns)</Card.Header>
+          <Card.Header>스크래퍼 : HoT(Heart Of Thorns)</Card.Header>
           <Card.Body>
             <Row>
               <Col xl="6">
@@ -196,7 +196,7 @@ function ProfessionsEngineer() {
       <Row style={{marginBottom: 10}}>
         {/* PoF / Path of Fire */}
         <Card style={{padding: 0}}>
-          <Card.Header>PoF(Path of Fire)</Card.Header>
+          <Card.Header>홀로스미스 : PoF(Path of Fire)</Card.Header>
           <Card.Body>
             <Row>
               <Col xl="6">
@@ -250,7 +250,7 @@ function ProfessionsEngineer() {
       <Row style={{marginBottom: 10}}>
         {/* EoD / End of Dragons */}
         <Card style={{padding: 0}}>
-          <Card.Header>EoD(End of Dragons)</Card.Header>
+          <Card.Header>메카니스트 : EoD(End of Dragons)</Card.Header>
           <Card.Body>
             <Row>
               <Col xl="6">
