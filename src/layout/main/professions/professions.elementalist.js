@@ -488,7 +488,7 @@ function ProfessionsElementalist() {
                     </Card.Body>
                   </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 특성 / Traits */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
@@ -498,7 +498,7 @@ function ProfessionsElementalist() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 스킬 / Skills */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>직업 스킬</Card.Header>
@@ -541,7 +541,7 @@ function ProfessionsElementalist() {
           <Card.Header>위버 : PoF(Path of Fire)</Card.Header>
           <Card.Body>
             <Row>
-              <Col xl="12">
+              <Col xl="12" style={{marginBottom: 10}}>
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>무기 스킬</Card.Header>
                   <Card.Body>
@@ -700,7 +700,7 @@ function ProfessionsElementalist() {
                     </Card.Body>
                   </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 특성 / Traits */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
@@ -710,7 +710,7 @@ function ProfessionsElementalist() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 스킬 / Skills */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>직업 스킬</Card.Header>
@@ -822,7 +822,7 @@ function ProfessionsElementalist() {
                     </Card.Body>
                   </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 특성 / Traits */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>특성</Card.Header>
@@ -832,7 +832,7 @@ function ProfessionsElementalist() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col xl="6">
+              <Col xl="6" style={{marginBottom: 10}}>
                 {/* 스킬 / Skills */}
                 <Card style={{marginBottom: 10}}>
                   <Card.Header>직업 스킬</Card.Header>
