@@ -30,28 +30,34 @@ function Home() {
             <Card.Body>
               <ul>
                 <li>
-                  <a href="https://cafe.daum.net/koreanguildwars2" target="_blank" rel="noreferrer">길드워2 한인 모임</a>
+                  <a href="https://cafe.daum.net/koreanguildwars2" target="_blank" rel="noreferrer">길드워2 한인 모임</a> 커뮤니티
                 </li>
                 <li>
-                  <a href="https://metabattle.com/" target="_blank" rel="noreferrer">Metabattle</a>
+                  <a href="https://wiki.guildwars2.com/" target="_blank" rel="noreferrer">Guild Wars 2 Wiki</a> 위키
                 </li>
                 <li>
-                  <a href="https://snowcrows.com/" target="_blank" rel="noreferrer">Snowcrows</a>
+                  <a href="https://metabattle.com/" target="_blank" rel="noreferrer">Metabattle</a> 빌드
                 </li>
                 <li>
-                  <a href="https://wiki.guildwars2.com/" target="_blank" rel="noreferrer">Guild Wars 2 Wiki</a>
+                  <a href="https://snowcrows.com/" target="_blank" rel="noreferrer">Snowcrows</a> 빌드
                 </li>
                 <li>
-                  <a href="https://www.deltaconnected.com/arcdps/" target="_blank" rel="noreferrer">arcdps</a>
+                  <a href="https://www.deltaconnected.com/arcdps/" target="_blank" rel="noreferrer">arcdps</a> 애드온
                 </li>
                 <li>
-                  <a href="http://www.gw2taco.com/" target="_blank" rel="noreferrer">TacO</a>
+                  <a href="http://www.gw2taco.com/" target="_blank" rel="noreferrer">TacO</a> 애드온
                 </li>
                 <li>
-                  <a href="https://wiki.guildwars2.com/wiki/Event_timers" target="_blank" rel="noreferrer">Event timers</a>
+                  <a href="https://wiki.guildwars2.com/wiki/Event_timers" target="_blank" rel="noreferrer">Event timers</a> 월드보스, 이벤트 시간표
                 </li>
                 <li>
-                  <a href="https://gw2crafts.net/" target="_blank" rel="noreferrer">gw2crafts</a>
+                  <a href="https://gw2crafts.net/" target="_blank" rel="noreferrer">gw2crafts</a> 제작 가이드
+                </li>
+                <li>
+                  <a href="https://discretize.eu/" target="_blank" rel="noreferrer">discretize</a> 프랙탈
+                </li>
+                <li>
+                  <a href="https://fast.farming-community.eu/" target="_blank" rel="noreferrer">fast.farming-community</a> 파밍 가이드
                 </li>
               </ul>
             </Card.Body>
