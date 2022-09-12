@@ -101,6 +101,9 @@ function Home() {
                   <a href="https://discord.gg/rJNa6EtuBC" target="_blank" rel="noreferrer" >Gamers World [kiwi]</a>
                 </li>
                 <li>
+                  <a href="https://discord.gg/9HQxRDKv4m" target="_blank" rel="noreferrer" >HOGU [EZGG]</a>
+                </li>
+                <li>
                   <a href="https://discord.gg/M6ErTnFwJP" target="_blank" rel="noreferrer" >La Campanella [LC]</a>
                 </li>
                 <li>
