@@ -14,7 +14,7 @@ function App() {
   return (
   <div>
     <Header />
-    <Row style={{width: "100%"}}>
+    <Row style={{minHeight: "calc(100vh - 300px)", width: "100%"}}>
       <Col sm="12">
         <Main />
       </Col>
