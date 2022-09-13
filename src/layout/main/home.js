@@ -56,7 +56,7 @@ function Home() {
                   <a href="https://discretize.eu/" target="_blank" rel="noreferrer">discretize</a> 프랙탈 가이드
                 </li>
                 <li>
-                  <a href="https://fast.farming-community.eu/" target="_blank" rel="noreferrer">fast.farming-community</a> 파밍 가이드
+                  <a href="https://fast.farming-community.eu/" target="_blank" rel="noreferrer">fast.farming</a> 파밍 가이드
                 </li>
               </ul>
             </Card.Body>
@@ -108,6 +108,31 @@ function Home() {
                 </li>
                 <li>
                   <a href="https://discord.gg/r2mdc8D" target="_blank" rel="noreferrer" >This Is M [rn]</a>
+                </li>
+              </ul>
+            </Card.Body>
+          </Gw2card>
+        </Col>
+        {/* 정보 */}
+        <Col md="6">
+          <Gw2card header="정보">
+            <Card.Body>
+              <ul>
+                <li>
+                  만든 사람
+                  <ul>
+                    <li>basic.6395</li>
+                  </ul>
+                </li>
+                <li>
+                  도움 주신 분
+                  <ul>
+                    <li>Maglock.2631</li>
+                    <li>SCVwar.3784</li>
+                    <li>Ye Li.5693</li>
+                    <li>panterm.6825</li>
+                    <li>myrddin.9251</li>
+                  </ul>
                 </li>
               </ul>
             </Card.Body>
