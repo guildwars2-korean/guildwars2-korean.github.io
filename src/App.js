@@ -14,14 +14,12 @@ function App() {
   return (
   <div>
     <Header />
-    <Row style={{minHeight: "calc(100vh - 290px)", width: "100%"}}>
+    <Row style={{width: "100%"}}>
       <Col sm="12">
         <Main />
       </Col>
     </Row>
     <Row style={{
-      position: "sticky",
-      "bottom": 0,
       margin: '20px 0px 0px 0px',
       padding: '0px 0px 0px 0px',
     }}>
@@ -29,7 +27,10 @@ function App() {
         <GoogleAd/>
       </Col>
     </Row>
-    <Footer style={{position: "sticky", "bottom": 0}} />
+    <Footer style={{
+      position: "absolute",
+      bottom: 0,
+    }} />
   </div>
   );
 }
