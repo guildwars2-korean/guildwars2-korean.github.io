@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.97ad8298.css",
+    "main.css": "/static/css/main.c5ba7b8f.css",
     "main.js": "/static/js/main.bbc652af.js",
     "static/js/692.a5179bae.chunk.js": "/static/js/692.a5179bae.chunk.js",
     "static/js/374.4cbe3f8d.chunk.js": "/static/js/374.4cbe3f8d.chunk.js",
@@ -46,14 +46,14 @@
     "static/media/Scourge.png": "/static/media/Scourge.8931c429924373647ffe.png",
     "static/media/Willbender.png": "/static/media/Willbender.39406bf791f7ce34495e.png",
     "index.html": "/index.html",
-    "main.97ad8298.css.map": "/static/css/main.97ad8298.css.map",
+    "main.c5ba7b8f.css.map": "/static/css/main.c5ba7b8f.css.map",
     "main.bbc652af.js.map": "/static/js/main.bbc652af.js.map",
     "692.a5179bae.chunk.js.map": "/static/js/692.a5179bae.chunk.js.map",
     "374.4cbe3f8d.chunk.js.map": "/static/js/374.4cbe3f8d.chunk.js.map",
     "787.7ff347de.chunk.js.map": "/static/js/787.7ff347de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97ad8298.css",
+    "static/css/main.c5ba7b8f.css",
     "static/js/main.bbc652af.js"
   ]
 }
