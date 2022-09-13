@@ -25,7 +25,7 @@ function Header(props) {
             <Container>
                 <Navbar.Brand href="/">gw2kr.com</Navbar.Brand>
                 <Nav className="me-auto">
-                    <NavDropdown title="직업" id="dropdown-trait">
+                    <NavDropdown title="스킬/특성" id="dropdown-trait">
                         <NavDropdown.Item href='/professions/elementalist'>
                           <img alt="elementalist" src={elementalist_icon}/>&nbsp;
                           엘리멘탈리스트

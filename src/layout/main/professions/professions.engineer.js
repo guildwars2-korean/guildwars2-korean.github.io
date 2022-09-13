@@ -6,6 +6,7 @@ import 'discretize-monorepo-root/gw2-ui/dist/default_style.css';
 import 'discretize-monorepo-root/gw2-ui/dist/index.css';
 import 'discretize-monorepo-root/typeface-menomonia';
 
+import Gw2card from '../../../components/gw2card';
 import { Container, Col, Row, Card } from 'react-bootstrap';
 import { TraitLine, Skill } from 'discretize-monorepo-root/gw2-ui';
 
@@ -13,229 +14,201 @@ function ProfessionsEngineer() {
   return (
     <>
     <Container>
-      <Row style={{marginBottom: 10}}>
+      <Row >
         {/* 오리지널 / Original */}
-        <Card style={{padding: 0}}>
-          <Card.Header>엔지니어 : Original</Card.Header>
+        <Gw2card header="엔지니어 : Original">
           <Card.Body>
             <Row>
-              <Col xl="12" style={{marginBottom: 10}}>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>무기 스킬</Card.Header>
+              <Col xl="12" >
+                <Gw2card header="무기 스킬">
                   <Card.Body>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>다운 스킬</Card.Header>
+                      <Gw2card header="다운 스킬">
                         <Card.Body>
                           <Row>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>1</Card.Header>
+                              <Gw2card header="1">
                                 <Card.Body>
                                   <Skill id={5820} /> {/* Throw Junk */}<br></br>
                                   <Skill id={5916} /> {/* Floating Mine */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>2</Card.Header>
+                              <Gw2card header="2">
                                 <Card.Body>
                                   <Skill id={5962} /> {/* Grappling Line */}<br></br>
                                   <Skill id={5917} /> {/* Anchor */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>3</Card.Header>
+                              <Gw2card header="3">
                                 <Card.Body>
                                   <Skill id={5963} /> {/* Booby Trap */}<br></br>
                                   <Skill id={5918} /> {/* Buoy */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col></Col>
                             <Col></Col>
                           </Row>
                         </Card.Body>
-                      </Card>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Pistol</Card.Header>
+                      </Gw2card>
+                      <Gw2card header="Pistol">
                         <Card.Body>
                           <Row>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>1</Card.Header>
+                              <Gw2card header="1">
                                 <Card.Body>
                                   <Skill id={5827} /> {/* Fragmentation Shot */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>2</Card.Header>
+                              <Gw2card header="2">
                                 <Card.Body>
                                   <Skill id={5828} /> {/* Poison Dart Volley */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>3</Card.Header>
+                              <Gw2card header="3">
                                 <Card.Body>
                                   <Skill id={5829} /> {/* Static Shot */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>4</Card.Header>
+                              <Gw2card header="4">
                                 <Card.Body>
                                   <Skill id={5831} /> {/* Blowtorch */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>5</Card.Header>
+                              <Gw2card header="5">
                                 <Card.Body>
                                   <Skill id={5830} /> {/* Glue Shot */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                           </Row>
                         </Card.Body>
-                      </Card>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Rifle</Card.Header>
+                      </Gw2card>
+                      <Gw2card header="Rifle">
                         <Card.Body>
                           <Row>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>1</Card.Header>
+                              <Gw2card header="1">
                                 <Card.Body>
                                   <Skill id={6003} /> {/* Rifle Burst */}<br></br>
                                   <Skill id={68079} /> {/* Rifle Burst Grenade */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>2</Card.Header>
+                              <Gw2card header="2">
                                 <Card.Body>
                                   <Skill id={6153} /> {/* Blunderbuss */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>3</Card.Header>
+                              <Gw2card header="3">
                                 <Card.Body>
                                   <Skill id={6004} /> {/* Net Shot */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>4</Card.Header>
+                              <Gw2card header="4">
                                 <Card.Body>
                                   <Skill id={6154} /> {/* Overcharged Shot */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>5</Card.Header>
+                              <Gw2card header="5">
                                 <Card.Body>
                                   <Skill id={6005} /> {/* Jump Shot */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                           </Row>
                         </Card.Body>
-                      </Card>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Shield</Card.Header>
+                      </Gw2card>
+                      <Gw2card header="Shield">
                         <Card.Body>
                           <Row>
                             <Col></Col>
                             <Col></Col>
                             <Col></Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>4</Card.Header>
+                              <Gw2card header="4">
                                 <Card.Body>
                                   <Skill id={6053} /> {/* Magnetic Shield */}<br></br>
                                   <Skill id={6126} /> {/* Magnetic Inversion */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>5</Card.Header>
+                              <Gw2card header="5">
                                 <Card.Body>
                                   <Skill id={6054} /> {/* Static Shield */}<br></br>
                                   <Skill id={6057} /> {/* Throw Shield */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                           </Row>
                         </Card.Body>
-                      </Card>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Speargun</Card.Header>
+                      </Gw2card>
+                      <Gw2card header="Speargun">
                         <Card.Body>
                           <Row>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>1</Card.Header>
+                              <Gw2card header="1">
                                 <Card.Body>
                                   <Skill id={6148} /> {/* Homing Torpedo */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>2</Card.Header>
+                              <Gw2card header="2">
                                 <Card.Body>
                                   <Skill id={6147} /> {/* Scatter Mines */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>3</Card.Header>
+                              <Gw2card header="3">
                                 <Card.Body>
                                   <Skill id={50380} /> {/* Capture Line */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>4</Card.Header>
+                              <Gw2card header="4">
                                 <Card.Body>
                                   <Skill id={6149} /> {/* Timed Charge */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>5</Card.Header>
+                              <Gw2card header="5">
                                 <Card.Body>
                                   <Skill id={6145} /> {/* Net Wall */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                           </Row>
                         </Card.Body>
-                      </Card>
+                      </Gw2card>
                     </Card.Body>
-                  </Card>
+                </Gw2card>
               </Col>
-              <Col xl="6" style={{marginBottom: 10}}>
+              <Col xl="6" >
                 {/* 특성 / Traits */}
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>특성</Card.Header>
+                <Gw2card header="특성">
                   <Card.Body>
                     {/* Explosives */}
                     <TraitLine id={6} resettable selectable />
@@ -248,17 +221,15 @@ function ProfessionsEngineer() {
                     {/* Inventions */}
                     <TraitLine id={47} resettable selectable />
                   </Card.Body>
-                </Card>
+                </Gw2card>
               </Col>
-              <Col xl="6" style={{marginBottom: 10}}>
+              <Col xl="6" >
                 {/* 스킬 / Skills */}
-                <Card style={{marginBottom: 10}}>     
-                  <Card.Header>직업 스킬</Card.Header>
+                <Gw2card header="직업 스킬">     
                   <Card.Body>
                   </Card.Body>
-                </Card>       
-                <Card style={{marginBottom: 10}}>   
-                  <Card.Header>힐 스킬</Card.Header>
+                </Gw2card>       
+                <Gw2card header="힐 스킬">   
                   <Card.Body>
                     <Skill id={21659} /> {/* A.E.D. */}
                     <Skill id={30881} /> {/* A.E.D. */}
@@ -270,9 +241,8 @@ function ProfessionsEngineer() {
                     <Skill id={6109} /> {/* Stow Med Kit */}
                     <Skill id={6140} /> {/* Healing Turret */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>유틸리티 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="유틸리티 스킬">
                   <Card.Body>
                     <Skill id={22574} /> {/* Rocket Turret */}
                     <Skill id={29473} /> {/* Detonate */}
@@ -334,9 +304,8 @@ function ProfessionsEngineer() {
                     <Skill id={6162} /> {/* Detonate */}
                     <Skill id={6163} /> {/* Deploy Mine */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>엘리트 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="엘리트 스킬">
                   <Card.Body>
                     <Skill id={20451} /> {/* Elixir X */}
                     <Skill id={29518} /> {/* Detonate Supply Crate Turrets */}
@@ -349,136 +318,119 @@ function ProfessionsEngineer() {
                     <Skill id={5868} /> {/* Supply Crate */}
                     <Skill id={6183} /> {/* Supply Crate */}
                   </Card.Body>
-                </Card>
+                </Gw2card>
               </Col>
             </Row>
           </Card.Body>
-        </Card>
+        </Gw2card>
       </Row>
-      <Row style={{marginBottom: 10}}>
+      <Row >
         {/* HoT / Heart of Thorns */}
-        <Card style={{padding: 0}}>
-          <Card.Header>스크래퍼 : HoT(Heart Of Thorns)</Card.Header>
+        <Gw2card header="스크래퍼 : HoT(Heart Of Thorns)">
           <Card.Body>
             <Row>
-              <Col xl="12" style={{marginBottom: 10}}>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>무기 스킬</Card.Header>
+              <Col xl="12" >
+                <Gw2card header="무기 스킬">
                   <Card.Body>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Hammer</Card.Header>
+                      <Gw2card header="Hammer">
                         <Card.Body>
                           <Row>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>1</Card.Header>
+                              <Gw2card header="1">
                                 <Card.Body>
                                   <Skill id={29785} /> {/* Negative Bash */}<br></br>
                                   <Skill id={30489} /> {/* Equalizing Blow */}<br></br>
                                   <Skill id={30501} /> {/* Positive Strike */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>2</Card.Header>
+                              <Gw2card header="2">
                                 <Card.Body>
                                   <Skill id={30088} /> {/* Electro-whirl */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>3</Card.Header>
+                              <Gw2card header="3">
                                 <Card.Body>
                                   <Skill id={30665} /> {/* Rocket Charge */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>4</Card.Header>
+                              <Gw2card header="4">
                                 <Card.Body>
                                   <Skill id={29840} /> {/* Shock Shield */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>5</Card.Header>
+                              <Gw2card header="5">
                                 <Card.Body>
                                   <Skill id={30713} /> {/* Thunderclap */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                           </Row>
                         </Card.Body>
-                      </Card>
+                      </Gw2card>
                     </Card.Body>
-                  </Card>
+                  </Gw2card>
               </Col>
-              <Col xl="6" style={{marginBottom: 10}}>
+              <Col xl="6" >
                 {/* 특성 / Traits */}
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>특성</Card.Header>
+                <Gw2card header="특성">
                   <Card.Body>
                     {/* Scrapper */}
                     <TraitLine id={43} resettable selectable />
                   </Card.Body>
-                </Card>
+                </Gw2card>
               </Col>
-              <Col xl="6" style={{marginBottom: 10}}>
+              <Col xl="6" >
                 {/* 스킬 / Skills */}
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>직업 스킬</Card.Header>
+                <Gw2card header="직업 스킬">
                   <Card.Body>
                     <Skill id={56920} /> {/* Function Gyro */}
                     <Skill id={56921} /> {/* Function Gyro */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>힐 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="힐 스킬">
                   <Card.Body>
                     <Skill id={30357} /> {/* Medic Gyro */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>유틸리티 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="유틸리티 스킬">
                   <Card.Body>
                     <Skill id={29739} /> {/* Purge Gyro */}
                     <Skill id={29921} /> {/* Shredder Gyro */}
                     <Skill id={30101} /> {/* Bulwark Gyro */}
                     <Skill id={31248} /> {/* Blast Gyro */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>엘리트 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="엘리트 스킬">
                   <Card.Body>
                     <Skill id={30815} /> {/* Sneak Gyro */}
                   </Card.Body>
-                </Card>
+                </Gw2card>
               </Col>
             </Row>
           </Card.Body>
-        </Card>
+        </Gw2card>
       </Row>
-      <Row style={{marginBottom: 10}}>
+      <Row >
         {/* PoF / Path of Fire */}
-        <Card style={{padding: 0}}>
-          <Card.Header>홀로스미스 : PoF(Path of Fire)</Card.Header>
+        <Gw2card header="홀로스미스 : PoF(Path of Fire)">
           <Card.Body>
             <Row>
-              <Col xl="12" style={{marginBottom: 10}}>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>무기 스킬</Card.Header>
+              <Col xl="12" >
+                <Gw2card header="무기 스킬">
                   <Card.Body>
-                  <Card style={{marginBottom: 10}}>
-                      <Card.Header>직업</Card.Header>
+                  <Gw2card header="직업">
                       <Card.Body>
                         <Row>
                           <Col>
-                            <Card style={{marginBottom: 10}}>
-                              <Card.Header>1</Card.Header>
+                            <Gw2card header="1">
                               <Card.Body>
                                 <Skill id={44588} /> {/* Light Strike */}
                                 <Skill id={45756} /> {/* Bright Slash */}
@@ -487,110 +439,98 @@ function ProfessionsEngineer() {
                                 <Skill id={42475} /> {/* Bright Slash—Storm */}
                                 <Skill id={41684} /> {/* Flash Cutter—Storm */}<br></br>
                               </Card.Body>
-                            </Card>
+                            </Gw2card>
                           </Col>
                           <Col>
-                            <Card style={{marginBottom: 10}}>
-                              <Card.Header>2</Card.Header>
+                            <Gw2card header="2">
                               <Card.Body>
                                 <Skill id={42965} /> {/* Holo Leap */}<br></br>
                               </Card.Body>
-                            </Card>
+                            </Gw2card>
                           </Col>
                           <Col>
-                            <Card style={{marginBottom: 10}}>
-                              <Card.Header>3</Card.Header>
+                            <Gw2card header="3">
                               <Card.Body>
                                 <Skill id={44530} /> {/* Corona Burst */}<br></br>
                               </Card.Body>
-                            </Card>
+                            </Gw2card>
                           </Col>
                           <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>4</Card.Header>
+                              <Gw2card header="4">
                                 <Card.Body>
                                   <Skill id={45783} /> {/* Photon Blitz */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>5</Card.Header>
+                              <Gw2card header="5">
                                 <Card.Body>
                                   <Skill id={42521} /> {/* Holographic Shockwave */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                         </Row>
                       </Card.Body>
-                    </Card>
-                    <Card style={{marginBottom: 10}}>
-                      <Card.Header>Sword</Card.Header>
+                    </Gw2card>
+                    <Gw2card header="Sword">
                       <Card.Body>
                         <Row>
                           <Col>
-                            <Card style={{marginBottom: 10}}>
-                              <Card.Header>1</Card.Header>
+                            <Gw2card header="1">
                               <Card.Body>
                                 <Skill id={43476} /> {/* Sun Edge */}<br></br>
                                 <Skill id={45581} /> {/* Sun Ripper */}<br></br>
                                 <Skill id={45979} /> {/* Gleam Saber */}<br></br>
                               </Card.Body>
-                            </Card>
+                            </Gw2card>
                           </Col>
                           <Col>
-                            <Card style={{marginBottom: 10}}>
-                              <Card.Header>2</Card.Header>
+                            <Gw2card header="2">
                               <Card.Body>
                                 <Skill id={44110} /> {/* Refraction Cutter */}<br></br>
                               </Card.Body>
-                            </Card>
+                            </Gw2card>
                           </Col>
                           <Col>
-                            <Card style={{marginBottom: 10}}>
-                              <Card.Header>3</Card.Header>
+                            <Gw2card header="3">
                               <Card.Body>
                                 <Skill id={40160} /> {/* Radiant Arc */}<br></br>
                               </Card.Body>
-                            </Card>
+                            </Gw2card>
                           </Col>
                           <Col></Col>
                           <Col></Col>
                         </Row>
                       </Card.Body>
-                    </Card>
+                    </Gw2card>
                   </Card.Body>
-                </Card>
+                </Gw2card>
               </Col>
-              <Col xl="6" style={{marginBottom: 10}}>
+              <Col xl="6" >
                 {/* 특성 / Traits */}
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>특성</Card.Header>
+                <Gw2card header="특성">
                   <Card.Body>
                     {/* Holosmith */}
                     <TraitLine id={57} resettable selectable />
                   </Card.Body>
-                </Card>
+                </Gw2card>
               </Col>
-              <Col xl="6" style={{marginBottom: 10}}>
+              <Col xl="6" >
                 {/* 스킬 / Skills */}
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>직업 스킬</Card.Header>
+                <Gw2card header="직업 스킬">
                   <Card.Body>
                     <Skill id={41123} /> {/* Deactivate Photon Forge */}
                     <Skill id={42938} /> {/* Engage Photon Forge */}
                     <Skill id={44386} /> {/* Holoforge Overheated */}
                     <Skill id={45219} /> {/* Deactivate Photon Forge */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>힐 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="힐 스킬">
                   <Card.Body>
                     <Skill id={40507} /> {/* Coolant Blast */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>유틸리티 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="유틸리티 스킬">
                   <Card.Body>
                     <Skill id={40533} /> {/* Launch Wall */}
                     <Skill id={41218} /> {/* Spectrum Shield */}
@@ -598,112 +538,100 @@ function ProfessionsEngineer() {
                     <Skill id={43739} /> {/* Photon Wall */}
                     <Skill id={44646} /> {/* Hard Light Arena */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>엘리트 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="엘리트 스킬">
                   <Card.Body>
                     <Skill id={42009} /> {/* Prime Light Beam */}
                   </Card.Body>
-                </Card>
+                </Gw2card>
               </Col>
             </Row>
           </Card.Body>
-        </Card>
+        </Gw2card>
       </Row>
-      <Row style={{marginBottom: 10}}>
+      <Row >
         {/* EoD / End of Dragons */}
-        <Card style={{padding: 0}}>
-          <Card.Header>메카니스트 : EoD(End of Dragons)</Card.Header>
+        <Gw2card header="메카니스트 : EoD(End of Dragons)">
           <Card.Body>
             <Row>
-              <Col xl="12" style={{marginBottom: 10}}>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>무기 스킬</Card.Header>
+              <Col xl="12" >
+                <Gw2card header="무기 스킬">
                   <Card.Body>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Mace</Card.Header>
+                      <Gw2card header="Mace">
                         <Card.Body>
                           <Row>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>1</Card.Header>
+                              <Gw2card header="1">
                                 <Card.Body>
                                   <Skill id={63186} /> {/* Mace Strike */}<br></br>
                                   <Skill id={63077} /> {/* Mace Smash */}<br></br>
                                   <Skill id={63174} /> {/* Barrier Blast */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>2</Card.Header>
+                              <Gw2card header="2">
                                 <Card.Body>
                                   <Skill id={63169} /> {/* Energizing Slam */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>3</Card.Header>
+                              <Gw2card header="3">
                                 <Card.Body>
                                   <Skill id={63234} /> {/* Rocket Fist Prototype */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col></Col>
                             <Col></Col>
                           </Row>
                         </Card.Body>
-                      </Card>
+                      </Gw2card>
                     </Card.Body>
-                  </Card>
+                  </Gw2card>
               </Col>
-              <Col xl="6" style={{marginBottom: 10}}>
+              <Col xl="6" >
                 {/* 특성 / Traits */}
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>특성</Card.Header>
+                <Gw2card header="특성">
                   <Card.Body>
                     {/* Mechanist */}
                     <TraitLine id={70} resettable selectable />
                   </Card.Body>
-                </Card>
+                </Gw2card>
               </Col>
-              <Col xl="6" style={{marginBottom: 10}}>
+              <Col xl="6" >
                 {/* 스킬 / Skills */}
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>직업 스킬</Card.Header>
+                <Gw2card header="직업 스킬">
                   <Card.Body>
                     <Skill id={63050} /> {/* Crash Down */}
                     <Skill id={63089} /> {/* Recall Mech */}
                     <Skill id={63210} /> {/* Mech Support: Depth Charges */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>힐 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="힐 스킬">
                   <Card.Body>
                     <Skill id={63049} /> {/* Rectifier Signet */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>유틸리티 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="유틸리티 스킬">
                   <Card.Body>
                     <Skill id={63111} /> {/* Shift Signet */}
                     <Skill id={63113} /> {/* Superconducting Signet */}
                     <Skill id={63253} /> {/* Force Signet */}
                     <Skill id={63262} /> {/* Barrier Signet */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>엘리트 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="엘리트 스킬">
                   <Card.Body>
                     <Skill id={63095} /> {/* Overclock Signet */}
                     <Skill id={63374} /> {/* Jade Buster Cannon */}
                   </Card.Body>
-                </Card>
+                </Gw2card>
               </Col>
             </Row>
           </Card.Body>
-        </Card>
+        </Gw2card>
       </Row>
     </Container>
     </>

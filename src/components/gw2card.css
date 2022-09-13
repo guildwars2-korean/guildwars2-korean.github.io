@@ -1,0 +1,20 @@
+.accordion {
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.accordion-header {
+    height: auto;
+}
+
+.accordion-button {
+    height: auto;
+    background-color: #F5F5F5 !important;
+    padding: 10px;
+    margin: 0px;
+}
+
+.accordion-button:not(.collapsed) {
+    color: black;
+}

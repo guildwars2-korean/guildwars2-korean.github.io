@@ -6,6 +6,7 @@ import 'discretize-monorepo-root/gw2-ui/dist/default_style.css';
 import 'discretize-monorepo-root/gw2-ui/dist/index.css'
 import 'discretize-monorepo-root/typeface-menomonia';
 
+import Gw2card from '../../../components/gw2card';
 import { Container, Col, Row, Card } from 'react-bootstrap';
 import { TraitLine, Skill } from 'discretize-monorepo-root/gw2-ui';
 
@@ -13,489 +14,431 @@ function ProfessionsGuardian() {
   return (
     <>
     <Container>
-      <Row style={{marginBottom: 10}}>
+      <Row >
         {/* 오리지널 / Original */}
-        <Card style={{padding: 0}}>
-          <Card.Header>가디언 : Original</Card.Header>
+        <Gw2card header="가디언 : Original">
           <Card.Body>
             <Row>
-              <Col xl="12" style={{marginBottom: 10}}>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>무기 스킬</Card.Header>
+              <Col xl="12" >
+                <Gw2card header="무기 스킬">
                   <Card.Body>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>다운 스킬</Card.Header>
+                      <Gw2card header="다운 스킬">
                         <Card.Body>
                           <Row>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>1</Card.Header>
+                              <Gw2card header="1">
                                 <Card.Body>
                                   <Skill id={9149} /> {/* Wrath */}<br></br>
                                   <Skill id={9212} /> {/* Shackle */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>2</Card.Header>
+                              <Gw2card header="2">
                                 <Card.Body>
                                   <Skill id={9096} /> {/* Wave of Light */}<br></br>
                                   <Skill id={9211} /> {/* Reveal the Depths */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>3</Card.Header>
+                              <Gw2card header="3">
                                 <Card.Body>
                                   <Skill id={9095} /> {/* Symbol of Judgment */}<br></br>
                                   <Skill id={9210} /> {/* Renewing Current */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col></Col>
                             <Col></Col>
                           </Row>
                         </Card.Body>
-                      </Card>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Focus</Card.Header>
+                      </Gw2card>
+                      <Gw2card header="Focus">
                         <Card.Body>
                           <Row>
                             <Col></Col>
                             <Col></Col>
                             <Col></Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>4</Card.Header>
+                              <Gw2card header="4">
                                 <Card.Body>
                                   <Skill id={9112} /> {/* Ray of Judgment */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>5</Card.Header>
+                              <Gw2card header="5">
                                 <Card.Body>
                                   <Skill id={9082} /> {/* Shield of Wrath */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                           </Row>
                         </Card.Body>
-                      </Card>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Greatsword</Card.Header>
+                      </Gw2card>
+                      <Gw2card header="Greatsword">
                         <Card.Body>
                           <Row>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>1</Card.Header>
+                              <Gw2card header="1">
                                 <Card.Body>
                                   <Skill id={9137} /> {/* Strike */}<br></br>
                                   <Skill id={9138} /> {/* Vengeful Strike */}<br></br>
                                   <Skill id={9139} /> {/* Wrathful Strike */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>2</Card.Header>
+                              <Gw2card header="2">
                                 <Card.Body>
                                   <Skill id={9081} /> {/* Whirling Wrath */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>3</Card.Header>
+                              <Gw2card header="3">
                                 <Card.Body>
                                   <Skill id={9080} /> {/* Leap of Faith */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>4</Card.Header>
+                              <Gw2card header="4">
                                 <Card.Body>
                                   <Skill id={9146} /> {/* Symbol of Resolution */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>5</Card.Header>
+                              <Gw2card header="5">
                                 <Card.Body>
                                   <Skill id={9147} /> {/* Binding Blade */}<br></br>
                                   <Skill id={9226} /> {/* Pull */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                           </Row>
                         </Card.Body>
-                      </Card>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Hammer</Card.Header>
+                      </Gw2card>
+                      <Gw2card header="Hammer">
                         <Card.Body>
                           <Row>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>1</Card.Header>
+                              <Gw2card header="1">
                                 <Card.Body>
                                   <Skill id={9159} /> {/* Hammer Swing */}<br></br>
                                   <Skill id={9160} /> {/* Hammer Bash */}<br></br>
                                   <Skill id={9161} /> {/* Symbol of Protection */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>2</Card.Header>
+                              <Gw2card header="2">
                                 <Card.Body>
                                   <Skill id={9194} /> {/* Mighty Blow */}<br></br>
                                   <Skill id={53482} /> {/* Glacial Blow */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>3</Card.Header>
+                              <Gw2card header="3">
                                 <Card.Body>
                                   <Skill id={9260} /> {/* Zealot's Embrace */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>4</Card.Header>
+                              <Gw2card header="4">
                                 <Card.Body>
                                   <Skill id={9124} /> {/* Banish */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>5</Card.Header>
+                              <Gw2card header="5">
                                 <Card.Body>
                                   <Skill id={9195} /> {/* Ring of Warding */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                           </Row>
                         </Card.Body>
-                      </Card>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Mace</Card.Header>
+                      </Gw2card>
+                      <Gw2card header="Mace">
                         <Card.Body>
                           <Row>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>1</Card.Header>
+                              <Gw2card header="1">
                                 <Card.Body>
                                   <Skill id={9108} /> {/* Faithful Strike */}<br></br>
                                   <Skill id={9109} /> {/* True Strike */}<br></br>
                                   <Skill id={9110} /> {/* Pure Strike */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>2</Card.Header>
+                              <Gw2card header="2">
                                 <Card.Body>
                                   <Skill id={9111} /> {/* Symbol of Faith */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>3</Card.Header>
+                              <Gw2card header="3">
                                 <Card.Body>
                                   <Skill id={9086} /> {/* Protector's Strike */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col></Col>
                             <Col></Col>
                           </Row>
                         </Card.Body>
-                      </Card>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Scepter</Card.Header>
+                      </Gw2card>
+                      <Gw2card header="Scepter">
                         <Card.Body>
                           <Row>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>1</Card.Header>
+                              <Gw2card header="1">
                                 <Card.Body>
                                   <Skill id={9098} /> {/* Orb of Wrath */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>2</Card.Header>
+                              <Gw2card header="2">
                                 <Card.Body>
                                   <Skill id={9090} /> {/* Symbol of Punishment */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>3</Card.Header>
+                              <Gw2card header="3">
                                 <Card.Body>
                                   <Skill id={9099} /> {/* Chains of Light */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col></Col>
                             <Col></Col>
                           </Row>
                         </Card.Body>
-                      </Card>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Shield</Card.Header>
+                      </Gw2card>
+                      <Gw2card header="Shield">
                         <Card.Body>
                           <Row>
                             <Col></Col>
                             <Col></Col>
                             <Col></Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>4</Card.Header>
+                              <Gw2card header="4">
                                 <Card.Body>
                                   <Skill id={9087} /> {/* Shield of Judgment */}<br></br>
                                   <Skill id={15834} /> {/* Shield of Judgment */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>5</Card.Header>
+                              <Gw2card header="5">
                                 <Card.Body>
                                   <Skill id={9091} /> {/* Shield of Absorption */}<br></br>
                                   <Skill id={9224} /> {/* Shield of Absorption */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                           </Row>
                         </Card.Body>
-                      </Card>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Staff</Card.Header>
+                      </Gw2card>
+                      <Gw2card header="Staff">
                         <Card.Body>
                           <Row>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>1</Card.Header>
+                              <Gw2card header="1">
                                 <Card.Body>
                                   <Skill id={9122} /> {/* Bolt of Wrath */}<br></br>
                                   <Skill id={51645} /> {/* Seeking Judgment */}<br></br>
                                   <Skill id={51660} /> {/* Searing Light */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>2</Card.Header>
+                              <Gw2card header="2">
                                 <Card.Body>
                                   <Skill id={9140} /> {/* Holy Strike */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>3</Card.Header>
+                              <Gw2card header="3">
                                 <Card.Body>
                                   <Skill id={9143} /> {/* Symbol of Swiftness */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>4</Card.Header>
+                              <Gw2card header="4">
                                 <Card.Body>
                                   <Skill id={9265} /> {/* Empower */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>5</Card.Header>
+                              <Gw2card header="5">
                                 <Card.Body>
                                   <Skill id={9144} /> {/* Line of Warding */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                           </Row>
                         </Card.Body>
-                      </Card>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Sword</Card.Header>
+                      </Gw2card>
+                      <Gw2card header="Sword">
                         <Card.Body>
                           <Row>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>1</Card.Header>
+                              <Gw2card header="1">
                                 <Card.Body>
                                   <Skill id={9105} /> {/* Sword of Wrath */}<br></br>
                                   <Skill id={9106} /> {/* Sword Arc */}<br></br>
                                   <Skill id={9227} /> {/* Sword Wave */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>2</Card.Header>
+                              <Gw2card header="2">
                                 <Card.Body>
                                   <Skill id={9097} /> {/* Symbol of Blades */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>3</Card.Header>
+                              <Gw2card header="3">
                                 <Card.Body>
                                   <Skill id={9107} /> {/* Zealot's Defense */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col></Col>
                             <Col></Col>
                           </Row>
                         </Card.Body>
-                      </Card>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Torch</Card.Header>
+                      </Gw2card>
+                      <Gw2card header="Torch">
                         <Card.Body>
                           <Row>
                             <Col></Col>
                             <Col></Col>
                             <Col></Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>4</Card.Header>
+                              <Gw2card header="4">
                                 <Card.Body>
                                   <Skill id={9089} /> {/* Zealot's Fire */}<br></br>
                                   <Skill id={9104} /> {/* Zealot's Flame */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>5</Card.Header>
+                              <Gw2card header="5">
                                 <Card.Body>
                                   <Skill id={9088} /> {/* Cleansing Flame */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                           </Row>
                         </Card.Body>
-                      </Card>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Spear</Card.Header>
+                      </Gw2card>
+                      <Gw2card header="Spear">
                         <Card.Body>
                           <Row>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>1</Card.Header>
+                              <Gw2card header="1">
                                 <Card.Body>
                                   <Skill id={9189} /> {/* Spear of Light */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>2</Card.Header>
+                              <Gw2card header="2">
                                 <Card.Body>
                                   <Skill id={9190} /> {/* Zealot's Flurry */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>3</Card.Header>
+                              <Gw2card header="3">
                                 <Card.Body>
                                   <Skill id={9191} /> {/* Brilliance */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>4</Card.Header>
+                              <Gw2card header="4">
                                 <Card.Body>
                                   <Skill id={9192} /> {/* Symbol of Spears */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>5</Card.Header>
+                              <Gw2card header="5">
                                 <Card.Body>
                                   <Skill id={9193} /> {/* Wrathful Grasp */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                           </Row>
                         </Card.Body>
-                      </Card>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Trident</Card.Header>
+                      </Gw2card>
+                      <Gw2card header="Trident">
                         <Card.Body>
                           <Row>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>1</Card.Header>
+                              <Gw2card header="1">
                                 <Card.Body>
                                   <Skill id={9205} /> {/* Light Ball */}<br></br>
                                   <Skill id={50392} /> {/* Judgment of Light */}<br></br>
                                   <Skill id={50399} /> {/* Detonate Light */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>2</Card.Header>
+                              <Gw2card header="2">
                                 <Card.Body>
                                   <Skill id={9207} /> {/* Purify */}<br></br>
                                   <Skill id={9234} /> {/* Purifying Blast */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>3</Card.Header>
+                              <Gw2card header="3">
                                 <Card.Body>
                                   <Skill id={9208} /> {/* Symbol of Light */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>4</Card.Header>
+                              <Gw2card header="4">
                                 <Card.Body>
                                   <Skill id={9209} /> {/* Refraction */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>5</Card.Header>
+                              <Gw2card header="5">
                                 <Card.Body>
                                   <Skill id={9206} /> {/* Weight of Justice */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                           </Row>
                         </Card.Body>
-                      </Card>
+                      </Gw2card>
                     </Card.Body>
-                  </Card>
+                  </Gw2card>
               </Col>
-              <Col xl="6" style={{marginBottom: 10}}>
+              <Col xl="6" >
                 {/* 특성 / Traits */}
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>특성</Card.Header>
+                <Gw2card header="특성">
                   <Card.Body>
                     {/* Valor */}
                     <TraitLine id={13} resettable selectable />
@@ -508,12 +451,11 @@ function ProfessionsGuardian() {
                     {/* Honor */}
                     <TraitLine id={49} resettable selectable />
                   </Card.Body>
-                </Card>
+                </Gw2card>
               </Col>
-              <Col xl="6" style={{marginBottom: 10}}>
+              <Col xl="6" >
                 {/* 스킬 / Skills */}
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>직업 스킬</Card.Header>
+                <Gw2card header="직업 스킬">
                   <Card.Body>
                     <Skill id={9115} /> {/* Virtue of Justice */}
                     <Skill id={9118} /> {/* Virtue of Courage */}
@@ -521,18 +463,16 @@ function ProfessionsGuardian() {
                     <Skill id={9250} /> {/* Virtue of Resolve */}
                     <Skill id={9268} /> {/* Virtue of Courage */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>힐 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="힐 스킬">
                   <Card.Body>
                     <Skill id={21664} /> {/* Litany of Wrath */}
                     <Skill id={9083} /> {/* "Receive the Light!" */}
                     <Skill id={9102} /> {/* Shelter */}
                     <Skill id={9158} /> {/* Signet of Resolve */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>유틸리티 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="유틸리티 스킬">
                   <Card.Body>
                     <Skill id={24414} /> {/* Signet of Mercy */}
                     <Skill id={31159} /> {/* Purging Flames */}
@@ -570,94 +510,83 @@ function ProfessionsGuardian() {
                     <Skill id={9251} /> {/* Wall of Reflection */}
                     <Skill id={9253} /> {/* Hallowed Ground */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>엘리트 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="엘리트 스킬">
                   <Card.Body>
                     <Skill id={29965} /> {/* "Feel My Wrath!" */}
                     <Skill id={30461} /> {/* Signet of Courage */}
                     <Skill id={9154} /> {/* Renewed Focus */}
                   </Card.Body>
-                </Card>
+                </Gw2card>
               </Col>
             </Row>
           </Card.Body>
-        </Card>
+        </Gw2card>
       </Row>
-      <Row style={{marginBottom: 10}}>
+      <Row >
         {/* HoT / Heart of Thorns */}
-        <Card style={{padding: 0}}>
-          <Card.Header>드래곤헌터 : HoT(Heart Of Thorns)</Card.Header>
+        <Gw2card header="드래곤헌터 : HoT(Heart Of Thorns)">
           <Card.Body>
             <Row>
-              <Col xl="12" style={{marginBottom: 10}}>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>무기 스킬</Card.Header>
+              <Col xl="12" >
+                <Gw2card header="무기 스킬">
                   <Card.Body>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Longbow</Card.Header>
+                      <Gw2card header="Longbow">
                         <Card.Body>
                           <Row>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>1</Card.Header>
+                              <Gw2card header="1">
                                 <Card.Body>
                                   <Skill id={30471} /> {/* Puncture Shot */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>2</Card.Header>
+                              <Gw2card header="2">
                                 <Card.Body>
                                   <Skill id={30229} /> {/* True Shot */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>3</Card.Header>
+                              <Gw2card header="3">
                                 <Card.Body>
                                   <Skill id={29630} /> {/* Deflecting Shot */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>4</Card.Header>
+                              <Gw2card header="4">
                                 <Card.Body>
                                   <Skill id={29789} /> {/* Symbol of Energy */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>5</Card.Header>
+                              <Gw2card header="5">
                                 <Card.Body>
                                   <Skill id={30628} /> {/* Hunter's Ward */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                           </Row>
                         </Card.Body>
-                      </Card>
+                      </Gw2card>
                     </Card.Body>
-                  </Card>
+                  </Gw2card>
               </Col>
-              <Col xl="6" style={{marginBottom: 10}}>
+              <Col xl="6" >
                 {/* 특성 / Traits */}
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>특성</Card.Header>
+                <Gw2card header="특성">
                   <Card.Body>
                     {/* Dragonhunter */}
                     <TraitLine id={27} resettable selectable />
                   </Card.Body>
-                </Card>
+                </Gw2card>
               </Col>
-              <Col xl="6" style={{marginBottom: 10}}>
+              <Col xl="6" >
                 {/* 스킬 / Skills */}
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>직업 스킬</Card.Header>
+                <Gw2card header="직업 스킬">
                   <Card.Body>
                     <Skill id={29887} /> {/* Spear of Justice */}
                     <Skill id={30029} /> {/* Shield of Courage */}
@@ -668,95 +597,84 @@ function ProfessionsGuardian() {
                     <Skill id={30783} /> {/* Wings of Resolve */}
                     <Skill id={33134} /> {/* Hunter's Verdict */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>힐 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="힐 스킬">
                   <Card.Body>
                     <Skill id={30025} /> {/* Purification */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>유틸리티 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="유틸리티 스킬">
                   <Card.Body>
                     <Skill id={29786} /> {/* Test of Faith */}
                     <Skill id={30364} /> {/* Procession of Blades */}
                     <Skill id={30553} /> {/* Fragments of Faith */}
                     <Skill id={30871} /> {/* Light's Judgment */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>엘리트 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="엘리트 스킬">
                   <Card.Body>
                     <Skill id={30273} /> {/* Dragon's Maw */}
                   </Card.Body>
-                </Card>
+                </Gw2card>
               </Col>
             </Row>
           </Card.Body>
-        </Card>
+        </Gw2card>
       </Row>
-      <Row style={{marginBottom: 10}}>
+      <Row >
         {/* PoF / Path of Fire */}
-        <Card style={{padding: 0}}>
-          <Card.Header>파이어브랜드 : PoF(Path of Fire)</Card.Header>
+        <Gw2card header="파이어브랜드 : PoF(Path of Fire)">
           <Card.Body>
             <Row>
-              <Col xl="12" style={{marginBottom: 10}}>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>무기 스킬</Card.Header>
+              <Col xl="12" >
+                <Gw2card header="무기 스킬">
                   <Card.Body>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Axe</Card.Header>
+                      <Gw2card header="Axe">
                         <Card.Body>
                           <Row>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>1</Card.Header>
+                              <Gw2card header="1">
                                 <Card.Body>
                                   <Skill id={43826} /> {/* Searing Slash */}<br></br>
                                   <Skill id={44602} /> {/* Bleeding Edge */}<br></br>
                                   <Skill id={45047} /> {/* Core Cleave */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>2</Card.Header>
+                              <Gw2card header="2">
                                 <Card.Body>
                                   <Skill id={40624} /> {/* Symbol of Vengeance */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>3</Card.Header>
+                              <Gw2card header="3">
                                 <Card.Body>
                                   <Skill id={45402} /> {/* Blazing Edge */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col></Col>
                             <Col></Col>
                           </Row>
                         </Card.Body>
-                      </Card>
+                      </Gw2card>
                     </Card.Body>
-                  </Card>
+                  </Gw2card>
               </Col>
-              <Col xl="6" style={{marginBottom: 10}}>
+              <Col xl="6" >
                 {/* 특성 / Traits */}
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>특성</Card.Header>
+                <Gw2card header="특성">
                   <Card.Body>
                     {/* Firebrand */}
                     <TraitLine id={62} resettable selectable />
                   </Card.Body>
-                </Card>
+                </Gw2card>
               </Col>
-              <Col xl="6" style={{marginBottom: 10}}>
+              <Col xl="6" >
                 {/* 스킬 / Skills */}
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>직업 스킬</Card.Header>
+                <Gw2card header="직업 스킬">
                   <Card.Body>
                     <Skill id={41380} /> {/* Stow Tome */}
                     <Skill id={41780} /> {/* Tome of Resolve */}
@@ -765,86 +683,76 @@ function ProfessionsGuardian() {
                     <Skill id={44364} /> {/* Tome of Justice */}
                     <Skill id={45023} /> {/* Tome of Resolve */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>힐 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="힐 스킬">
                   <Card.Body>
                     <Skill id={41714} /> {/* Mantra of Solace */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>유틸리티 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="유틸리티 스킬">
                   <Card.Body>
                     <Skill id={40915} /> {/* Mantra of Potence */}
                     <Skill id={44080} /> {/* Mantra of Truth */}
                     <Skill id={45460} /> {/* Mantra of Lore */}
                     <Skill id={46148} /> {/* Mantra of Flame */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>엘리트 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="엘리트 스킬">
                   <Card.Body>
                     <Skill id={43357} /> {/* Mantra of Liberation */}
                   </Card.Body>
-                </Card>
+                </Gw2card>
               </Col>
             </Row>
           </Card.Body>
-        </Card>
+        </Gw2card>
       </Row>
-      <Row style={{marginBottom: 10}}>
+      <Row >
         {/* EoD / End of Dragons */}
-        <Card style={{padding: 0}}>
-          <Card.Header>윌벤더 : EoD(End of Dragons)</Card.Header>
+        <Gw2card header="윌벤더 : EoD(End of Dragons)">
           <Card.Body>
             <Row>
-              <Col xl="12" style={{marginBottom: 10}}>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>무기 스킬</Card.Header>
+              <Col xl="12" >
+                <Gw2card header="무기 스킬">
                   <Card.Body>
-                      <Card style={{marginBottom: 10}}>
-                        <Card.Header>Sword</Card.Header>
+                      <Gw2card header="Sword">
                         <Card.Body>
                           <Row>
                             <Col></Col>
                             <Col></Col>
                             <Col></Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>4</Card.Header>
+                              <Gw2card header="4">
                                 <Card.Body>
                                   <Skill id={62525} /> {/* Executioner's Calling */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                             <Col>
-                              <Card style={{marginBottom: 10}}>
-                                <Card.Header>5</Card.Header>
+                              <Gw2card header="5">
                                 <Card.Body>
                                   <Skill id={62650} /> {/* Advancing Strike */}<br></br>
                                 </Card.Body>
-                              </Card>
+                              </Gw2card>
                             </Col>
                           </Row>
                         </Card.Body>
-                      </Card>
+                      </Gw2card>
                     </Card.Body>
-                  </Card>
+                  </Gw2card>
               </Col>
-              <Col xl="6" style={{marginBottom: 10}}>
+              <Col xl="6" >
                 {/* 특성 / Traits */}
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>특성</Card.Header>
+                <Gw2card header="특성">
                   <Card.Body>
                     {/* Willbender */}
                     <TraitLine id={65} resettable selectable />
                   </Card.Body>
-                </Card>
+                </Gw2card>
               </Col>
-              <Col xl="6" style={{marginBottom: 10}}>
+              <Col xl="6" >
                 {/* 스킬 / Skills */}
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>직업 스킬</Card.Header>
+                <Gw2card header="직업 스킬">
                   <Card.Body>
                     <Skill id={62528} /> {/* Willbender Flames */}
                     <Skill id={62532} /> {/* Crashing Courage */}
@@ -857,15 +765,13 @@ function ProfessionsGuardian() {
                     <Skill id={62648} /> {/* Crashing Courage */}
                     <Skill id={62668} /> {/* Rushing Justice */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>힐 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="힐 스킬">
                   <Card.Body>
                     <Skill id={62622} /> {/* Reversal of Fortune */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>유틸리티 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="유틸리티 스킬">
                   <Card.Body>
                     <Skill id={62521} /> {/* Roiling Light */}
                     <Skill id={62549} /> {/* Heel Crack */}
@@ -874,17 +780,16 @@ function ProfessionsGuardian() {
                     <Skill id={62669} /> {/* Repose */}
                     <Skill id={62676} /> {/* Quick Retribution */}
                   </Card.Body>
-                </Card>
-                <Card style={{marginBottom: 10}}>
-                  <Card.Header>엘리트 스킬</Card.Header>
+                </Gw2card>
+                <Gw2card header="엘리트 스킬">
                   <Card.Body>
                     <Skill id={62561} /> {/* Heaven's Palm */}
                   </Card.Body>
-                </Card>
+                </Gw2card>
               </Col>
             </Row>
           </Card.Body>
-        </Card>
+        </Gw2card>
       </Row>
     </Container>
     </>

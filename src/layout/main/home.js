@@ -2,16 +2,16 @@ import React from 'react';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, Col, Row, Card } from 'react-bootstrap';
+import Gw2card from '../../components/gw2card';
 
 function Home() {
   return (
     <>
     <Container>
-      <Row style={{marginBottom: 10}}>
+      <Row >
         {/* 안내 */}
         <Col md="6">
-          <Card style={{marginBottom: 10}}>
-            <Card.Header>안내</Card.Header>
+          <Gw2card header="안내" defaultActiveKey="0">
             <Card.Body>
               본 사이트는 길드워2 한글화 팬사이트입니다.<br></br>
               현재 지속적인 개발 중이니 많은 관심 부탁드립니다.<br></br>
@@ -21,12 +21,11 @@ function Home() {
               <br></br>
               모두 즐거운 한가위 보내세요~ ^^
             </Card.Body>
-          </Card>
+          </Gw2card>
         </Col>
         {/* 유용한 사이트 모음 */}
         <Col md="6">
-        <Card style={{marginBottom: 10}}>
-            <Card.Header>유용한 사이트 모음</Card.Header>
+        <Gw2card header="유용한 사이트 모음" defaultActiveKey="0">
             <Card.Body>
               <ul>
                 <li>
@@ -61,12 +60,11 @@ function Home() {
                 </li>
               </ul>
             </Card.Body>
-          </Card>
+          </Gw2card>
         </Col>
         {/* 주요 업데이트 */}
         <Col md="6">
-          <Card style={{marginBottom: 10}}>
-            <Card.Header>주요 업데이트</Card.Header>
+          <Gw2card header="주요 업데이트" defaultActiveKey="0">
             <Card.Body>
               <ul>
                 <li>
@@ -80,12 +78,11 @@ function Home() {
                 </li>
               </ul>
             </Card.Body>
-          </Card>
+          </Gw2card>
         </Col>
         {/* 한인 길드 리스트 */}
         <Col md="6">
-          <Card style={{marginBottom: 10}}>
-            <Card.Header>한인 길드 리스트</Card.Header>
+          <Gw2card header="한인 길드 리스트" defaultActiveKey="0">
             <Card.Body>
               <ul>
                 <li>
@@ -114,7 +111,7 @@ function Home() {
                 </li>
               </ul>
             </Card.Body>
-          </Card>
+          </Gw2card>
         </Col>
       </Row>
     </Container>
