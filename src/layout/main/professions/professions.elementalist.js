@@ -14,7 +14,7 @@ function ProfessionsElementalist() {
   return (
     <>
     <Container>
-      <Row >
+      <Row>
         {/* 오리지널 / Original */}
         <Gw2card header="엘리멘탈리스트 : Original">
           <Card.Body>
