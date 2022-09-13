@@ -20,7 +20,7 @@ import warrior_icon from '../../images/Warrior_icon_small.png'
 
 function Header(props) {
     return (
-      <header className="sticky-top" style={{marginBottom: 20}}>
+      <header className="sticky-top" style={{marginBottom: 10}}>
         <Navbar bg="dark" variant="dark">
             <Container>
                 <Navbar.Brand href="/">gw2kr.com</Navbar.Brand>
