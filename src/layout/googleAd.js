@@ -34,9 +34,8 @@ export const GoogleAd = ({
   return (
     <ins class="adsbygoogle"
      style={{display: "block"}}
+     data-ad-format="autorelaxed"
      data-ad-client="ca-pub-5574929848052748"
-     data-ad-slot="6277759154"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+     data-ad-slot="1139114558"></ins>
   );
 };

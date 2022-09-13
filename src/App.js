@@ -15,9 +15,9 @@ function App() {
   <div>
     <Header />
     <Row>
-      <div style={{margin: '0px 0px 20px 0px', padding: '0px 0px 0px 0px'}}>
+      <Col sm="12" style={{margin: '0px 0px 20px 0px', padding: '0px 0px 0px 0px'}}>
         <GoogleAd/>
-      </div>
+      </Col>
     </Row>
     <Row style={{minHeight: "calc(100vh - 215px)", width: "100%"}}>
       <Col sm="12">
