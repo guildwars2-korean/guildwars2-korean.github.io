@@ -32,6 +32,9 @@ function Home() {
                   <a href="https://cafe.daum.net/koreanguildwars2" target="_blank" rel="noreferrer">길드워2 한인 모임</a> 커뮤니티
                 </li>
                 <li>
+                  <a href="https://gall.dcinside.com/mgallery/board/lists?id=guildwars2" target="_blank" rel="noreferrer">길드워2 갤러리</a> 커뮤니티
+                </li>
+                <li>
                   <a href="https://wiki.guildwars2.com/" target="_blank" rel="noreferrer">Guild Wars 2 Wiki</a> 공식 위키
                 </li>
                 <li>
