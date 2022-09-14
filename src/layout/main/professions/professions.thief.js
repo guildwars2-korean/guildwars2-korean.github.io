@@ -790,7 +790,7 @@ function ProfessionsThief() {
                               <Gw2card header="1">
                                 
                                 <Card.Body>
-                                  <Skill id={50801} /> {/* Shadow Bolt */}<br></br>
+                                  <Skill id={63066} /> {/* Shadow Bolt */}<br></br>
                                   <Skill id={63134} /> {/* Triple Bolt */}<br></br>
                                   <Skill id={63182} /> {/* Double Bolt */}<br></br>
                                   <Skill id={63314} /> {/* Shadowsquall */}<br></br>
