@@ -11,7 +11,7 @@ import { GoogleAd } from './layout/googleAd'
 
 function App() {
   return (
-  <div style={{width: "100%"}}>
+  <div style={{width: "100%", height: "100%"}}>
     <Header />
     <Row style={{display: "inline-block", textAlign: "left", width: "100%", padding: "0", margin: "0"}}>
       <Col sm="12">
@@ -22,7 +22,7 @@ function App() {
       margin: '20px 0px 0px 0px',
       padding: '0px 0px 0px 0px',
     }}>
-      <Col sm="12" style={{}}>
+      <Col sm="12">
         <GoogleAd/>
       </Col>
     </Row>
