@@ -461,10 +461,8 @@ function ProfessionsGuardian() {
                 <Gw2card header="직업 스킬">
                   <Card.Body>
                     <Skill id={9115} /> {/* Virtue of Justice */}
-                    <Skill id={9118} /> {/* Virtue of Courage */}
                     <Skill id={9120} /> {/* Virtue of Resolve */}
-                    <Skill id={9250} /> {/* Virtue of Resolve */}
-                    <Skill id={9268} /> {/* Virtue of Courage */}
+                    <Skill id={9118} /> {/* Virtue of Courage */}
                   </Card.Body>
                 </Gw2card>
                 <Gw2card header="힐 스킬">
