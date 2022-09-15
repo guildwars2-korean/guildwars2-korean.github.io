@@ -13,7 +13,7 @@ function Gw2card(props) {
     }
 
     return (
-        <Accordion defaultActiveKey={defaultActiveKey}>
+      <Accordion defaultActiveKey={defaultActiveKey}>
         <Accordion.Item eventKey="0">
           <Accordion.Header>{props.header}</Accordion.Header>
           <Accordion.Body>

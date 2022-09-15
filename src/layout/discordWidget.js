@@ -10,7 +10,7 @@ function DiscordWidget(props) {
             title="discordWidget"
             src={id}
             width="100%"
-            height="400"
+            height="300"
             allowtransparency="true"
             frameBorder="0"
             sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
