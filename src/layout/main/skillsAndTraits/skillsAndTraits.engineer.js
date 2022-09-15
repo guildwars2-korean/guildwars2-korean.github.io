@@ -18,6 +18,9 @@ function ProfessionsEngineer() {
         {/* 오리지널 / Original */}
         <Gw2card header="엔지니어 : Original">
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/e/e5/Engineer_04_concept_art.png/350px-Engineer_04_concept_art.png"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -328,6 +331,9 @@ function ProfessionsEngineer() {
         {/* HoT / Heart of Thorns */}
         <Gw2card header="스크래퍼 : HoT(Heart Of Thorns)">
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/5/5e/Spec_image_Scrapper.jpg/500px-Spec_image_Scrapper.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -422,6 +428,9 @@ function ProfessionsEngineer() {
         {/* PoF / Path of Fire */}
         <Gw2card header="홀로스미스 : PoF(Path of Fire)">
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/f/f0/Spec_image_Holosmith.jpg/470px-Spec_image_Holosmith.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -553,6 +562,9 @@ function ProfessionsEngineer() {
         {/* EoD / End of Dragons */}
         <Gw2card header="메카니스트 : EoD(End of Dragons)">
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/a/a3/Mechanist_concept_art_3.png/350px-Mechanist_concept_art_3.png"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">

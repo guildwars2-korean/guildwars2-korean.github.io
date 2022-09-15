@@ -19,6 +19,9 @@ function ProfessionsThief() {
         <Gw2card header="시프 : Original">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/3/35/Thief_04_concept_art.png"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -441,6 +444,9 @@ function ProfessionsThief() {
         <Gw2card header="데어데블 : HoT(Heart Of Thorns)">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/e/e8/Spec_image_Daredevil.jpg/425px-Spec_image_Daredevil.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -552,6 +558,9 @@ function ProfessionsThief() {
         <Gw2card header="데드아이 : PoF(Path of Fire)">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/b/b6/Spec_image_Deadeye.jpg/590px-Spec_image_Deadeye.jpg"></img>
+            </center>
             <Row>
             <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -777,6 +786,9 @@ function ProfessionsThief() {
         <Gw2card header="스펙터 : EoD(End of Dragons)">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/6/6d/Specter_concept_art_2.png/350px-Specter_concept_art_2.png"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">

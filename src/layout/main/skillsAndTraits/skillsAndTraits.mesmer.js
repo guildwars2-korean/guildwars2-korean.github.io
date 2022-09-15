@@ -17,8 +17,10 @@ function ProfessionsMesmer() {
       <Row >
         {/* 오리지널 / Original */}
         <Gw2card header="메스머 : Original">
-          
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/3/32/Mesmer_04_concept_art_%28wide%29.png/250px-Mesmer_04_concept_art_%28wide%29.png"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -503,15 +505,15 @@ function ProfessionsMesmer() {
       <Row >
         {/* HoT / Heart of Thorns */}
         <Gw2card header="크로노맨서 : HoT(Heart Of Thorns)">
-          
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/8/88/Spec_image_Chronomancer.jpg/300px-Spec_image_Chronomancer.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
-                  
                   <Card.Body>
                       <Gw2card header="Shield">
-                        
                         <Card.Body>
                           <Row>
                             <Col></Col>
@@ -519,7 +521,6 @@ function ProfessionsMesmer() {
                             <Col></Col>
                             <Col>
                               <Gw2card header="4">
-                                
                                 <Card.Body>
                                   <Skill id={30769} /> {/* Echo of Memory */}<br></br>
                                   <Skill id={29649} /> {/* Deja Vu */}<br></br>
@@ -528,7 +529,6 @@ function ProfessionsMesmer() {
                             </Col>
                             <Col>
                               <Gw2card header="5">
-                                
                                 <Card.Body>
                                   <Skill id={30643} /> {/* Tides of Time */}<br></br>
                                 </Card.Body>
@@ -594,6 +594,9 @@ function ProfessionsMesmer() {
         <Gw2card header="미라지 : PoF(Path of Fire)">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/4/48/Spec_image_Mirage.jpg/350px-Spec_image_Mirage.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -803,6 +806,9 @@ function ProfessionsMesmer() {
         <Gw2card header="버츄오소 : EoD(End of Dragons)">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/b/be/Virtuoso_concept_art_2.jpg/350px-Virtuoso_concept_art_2.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">

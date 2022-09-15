@@ -19,6 +19,9 @@ function ProfessionsRevenant() {
         <Gw2card header="레버넌트 : Original">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/f/fa/Revenant_01_concept_art.jpg/350px-Revenant_01_concept_art.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -450,6 +453,9 @@ function ProfessionsRevenant() {
         <Gw2card header="헤럴드 : HoT(Heart Of Thorns)">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/0/06/Spec_image_Herald.jpg/325px-Spec_image_Herald.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -544,6 +550,9 @@ function ProfessionsRevenant() {
         <Gw2card header="레네게이드 : PoF(Path of Fire)">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/f/f6/Spec_image_Renegade.jpg/375px-Spec_image_Renegade.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -653,6 +662,9 @@ function ProfessionsRevenant() {
         <Gw2card header="빈디케이터 : EoD(End of Dragons)">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/b/b5/Vindicator_concept_art_2.jpg/350px-Vindicator_concept_art_2.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">

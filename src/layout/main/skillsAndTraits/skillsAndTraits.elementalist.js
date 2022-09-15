@@ -18,6 +18,9 @@ function ProfessionsElementalist() {
         {/* 오리지널 / Original */}
         <Gw2card header="엘리멘탈리스트 : Original">
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/5/5e/Elementalist_04_concept_art.png/250px-Elementalist_04_concept_art.png"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬" >
@@ -412,6 +415,9 @@ function ProfessionsElementalist() {
         {/* HoT / Heart of Thorns */}
         <Gw2card header="템페스트 : HoT(Heart Of Thorns)">
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/4/41/Spec_image_Tempest.jpg/300px-Spec_image_Tempest.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -494,6 +500,9 @@ function ProfessionsElementalist() {
         {/* PoF / Path of Fire */}
         <Gw2card header="위버 : PoF(Path of Fire)">
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/b/b2/Spec_image_Weaver.jpg/400px-Spec_image_Weaver.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -684,6 +693,9 @@ function ProfessionsElementalist() {
         {/* EoD / End of Dragons */}
         <Gw2card header="카탈리스트 : EoD(End of Dragons)">
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/4/42/Catalyst_concept_art_2.jpg/350px-Catalyst_concept_art_2.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">

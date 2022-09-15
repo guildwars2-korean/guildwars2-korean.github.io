@@ -18,6 +18,9 @@ function ProfessionsGuardian() {
         {/* 오리지널 / Original */}
         <Gw2card header="가디언 : Original">
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/8/88/Guardian_04_concept_art.png/350px-Guardian_04_concept_art.png"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -527,6 +530,9 @@ function ProfessionsGuardian() {
         {/* HoT / Heart of Thorns */}
         <Gw2card header="드래곤헌터 : HoT(Heart Of Thorns)">
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/e/eb/Spec_image_Dragonhunter.jpg/370px-Spec_image_Dragonhunter.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -625,6 +631,9 @@ function ProfessionsGuardian() {
         {/* PoF / Path of Fire */}
         <Gw2card header="파이어브랜드 : PoF(Path of Fire)">
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/e/ef/Spec_image_Firebrand.jpg/370px-Spec_image_Firebrand.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -711,6 +720,9 @@ function ProfessionsGuardian() {
         {/* EoD / End of Dragons */}
         <Gw2card header="윌벤더 : EoD(End of Dragons)">
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/1/18/Willbender_concept_art_2.jpg/350px-Willbender_concept_art_2.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">

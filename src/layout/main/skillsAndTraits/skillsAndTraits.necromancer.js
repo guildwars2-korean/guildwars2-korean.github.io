@@ -19,6 +19,9 @@ function ProfessionsNecromancer() {
         <Gw2card header="네크로맨서 : Original">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/1/14/Necromancer_03_concept_art.jpg/350px-Necromancer_03_concept_art.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -502,6 +505,9 @@ function ProfessionsNecromancer() {
         <Gw2card header="리퍼 : HoT(Heart Of Thorns)">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/f/f8/Spec_image_Reaper.jpg/425px-Spec_image_Reaper.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -607,6 +613,9 @@ function ProfessionsNecromancer() {
         <Gw2card header="스커지 : PoF(Path of Fire)">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/7/7d/Spec_image_Scourge.jpg/425px-Spec_image_Scourge.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -698,6 +707,9 @@ function ProfessionsNecromancer() {
         <Gw2card header="하빈저 : EoD(End of Dragons)">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/a/ae/Harbinger_concept_art_2.jpg/350px-Harbinger_concept_art_2.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">

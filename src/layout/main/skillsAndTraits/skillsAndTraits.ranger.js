@@ -19,6 +19,9 @@ function ProfessionsRanger() {
         <Gw2card header="레인저 : Original">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/f/f5/Ranger_04_concept_art.png/350px-Ranger_04_concept_art.png"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -605,6 +608,9 @@ function ProfessionsRanger() {
         <Gw2card header="드루이드 : HoT(Heart Of Thorns)">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/8/8c/Spec_image_Druid.jpg/350px-Spec_image_Druid.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -722,6 +728,9 @@ function ProfessionsRanger() {
         <Gw2card header="소울비스트 : PoF(Path of Fire)">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/f/fd/Spec_image_Soulbeast.jpg/520px-Spec_image_Soulbeast.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -862,6 +871,9 @@ function ProfessionsRanger() {
         <Gw2card header="언테임드 : EoD(End of Dragons)">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/b/bc/Untamed_concept_art_3.png/350px-Untamed_concept_art_3.png"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">

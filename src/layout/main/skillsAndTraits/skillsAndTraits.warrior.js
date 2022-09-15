@@ -19,6 +19,9 @@ function ProfessionsWarrior() {
         <Gw2card header="워리어 : Original">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/5/56/Warrior_04_concept_art.png/350px-Warrior_04_concept_art.png"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -671,6 +674,9 @@ function ProfessionsWarrior() {
         <Gw2card header="버서커 : HoT(Heart Of Thorns)">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/6/64/Spec_image_Berserker.jpg/305px-Spec_image_Berserker.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -764,6 +770,9 @@ function ProfessionsWarrior() {
         <Gw2card header="스펠브레이커 : PoF(Path of Fire)">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/4/47/Spec_image_Spellbreaker.jpg/440px-Spec_image_Spellbreaker.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
@@ -886,6 +895,9 @@ function ProfessionsWarrior() {
         <Gw2card header="블레이드스원 : EoD(End of Dragons)">
           
           <Card.Body>
+            <center>
+              <img src="https://wiki.guildwars2.com/images/thumb/2/2a/Bladesworn_concept_art_2.jpg/350px-Bladesworn_concept_art_2.jpg"></img>
+            </center>
             <Row>
               <Col xl="12" >
                 <Gw2card header="무기 스킬">
