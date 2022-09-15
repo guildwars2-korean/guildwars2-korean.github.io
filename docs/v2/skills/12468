@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BrQwAAA=]",
-        "description": "5개의 독 화살을 펼칩니다. 측면이나 대상 뒤에 있으면 독이 더 오래 지속됩니다.",
+        "description": "5개의 독화살을 펼칩니다. 측면이나 대상 뒤에 있으면 독이 더 오래 지속됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -24,7 +24,7 @@
             },
             {
                 "apply_count": 5,
-                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "description": "매초 데미지를 준다; 힐링 효과가 33% 감소한다; 강도가 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
                 "status": "포이즌",
@@ -38,13 +38,13 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Targets per Arrow",
+                "text": "화살당 타겟",
                 "type": "Number",
                 "value": 5
             },
             {
                 "apply_count": 5,
-                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "description": "매초 데미지를 준다; 힐링 효과가 33% 감소한다; 강도가 중첩된다.",
                 "duration": 7,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
                 "status": "포이즌",
@@ -65,7 +65,7 @@
         "traited_facts": [
             {
                 "apply_count": 5,
-                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "description": "매초 데미지를 준다; 힐링 효과가 33% 감소한다; 강도가 중첩된다.",
                 "duration": 9,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
                 "overrides": 6,

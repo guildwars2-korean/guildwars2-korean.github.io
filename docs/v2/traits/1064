@@ -13,7 +13,7 @@
                 "description": "Your next weapon skill's cooldown is reduced by 66%.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/CBCB2EC86BC85CC02DA7AAB25CBFB226B8956D1E/1012648.png",
-                "status": "Quick Draw",
+                "status": "퀵 드로우",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

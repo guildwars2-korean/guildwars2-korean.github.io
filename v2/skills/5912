@@ -45,7 +45,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
-                "text": "Explosion",
+                "text": "폭발",
                 "type": "NoData"
             }
         ],
@@ -74,7 +74,7 @@
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
                 "requires_trait": 1678,
-                "text": "Boon Application Interval",
+                "text": "분 부여 주기",
                 "type": "Time"
             }
         ],

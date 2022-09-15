@@ -28,7 +28,7 @@
         "skills": [
             {
                 "chat_link": "[&BsF0AAA=]",
-                "description": "Fire a seeking rocket at your foe.",
+                "description": "추적 로켓을 적에게 발사합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -64,7 +64,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
-                        "text": "Explosion",
+                        "text": "폭발",
                         "type": "NoData"
                     }
                 ],
@@ -87,7 +87,7 @@
             },
             {
                 "chat_link": "[&BoyiAAA=]",
-                "description": "Call down energy from the sky to blast an area.",
+                "description": "하늘에서 에너지를 불러내어 지역을 폭파하세요.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

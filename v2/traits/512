@@ -25,7 +25,7 @@
         "skills": [
             {
                 "chat_link": "[&BpVFAAA=]",
-                "description": "Activate a fire shield that burns enemies who strike you, granting might for each burn applied.",
+                "description": "자신을 공격하는 적을 불태우는 화염 보호막을 활성화하여 화상을 입힐 때마다 위력을 부여합니다.",
                 "facts": [
                     {
                         "apply_count": 1,
@@ -62,7 +62,7 @@
             },
             {
                 "chat_link": "[&BpdFAAA=]",
-                "description": "Leave a trail of glue behind you that hampers enemy movement.",
+                "description": "적의 움직임을 방해하는 접착제의 흔적을 뒤에 남겨주세요.",
                 "facts": [
                     {
                         "apply_count": 1,
@@ -87,7 +87,7 @@
             },
             {
                 "chat_link": "[&BpNFAAA=]",
-                "description": "Set a timed charge that pulls nearby foes.",
+                "description": "근처의 적을 끌어당기는 시간 충전을 설정합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D5F6EBC4630F0E10F3DDB7A6DBB63592CD4B00BC/2440717.png",
@@ -115,7 +115,7 @@
             },
             {
                 "chat_link": "[&BpJFAAA=]",
-                "description": "Drop a mine that deals damage to enemies that trigger it.",
+                "description": "지뢰를 발동시키는 적에게 피해를 입히는 지뢰를 떨어뜨립니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -150,7 +150,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
-                        "text": "Explosion",
+                        "text": "폭발",
                         "type": "NoData"
                     }
                 ],
@@ -161,7 +161,7 @@
             },
             {
                 "chat_link": "[&BpRFAAA=]",
-                "description": "Run at double speed.",
+                "description": "2배속으로 달리세요.",
                 "facts": [
                     {
                         "apply_count": 1,
@@ -180,7 +180,7 @@
             },
             {
                 "chat_link": "[&BpZFAAA=]",
-                "description": "Become surrounded in a magnetic shield that reflects projectiles.",
+                "description": "발사체를 반사하는 자기 방패에 둘러싸여 있습니다.",
                 "facts": [
                     {
                         "apply_count": 1,
@@ -199,7 +199,7 @@
             },
             {
                 "chat_link": "[&Bs50AAA=]",
-                "description": "Drop gunk at your location to inflict a random condition.",
+                "description": "임의의 상태를 가하기 위해 위치에 건크를 떨어뜨립니다.",
                 "facts": [
                     {
                         "dmg_multiplier": 0.3,

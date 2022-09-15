@@ -1,6 +1,6 @@
 [
     {
-        "description": "회피할 때 피의 표식을 남깁니다.",
+        "description": "회피할 때 피의 흔적을 남깁니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -18,7 +18,7 @@
                     "Mark"
                 ],
                 "chat_link": "[&Bl42AAA=]",
-                "description": "Mark. Inscribe a mark that bleeds foes when they trigger it, and grants regeneration to allies.",
+                "description": "표시. 적을 발동시키면 출혈을 일으키는 표식을 새기고 아군에게 재생을 부여합니다.",
                 "facts": [
                     {
                         "dmg_multiplier": 1.5,
@@ -67,7 +67,7 @@
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "percent": 3,
                         "requires_trait": 898,
-                        "text": "Life Force",
+                        "text": "라이프 포스",
                         "type": "Percent"
                     },
                     {

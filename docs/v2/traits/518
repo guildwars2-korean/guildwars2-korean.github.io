@@ -16,11 +16,11 @@
         "skills": [
             {
                 "chat_link": "[&BhB0AAA=]",
-                "description": "Cleanse a condition from nearby allies.",
+                "description": "주변 아군으로부터 상태를 정화합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 1
                     },

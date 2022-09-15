@@ -31,7 +31,7 @@
         "skills": [
             {
                 "chat_link": "[&BiGtAAA=]",
-                "description": "Ambush.Release phantasmal axes that seek out the nearest target after a short delay.",
+                "description": "매복.잠시 후에 가장 가까운 목표를 찾는 환상의 도끼를 놓습니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -102,7 +102,7 @@
             },
             {
                 "chat_link": "[&BtGsAAA=]",
-                "description": "Ambush. Shoot a beam at a targeted foe, and secondary beams at foes near your target.",
+                "description": "매복. 목표된 적에게 광선을 쏘고 목표 근처의 적에게 보조 광선을 쏘십시오.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -161,7 +161,7 @@
             },
             {
                 "chat_link": "[&BkClAAA=]",
-                "description": "Ambush. Launch a barrage of chaos orbs at your foe, inflicting either confusion or torment each hit. Condition duration halved for clones.",
+                "description": "매복. 적에게 혼돈의 구체를 퍼부어 적중할 때마다 혼란을 일으키거나 고통을 줍니다. 클론의 조건 지속 시간이 절반으로 줄어듭니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -226,7 +226,7 @@
             },
             {
                 "chat_link": "[&BkCvAAA=]",
-                "description": "Ambush. Blink to your target and unleash a series of low-damage strikes that rapidly stack vulnerability.",
+                "description": "매복. 목표를 향해 눈을 깜박이고 취약성을 빠르게 쌓는 일련의 낮은 피해를 가하세요.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -277,7 +277,7 @@
             },
             {
                 "chat_link": "[&BvicAAA=]",
-                "description": "Ambush. Release a vortex of chaos energy that inflicts damaging conditions on foes. Allies near the caster gain boons.",
+                "description": "매복. 적에게 피해를 입히는 혼돈 에너지의 소용돌이를 방출합니다. 시전자 근처의 아군은 혜택을 얻습니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -372,7 +372,7 @@
             },
             {
                 "chat_link": "[&Bq6wAAA=]",
-                "description": "Ambush. Lunge at your foe and strike them with your sword, briefly dazing them. Leave behind a clone at your original location.",
+                "description": "매복. 적에게 돌진하여 검으로 공격하여 잠시 멍하게 만듭니다. 원래 위치에 클론을 남겨두십시오.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -396,7 +396,7 @@
                     {
                         "duration": 0,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "Daze",
+                        "text": "데이즈",
                         "type": "Time"
                     },
                     {
@@ -414,7 +414,7 @@
             },
             {
                 "chat_link": "[&BhecAAA=]",
-                "description": "Ambush. Release a wave of energy that interrupts and confuses foes.",
+                "description": "매복. 적을 방해하고 혼란시키는 에너지의 파동을 방출합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

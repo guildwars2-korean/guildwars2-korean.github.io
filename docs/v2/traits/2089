@@ -11,7 +11,7 @@
                     "Virtue"
                 ],
                 "chat_link": "[&BkytAAA=]",
-                "description": "Virtue: Burn foes every few attacks.\nActivate: Pull forth a magical tome on the dangers of the blazing heat in Kourna.\nEach tome skill use consumes a page.",
+                "description": "미덕: 몇 번의 공격마다 적을 불태웁니다. 활성화: Kourna의 타오르는 더위의 위험에 대한 마법의 책을 꺼내십시오. 각 책 스킬 사용은 페이지를 소모합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -127,7 +127,7 @@
                     "Virtue"
                 ],
                 "chat_link": "[&BjSjAAA=]",
-                "description": "Virtue: Regenerate health.\nActivate: Draw forth an enchanted tome that recounts the trials undergone by the people of Vabbi.\nEach tome skill use consumes a page.",
+                "description": "미덕: 건강을 재생합니다. 활성화: Vabbi의 사람들이 겪은 시련을 설명하는 마법의 책을 꺼냅니다. 각 책 스킬 사용은 페이지를 소모합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -187,7 +187,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 610,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -205,7 +205,7 @@
                     "Virtue"
                 ],
                 "chat_link": "[&BhOlAAA=]",
-                "description": "Virtue: Gain aegis periodically. \nActivate:Conjure a mystic tome containing stories about the heroes of Istan.\nEach tome skill use consumes a page.",
+                "description": "미덕: 주기적으로 가호를 얻습니다. 활성화: 이스탄의 영웅들에 대한 이야기가 담긴 신비한 책을 만들어 보세요. 각 책 스킬 사용은 페이지를 소모합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

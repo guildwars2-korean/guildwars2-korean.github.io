@@ -4,18 +4,18 @@
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 0.5,
-                "text": "Condition Damage Increase",
+                "text": "컨디션 데미지 증가",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 0.5,
-                "text": "Condition Damage Increase",
+                "text": "컨디션 데미지 증가",
                 "type": "Percent"
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "description": "매초 데미지를 준다; 힐링 효과가 33% 감소한다; 강도가 중첩된다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
                 "status": "포이즌",
@@ -24,7 +24,7 @@
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                "description": "매초 데미지를 준다; 힐링 효과가 33% 감소한다; 강도가 중첩된다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
                 "status": "포이즌",

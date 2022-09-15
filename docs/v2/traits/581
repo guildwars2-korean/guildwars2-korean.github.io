@@ -11,7 +11,7 @@
                     "Meditation"
                 ],
                 "chat_link": "[&Bo0jAAA=]",
-                "description": "Meditation. Cure conditions and damage nearby foes. Deal more damage if a condition is cured.",
+                "description": "심사 숙고. 상태를 치료하고 주변 적에게 피해를 줍니다. 상태가 치료되면 더 많은 피해를 입힙니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -35,7 +35,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 2
                     },

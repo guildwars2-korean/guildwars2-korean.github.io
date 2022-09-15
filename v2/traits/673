@@ -59,7 +59,7 @@
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
                 "prefix": {
-                    "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                    "description": "매초 데미지를 준다; 힐링 효과가 33% 감소한다; 강도가 중첩된다.",
                     "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
                     "status": "포이즌",
                     "text": "Apply Buff/Condition"

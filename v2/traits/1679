@@ -19,7 +19,7 @@
                     "Gadget"
                 ],
                 "chat_link": "[&BlJzAAA=]",
-                "description": "Gadget. Fly forward, damaging foes with your rocket exhaust. Cures immobilized, crippled, and chilled. Gain superspeed when this skill ends.",
+                "description": "간단한 기계 장치. 전방으로 날아가 로켓 배기 장치로 적에게 피해를 줍니다. 고정, 불구 및 냉각 치료. 이 스킬이 끝나면 슈퍼스피드를 얻습니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -126,7 +126,7 @@
                     "Gadget"
                 ],
                 "chat_link": "[&Bmx4AAA=]",
-                "description": "Gadget. Spray oil behind you, knocking down and crippling foes. If underwater, foes entering the field are blinded, slowed, and crippled.",
+                "description": "간단한 기계 장치. 뒤에 기름을 뿌려 적을 쓰러뜨리고 불구로 만듭니다. 물속에 있으면 필드에 들어오는 적들은 실명하고 느려지며 불구가 됩니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -204,7 +204,7 @@
                     "Gadget"
                 ],
                 "chat_link": "[&BoF2AAA=]",
-                "description": "Gadget. Throw out a remote-controlled land mine that damages, knocks back, and removes a boon from nearby foes. A second mine is planted at your location.",
+                "description": "간단한 기계 장치. 원격 제어 지뢰를 던져 주변 적에게 피해를 입히고 뒤로 밀치고 혜택을 제거합니다. 두 번째 광산이 귀하의 위치에 심어졌습니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -240,13 +240,13 @@
                     {
                         "distance": 240,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Explosion Radius",
+                        "text": "폭발 범위",
                         "type": "Distance"
                     },
                     {
                         "distance": 120,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Proximity Radius",
+                        "text": "근접 범위",
                         "type": "Distance"
                     },
                     {
@@ -264,7 +264,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
-                        "text": "Explosion",
+                        "text": "폭발",
                         "type": "NoData"
                     },
                     {
@@ -290,7 +290,7 @@
                     "Gadget"
                 ],
                 "chat_link": "[&BpdzAAA=]",
-                "description": "Gadget. Break out of stun, gaining resistance and clearing blindness.",
+                "description": "간단한 기계 장치. 기절 상태에서 벗어나 저항력을 얻고 실명을 해제합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -373,7 +373,7 @@
                     "Gadget"
                 ],
                 "chat_link": "[&Bid1AAA=]",
-                "description": "Gadget. Launch a target foe with a concealed ram head. The ram explodes on contact, burning foes.",
+                "description": "간단한 기계 장치. 숨겨진 숫양 머리로 목표물을 발사합니다. 숫양은 접촉 시 폭발하여 적을 불태웁니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -414,7 +414,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
-                        "text": "Explosion",
+                        "text": "폭발",
                         "type": "NoData"
                     },
                     {
@@ -464,7 +464,7 @@
                         "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
                         "overrides": 6,
                         "requires_trait": 1679,
-                        "text": "Explosion",
+                        "text": "폭발",
                         "type": "NoData"
                     },
                     {
@@ -501,7 +501,7 @@
                     "Gadget"
                 ],
                 "chat_link": "[&BqF4AAA=]",
-                "description": "Gadget. Activate your A.E.D., enabling the system to heal you after a brief period of time. If you take lethal damage while A.E.D. is active, it ends and heals you for a large amount, grants shock aura, and removes conditions.",
+                "description": "간단한 기계 장치. AED를 활성화하면 시스템이 짧은 시간 후에 치료할 수 있습니다. AED가 활성화된 상태에서 치명적인 피해를 입으면 AED가 종료되어 많은 양을 치유하고 쇼크 오라를 부여하고 상태를 제거합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -563,7 +563,7 @@
                         "type": "Buff"
                     },
                     {
-                        "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                        "description": "매초 데미지를 준다; 힐링 효과가 33% 감소한다; 강도가 중첩된다.",
                         "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
                         "status": "포이즌",
                         "text": "Apply Buff/Condition",

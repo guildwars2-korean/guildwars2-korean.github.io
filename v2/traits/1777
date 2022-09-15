@@ -8,7 +8,7 @@
         "skills": [
             {
                 "chat_link": "[&BrtyAAA=]",
-                "description": "Legendary Dragon. Facet. Place the Facet of Nature on yourself to grant nearby allies enhancements based on your channeled legend.",
+                "description": "전설의 드래곤. 한 면. 자연의 면을 자신에게 배치하여 채널링된 전설에 따라 주변 동료에게 강화 효과를 부여합니다.",
                 "facts": [
                     {
                         "apply_count": 1,
@@ -126,7 +126,7 @@
             },
             {
                 "chat_link": "[&BtFyAAA=]",
-                "description": "Legendary Dragon. Consume. Consume Facet of Nature to unify allies, granting them your boons. Facet of Nature will be disabled while this skill is recharging.",
+                "description": "전설의 드래곤. 소비하다. 자연의 면을 섭취하여 동맹을 통합하고 혜택을 받으세요. 이 스킬이 재충전되는 동안에는 Face of Nature가 비활성화됩니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

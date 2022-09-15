@@ -1,6 +1,6 @@
 [
     {
-        "description": "적을 냉각시키면 취약성이 발생합니다.",
+        "description": "적을 냉각시키면 취약성이 생깁니다.",
         "facts": [
             {
                 "apply_count": 3,

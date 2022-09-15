@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bqy/AAA=]",
-        "description": "파편. 모든 클론을 파괴하고 근처의 적에게 피해를 줍니다. 산산조각 효과는 또한 당신의 위치에서 발생합니다.",
+        "description": "파편. 모든 클론을 파괴하고 주변의 적에게 피해를 줍니다. 산산조각 효과는 당신의 위치에서도 발생합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -90,7 +90,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "requires_trait": 740,
-                "text": "상태이상 해제",
+                "text": "컨디션 해제",
                 "type": "Number",
                 "value": 1
             },

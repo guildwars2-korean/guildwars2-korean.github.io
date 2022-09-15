@@ -22,7 +22,7 @@
         "skills": [
             {
                 "chat_link": "[&Bs73AAA=]",
-                "description": "Unleashed Ambush. Spin and attack nearby foes, moving faster while channeling. Create a spore when striking an enemy for the first time.",
+                "description": "해방된 매복. 회전하면서 주변의 적을 공격하여 집중하는 동안 더 빠르게 이동합니다. 적을 처음 공격할 때 포자를 생성합니다.",
                 "facts": [
                     {
                         "dmg_multiplier": 0.546,
@@ -66,7 +66,7 @@
             },
             {
                 "chat_link": "[&Bmj3AAA=]",
-                "description": "Unleashed Ambush. Leap forward and strike the ground, creating a spore under each enemy struck.",
+                "description": "해방된 매복. 앞으로 도약하여 지면을 강타하여 적중한 적 아래에 포자를 생성합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -90,7 +90,7 @@
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "Daze",
+                        "text": "데이즈",
                         "type": "Time"
                     }
                 ],
@@ -104,14 +104,14 @@
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
                         "overrides": 3,
                         "requires_trait": 1070,
-                        "text": "Daze",
+                        "text": "데이즈",
                         "type": "Time"
                     }
                 ]
             },
             {
                 "chat_link": "[&Bvn2AAA=]",
-                "description": "Unleashed Ambush. Fire arrows at your target and other enemies near your target. Striking an enemy reduces the recharge of other longbow skills.",
+                "description": "해방된 매복. 목표물과 목표물 근처의 다른 적에게 화살을 발사합니다. 적을 공격하면 다른 장궁 기술의 재충전이 감소합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -152,7 +152,7 @@
             },
             {
                 "chat_link": "[&Bl73AAA=]",
-                "description": "Unleashed Ambush. Fire three arrows that explode on impact, inflicting poison on enemies in the area. Inflict additional conditions on enemies who are already poisoned.",
+                "description": "해방된 매복. 충돌 시 폭발하는 세 개의 화살을 발사하여 해당 지역의 적에게 독을 입힙니다. 이미 중독된 적에게 추가 조건을 부여합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -181,7 +181,7 @@
                     },
                     {
                         "apply_count": 3,
-                        "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                        "description": "매초 데미지를 준다; 힐링 효과가 33% 감소한다; 강도가 중첩된다.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
                         "status": "포이즌",
@@ -214,7 +214,7 @@
             },
             {
                 "chat_link": "[&Bpn2AAA=]",
-                "description": "Unleashed Ambush. Throw multiple axes at nearby enemies, inflicting conditions.",
+                "description": "해방된 매복. 주변의 적에게 여러 도끼를 던져 조건을 건다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -279,7 +279,7 @@
             },
             {
                 "chat_link": "[&Bnb3AAA=]",
-                "description": "Unleashed Ambush. Attack in an area around you, creating a spore under each enemy struck.",
+                "description": "해방된 매복. 주변 지역을 공격하여 적중당한 각 적 아래에 포자를 생성합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -342,7 +342,7 @@
             },
             {
                 "chat_link": "[&Bln2AAA=]",
-                "description": "Unleashed Ambush.Spin and strike foes repeatedly. The final attack creates a spore under targets it strikes.",
+                "description": "매복을 발동합니다. 회전하여 적을 반복적으로 공격합니다. 마지막 공격은 공격한 대상 아래에 포자를 생성합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -378,7 +378,7 @@
             },
             {
                 "chat_link": "[&BkX3AAA=]",
-                "description": "Unleashed Ambush. Fire a piercing spread of harpoons that inflicts conditions on enemies.",
+                "description": "해방된 매복. 적에게 조건을 부여하는 날카로운 작살을 발사합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

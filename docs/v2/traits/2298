@@ -16,7 +16,7 @@
         "skills": [
             {
                 "chat_link": "[&BgT3AAA=]",
-                "description": "Mech Command. Your mech jets into the air and fires a missile at each nearby foe before crashing down and dealing additional damage to anything caught underfoot.",
+                "description": "기계 명령. 기계가 공중으로 날아가 근처의 각 적에게 미사일을 발사한 후 바닥에 닿은 모든 것에 추가 피해를 입힙니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -58,7 +58,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Targets per Missile",
+                        "text": "투사체당 타겟",
                         "type": "Number",
                         "value": 3
                     },

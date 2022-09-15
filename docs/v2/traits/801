@@ -11,7 +11,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
                 "target": "None",
-                "text": "Condition Damage Increased",
+                "text": "컨디션 데미지 증가",
                 "type": "AttributeAdjust",
                 "value": 200
             }
@@ -23,7 +23,7 @@
         "skills": [
             {
                 "chat_link": "[&Br/JAAA=]",
-                "description": "Corrupt boons from enemies around your target. Inflict torment and gain life force for each condition on your initial target up to the threshold. Gain extra life force for each extra foe struck.",
+                "description": "대상 주변의 적들로부터 타락한 혜택을 받습니다. 고통을 가하고 임계값까지 초기 대상에 대한 각 조건에 대한 생명력을 얻으십시오. 적중한 추가 적마다 추가 생명력을 얻습니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -54,13 +54,13 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "percent": 8,
-                        "text": "Life Force",
+                        "text": "라이프 포스",
                         "type": "Percent"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "percent": 1,
-                        "text": "Life Force per Condition",
+                        "text": "컨디션당 라이프 포스",
                         "type": "Percent"
                     },
                     {
@@ -80,19 +80,19 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "Condition Threshold",
+                        "text": "컨디션 임계",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "Boons Converted to Conditions",
+                        "text": "컨디션으로 전환되는 분",
                         "type": "Number",
                         "value": 3
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "Boons Converted to Conditions",
+                        "text": "컨디션으로 전환되는 분",
                         "type": "Number",
                         "value": 1
                     },

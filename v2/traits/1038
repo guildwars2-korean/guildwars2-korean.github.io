@@ -5,13 +5,13 @@
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 33,
-                "text": "Reduced Health Loss",
+                "text": "생명력 소모 감소",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 50,
-                "text": "Radius Increase",
+                "text": "범위 증가",
                 "type": "Percent"
             },
             {

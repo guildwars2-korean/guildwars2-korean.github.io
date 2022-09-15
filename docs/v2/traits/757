@@ -8,7 +8,7 @@
         "skills": [
             {
                 "chat_link": "[&BtZ1AAA=]",
-                "description": "Remove conditions from you and nearby allies.",
+                "description": "자신과 주변 아군에게서 조건을 제거합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -18,7 +18,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 1
                     },

@@ -22,7 +22,7 @@
         "skills": [
             {
                 "chat_link": "[&BtH2AAA=]",
-                "description": "Your mech launches an explosive fist that detonates on hit, dealing defiance damage to enemies with active defiance bars. This skill is only used when you activate Skill 3 on your weapon.",
+                "description": "기계가 적중 시 폭발하는 폭발성 주먹을 발사하여 활성 저항 막대가 있는 적에게 저항 피해를 입힙니다. 이 스킬은 무기에 스킬 3을 발동했을 때만 사용됩니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -51,7 +51,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
-                        "text": "Explosion",
+                        "text": "폭발",
                         "type": "NoData"
                     },
                     {

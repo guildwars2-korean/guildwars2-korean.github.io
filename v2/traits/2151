@@ -8,7 +8,7 @@
         "skills": [
             {
                 "chat_link": "[&Bm+pAAA=]",
-                "description": "Beast. Pull foes toward you and bind them briefly.",
+                "description": "짐승. 적을 끌어당겨 짧게 묶습니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -70,7 +70,7 @@
             },
             {
                 "chat_link": "[&BoyeAAA=]",
-                "description": "Beast. Tap into your primal essence and unleash a debilitating roar.",
+                "description": "짐승. 당신의 원초적 정수를 두드리고 쇠약하게 하는 포효를 뿜어내십시오.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -123,7 +123,7 @@
             },
             {
                 "chat_link": "[&BlKuAAA=]",
-                "description": "Beast. Restore health to your allies and grant them a reprieve from conditions.",
+                "description": "짐승. 동맹국의 건강을 회복하고 조건에서 면제를 부여하십시오.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -174,7 +174,7 @@
             },
             {
                 "chat_link": "[&BuWyAAA=]",
-                "description": "Beast. Shrug off all movement-impairing conditions and become unflinching in the face of normal attacks.",
+                "description": "짐승. 모든 움직임을 방해하는 조건을 무시하고 일반적인 공격에 맞서 굴하지 마십시오.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -226,7 +226,7 @@
             },
             {
                 "chat_link": "[&BhmfAAA=]",
-                "description": "Beast. Jump up and slam the ground beneath you, severely damaging nearby foes.",
+                "description": "짐승. 점프하여 발 아래의 땅을 내리쳐 주변 적에게 큰 피해를 줍니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

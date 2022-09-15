@@ -15,7 +15,7 @@
         "skills": [
             {
                 "chat_link": "[&BqIWAAA=]",
-                "description": "Burn nearby foes.",
+                "description": "근처의 적을 불태웁니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -59,7 +59,7 @@
             },
             {
                 "chat_link": "[&BqEWAAA=]",
-                "description": "Heal yourself and nearby allies, curing a condition.",
+                "description": "자신과 주변 아군을 치유하여 상태를 치료합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -76,7 +76,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 1
                     },
@@ -100,7 +100,7 @@
             },
             {
                 "chat_link": "[&BqAWAAA=]",
-                "description": "Blind nearby foes.",
+                "description": "주변의 적의 눈을 멀게 합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -137,7 +137,7 @@
             },
             {
                 "chat_link": "[&BqMWAAA=]",
-                "description": "Create a shock wave that bleeds and cripples nearby foes.",
+                "description": "출혈을 일으키고 주변의 적을 불구로 만드는 충격파를 생성합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

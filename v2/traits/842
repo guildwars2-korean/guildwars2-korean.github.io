@@ -31,7 +31,7 @@
                     "Corruption"
                 ],
                 "chat_link": "[&BiRfAAA=]",
-                "description": "Corruption. Release a noxious explosion and leave behind a cloud that poisons foes in the area.",
+                "description": "부패. 유독성 폭발을 일으키고 해당 지역의 적을 중독시키는 구름을 남깁니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -55,7 +55,7 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                        "description": "매초 데미지를 준다; 힐링 효과가 33% 감소한다; 강도가 중첩된다.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
                         "status": "포이즌",

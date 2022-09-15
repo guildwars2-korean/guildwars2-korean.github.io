@@ -1,6 +1,6 @@
 [
     {
-        "description": "캐스트 &quot;수색 및 구조!&quot; 아군 소생을 시작할 때.",
+        "description": "&quot;수색 및 구조!&quot; 아군 소생을 시작할 때.",
         "icon": "https://render.guildwars2.com/file/6F2F55CAEDEC8046D5EBE8A84FCB6A734F0835B9/1012632.png",
         "id": 1060,
         "name": "Allies' Aid",
@@ -8,7 +8,7 @@
         "skills": [
             {
                 "chat_link": "[&Bqt1AAA=]",
-                "description": "Command. Your pet will seek out and revive a downed ally.",
+                "description": "명령. 당신의 애완동물은 쓰러진 동료를 찾아 소생시킬 것입니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

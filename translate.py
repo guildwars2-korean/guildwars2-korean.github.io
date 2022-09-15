@@ -77,6 +77,21 @@ def post_translate_item(item_json):
         discription_kr = res['translatedText']
         dictionary_from_google[description] = discription_kr
     item_json['description'] = discription_kr
+
+    skills = item_json.get('skills', [])
+    for i in range(len(skills)):
+        skill = skills[i]
+        skill_description = skill.get('description')
+        if not skill_description:
+            continue
+
+        skill_description_kr = dictionary_from_google.get(skill_description)
+        if not skill_description_kr:
+            skill_res = client.translate(skill_description, target_language='ko')
+            skill_description_kr = skill_res['translatedText']
+            dictionary_from_google[skill_description] = skill_description_kr
+        item_json['skills'][i]['description'] = skill_description_kr
+
     return item_json
 
 def translate_item(param):

@@ -8,7 +8,7 @@
         "skills": [
             {
                 "chat_link": "[&BlbWAAA=]",
-                "description": "Shade. Enter the final shroud, gaining a powerful barrier and priming the shroud for a powerful detonation that damages enemies and bolsters allies.\nTargets can only be affected by this skill once per activation.",
+                "description": "그늘. 최후의 장막에 들어가 강력한 방벽을 얻고 적에게 피해를 입히고 아군을 강화하는 강력한 폭발을 위해 장막을 준비하십시오. 대상은 활성화당 한 번만 이 기술의 영향을 받을 수 있습니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -95,7 +95,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "Boons Converted to Conditions",
+                        "text": "컨디션으로 전환되는 분",
                         "type": "Number",
                         "value": 2
                     },
@@ -131,7 +131,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1922,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 1
                     },

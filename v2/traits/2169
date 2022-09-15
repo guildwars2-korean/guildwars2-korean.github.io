@@ -8,7 +8,7 @@
         "skills": [
             {
                 "chat_link": "[&Bo+yAAA=]",
-                "description": "Strike nearby foes, removing a boon from them. Gain a copy of any boon removed.",
+                "description": "근처의 적을 공격하여 혜택을 제거합니다. 제거된 혜택의 복사본을 얻습니다.",
                 "facts": [
                     {
                         "apply_count": 1,

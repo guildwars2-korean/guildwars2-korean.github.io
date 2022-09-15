@@ -26,7 +26,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 33,
-                "text": "Chance on Critical Hit",
+                "text": "크리티컬 공격시 확률",
                 "type": "Percent"
             }
         ],

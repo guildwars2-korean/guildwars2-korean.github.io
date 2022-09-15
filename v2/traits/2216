@@ -16,7 +16,7 @@
         "skills": [
             {
                 "chat_link": "[&Bpn0AAA=]",
-                "description": "Bladesong. Fire all stocked blades at your target.",
+                "description": "블레이드송. 모든 재고 블레이드를 목표물에 발사하십시오.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -79,7 +79,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 740,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 1
                     }
@@ -87,7 +87,7 @@
             },
             {
                 "chat_link": "[&Bpj0AAA=]",
-                "description": "Bladesong. Fire all stocked blades, inflicting your target with conditions.",
+                "description": "블레이드송. 장착된 모든 칼날을 발사하여 대상에게 조건을 부여합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -183,7 +183,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 740,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 1
                     }
@@ -191,7 +191,7 @@
             },
             {
                 "chat_link": "[&Bor0AAA=]",
-                "description": "Bladesong. Combine all your blades into one large blade that dazes targets based on the number of blades consumed.",
+                "description": "블레이드송. 소모한 칼날의 수에 따라 목표물을 멍하게 만드는 하나의 큰 칼날로 모든 칼날을 결합하십시오.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -263,7 +263,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 740,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 1
                     }
@@ -271,7 +271,7 @@
             },
             {
                 "chat_link": "[&BoX0AAA=]",
-                "description": "Bladesong. Block incoming attacks and send your blades spinning around you to hit nearby foes. Spinning blade duration scales with number of blades consumed.",
+                "description": "블레이드송. 들어오는 공격을 차단하고 주위의 적을 공격하기 위해 회전하는 블레이드를 보냅니다. 회전하는 블레이드 지속 시간은 소모된 블레이드 수에 따라 조정됩니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -328,7 +328,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 740,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 1
                     },

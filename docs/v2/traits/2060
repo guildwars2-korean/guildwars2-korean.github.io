@@ -8,7 +8,7 @@
         "skills": [
             {
                 "chat_link": "[&BgyqAAA=]",
-                "description": "Tether yourself to your target. If they move beyond the range threshold, pull them to you. Grants might and reveals your target every second.",
+                "description": "목표물에 자신을 묶으세요. 범위 임계값을 넘어 이동하면 끌어당깁니다. 권한을 부여하고 매초 목표를 공개합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -42,7 +42,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "Range Threshold",
+                        "text": "임계 거리",
                         "type": "Number",
                         "value": 600
                     },

@@ -49,7 +49,7 @@
         "skills": [
             {
                 "chat_link": "[&Bj33AAA=]",
-                "description": "Mech Command. Your mech removes conditions, breaks stuns, and grants boons to itself and nearby allies.\n\nThe mech does not count against the target count for this skill.",
+                "description": "기계 명령. 당신의 기계는 조건을 제거하고 기절을 깨고 자신과 주변 아군에게 혜택을 줍니다. 기계는 이 기술의 목표 수에 포함되지 않습니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -140,7 +140,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 3
                     }

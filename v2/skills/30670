@@ -42,7 +42,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "상태이상 이전",
+                "text": "컨디션 이전",
                 "type": "Number",
                 "value": 1
             }

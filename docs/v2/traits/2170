@@ -32,7 +32,7 @@
                     "Stance"
                 ],
                 "chat_link": "[&BqGnAAA=]",
-                "description": "Stance. Enter an earthen state, gaining barrier periodically over the course of the stance.",
+                "description": "위치. 흙 상태로 들어가며, 자세를 유지하는 동안 주기적으로 장벽을 얻습니다.",
                 "facts": [
                     {
                         "apply_count": 1,

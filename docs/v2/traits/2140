@@ -1,6 +1,6 @@
 [
     {
-        "description": "멍과 기절로 이동 불가 상태가 됩니다.",
+        "description": "멍과 기절로 움직이지 못하게 만듭니다.",
         "facts": [
             {
                 "apply_count": 1,

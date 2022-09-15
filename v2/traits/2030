@@ -8,7 +8,7 @@
         "skills": [
             {
                 "chat_link": "[&BmLeAAA=]",
-                "description": "Shatter. Destroy all your clones, damaging nearby foes. Strikes again after a delay.\nShatter traits only affect the first strike of this skill.",
+                "description": "파편. 모든 클론을 파괴하고 근처의 적에게 피해를 줍니다. 지연 후 다시 공격합니다. 산산조각 특성은 이 기술의 첫 번째 공격에만 영향을 줍니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -87,7 +87,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 740,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 1
                     }
@@ -95,7 +95,7 @@
             },
             {
                 "chat_link": "[&BmDeAAA=]",
-                "description": "Shatter. Destroy all your clones, confusing nearby foes and recharging this skill for each clone shattered.",
+                "description": "파편. 모든 클론을 파괴하고 주변의 적을 혼란스럽게 만들고 각 클론이 부서질 때마다 이 기술을 재충전하십시오.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -183,7 +183,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 740,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 1
                     }
@@ -191,7 +191,7 @@
             },
             {
                 "chat_link": "[&BineAAA=]",
-                "description": "Shatter. Destroy all your clones, dazing and slowing their targets.",
+                "description": "파편. 모든 클론을 파괴하고 목표물을 멍하게 만들고 속도를 늦춥니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -208,7 +208,7 @@
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "Daze",
+                        "text": "데이즈",
                         "type": "Time"
                     },
                     {
@@ -259,7 +259,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 740,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 1
                     }
@@ -267,7 +267,7 @@
             },
             {
                 "chat_link": "[&BoZ0AAA=]",
-                "description": "Destroy all your clones and create a rift in the space-time continuum. When it expires, you will revert back to your original point with your previous health, endurance, and skill recharges. Duration increases with each illusion shattered.\nThis skill's recharge cannot be reset by other mesmer skills.",
+                "description": "모든 클론을 파괴하고 시공 연속체에 균열을 만드십시오. 만료되면 이전 건강, 지구력 및 기술 충전으로 원래 지점으로 돌아갑니다. 각 환상이 부서질 때마다 지속 시간이 증가합니다. 이 스킬의 재충전은 다른 메머 스킬로 초기화할 수 없습니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -341,7 +341,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 740,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 1
                     },
@@ -356,7 +356,7 @@
             },
             {
                 "chat_link": "[&Bht4AAA=]",
-                "description": "Revert back to the previous timeline. Your health, endurance and cooldowns are reverted to their previous states. You are transported back prematurely if the rift is destroyed.",
+                "description": "이전 타임라인으로 되돌립니다. 건강, 지구력 및 재사용 대기시간이 이전 상태로 되돌아갑니다. 균열이 파괴되면 조기에 다시 이송됩니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

@@ -25,7 +25,7 @@
         "skills": [
             {
                 "chat_link": "[&BlM2AAA=]",
-                "description": "Bleed and weaken nearby foes.",
+                "description": "출혈을 일으키고 주변의 적을 약화시킵니다.",
                 "facts": [
                     {
                         "dmg_multiplier": 1.5,
@@ -61,7 +61,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "Boons Converted to Conditions",
+                        "text": "컨디션으로 전환되는 분",
                         "type": "Number",
                         "value": 1
                     },

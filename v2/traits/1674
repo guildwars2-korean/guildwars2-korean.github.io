@@ -7,7 +7,7 @@
                 "description": "You cannot be critically hit while attuned to earth.",
                 "duration": 0,
                 "icon": "https://render.guildwars2.com/file/22F1BDACFBEBC8FF2BF77B22B3E535D2BA03D140/1012302.png",
-                "status": "Stone Heart",
+                "status": "스톤 하트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

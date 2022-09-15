@@ -11,7 +11,7 @@
                     "Overload"
                 ],
                 "chat_link": "[&Bgp0AAA=]",
-                "description": "Overload. Unleash your flames, granting might to allies and burning enemies. Finishing the cast creates a tornado that continues to grant might and burn foes.\nUsing this skill causes the attunement to have a longer recharge.",
+                "description": "초과 적재. 화염을 방출하여 아군과 불타는 적에게 힘을 부여하십시오. 시전을 마치면 계속해서 힘을 부여하고 적을 불태우는 토네이도가 생성됩니다. 이 기술을 사용하면 조율의 재충전 시간이 길어집니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -99,7 +99,7 @@
                     "Overload"
                 ],
                 "chat_link": "[&BudyAAA=]",
-                "description": "Overload. Create a surge of accumulated water magic, healing and cleansing allies. When the cast ends, heal the area and apply regeneration.\nUsing this skill causes the attunement to have a longer recharge.",
+                "description": "초과 적재. 축적된 물 마법, 치유 및 정화의 파도를 생성합니다. 시전이 끝나면 해당 부위를 치유하고 재생을 적용합니다. 이 기술을 사용하면 조율의 재충전 시간이 길어집니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -204,7 +204,7 @@
                     "Overload"
                 ],
                 "chat_link": "[&Bhd0AAA=]",
-                "description": "Overload. Use your air magic to summon a nimbus that repeatedly strikes nearby enemies. When this ability is complete, imbue your allies with electricity and create a lingering static region that strikes enemies at the same interval.\nUsing this skill causes the attunement to have a longer recharge.",
+                "description": "초과 적재. 공중 마법을 사용하여 주변의 적을 반복적으로 공격하는 후광을 소환합니다. 이 능력이 완료되면 아군에게 전기를 주입하고 동일한 간격으로 적을 공격하는 느린 정적 영역을 만듭니다. 이 기술을 사용하면 조율의 재충전 시간이 길어집니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -302,7 +302,7 @@
                     "Overload"
                 ],
                 "chat_link": "[&BrJzAAA=]",
-                "description": "Overload. Ride your stored earth magic around, granting protection to other allies you move over and crippling enemies, then deliver a final immobilizing blast of power to the area, leaving behind a dust cyclone that delivers the same effects as the overload.\nUsing this skill causes the attunement to have a longer recharge.",
+                "description": "초과 적재. 저장된 대지 마법을 타고 이동하여 이동하는 다른 아군을 보호하고 적을 불구로 만든 다음 해당 지역에 최종적으로 움직이지 못하게 하는 힘의 폭발을 전달하여 과부하와 동일한 효과를 제공하는 먼지 사이클론을 남깁니다. 이 기술을 사용하면 조율의 재충전 시간이 길어집니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

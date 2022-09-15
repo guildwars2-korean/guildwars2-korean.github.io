@@ -102,19 +102,19 @@
             {
                 "distance": 600,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Boon Radius",
+                "text": "분 범위",
                 "type": "Distance"
             },
             {
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "Reflective Shield Duration",
+                "text": "반사 쉴드 지속시간",
                 "type": "Time"
             },
             {
                 "distance": 180,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Reflective Shield Radius",
+                "text": "반사 쉴드 범위",
                 "type": "Distance"
             },
             {

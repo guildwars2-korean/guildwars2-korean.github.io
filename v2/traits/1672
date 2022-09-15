@@ -8,7 +8,7 @@
         "skills": [
             {
                 "chat_link": "[&BvFeAAA=]",
-                "description": "Call down lightning on a disabled foe.",
+                "description": "비활성화된 적에게 번개를 불러냅니다.",
                 "facts": [
                     {
                         "dmg_multiplier": 1.5,

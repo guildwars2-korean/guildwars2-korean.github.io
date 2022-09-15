@@ -16,7 +16,7 @@
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "Boon Application Interval",
+                "text": "분 부여 주기",
                 "type": "Time"
             },
             {

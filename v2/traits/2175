@@ -11,7 +11,7 @@
                     "Burst"
                 ],
                 "chat_link": "[&BoWsAAA=]",
-                "description": "Burst. Absorb the next attack against you and counterattack all foes around you. Foes struck by the counter attack are interrupted.",
+                "description": "터지다. 자신에 대한 다음 공격을 흡수하고 주위의 모든 적에게 반격합니다. 반격에 맞은 적은 중단됩니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -68,19 +68,19 @@
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "Daze",
+                        "text": "데이즈",
                         "type": "Time"
                     },
                     {
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "Daze",
+                        "text": "데이즈",
                         "type": "Time"
                     },
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "Daze",
+                        "text": "데이즈",
                         "type": "Time"
                     },
                     {
@@ -126,7 +126,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 1
                     }

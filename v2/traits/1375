@@ -28,7 +28,7 @@
                     "Stance"
                 ],
                 "chat_link": "[&Bvo3AAA=]",
-                "description": "Stance. Gain stability and swiftness on an interval. Become immune to critical hits.",
+                "description": "위치. 간격에 안정성과 신속성을 얻으십시오. 치명타에 면역이 됩니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -72,7 +72,7 @@
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                        "text": "Boon Application Interval",
+                        "text": "분 부여 주기",
                         "type": "Time"
                     }
                 ],

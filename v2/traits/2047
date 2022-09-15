@@ -19,7 +19,7 @@
         "skills": [
             {
                 "chat_link": "[&Bpl5AAA=]",
-                "description": "Leap into an area, and deliver a massive blow to enemies.",
+                "description": "지역으로 뛰어들어 적에게 엄청난 일격을 가합니다.",
                 "facts": [
                     {
                         "dmg_multiplier": 0.5,

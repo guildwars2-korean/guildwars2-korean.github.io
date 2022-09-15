@@ -11,13 +11,13 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 2,
-                "text": "Healing per Interval",
+                "text": "주기당 힐링",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 1,
-                "text": "Healing per Interval",
+                "text": "주기당 힐링",
                 "type": "Percent"
             },
             {
@@ -29,7 +29,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 10,
-                "text": "Life Force Threshold",
+                "text": "라이프 포스 임계",
                 "type": "Percent"
             }
         ],
@@ -46,7 +46,7 @@
                 "overrides": 4,
                 "percent": 25,
                 "requires_trait": 2147,
-                "text": "Life Force Threshold",
+                "text": "라이프 포스 임계",
                 "type": "Percent"
             }
         ]

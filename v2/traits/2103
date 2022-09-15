@@ -22,7 +22,7 @@
         "skills": [
             {
                 "chat_link": "[&BuSsAAA=]",
-                "description": "Launch an arc of light at your foe.",
+                "description": "적에게 빛의 원호를 발사합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -51,7 +51,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
-                        "text": "Explosion",
+                        "text": "폭발",
                         "type": "NoData"
                     },
                     {
@@ -75,7 +75,7 @@
             },
             {
                 "chat_link": "[&BuulAAA=]",
-                "description": "Launch another arc of light at your target.",
+                "description": "목표물에 또 다른 빛의 원호를 발사합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -104,7 +104,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
-                        "text": "Explosion",
+                        "text": "폭발",
                         "type": "NoData"
                     },
                     {
@@ -128,7 +128,7 @@
             },
             {
                 "chat_link": "[&BtSiAAA=]",
-                "description": "Fire two light blades in quick succession.",
+                "description": "두 개의 가벼운 칼날을 빠르게 연속으로 발사합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -157,7 +157,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
-                        "text": "Explosion",
+                        "text": "폭발",
                         "type": "NoData"
                     },
                     {

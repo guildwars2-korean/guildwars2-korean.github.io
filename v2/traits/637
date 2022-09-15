@@ -8,7 +8,7 @@
         "skills": [
             {
                 "chat_link": "[&BuNXAAA=]",
-                "description": "Lash out against nearby foes.",
+                "description": "근처의 적들을 향해 돌진합니다.",
                 "facts": [
                     {
                         "dmg_multiplier": 1.2,

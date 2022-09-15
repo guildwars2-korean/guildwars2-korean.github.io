@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BomvAAA=]",
-        "description": "목표물을 멍하게 합니다. 대상이 스킬을 사용 중인 경우 멍한 상태의 지속 시간이 연장됩니다.",
+        "description": "목표물을 멍해지게 합니다. 대상이 스킬을 사용 중인 경우 멍한 상태의 지속 시간이 연장됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -25,7 +25,7 @@
             {
                 "duration": 0,
                 "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                "text": "Daze",
+                "text": "데이즈",
                 "type": "Time"
             },
             {

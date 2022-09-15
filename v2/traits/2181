@@ -25,7 +25,7 @@
         "skills": [
             {
                 "chat_link": "[&BiysAAA=]",
-                "description": "Citadel Order. Refresh the duration of your Kalla's Fervor and grant nearby allies might for every stack.",
+                "description": "시타델 오더. 칼라의 열정의 지속 시간을 새로고침하고 모든 스택에 대해 주변 동료에게 힘을 부여합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -95,7 +95,7 @@
             },
             {
                 "chat_link": "[&BimiAAA=]",
-                "description": "Citadel Order. Open a portal through the mists of time, unleashing a storm of artillery from the united legions.",
+                "description": "시타델 오더. 시간의 안개를 뚫고 차원문을 열고 연합 군단의 포병 폭풍을 일으킵니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -161,7 +161,7 @@
             },
             {
                 "chat_link": "[&BuGxAAA=]",
-                "description": "Citadel Order. Orders from above arrive, renewing your abilities and those of your nearby allies.",
+                "description": "시타델 오더. 위의 명령이 도착하여 자신과 주변 동맹국의 능력을 갱신합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

@@ -15,7 +15,7 @@
         "skills": [
             {
                 "chat_link": "[&BjPeAAA=]",
-                "description": "Gain a fire aura and damage nearby foes.",
+                "description": "화염 오라를 얻고 주변 적에게 피해를 줍니다.",
                 "facts": [
                     {
                         "dmg_multiplier": 0.6,

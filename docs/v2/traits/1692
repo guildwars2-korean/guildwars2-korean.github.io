@@ -4,32 +4,32 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "상태이상 이전",
+                "text": "컨디션 이전",
                 "type": "Number",
                 "value": 5
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Conditions Consumed",
+                "text": "컨디션 흡수",
                 "type": "Number",
                 "value": 3
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Conditions Consumed",
+                "text": "컨디션 흡수",
                 "type": "Number",
                 "value": 2
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 7,
-                "text": "Life Force per Condition",
+                "text": "컨디션당 라이프 포스",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 3,
-                "text": "Life Force per Condition",
+                "text": "컨디션당 라이프 포스",
                 "type": "Percent"
             },
             {

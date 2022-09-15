@@ -15,7 +15,7 @@
         "skills": [
             {
                 "chat_link": "[&Bga3AAA=]",
-                "description": "Strike enemies around you, inflicting vulnerability and gaining quickness. Gain additional quickness for each foe you hit.",
+                "description": "주변의 적을 공격하여 취약성을 부여하고 민첩성을 얻습니다. 적중한 적마다 추가 민첩성을 얻습니다.",
                 "facts": [
                     {
                         "dmg_multiplier": 0.93,
@@ -71,7 +71,7 @@
             },
             {
                 "chat_link": "[&Bvu2AAA=]",
-                "description": "Strike enemies around you, inflicting weakness, gaining barrier, and gaining additional barrier per target hit.",
+                "description": "주위의 적을 공격하여 약점을 부여하고, 보호막을 얻고, 적중한 대상당 추가 보호막을 얻습니다.",
                 "facts": [
                     {
                         "dmg_multiplier": 0.75,
@@ -123,7 +123,7 @@
             },
             {
                 "chat_link": "[&Bgi3AAA=]",
-                "description": "Strike enemies around you, inflicting conditions on struck foes.",
+                "description": "주위의 적을 공격하여 적중한 적에게 조건을 건다.",
                 "facts": [
                     {
                         "dmg_multiplier": 0.9,
@@ -179,7 +179,7 @@
             },
             {
                 "chat_link": "[&Bv+2AAA=]",
-                "description": "Heal yourself and nearby allies.",
+                "description": "자신과 주변 아군을 치료하십시오.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
@@ -208,7 +208,7 @@
             },
             {
                 "chat_link": "[&Bgm3AAA=]",
-                "description": "Strike enemies around you, inflicting multiple conditions.",
+                "description": "주변의 적을 공격하여 여러 조건을 부여합니다.",
                 "facts": [
                     {
                         "dmg_multiplier": 0.75,
@@ -255,7 +255,7 @@
             },
             {
                 "chat_link": "[&BgG3AAA=]",
-                "description": "Strike enemies around you, inflicting bleeding and gaining Kalla's Fervor. Gain additional fervor stacks for each foe you hit.",
+                "description": "주위의 적을 공격하여 출혈을 일으키고 칼라의 열정을 얻습니다. 적중한 각 적에 대해 추가 열정 스택을 얻습니다.",
                 "facts": [
                     {
                         "dmg_multiplier": 0.5,
@@ -344,7 +344,7 @@
             },
             {
                 "chat_link": "[&BvH0AAA=]",
-                "description": "Gain endurance and strike enemies around you, gaining bonus endurance for each enemy struck.",
+                "description": "지구력을 얻고 주위의 적을 공격하여 적중당한 적마다 추가 지구력을 얻습니다.",
                 "facts": [
                     {
                         "dmg_multiplier": 0.93,

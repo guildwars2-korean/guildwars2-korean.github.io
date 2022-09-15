@@ -19,7 +19,7 @@
                     "CelestialAvatar"
                 ],
                 "chat_link": "[&BiB8AAA=]",
-                "description": "Celestial Avatar. Summon a seed that heals and cleanses nearby allies of conditions when it blossoms.",
+                "description": "천상의 아바타. 꽃이 피면 주변 아군을 치유하고 정화하는 씨앗을 소환합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -36,7 +36,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 1
                     },

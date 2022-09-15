@@ -5,25 +5,25 @@
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 50,
-                "text": "Personal Condition Duration",
+                "text": "자신의 컨디션 지속시간",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 50,
-                "text": "Pet Condition Duration",
+                "text": "펫 컨디션 지속시간",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 80,
-                "text": "Personal Condition Duration",
+                "text": "자신의 컨디션 지속시간",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 20,
-                "text": "Pet Condition Duration",
+                "text": "펫 컨디션 지속시간",
                 "type": "Percent"
             }
         ],

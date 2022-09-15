@@ -8,7 +8,7 @@
         "skills": [
             {
                 "chat_link": "[&BqU1AAA=]",
-                "description": "Create a magical storm at the target location that applies random conditions to foes and boons to allies. The first strike of the storm dazes foes.",
+                "description": "적에게 무작위 조건을 적용하고 아군에게 혜택을 주는 마법 폭풍을 대상 위치에 생성합니다. 폭풍의 첫 번째 공격은 적을 어리둥절하게 합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -67,7 +67,7 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                        "description": "매초 데미지를 준다; 힐링 효과가 33% 감소한다; 강도가 중첩된다.",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
                         "status": "포이즌",
@@ -86,7 +86,7 @@
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "Daze",
+                        "text": "데이즈",
                         "type": "Time"
                     },
                     {

@@ -4,13 +4,13 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Conditions to Boons",
+                "text": "분으로 전환되는 컨디션",
                 "type": "Number",
                 "value": 1
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Conditions to Boons Over 50% Heat",
+                "text": "50% 히트 이상에서 분으로 전환되는 컨디션",
                 "type": "Number",
                 "value": 2
             }

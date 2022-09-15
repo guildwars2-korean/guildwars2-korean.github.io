@@ -2,7 +2,7 @@
     {
         "attunement": "Air",
         "chat_link": "[&BhcWAAA=]",
-        "description": "적 주변의 물을 전기로 충전합니다. 현재 능력을 사용하는 적은 멍해집니다.",
+        "description": "적 주변의 물을 전기로 충전합니다. 현재 능력을 사용하는 적들은 멍해집니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -41,7 +41,7 @@
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                "text": "Daze",
+                "text": "데이즈",
                 "type": "Time"
             },
             {

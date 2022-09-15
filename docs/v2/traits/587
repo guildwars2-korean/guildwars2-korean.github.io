@@ -8,7 +8,7 @@
         "skills": [
             {
                 "chat_link": "[&BiNVAAA=]",
-                "description": "Unleash a blast of ice that chills foes.",
+                "description": "적을 냉각시키는 얼음 폭발을 일으킵니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -45,7 +45,7 @@
             },
             {
                 "chat_link": "[&BurQAAA=]",
-                "description": "Crush nearby foes with a chilling slam.",
+                "description": "오싹한 강타로 주변의 적을 부숴버리세요.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

@@ -25,7 +25,7 @@
         "skills": [
             {
                 "chat_link": "[&BpH2AAA=]",
-                "description": "Mech Command. Launch a powerful mortar attack at the target.",
+                "description": "기계 명령. 대상에 강력한 박격포 공격을 시작합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -64,7 +64,7 @@
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "Daze",
+                        "text": "데이즈",
                         "type": "Time"
                     },
                     {

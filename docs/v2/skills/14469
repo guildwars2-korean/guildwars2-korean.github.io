@@ -4,7 +4,7 @@
             "Burst"
         ],
         "chat_link": "[&BoU4AAA=]",
-        "description": "터지다. 강력한 사격을 가합니다. 아드레날린 레벨에 따라 데미지가 증가합니다.",
+        "description": "터지다. 강력한 샷을 날립니다. 아드레날린 레벨에 따라 데미지가 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -91,7 +91,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "requires_trait": 1649,
-                "text": "상태이상 해제",
+                "text": "컨디션 해제",
                 "type": "Number",
                 "value": 1
             }

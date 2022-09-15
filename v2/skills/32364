@@ -28,7 +28,7 @@
             {
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                "text": "Daze",
+                "text": "데이즈",
                 "type": "Time"
             },
             {
@@ -46,7 +46,7 @@
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                "text": "Daze",
+                "text": "데이즈",
                 "type": "Time"
             }
         ],
@@ -64,7 +64,7 @@
                 "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
                 "overrides": 3,
                 "requires_trait": 1070,
-                "text": "Daze",
+                "text": "데이즈",
                 "type": "Time"
             },
             {
@@ -72,7 +72,7 @@
                 "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
                 "overrides": 6,
                 "requires_trait": 1070,
-                "text": "Daze",
+                "text": "데이즈",
                 "type": "Time"
             }
         ],

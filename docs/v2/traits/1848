@@ -11,7 +11,7 @@
                     "Virtue"
                 ],
                 "chat_link": "[&Br90AAA=]",
-                "description": "Virtue. Burn foes every few attacks.\nActivate: Hurl a spear of light that passes through foes. Enemies struck become tethered and receive conditions periodically.",
+                "description": "덕. 몇 번의 공격마다 적을 불태웁니다. 사용 효과: 적을 관통하는 빛의 창을 던집니다. 적중당한 적은 속박되어 주기적으로 조건을 받습니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -200,7 +200,7 @@
                     "Virtue"
                 ],
                 "chat_link": "[&Bj94AAA=]",
-                "description": "Virtue: Regenerates health.\nActivate: Leap to a target area, healing allies in the area.",
+                "description": "미덕: 건강을 회복합니다. 사용 효과: 대상 지역으로 도약하여 해당 지역의 아군을 치유합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -317,7 +317,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 610,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 3
                     }
@@ -328,7 +328,7 @@
                     "Virtue"
                 ],
                 "chat_link": "[&Bk11AAA=]",
-                "description": "Virtue. Grants aegis periodically.\nActivate: Grant aegis to nearby allies and create a shield in front of you that blocks attacks. You are vulnerable from the sides and behind while this shield is active.",
+                "description": "덕. 주기적으로 아이기스를 부여합니다. 활성화: 주변 아군에게 가호를 부여하고 공격을 차단하는 보호막을 전방에 생성합니다. 이 보호막이 활성화되어 있는 동안에는 측면과 후면에서 취약합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

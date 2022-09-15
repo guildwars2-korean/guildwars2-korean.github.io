@@ -13,7 +13,7 @@
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Explosion Radius",
+                "text": "폭발 범위",
                 "type": "Distance"
             },
             {
@@ -24,7 +24,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
-                "text": "Explosion",
+                "text": "폭발",
                 "type": "NoData"
             }
         ],

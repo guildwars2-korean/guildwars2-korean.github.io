@@ -11,7 +11,7 @@
                     "Burst"
                 ],
                 "chat_link": "[&BuN2AAA=]",
-                "description": "Burst. Gain adrenaline, an attack-speed boost, and access to primal burst skills.",
+                "description": "터지다. 아드레날린, 공격 속도 향상 및 원시 버스트 기술에 대한 액세스를 얻으십시오.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -93,7 +93,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -112,7 +112,7 @@
                     "PrimalBurst"
                 ],
                 "chat_link": "[&BoN4AAA=]",
-                "description": "Primal Burst. Gather your strength into a powerful attack. If it hits, gain might and recharge this skill.",
+                "description": "원시 버스트. 힘을 모아 강력한 공격을 합니다. 명중하면 위력을 얻고 이 스킬을 재충전합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -166,7 +166,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -187,7 +187,7 @@
                     "PrimalBurst"
                 ],
                 "chat_link": "[&Bpx0AAA=]",
-                "description": "Primal Burst. Spin to create shock waves that grow in size to damage nearby foes.",
+                "description": "원시 버스트. 회전하여 주변 적에게 피해를 입히는 크기가 커지는 충격파를 생성합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -266,7 +266,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -287,7 +287,7 @@
                     "PrimalBurst"
                 ],
                 "chat_link": "[&Bp94AAA=]",
-                "description": "Primal Burst. Jump to the targeted location and slam your hammer down, creating a deadly chain of earthen shock waves that immobilize and daze foes.",
+                "description": "원시 버스트. 목표 위치로 점프하여 망치를 내리쳐 적을 움직이지 못하게 하고 멍하게 만드는 치명적인 흙 충격파 사슬을 만듭니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -326,7 +326,7 @@
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "Daze",
+                        "text": "데이즈",
                         "type": "Time"
                     },
                     {
@@ -354,7 +354,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -382,7 +382,7 @@
                     "PrimalBurst"
                 ],
                 "chat_link": "[&Bg15AAA=]",
-                "description": "Primal Burst. Fire a fast, forceful shot that immobilizes and burns foes.",
+                "description": "원시 버스트. 적을 움직이지 못하게 하고 불태우는 빠르고 강력한 샷을 발사합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -446,7 +446,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -473,7 +473,7 @@
                     "PrimalBurst"
                 ],
                 "chat_link": "[&BuN0AAA=]",
-                "description": "Primal Burst. Fire a burning shot into the ground that creates a trail of flaming destruction.",
+                "description": "원시 버스트. 불타는 파괴의 흔적을 생성하는 불타는 총을 지면에 발사합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -566,7 +566,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -587,7 +587,7 @@
                     "PrimalBurst"
                 ],
                 "chat_link": "[&Bu9zAAA=]",
-                "description": "Primal Burst. Unleash a powerful skull strike that dazes your target and inflicts multiple conditions.",
+                "description": "원시 버스트. 강력한 해골 공격을 가하여 대상을 멍하게 만들고 여러 상태를 가합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -618,7 +618,7 @@
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "Daze",
+                        "text": "데이즈",
                         "type": "Time"
                     },
                     {
@@ -711,7 +711,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -732,7 +732,7 @@
                     "PrimalBurst"
                 ],
                 "chat_link": "[&BsxzAAA=]",
-                "description": "Primal Burst. Fire a fast, flaming shot that explodes on the first foe it hits, interrupting foes in the area.",
+                "description": "원시 버스트. 첫 번째 적중한 적에게 폭발하는 빠르고 화염 샷을 발사하여 해당 지역의 적을 방해합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -783,7 +783,7 @@
                     {
                         "duration": 0,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "Daze",
+                        "text": "데이즈",
                         "type": "Time"
                     },
                     {
@@ -811,7 +811,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -838,7 +838,7 @@
                     "PrimalBurst"
                 ],
                 "chat_link": "[&Bkh5AAA=]",
-                "description": "Primal Burst. Strike all foes around you, burning and pulling them in.",
+                "description": "원시 버스트. 주변의 모든 적을 불태우고 끌어당깁니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -911,7 +911,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 3
                     },
@@ -932,7 +932,7 @@
                     "PrimalBurst"
                 ],
                 "chat_link": "[&Btp3AAA=]",
-                "description": "Primal Burst. Lash out with a flurry of strikes that block missiles and shoot fireballs at foes in front of you.",
+                "description": "원시 버스트. 미사일을 막고 전방의 적에게 불덩어리를 쏘는 일련의 공격을 퍼부으세요.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
@@ -996,7 +996,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "컨디션 해제",
                         "type": "Number",
                         "value": 3
                     },
