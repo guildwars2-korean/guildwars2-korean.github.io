@@ -22,6 +22,27 @@ function Home() {
             </Card.Body>
           </Gw2card>
         </Col>
+        {/* 주요 업데이트 */}
+        <Col md="6">
+          <Gw2card header="주요 업데이트" defaultActiveKey="0">
+            <Card.Body>
+              <ul>
+                <li>
+                  [2022.09.15] 속성/분/컨디션 추가
+                </li>
+                <li>
+                  [2022.09.12] 직업별 무기 스킬 추가
+                </li>
+                <li>
+                  [2022.09.07] 스킬을 타입별(직업, 힐, 유틸리티, 엘리트) 분류
+                </li>
+                <li>
+                  [2022.09.06] Beta 오픈
+                </li>
+              </ul>
+            </Card.Body>
+          </Gw2card>
+        </Col>
         {/* 유용한 사이트 모음 */}
         <Col md="6">
         <Gw2card header="유용한 사이트 모음" defaultActiveKey="0">
@@ -59,27 +80,6 @@ function Home() {
                 </li>
                 <li>
                   <a href="https://fast.farming-community.eu/" target="_blank" rel="noreferrer">fast.farming</a> 파밍 가이드
-                </li>
-              </ul>
-            </Card.Body>
-          </Gw2card>
-        </Col>
-        {/* 주요 업데이트 */}
-        <Col md="6">
-          <Gw2card header="주요 업데이트" defaultActiveKey="0">
-            <Card.Body>
-              <ul>
-                <li>
-                  [2022.09.15] 속성/분/컨디션 추가
-                </li>
-                <li>
-                  [2022.09.12] 직업별 무기 스킬 추가
-                </li>
-                <li>
-                  [2022.09.07] 스킬을 타입별(직업, 힐, 유틸리티, 엘리트) 분류
-                </li>
-                <li>
-                  [2022.09.06] Beta 오픈
                 </li>
               </ul>
             </Card.Body>
