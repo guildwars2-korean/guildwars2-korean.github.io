@@ -117,6 +117,36 @@ function Home() {
             </Card.Body>
           </Gw2card>
         </Col>
+        {/* 번역 진행률 */}
+        <Col md="6">
+          <Gw2card header="번역 진행률" defaultActiveKey="0">
+            <Card.Body>
+              <ul>
+                <li>
+                  특성 : 50% (2022.09.16)
+                </li>
+                <li>
+                  스킬 : 10% (2022.09.16)
+                </li>
+                <li>
+                  속성 : 100% (2022.09.15)
+                </li>
+                <li>
+                  분 : 100% (2022.09.15)
+                </li>
+                <li>
+                  컨디션 : 100% (2022.09.15)
+                </li>
+                <li>
+                  하트 퀘스트 : 0%
+                </li>
+                <li>
+                  스토리 : 0%
+                </li>
+              </ul>
+            </Card.Body>
+          </Gw2card>
+        </Col>
         {/* 정보 */}
         <Col md="6">
           <Gw2card header="정보" defaultActiveKey="0">

@@ -956,6 +956,10 @@ DICTIONARY_FOR_TRANSLATION = {
     '"Personal Condition Duration"': '"자신의 컨디션 지속시간"',
     '"Pet Condition Duration"': '"펫 컨디션 지속시간"',
     '"Gain Expertise based on a percentage of Vitality"': '"바이탈리티 비율에 따른 엑스퍼티즈 증가"',
+    '"Explosion Damage"': '"폭발 데미지"',
+    '"Jagged Horror Maximum"': '"최대 Jagged Horror 수"',
+    '"Jagged Horror Lifetime Duration"': '"Jagged Horror 생존 시간"',
+    '"Jagged Horror Summon Recharge"': '"Jagged Horror 재소환 대기시간"',
     # Boon
     '"status": "Aegis"': '"status": "이지스"',
     '"Block the next incoming attack; stacks duration."': '"공격을 1회 막는다; 지속시간이 중첩된다."',
