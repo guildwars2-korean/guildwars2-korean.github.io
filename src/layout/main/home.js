@@ -120,19 +120,7 @@ function Home() {
         </Col>
         {/* gw2kr.com 디스코드 */}
         <Col md="6" className="discord">
-          <Gw2card header="gw2kr.com 디스코드" defaultActiveKey="0">
-            <Card.Body>
-              <DiscordWidget id="1007871222429786152"></DiscordWidget>
-            </Card.Body>
-          </Gw2card>
-        </Col>
-        {/* This Is M [rn] 디스코드 */}
-        <Col md="6" className="discord">
-          <Gw2card header=" This Is M [rn] 디스코드" defaultActiveKey="0">
-            <Card.Body>
-              <DiscordWidget id="632367806968496148"></DiscordWidget>
-            </Card.Body>
-          </Gw2card>
+          <DiscordWidget id="1007871222429786152"></DiscordWidget>
         </Col>
         {/* 정보 */}
         <Col md="6">
