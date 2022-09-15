@@ -14,22 +14,22 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Unblockable",
+                "text": "방어 불가",
                 "type": "Unblockable",
                 "value": true
             },
             {
                 "apply_count": 1,
-                "description": "Next outgoing attack misses; stacks duration.",
+                "description": "다음 공격이 빗나간다; 지속시간이 중첩된다.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
-                "status": "Blinded",
+                "status": "블라인드",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             },
@@ -53,13 +53,13 @@
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "field_type": "Smoke",
                 "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-                "text": "Combo Field",
+                "text": "콤보 필드",
                 "type": "ComboField"
             }
         ],

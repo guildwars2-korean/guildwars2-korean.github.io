@@ -5,23 +5,23 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "Range",
+                "text": "사정거리",
                 "type": "Range",
                 "value": 130
             },
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
                 "target": "Healing",
-                "text": "Barrier",
+                "text": "배리어",
                 "type": "AttributeAdjust",
                 "value": 261
             },
             {
                 "apply_count": 3,
-                "description": "Damage received on skill activation; stacks intensity.",
+                "description": "스킬 시전시 데미지를 받는다; 강도가 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-                "status": "Confusion",
+                "status": "컨퓨전",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -29,12 +29,12 @@
                 "dmg_multiplier": 1.4,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
+                "text": "데미지",
                 "type": "Damage"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 3
             },

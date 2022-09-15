@@ -1,6 +1,6 @@
 [
     {
-        "description": "기계 명령 스킬 롤링 스매시를 잠금 해제합니다. 기계의 공격은 출혈을 가합니다. 이 효과는 간격당 한 번만 주어진 대상에 영향을 줄 수 있습니다.",
+        "description": "메카에케 Rolling Smash 커맨드 스킬을 해금한다. 메카의 공격이 블리딩을 유발한다. 이 효과는 타겟들에게 주기적으로 한번씩만 적용된다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,26 +10,26 @@
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                "status": "Bleeding",
+                "status": "블리딩",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                "status": "Bleeding",
+                "status": "블리딩",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "Interval",
+                "text": "주기",
                 "type": "Time"
             }
         ],
@@ -44,7 +44,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "Range",
+                        "text": "사정거리",
                         "type": "Range",
                         "value": 600
                     },
@@ -58,27 +58,27 @@
                         "dmg_multiplier": 1.6,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
                         "distance": 180,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "apply_count": 4,
-                        "description": "Deals damage every second; stacks intensity.",
+                        "description": "매초 데미지를 준다; 강도가 중첩된다.",
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                        "status": "Bleeding",
+                        "status": "블리딩",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }

@@ -19,45 +19,45 @@
                 "dmg_multiplier": 0.5,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
+                "text": "데미지",
                 "type": "Damage"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Pulses",
+                "text": "파동",
                 "type": "Number",
                 "value": 12
             },
             {
                 "distance": 180,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "Duration",
+                "text": "지속시간",
                 "type": "Time"
             },
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 50,
-                "text": "Duration Increase",
+                "text": "지속시간 증가",
                 "type": "Percent"
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                "status": "Bleeding",
+                "status": "블리딩",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             }

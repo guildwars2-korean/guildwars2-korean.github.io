@@ -5,7 +5,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "Range",
+                "text": "사정거리",
                 "type": "Range",
                 "value": 900
             },
@@ -17,7 +17,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Unblockable",
+                "text": "방어 불가",
                 "type": "Unblockable",
                 "value": true
             },
@@ -25,7 +25,7 @@
                 "dmg_multiplier": 0.5,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
+                "text": "데미지",
                 "type": "Damage"
             },
             {
@@ -33,7 +33,7 @@
                 "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-                "status": "Poisoned",
+                "status": "포이즌",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -46,7 +46,7 @@
             {
                 "distance": 120,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
@@ -57,7 +57,7 @@
             {
                 "field_type": "Poison",
                 "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-                "text": "Combo Field",
+                "text": "콤보 필드",
                 "type": "ComboField"
             }
         ],
@@ -75,7 +75,7 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "overrides": 6,
                 "requires_trait": 514,
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             }
         ],

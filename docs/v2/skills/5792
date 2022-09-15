@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BqAWAAA=]",
-        "description": "근처의 적의 눈을 멀게 합니다.",
+        "description": "주변의 적의 눈을 멀게 합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -11,23 +11,23 @@
             },
             {
                 "apply_count": 1,
-                "description": "Next outgoing attack misses; stacks duration.",
+                "description": "다음 공격이 빗나간다; 지속시간이 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
-                "status": "Blinded",
+                "status": "블라인드",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             },
             {
                 "distance": 180,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             }
         ],

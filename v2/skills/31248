@@ -15,7 +15,7 @@
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
@@ -26,21 +26,21 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
-                "text": "Unblockable",
+                "text": "방어 불가",
                 "type": "NoData"
             },
             {
                 "apply_count": 2,
-                "description": "Increased outgoing damage; stacks intensity.",
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "Might",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Pulses",
+                "text": "파동",
                 "type": "Number",
                 "value": 4
             },
@@ -48,7 +48,7 @@
                 "dmg_multiplier": 3.5,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
+                "text": "데미지",
                 "type": "Damage"
             },
             {
@@ -61,7 +61,7 @@
                 "finisher_type": "Blast",
                 "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
                 "percent": 100,
-                "text": "Combo Finisher",
+                "text": "콤보 피니셔",
                 "type": "ComboFinisher"
             },
             {
@@ -72,7 +72,7 @@
             {
                 "field_type": "Fire",
                 "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-                "text": "Combo Field",
+                "text": "콤보 필드",
                 "type": "ComboField"
             }
         ],
@@ -92,7 +92,7 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "overrides": 1,
                 "requires_trait": 1917,
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             }
         ],

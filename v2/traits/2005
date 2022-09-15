@@ -1,6 +1,6 @@
 [
     {
-        "description": "공격을 성공적으로 차단하거나 회피하면 공격자에게 하급 판타스멀 디펜더를 시전합니다.",
+        "description": "성공적으로 공격을 방어하거나 회피하면, 자신을 공격한 적에게 Lesser Phantasmal Defender를 시전한다.",
         "icon": "https://render.guildwars2.com/file/EC7602C0FABB72AFB01379563ED7FB76079BB9CA/1012528.png",
         "id": 2005,
         "name": "Mental Defense",
@@ -15,7 +15,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "Range",
+                        "text": "사정거리",
                         "type": "Range",
                         "value": 900
                     },
@@ -29,43 +29,43 @@
                         "dmg_multiplier": 0.4,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
                         "dmg_multiplier": 0.2,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "distance": 240,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Involuntarily attack foes.",
+                        "description": "강제로 적을 공격한다.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/02EED459AD65FAF7DF32A260E479C625070841B9/1228472.png",
-                        "status": "Taunt",
+                        "status": "타운트",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Involuntarily attack foes.",
+                        "description": "강제로 적을 공격한다.",
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/02EED459AD65FAF7DF32A260E479C625070841B9/1228472.png",
-                        "status": "Taunt",
+                        "status": "타운트",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -93,7 +93,7 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 682,
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
@@ -102,7 +102,7 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 3,
                         "requires_trait": 682,
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     }
                 ]

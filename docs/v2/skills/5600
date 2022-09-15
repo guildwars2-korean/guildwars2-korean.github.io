@@ -5,7 +5,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "Range",
+                "text": "사정거리",
                 "type": "Range",
                 "value": 1200
             },
@@ -19,30 +19,30 @@
                 "dmg_multiplier": 0.75,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
+                "text": "데미지",
                 "type": "Damage"
             },
             {
                 "apply_count": 3,
-                "description": "Endurance regeneration increased by 50%; stacks duration.",
+                "description": "지구력 회복이 50% 증가한다; 지속시간이 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
-                "status": "Vigor",
+                "status": "비거",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 3,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "Burning",
+                "status": "버닝",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             }

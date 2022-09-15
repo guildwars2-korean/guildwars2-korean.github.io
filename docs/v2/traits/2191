@@ -1,6 +1,6 @@
 [
     {
-        "description": "상태 피해를 얻습니다. Willbender Flames은 이제 공격하는 적에게 화상을 입힙니다.",
+        "description": "추가 컨디션 데미지를 획득한다. Willbender's Flame이 적을 타격할 때, 적들에게 버닝을 유발한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
@@ -10,19 +10,19 @@
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "Burning",
+                "status": "버닝",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "Burning",
+                "status": "버닝",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

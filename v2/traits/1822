@@ -1,28 +1,28 @@
 [
     {
-        "description": "당신의 회피 굴림이 끝나면 주변 아군의 상태를 제거합니다.",
+        "description": "구르기 모션을 마치면 주위 아군의 컨디션을 제거한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Conditions Removed",
+                "text": "상태이상 해제",
                 "type": "Number",
                 "value": 1
             },
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Combat Only",
+                "text": "전투시에만 적용",
                 "type": "NoData"
             }
         ],

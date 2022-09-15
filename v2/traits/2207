@@ -1,13 +1,13 @@
 [
     {
-        "description": "Bladesong Sorrow를 활성화하면 분노를 얻습니다. 분노는 당신의 전문성을 증가시킵니다.",
+        "description": "Bladesong Sorrow를 발동시키면 퓨리를 획득한다. 퓨리가 엑스퍼티즈를 증가시킨다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Critical chance increased; stacks duration.",
+                "description": "크리티컬 확률이 증가한다; 지속시간이 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-                "status": "Fury",
+                "status": "퓨리",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

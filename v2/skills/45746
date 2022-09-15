@@ -14,41 +14,41 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                "text": "StunBreak",
+                "text": "스턴 해제",
                 "type": "StunBreak",
                 "value": true
             },
             {
                 "apply_count": 1,
-                "description": "Movement speed is greatly increased. Maximum duration: 10s",
+                "description": "이동속도가 대폭 증가한다; 최대 지속시간: 10초",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-                "status": "Superspeed",
+                "status": "슈퍼스피드",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "Maximum Count",
+                "text": "최대 횟수",
                 "type": "Number",
                 "value": 2
             },
             {
                 "duration": 40,
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-                "text": "Count Recharge",
+                "text": "충전 대기시간",
                 "type": "Time"
             },
             {
                 "duration": 75,
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-                "text": "Count Recharge",
+                "text": "충전 대기시간",
                 "type": "Time"
             },
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/9F19DB1D3E1629390F2360F2D866651BBC0F6155/1938788.png",
-                "text": "Evade",
+                "text": "회피",
                 "type": "Time"
             }
         ],

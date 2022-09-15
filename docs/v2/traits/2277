@@ -1,11 +1,11 @@
 [
     {
-        "description": "Cantrips는 당신과 당신의 애완 동물에게 장벽을 부여합니다.",
+        "description": "캔트립 스킬들이 자신과 펫에게 배리어를 부여한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
                 "target": "Healing",
-                "text": "Barrier",
+                "text": "배리어",
                 "type": "AttributeAdjust",
                 "value": 1715
             }

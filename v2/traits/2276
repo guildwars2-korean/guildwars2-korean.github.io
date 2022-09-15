@@ -1,6 +1,6 @@
 [
     {
-        "description": "Mech Command 스킬 Crisis Zone을 잠금 해제합니다. 당신이나 당신의 기계가 방벽을 적용할 때, 영향을 받은 대상에게도 민첩성을 부여합니다. 당신의 기계는 당신 자신의 집중력과 치유력 통계의 더 큰 비율을 얻습니다.",
+        "description": "메카에게 Crisis Zone 커맨드 스킬을 해금한다. 메카니스트나 메카가 배리어를 적용시킬때, 알라크리티도 부여한다. 메카가 메카니스트의 더 높은 비율의 컨센트레이션, 힐링파워 스탯을 갖게된다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -22,10 +22,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "Skills recharge faster.",
+                "description": "스킬 재사용 대기시간이 감소한다.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-                "status": "Alacrity",
+                "status": "알라크리티",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -59,88 +59,88 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                        "text": "StunBreak",
+                        "text": "스턴 해제",
                         "type": "StunBreak",
                         "value": true
                     },
                     {
                         "distance": 600,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Block the next incoming attack; stacks duration.",
+                        "description": "공격을 1회 막는다; 지속시간이 중첩된다.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
-                        "status": "Aegis",
+                        "status": "이지스",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+                        "description": "넉다운, 넉백, 풀, 런치, 스턴, 데이즈, 플로트, 싱크, 피어, 타운트에 면역된다.",
                         "duration": 6,
                         "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-                        "status": "Stability",
+                        "status": "스태빌리티",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+                        "description": "넉다운, 넉백, 풀, 런치, 스턴, 데이즈, 플로트, 싱크, 피어, 타운트에 면역된다.",
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-                        "status": "Stability",
+                        "status": "스태빌리티",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                        "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                         "duration": 6,
                         "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-                        "status": "Protection",
+                        "status": "프로텍션",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                        "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-                        "status": "Protection",
+                        "status": "프로텍션",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Skills recharge faster.",
+                        "description": "스킬 재사용 대기시간이 감소한다.",
                         "duration": 6,
                         "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-                        "status": "Alacrity",
+                        "status": "알라크리티",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Skills recharge faster.",
+                        "description": "스킬 재사용 대기시간이 감소한다.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-                        "status": "Alacrity",
+                        "status": "알라크리티",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "Conditions Removed",
+                        "text": "상태이상 해제",
                         "type": "Number",
                         "value": 3
                     }

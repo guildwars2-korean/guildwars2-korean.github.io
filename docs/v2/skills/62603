@@ -7,23 +7,23 @@
         "description": "덕. 조건을 제거하고 흐르는 결의를 얻으십시오. Willbender Flames을 뒤에 남겨두고 앞으로 돌진하고 공격을 피하십시오. 다른 활성 미덕 효과를 제거합니다. </c",
         "facts": [
             {
-                "description": "Unable to move; stacks duration.",
+                "description": "이동할 수 없다; 지속시간이 중첩된다.",
                 "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                "status": "Immobile",
+                "status": "이모빌",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
-                "description": "Movement speed decreased by 50%; stacks duration.",
+                "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
                 "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                "status": "Crippled",
+                "status": "크리플",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
-                "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+                "description": "이동속도가 66% 감소한다; 스킬 재사용 대기시간이 66% 증가한다; 지속시간이 중첩된다.",
                 "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-                "status": "Chilled",
+                "status": "칠",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -66,19 +66,19 @@
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/9F19DB1D3E1629390F2360F2D866651BBC0F6155/1938788.png",
-                "text": "Evade",
+                "text": "회피",
                 "type": "Time"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "Maximum Count",
+                "text": "최대 횟수",
                 "type": "Number",
                 "value": 2
             },
             {
                 "duration": 20,
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-                "text": "Count Recharge",
+                "text": "충전 대기시간",
                 "type": "Time"
             }
         ],
@@ -108,22 +108,22 @@
             },
             {
                 "apply_count": 1,
-                "description": "Gain health every second; stacks duration.",
+                "description": "매 초마다 생명력을 회복한다; 지속시간이 중첩된다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
                 "overrides": 6,
                 "requires_trait": 2195,
-                "status": "Regeneration",
+                "status": "리제너레이션",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Gain health every second; stacks duration.",
+                "description": "매 초마다 생명력을 회복한다; 지속시간이 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
                 "requires_trait": 621,
-                "status": "Regeneration",
+                "status": "리제너레이션",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

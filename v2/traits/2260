@@ -1,6 +1,6 @@
 [
     {
-        "description": "이동 기술은 신속성을 부여하고 유속을 증가시킵니다.",
+        "description": "이동하는 스킬이 스위프트니스와 플로우를 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,10 +10,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "Movement speed increased by 33%; stacks duration.",
+                "description": "이동속도가 33% 증가한다; 지속시간이 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-                "status": "Swiftness",
+                "status": "스위프트니스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

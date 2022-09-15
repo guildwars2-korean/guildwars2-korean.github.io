@@ -1,22 +1,22 @@
 [
     {
-        "description": "기절, 멍, 밀쳐내기, 당기기, 밀기, 발사는 출혈과 약점을 유발합니다.",
+        "description": "스턴, 데이즈, 넉백, 당기기, 밀기, 날리기 효과가 블리딩과 위크니스를 유발한다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+                "description": "지구력 재생력이 50% 감소한다. 50%의 공격이 빗나간다(50% 데미지). 지속시간이 중첩된다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
-                "status": "Weakness",
+                "status": "위크니스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
                 "duration": 12,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                "status": "Bleeding",
+                "status": "블리딩",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

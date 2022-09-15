@@ -1,6 +1,6 @@
 [
     {
-        "description": "체력이 임계값 이상일 때 증가된 공격 피해를 입힙니다. 공격을 막거나 회피하면 치유됩니다.",
+        "description": "생명력 임계 이상일때 주는 타격 데미지가 증가한다. 공격을 막거나 회피하면 회복한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -11,25 +11,25 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 75,
-                "text": "Health Threshold",
+                "text": "생명력 임계",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 5,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "Healing",
+                "text": "힐링",
                 "type": "AttributeAdjust",
                 "value": 714
             }

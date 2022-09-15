@@ -5,7 +5,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "Range",
+                "text": "사정거리",
                 "type": "Range",
                 "value": 1500
             },
@@ -23,16 +23,16 @@
             },
             {
                 "apply_count": 1,
-                "description": "Currently invisible. Ends if you deal damage.",
+                "description": "보이지 않는다. 공격시 해제된다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
-                "status": "Stealth",
+                "status": "스텔스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "Maximum Count",
+                "text": "최대 횟수",
                 "type": "Number",
                 "value": 2
             },
@@ -40,24 +40,24 @@
                 "dmg_multiplier": 0.5,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
+                "text": "데미지",
                 "type": "Damage"
             },
             {
                 "apply_count": 1,
-                "description": "Movement speed is greatly increased. Maximum duration: 10s",
+                "description": "이동속도가 대폭 증가한다; 최대 지속시간: 10초",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-                "status": "Superspeed",
+                "status": "슈퍼스피드",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Unable to move; stacks duration.",
+                "description": "이동할 수 없다; 지속시간이 중첩된다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                "status": "Immobile",
+                "status": "이모빌",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

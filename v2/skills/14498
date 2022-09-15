@@ -5,7 +5,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "Range",
+                "text": "사정거리",
                 "type": "Range",
                 "value": 900
             },
@@ -19,44 +19,44 @@
                 "dmg_multiplier": 1.5,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
+                "text": "데미지",
                 "type": "Damage"
             },
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "Interval",
+                "text": "주기",
                 "type": "Time"
             },
             {
                 "apply_count": 5,
-                "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                "description": "매초 데미지를 준다. 움직이지 않는 적에게 추가 피해를 준다. 강도가 중첩된다.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                "status": "Torment",
+                "status": "토먼트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 5,
-                "description": "Movement speed decreased by 50%; stacks duration.",
+                "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                "status": "Crippled",
+                "status": "크리플",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "Duration",
+                "text": "지속시간",
                 "type": "Time"
             },
             {
                 "finisher_type": "Projectile",
                 "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
                 "percent": 100,
-                "text": "Combo Finisher",
+                "text": "콤보 피니셔",
                 "type": "ComboFinisher"
             }
         ],

@@ -1,6 +1,6 @@
 [
     {
-        "description": "냉각된 적에 대한 치명타는 인접한 적을 냉각시키는 폭발을 일으킵니다.",
+        "description": "칠에 걸린 적에게 크리티컬 공격을 가하면, 칠을 전파하는 폭발을 일으킨다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -20,7 +20,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
@@ -28,34 +28,34 @@
                         "dmg_multiplier": 1.125,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
                         "dmg_multiplier": 0.1,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+                        "description": "이동속도가 66% 감소한다; 스킬 재사용 대기시간이 66% 증가한다; 지속시간이 중첩된다.",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-                        "status": "Chilled",
+                        "status": "칠",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "distance": 180,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/63015872E20761F5E76F803A90666FBE4E262BC9/536051.png",
-                        "text": "Cannot Critical Hit",
+                        "text": "크리티컬 불가",
                         "type": "NoData"
                     }
                 ],

@@ -1,17 +1,17 @@
 [
     {
-        "description": "생명력 임계값 미만의 적에게 증가된 공격 피해를 줍니다.",
+        "description": "적의 현재 체력이 제시된 임계치 이하일 경우, 가하는 타격 데미지가 상승한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "Health Threshold",
+                "text": "생명력 임계",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 20,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             }
         ],

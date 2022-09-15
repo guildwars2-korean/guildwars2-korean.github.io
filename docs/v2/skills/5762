@@ -9,7 +9,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "Range",
+                "text": "사정거리",
                 "type": "Range",
                 "value": 900
             },
@@ -30,14 +30,14 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Revive Targets",
+                "text": "부활 대상",
                 "type": "Number",
                 "value": 1
             },
             {
                 "distance": 180,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             }
         ],
@@ -54,21 +54,21 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "Increased outgoing damage; stacks intensity.",
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "requires_trait": 229,
-                "status": "Might",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 3,
-                "description": "Increased outgoing damage; stacks intensity.",
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "requires_trait": 229,
-                "status": "Might",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

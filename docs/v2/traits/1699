@@ -1,35 +1,35 @@
 [
     {
-        "description": "생존 기술은 재충전 감소, 분노 부여 및 조건 제거를 얻습니다.",
+        "description": "서바이벌 스킬의 재사용 대기시간이 감소, 시전 시 퓨리 획득, 컨디션을 제거한다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Critical chance increased; stacks duration.",
+                "description": "크리티컬 확률이 증가한다; 지속시간이 중첩된다.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-                "status": "Fury",
+                "status": "퓨리",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Critical chance increased; stacks duration.",
+                "description": "크리티컬 확률이 증가한다; 지속시간이 중첩된다.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-                "status": "Fury",
+                "status": "퓨리",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Conditions Removed",
+                "text": "상태이상 해제",
                 "type": "Number",
                 "value": 2
             },
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "Recharge Reduced",
+                "text": "재사용 대기시간 감소",
                 "type": "Percent"
             }
         ],

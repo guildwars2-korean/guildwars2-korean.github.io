@@ -14,22 +14,22 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                "text": "StunBreak",
+                "text": "스턴 해제",
                 "type": "StunBreak",
                 "value": true
             },
             {
                 "apply_count": 1,
-                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-                "status": "Vulnerability",
+                "status": "벌너러빌리티",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Critical chance increased; stacks duration.",
+                "description": "크리티컬 확률이 증가한다; 지속시간이 중첩된다.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
                 "prefix": {
@@ -37,13 +37,13 @@
                     "status": "Unleashed",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Fury",
+                "status": "퓨리",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Endurance regeneration increased by 50%; stacks duration.",
+                "description": "지구력 회복이 50% 증가한다; 지속시간이 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
                 "prefix": {
@@ -51,7 +51,7 @@
                     "status": "Pet Unleashed",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Vigor",
+                "status": "비거",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }

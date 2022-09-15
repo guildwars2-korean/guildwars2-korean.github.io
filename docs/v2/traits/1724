@@ -1,11 +1,11 @@
 [
     {
-        "description": "모든 피해가 증가하며 보조 무기를 장착한 경우 추가로 증가합니다.",
+        "description": "적에게 가하는 모든 데미지가 증가한다, 오프핸드 무기를 장착 중엔 데미지가 추가로 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 5,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             },
             {

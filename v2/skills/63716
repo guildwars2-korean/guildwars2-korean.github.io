@@ -1,11 +1,11 @@
 [
     {
         "chat_link": "[&BuT4AAA=]",
-        "description": "짐승. 휩쓸리는 숨결 공격을 가해 적에게 피해를 줍니다.",
+        "description": "짐승. 휩쓸리는 숨결 공격을 발사하여 적에게 피해를 줍니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "Range",
+                "text": "사정거리",
                 "type": "Range",
                 "value": 450
             },
@@ -17,7 +17,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             },
@@ -25,7 +25,7 @@
                 "dmg_multiplier": 0.5,
                 "hit_count": 6,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
+                "text": "데미지",
                 "type": "Damage"
             }
         ],

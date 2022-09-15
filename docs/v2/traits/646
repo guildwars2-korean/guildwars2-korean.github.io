@@ -4,17 +4,17 @@
         "facts": [
             {
                 "apply_count": 2,
-                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-                "status": "Vulnerability",
+                "status": "벌너러빌리티",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 5,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             }
         ],

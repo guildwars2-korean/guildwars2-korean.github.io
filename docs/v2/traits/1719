@@ -1,23 +1,23 @@
 [
     {
-        "description": "분노의 영향을 받는 동안 치명타 확률이 더욱 증가합니다.",
+        "description": "퓨리 효과가 지속 중인 경우 크리티컬 확률이 추가로 상승한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 25,
-                "text": "Critical Chance Increase",
+                "text": "크리티컬 확률 증가",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 20,
-                "text": "Critical Chance Increase",
+                "text": "크리티컬 확률 증가",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 10,
-                "text": "Critical Chance Increase",
+                "text": "크리티컬 확률 증가",
                 "type": "Percent"
             }
         ],

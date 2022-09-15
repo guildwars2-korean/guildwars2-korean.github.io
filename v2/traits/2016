@@ -1,17 +1,17 @@
 [
     {
-        "description": "자신의 힐 스킬을 사용하여 자신과 펫 주변의 아군을 치유합니다.",
+        "description": "힐 스킬을 사용하면, 자신과 펫 주변의 아군들을 회복시킨다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "Healing",
+                "text": "힐링",
                 "type": "AttributeAdjust",
                 "value": 1000
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Allied Targets",
+                "text": "적용 아군",
                 "type": "Number",
                 "value": 5
             }

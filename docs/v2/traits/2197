@@ -1,13 +1,13 @@
 [
     {
-        "description": "발동된 미덕 효과는 활성 무기 능력의 재사용 대기시간을 줄입니다. 흐르는 결의를 활성화할 때 민첩성을 얻습니다.",
+        "description": "버츄를 발동시키면 무기스킬의 재사용 대기 시간이 감소한다. Flowing Resolve를 발동시키면 알라크리티를 획득한다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Skills recharge faster.",
+                "description": "스킬 재사용 대기시간이 감소한다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-                "status": "Alacrity",
+                "status": "알라크리티",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

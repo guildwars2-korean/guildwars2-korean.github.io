@@ -1,6 +1,6 @@
 [
     {
-        "description": "기절에서 벗어날 때 강인함과 건강을 얻습니다.",
+        "description": "스턴 해제 시, 터프니스가 증가하고 생명력을 회복한다.",
         "facts": [
             {
                 "apply_count": 1,
@@ -14,7 +14,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "Healing",
+                "text": "힐링",
                 "type": "AttributeAdjust",
                 "value": 2536
             }

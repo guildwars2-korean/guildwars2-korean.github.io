@@ -1,28 +1,28 @@
 [
     {
-        "description": "당신과 주변 동료들은 당신이 부수는 각 클론에 대해 신속성을 얻습니다. 시간의 파도는 이제 시전할 때 해당 지역에 신속성을 적용합니다.",
+        "description": "클론이 섀터될때마다 자신과 주변의 아군은 퀴크니스를 획득한다. Tides of Time 스킬이 시전될때 범위로 퀴크니스를 부여한다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Skills and actions are faster.",
+                "description": "스킬과 행동이 빨라진다.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-                "status": "Quickness",
+                "status": "퀴크니스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Skills and actions are faster.",
+                "description": "스킬과 행동이 빨라진다.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-                "status": "Quickness",
+                "status": "퀴크니스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Skills and actions are faster.",
+                "description": "스킬과 행동이 빨라진다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
                 "prefix": {
@@ -31,19 +31,19 @@
                     "status": "Tides of Time",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Quickness",
+                "status": "퀴크니스",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "distance": 360,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             }

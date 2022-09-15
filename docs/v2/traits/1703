@@ -1,38 +1,38 @@
 [
     {
-        "description": "신속함을 가지고 있는 동안 이동 장애 상태의 지속 시간이 감소했습니다. 신속함을 얻으면 이동 장애 상태를 잃게 됩니다.",
+        "description": "스위프트니스 효과가 지속 중인 경우 적이 가하는 모든 이동 방해 컨디션의 지속시간이 감소한다. 스위프트니스 분을 획득할 때마다 이동 방해 컨디션을 제거한다.",
         "facts": [
             {
-                "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+                "description": "이동속도가 66% 감소한다; 스킬 재사용 대기시간이 66% 증가한다; 지속시간이 중첩된다.",
                 "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-                "status": "Chilled",
+                "status": "칠",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
-                "description": "Movement speed decreased by 50%; stacks duration.",
+                "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
                 "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                "status": "Crippled",
+                "status": "크리플",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
-                "description": "Unable to move; stacks duration.",
+                "description": "이동할 수 없다; 지속시간이 중첩된다.",
                 "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                "status": "Immobile",
+                "status": "이모빌",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Conditions Removed",
+                "text": "상태이상 해제",
                 "type": "Number",
                 "value": 1
             },
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 80,
-                "text": "Duration Decreased",
+                "text": "지속시간 감소",
                 "type": "Percent"
             }
         ],

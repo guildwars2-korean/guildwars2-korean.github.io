@@ -15,7 +15,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             },
@@ -23,15 +23,15 @@
                 "dmg_multiplier": 0.8,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
+                "text": "데미지",
                 "type": "Damage"
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "Burning",
+                "status": "버닝",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -44,7 +44,7 @@
             {
                 "duration": 15,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "Duration",
+                "text": "지속시간",
                 "type": "Time"
             },
             {
@@ -56,7 +56,7 @@
             {
                 "distance": 300,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             }
         ],
@@ -77,7 +77,7 @@
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "overrides": 2,
                 "requires_trait": 1657,
-                "text": "Damage",
+                "text": "데미지",
                 "type": "Damage"
             },
             {
@@ -93,7 +93,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "requires_trait": 1649,
-                "text": "Conditions Removed",
+                "text": "상태이상 해제",
                 "type": "Number",
                 "value": 3
             },
@@ -102,7 +102,7 @@
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "overrides": 5,
                 "requires_trait": 2049,
-                "text": "Duration",
+                "text": "지속시간",
                 "type": "Time"
             }
         ],

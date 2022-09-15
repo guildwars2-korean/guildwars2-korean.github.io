@@ -16,7 +16,7 @@
             {
                 "duration": 120,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "Duration",
+                "text": "지속시간",
                 "type": "Time"
             }
         ],
@@ -34,7 +34,7 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "Movement speed increased by 33%; stacks duration.",
+                "description": "이동속도가 33% 증가한다; 지속시간이 중첩된다.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
                 "prefix": {
@@ -44,7 +44,7 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 229,
-                "status": "Swiftness",
+                "status": "스위프트니스",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }

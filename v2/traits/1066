@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신과 당신의 애완 동물은 사나움을 얻습니다. 도끼 스킬은 재충전량이 감소하고 도끼를 휘두르는 동안 추가 사나움을 얻습니다.",
+        "description": "본인과 펫의 페로시티가 상승한다. 액스 스킬의 재사용 대기시간이 감소하고, 액스 장착시 추가 페로시티를 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
@@ -18,7 +18,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "Recharge Reduced",
+                "text": "재사용 대기시간 감소",
                 "type": "Percent"
             }
         ],

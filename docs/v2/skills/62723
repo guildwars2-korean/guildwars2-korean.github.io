@@ -13,44 +13,44 @@
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "dmg_multiplier": 0.5,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
+                "text": "데미지",
                 "type": "Damage"
             },
             {
                 "apply_count": 1,
-                "description": "Incoming condition damage decreased by 33%; stacks duration.",
+                "description": "받는 컨디션 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
-                "status": "Resolution",
+                "status": "레졸루션",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Incoming condition damage decreased by 33%; stacks duration.",
+                "description": "받는 컨디션 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
-                "status": "Resolution",
+                "status": "레졸루션",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "field_type": "Water",
                 "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-                "text": "Combo Field",
+                "text": "콤보 필드",
                 "type": "ComboField"
             },
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "Interval",
+                "text": "주기",
                 "type": "Time"
             },
             {
@@ -61,14 +61,14 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             },
             {
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "Duration",
+                "text": "지속시간",
                 "type": "Time"
             }
         ],
@@ -90,38 +90,38 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "overrides": 1,
                 "requires_trait": 2234,
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "apply_count": 1,
-                "description": "Incoming condition damage decreased by 33%; stacks duration.",
+                "description": "받는 컨디션 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
                 "overrides": 3,
                 "requires_trait": 2251,
-                "status": "Resolution",
+                "status": "레졸루션",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Incoming condition damage decreased by 33%; stacks duration.",
+                "description": "받는 컨디션 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
                 "overrides": 4,
                 "requires_trait": 2251,
-                "status": "Resolution",
+                "status": "레졸루션",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Endurance regeneration increased by 50%; stacks duration.",
+                "description": "지구력 회복이 50% 증가한다; 지속시간이 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
                 "requires_trait": 2234,
-                "status": "Vigor",
+                "status": "비거",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

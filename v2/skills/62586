@@ -6,7 +6,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "Range",
+                "text": "사정거리",
                 "type": "Range",
                 "value": 1200
             },
@@ -20,24 +20,24 @@
                 "dmg_multiplier": 0.7,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
+                "text": "데미지",
                 "type": "Damage"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             },
             {
                 "duration": 12,
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-                "text": "Count Recharge",
+                "text": "충전 대기시간",
                 "type": "Time"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "Maximum Count",
+                "text": "최대 횟수",
                 "type": "Number",
                 "value": 2
             },
@@ -48,7 +48,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
-                "text": "Pierces",
+                "text": "관통",
                 "type": "NoData"
             }
         ],
@@ -64,11 +64,11 @@
         "traited_facts": [
             {
                 "apply_count": 5,
-                "description": "Increased outgoing damage; stacks intensity.",
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "requires_trait": 1687,
-                "status": "Might",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -76,13 +76,13 @@
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 25,
                 "requires_trait": 2035,
-                "text": "Critical Chance Increase",
+                "text": "크리티컬 확률 증가",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "requires_trait": 740,
-                "text": "Conditions Removed",
+                "text": "상태이상 해제",
                 "type": "Number",
                 "value": 1
             },
@@ -91,7 +91,7 @@
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "overrides": 4,
                 "requires_trait": 731,
-                "text": "Count Recharge",
+                "text": "충전 대기시간",
                 "type": "Time"
             }
         ],

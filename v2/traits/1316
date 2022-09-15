@@ -4,44 +4,44 @@
         "facts": [
             {
                 "apply_count": 5,
-                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-                "status": "Vulnerability",
+                "status": "벌너러빌리티",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 5,
-                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-                "status": "Vulnerability",
+                "status": "벌너러빌리티",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 5,
-                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-                "status": "Vulnerability",
+                "status": "벌너러빌리티",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 5,
-                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-                "status": "Vulnerability",
+                "status": "벌너러빌리티",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "Interval",
+                "text": "주기",
                 "type": "Time"
             }
         ],

@@ -5,7 +5,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "Range",
+                "text": "사정거리",
                 "type": "Range",
                 "value": 1200
             },
@@ -19,42 +19,42 @@
                 "dmg_multiplier": 0.6,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
+                "text": "데미지",
                 "type": "Damage"
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                "description": "매초 데미지를 준다. 움직이지 않는 적에게 추가 피해를 준다. 강도가 중첩된다.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                "status": "Torment",
+                "status": "토먼트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                "status": "Bleeding",
+                "status": "블리딩",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Damage received on skill activation; stacks intensity.",
+                "description": "스킬 시전시 데미지를 받는다; 강도가 중첩된다.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-                "status": "Confusion",
+                "status": "컨퓨전",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Damage received on skill activation; stacks intensity.",
+                "description": "스킬 시전시 데미지를 받는다; 강도가 중첩된다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-                "status": "Confusion",
+                "status": "컨퓨전",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -66,25 +66,25 @@
             },
             {
                 "apply_count": 1,
-                "description": "Skills recharge faster.",
+                "description": "스킬 재사용 대기시간이 감소한다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-                "status": "Alacrity",
+                "status": "알라크리티",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 8,
-                "description": "Increased outgoing damage; stacks intensity.",
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 15,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "Might",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             }

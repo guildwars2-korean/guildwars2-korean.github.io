@@ -1,13 +1,13 @@
 [
     {
-        "description": "비활성화한 적을 불구로 만듭니다.<br> 비활성화에는 기절, 멍, 넉백, 당기기, 넉다운, 가라앉기, 뜨기, 발사, 도발 및 공포가 포함됩니다.",
+        "description": "적 무력화시 크리플을 가한다. <br>무력화는 스턴, 데이즈, 넉백, 풀, 넉다운, 싱크, 플로트, 런치, 타운트, 피어를 포함한다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Movement speed decreased by 50%; stacks duration.",
+                "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                "status": "Crippled",
+                "status": "크리플",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

@@ -5,7 +5,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "Range",
+                "text": "사정거리",
                 "type": "Range",
                 "value": 1500
             },
@@ -19,7 +19,7 @@
                 "dmg_multiplier": 0.5,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
+                "text": "데미지",
                 "type": "Damage"
             },
             {
@@ -30,34 +30,34 @@
             },
             {
                 "apply_count": 1,
-                "description": "Currently invisible. Ends if you deal damage.",
+                "description": "보이지 않는다. 공격시 해제된다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
-                "status": "Stealth",
+                "status": "스텔스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Endurance regeneration increased by 50%; stacks duration.",
+                "description": "지구력 회복이 50% 증가한다; 지속시간이 중첩된다.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
-                "status": "Vigor",
+                "status": "비거",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+                "description": "이동속도가 66% 감소한다; 스킬 재사용 대기시간이 66% 증가한다; 지속시간이 중첩된다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-                "status": "Chilled",
+                "status": "칠",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "Maximum Count",
+                "text": "최대 횟수",
                 "type": "Number",
                 "value": 2
             }

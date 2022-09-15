@@ -1,16 +1,16 @@
 [
     {
-        "description": "에너지 임계값 이하에서 범례를 호출하면 새 범례에 추가 에너지가 부여됩니다.",
+        "description": "레전드 변경 시 에너지가 제시된 임계치 이하일 경우 변경된 레전드의 에너지를 추가 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Energy Gain",
+                "text": "에너지 획득",
                 "type": "Number",
                 "value": 25
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Energy Gain",
+                "text": "에너지 획득",
                 "type": "Number",
                 "value": 10
             },
@@ -22,7 +22,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Combat Only",
+                "text": "전투시에만 적용",
                 "type": "NoData"
             }
         ],

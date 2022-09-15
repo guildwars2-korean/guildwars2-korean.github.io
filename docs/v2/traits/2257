@@ -1,6 +1,6 @@
 [
     {
-        "description": "회피는 이제 더 많은 피해를 주지만 더 작은 영역에 영향을 줍니다. 임팩트 시 일정 시간 동안 아웃바운드 스트라이크 데미지가 증가합니다.",
+        "description": "구르기가 더 강한 데미지를 주지만, 범위는 좁아진다. 착지 후, 일정 시간동안 주는 타격 데미지가 증가한다.",
         "facts": [
             {
                 "apply_count": 1,
@@ -25,15 +25,15 @@
                         "dmg_multiplier": 4,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
                         "apply_count": 10,
-                        "description": "Damage and condition damage taken are increased; stacks intensity.",
+                        "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
                         "duration": 10,
                         "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-                        "status": "Vulnerability",
+                        "status": "벌너러빌리티",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -49,12 +49,12 @@
                     {
                         "distance": 180,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     }

@@ -1,17 +1,17 @@
 [
     {
-        "description": "활성 유지 기술로 증가된 공격 피해를 입힙니다.<br> 전령 유지 기술은 피해량이 적지만 중첩될 수 있습니다.",
+        "description": "활성화 중인 지속 스킬이 있을 경우 적에게 가하는 타격 데미지가 증가한다. <br> 헤럴드의 지속 스킬들은 보다 낮은 데미지 증가치를 갖지만 중첩이 가능하다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 15,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 13,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             },
             {

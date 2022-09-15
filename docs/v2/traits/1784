@@ -1,20 +1,20 @@
 [
     {
-        "description": "기절을 깨면 안정을 얻고 자신을 치유하십시오.",
+        "description": "무력화 해제시 스태빌리티와 본인의 생명력을 회복한다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+                "description": "넉다운, 넉백, 풀, 런치, 스턴, 데이즈, 플로트, 싱크, 피어, 타운트에 면역된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-                "status": "Stability",
+                "status": "스태빌리티",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "Healing",
+                "text": "힐링",
                 "type": "AttributeAdjust",
                 "value": 643
             }

@@ -11,22 +11,22 @@
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             },
             {
                 "apply_count": 1,
-                "description": "Critical chance increased; stacks duration.",
+                "description": "크리티컬 확률이 증가한다; 지속시간이 중첩된다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-                "status": "Fury",
+                "status": "퓨리",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "Recharge Reduced",
+                "text": "재사용 대기시간 감소",
                 "type": "Percent"
             }
         ],

@@ -1,26 +1,26 @@
 [
     {
-        "description": "산산조각을 활성화하면 환상이 초고속으로 바뀝니다. 산산조각은 이동 장애가 있는 적에게 증가된 피해를 줍니다.",
+        "description": "섀터를 발동시키면 환영들에게 슈퍼스피드를 준다. 이동방해 컨디션에 걸린 적을 대상으로 섀터의 데미지가 증가한다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Movement speed is greatly increased. Maximum duration: 10s",
+                "description": "이동속도가 대폭 증가한다; 최대 지속시간: 10초",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-                "status": "Superspeed",
+                "status": "슈퍼스피드",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 5,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             }
         ],

@@ -1,11 +1,11 @@
 [
     {
-        "description": "나가는 치명타 피해의 일정 비율만큼 치유됩니다. 분노의 영향을 받는 동안 이 치유량이 증가합니다.",
+        "description": "적에게 입히는 크리티컬 데미지의 일정량만큼 생명력을 회복한다. 퓨리의 효과를 받고 있는 상태에선 회복량이 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 4,
-                "text": "Percent",
+                "text": "퍼센트",
                 "type": "Percent"
             },
             {
@@ -17,7 +17,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 10,
-                "text": "Percent",
+                "text": "퍼센트",
                 "type": "Percent"
             },
             {

@@ -16,7 +16,7 @@
             {
                 "duration": 120,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "Duration",
+                "text": "지속시간",
                 "type": "Time"
             }
         ],
@@ -33,7 +33,7 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
                 "prefix": {
@@ -43,7 +43,7 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 229,
-                "status": "Protection",
+                "status": "프로텍션",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }

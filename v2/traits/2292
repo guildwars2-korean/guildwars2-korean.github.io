@@ -1,19 +1,19 @@
 [
     {
-        "description": "Mech Command 기술 Jade Mortar를 잠금 해제합니다. 기계 명령 기술은 사용 시 신속함을 부여하고 재사용 대기시간이 감소합니다.",
+        "description": "메카에게 Jade Mortar 커맨드 스킬을 해금한다. 메카 커맨드 스킬들이 퀴크니스를 부여하고, 메카 커맨드 스킬들의 재사용 대기 시간이 감소한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "Recharge Reduced",
+                "text": "재사용 대기시간 감소",
                 "type": "Percent"
             },
             {
                 "apply_count": 1,
-                "description": "Skills and actions are faster.",
+                "description": "스킬과 행동이 빨라진다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-                "status": "Quickness",
+                "status": "퀴크니스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -29,7 +29,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "Range",
+                        "text": "사정거리",
                         "type": "Range",
                         "value": 1500
                     },
@@ -43,22 +43,22 @@
                         "dmg_multiplier": 2.2,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
                         "apply_count": 3,
-                        "description": "Deals damage every second; stacks intensity.",
+                        "description": "매초 데미지를 준다; 강도가 중첩된다.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                        "status": "Burning",
+                        "status": "버닝",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "distance": 240,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
@@ -69,7 +69,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     }

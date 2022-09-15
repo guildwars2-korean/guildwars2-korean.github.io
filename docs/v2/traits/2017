@@ -1,6 +1,6 @@
 [
     {
-        "description": "심볼이 적을 공격할 때마다 스트라이크 데미지가 증가합니다.",
+        "description": "심볼 스킬이 적을 타격할때마다 자신의 타격 데미지가 증가한다.",
         "facts": [
             {
                 "apply_count": 1,
@@ -13,7 +13,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "Maximum Stacks",
+                "text": "최대 중첩",
                 "type": "Number",
                 "value": 5
             }

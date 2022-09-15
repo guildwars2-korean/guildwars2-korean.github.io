@@ -4,11 +4,11 @@
             "Signet"
         ],
         "chat_link": "[&Bk9zAAA=]",
-        "description": "인장 패시브: 받는 기절, 멍, 공포 및 도발의 지속 시간을 줄입니다. 시그넷 액티브: 적을 모아 새로 변신시킵니다. (반항적인 적은 대신 반항적인 바가 감소합니다.)",
+        "description": "인장 패시브: 받는 기절, 멍, 공포 및 도발의 지속 시간을 줄입니다. 시그넷 액티브: 적을 모아 새로 변신시킵니다. (반항적인 적은 대신 반항적인 바가 줄어듭니다.)",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "Range",
+                "text": "사정거리",
                 "type": "Range",
                 "value": 1200
             },
@@ -21,13 +21,13 @@
             {
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "Duration",
+                "text": "지속시간",
                 "type": "Time"
             },
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 20,
-                "text": "Duration Decreased",
+                "text": "지속시간 감소",
                 "type": "Percent"
             }
         ],
@@ -42,11 +42,11 @@
         "traited_facts": [
             {
                 "apply_count": 10,
-                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
                 "requires_trait": 752,
-                "status": "Vulnerability",
+                "status": "벌너러빌리티",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

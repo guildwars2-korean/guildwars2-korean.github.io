@@ -4,11 +4,11 @@
             "Corruption"
         ],
         "chat_link": "[&BmopAAA=]",
-        "description": "부패. 독해. 적에게 주는 혜택을 부정적인 상태로 전환합니다.",
+        "description": "부패. 자신을 독살하십시오. 적에게 주는 혜택을 부정적인 상태로 전환합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "Range",
+                "text": "사정거리",
                 "type": "Range",
                 "value": 1200
             },
@@ -20,7 +20,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Unblockable",
+                "text": "방어 불가",
                 "type": "Unblockable",
                 "value": true
             },
@@ -29,7 +29,7 @@
                 "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-                "status": "Poisoned",
+                "status": "포이즌",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -48,18 +48,18 @@
             {
                 "duration": 15,
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-                "text": "Count Recharge",
+                "text": "충전 대기시간",
                 "type": "Time"
             },
             {
                 "duration": 24,
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-                "text": "Count Recharge",
+                "text": "충전 대기시간",
                 "type": "Time"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "Maximum Count",
+                "text": "최대 횟수",
                 "type": "Number",
                 "value": 2
             }
@@ -75,11 +75,11 @@
         "traited_facts": [
             {
                 "apply_count": 2,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
                 "requires_trait": 816,
-                "status": "Bleeding",
+                "status": "블리딩",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -88,7 +88,7 @@
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "overrides": 6,
                 "requires_trait": 816,
-                "text": "Count Recharge",
+                "text": "충전 대기시간",
                 "type": "Time"
             },
             {
@@ -96,7 +96,7 @@
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "overrides": 7,
                 "requires_trait": 816,
-                "text": "Count Recharge",
+                "text": "충전 대기시간",
                 "type": "Time"
             }
         ],

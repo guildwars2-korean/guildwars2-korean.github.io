@@ -12,35 +12,35 @@
                 "facts": [
                     {
                         "apply_count": 1,
-                        "description": "Deals damage every second; stacks intensity.",
+                        "description": "매초 데미지를 준다; 강도가 중첩된다.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                        "status": "Bleeding",
+                        "status": "블리딩",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Deals damage every second; stacks intensity.",
+                        "description": "매초 데미지를 준다; 강도가 중첩된다.",
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                        "status": "Bleeding",
+                        "status": "블리딩",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Movement speed decreased by 50%; stacks duration.",
+                        "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                        "status": "Crippled",
+                        "status": "크리플",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                        "text": "Interval",
+                        "text": "주기",
                         "type": "Time"
                     },
                     {
@@ -52,12 +52,12 @@
                     {
                         "distance": 90,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 3
                     }

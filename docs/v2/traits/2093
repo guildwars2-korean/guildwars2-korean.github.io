@@ -1,22 +1,22 @@
 [
     {
-        "description": "적을 표시할 때 민첩성을 얻습니다. 이 효과를 받는 동안 위력과 정확도가 증가합니다.",
+        "description": "적을 표시할 때 신속성을 얻습니다. 이 효과를 받는 동안 위력과 정확도가 증가합니다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Skills and actions are faster.",
+                "description": "스킬과 행동이 빨라진다.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-                "status": "Quickness",
+                "status": "퀴크니스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Skills and actions are faster.",
+                "description": "스킬과 행동이 빨라진다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-                "status": "Quickness",
+                "status": "퀴크니스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

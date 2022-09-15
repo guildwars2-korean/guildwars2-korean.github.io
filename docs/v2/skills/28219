@@ -5,7 +5,7 @@
         ],
         "chat_link": "[&BjtuAAA=]",
         "cost": 5,
-        "description": "전설의 악마. 자신을 치유하십시오. 현재 귀하에게 적용된 각 상태에 대해 더 많은 치유를 받으십시오.",
+        "description": "전설의 악마. 자신을 치유하십시오. 현재 당신에게 적용된 각각의 상태에 대해 더 많은 치유.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -16,7 +16,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "Healing",
+                "text": "힐링",
                 "type": "AttributeAdjust",
                 "value": 4600
             },
@@ -39,21 +39,21 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+                "description": "데미지를 주지 않는 컨디션의 영향을 받지 않는다; 지속시간이 중첩된다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
                 "requires_trait": 1789,
-                "status": "Resistance",
+                "status": "레지스턴스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+                "description": "데미지를 주지 않는 컨디션의 영향을 받지 않는다; 지속시간이 중첩된다.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
                 "requires_trait": 1789,
-                "status": "Resistance",
+                "status": "레지스턴스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

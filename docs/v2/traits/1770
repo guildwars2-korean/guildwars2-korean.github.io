@@ -1,6 +1,6 @@
 [
     {
-        "description": "그레이트 드워프의 의식은 상태 손상에도 영향을 줍니다. 체력 임계값 아래로 공격을 받으면 그레이트 드워프의 의식을 시전합니다. 당신의 강인함을 기반으로 힘을 얻습니다.",
+        "description": "Rite of the Great Dwarf 효과가 받는 컨디션 데미지에도 적용된다. 본인의 생명력이 제시된 임계치 이하로 내려갈 경우 Rite of the Great Dwarf 가 발동된다. 터프니스 값의 일정량을 파워로 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -11,7 +11,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "Health Threshold",
+                "text": "생명력 임계",
                 "type": "Percent"
             },
             {
@@ -57,20 +57,20 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                        "text": "StunBreak",
+                        "text": "스턴 해제",
                         "type": "StunBreak",
                         "value": true
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "distance": 600,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     }
                 ],

@@ -5,7 +5,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "Range",
+                "text": "사정거리",
                 "type": "Range",
                 "value": 600
             },
@@ -19,24 +19,24 @@
                 "dmg_multiplier": 1.5,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
+                "text": "데미지",
                 "type": "Damage"
             },
             {
                 "apply_count": 1,
-                "description": "Movement speed increased by 33%; stacks duration.",
+                "description": "이동속도가 33% 증가한다; 지속시간이 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-                "status": "Swiftness",
+                "status": "스위프트니스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 5,
-                "description": "Increased outgoing damage; stacks intensity.",
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 15,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "Might",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -45,14 +45,14 @@
                 "description": "Unable to act.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
-                "status": "Stun",
+                "status": "스턴",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Recharge Reduced",
+                "text": "재사용 대기시간 감소",
                 "type": "Time"
             },
             {
@@ -68,7 +68,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             },
@@ -80,7 +80,7 @@
             {
                 "field_type": "Ethereal",
                 "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-                "text": "Combo Field",
+                "text": "콤보 필드",
                 "type": "ComboField"
             }
         ],
@@ -99,21 +99,21 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "Skills recharge faster.",
+                "description": "스킬 재사용 대기시간이 감소한다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
                 "requires_trait": 1942,
-                "status": "Alacrity",
+                "status": "알라크리티",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Skills and actions are faster.",
+                "description": "스킬과 행동이 빨라진다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
                 "requires_trait": 2022,
-                "status": "Quickness",
+                "status": "퀴크니스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

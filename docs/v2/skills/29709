@@ -1,21 +1,21 @@
 [
     {
         "chat_link": "[&Bg10AAA=]",
-        "description": "측판. 갑옷을 폭발시켜 주위의 적들이 공포에 질려 도망가게 하십시오.",
+        "description": "측판. 갑옷을 폭발시켜 주위의 적들이 두려움에 떨게 만드십시오.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Involuntary retreat; unable to act; stacks duration.",
+                "description": "공포에 질려 도망가며, 행동할 수 없다; 지속시간이 중첩된다.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/30307A6E766D74B6EB09EDA12A4A2DE50E4D76F4/102869.png",
-                "status": "Fear",
+                "status": "피어",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "distance": 360,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             }
         ],

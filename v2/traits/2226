@@ -1,6 +1,6 @@
 [
     {
-        "description": "대체 무기 세트로 건세이버에 액세스할 수 있지만 전투 중에 다른 무기 세트로 교체할 수 있는 기능은 상실됩니다. 아드레날린은 흐름으로 대체됩니다.",
+        "description": "대체 무기로 Gunsaber를 사용할 수 있게 된다. Gunsaber 사용중에는 무기 스왑이 불가능하다. 아드레날린이 플로우로 대체된다.",
         "icon": "https://render.guildwars2.com/file/BACAB405BB94D2C40568E273D0BEE55D29777FC3/2491552.png",
         "id": 2226,
         "name": "Gun X Sword",

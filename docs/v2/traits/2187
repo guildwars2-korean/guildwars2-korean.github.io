@@ -1,6 +1,6 @@
 [
     {
-        "description": "치유력이 증가합니다. Willbender Flames는 이제 적을 공격할 때 당신을 치유합니다.",
+        "description": "추가 힐링파워를 획득한다. Willbender's Flame이 적을 타격할 때, 회복한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9B986DEADC035E58C364A1423975F5F538FC2202/2229321.png",
@@ -11,7 +11,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "Healing",
+                "text": "힐링",
                 "type": "AttributeAdjust",
                 "value": 272
             }

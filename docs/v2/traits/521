@@ -1,6 +1,6 @@
 [
     {
-        "description": "들어오는 치유 효과를 높입니다. 의료 키트를 사용하는 동안 다른 사람들에게 증가된 치유 효과를 얻습니다.",
+        "description": "받는 힐링 효과를 증가시킨다. med kit를 장착하고있는 동안 다른 아군에게 주는 힐링 효과를 증가시킨다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

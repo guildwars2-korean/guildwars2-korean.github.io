@@ -1,11 +1,11 @@
 [
     {
-        "description": "체력 임계값 아래에 있는 동안 공격을 받으면 엘릭서 E를 마십니다.",
+        "description": "생명력 임계 이하링떄 공격받으면 Elixir E를 마신다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 33,
-                "text": "Health Threshold",
+                "text": "생명력 임계",
                 "type": "Percent"
             }
         ],
@@ -29,17 +29,17 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                        "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-                        "status": "Protection",
+                        "status": "프로텍션",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
                         "target": "Healing",
-                        "text": "Barrier",
+                        "text": "배리어",
                         "type": "AttributeAdjust",
                         "value": 3000
                     }
@@ -51,12 +51,12 @@
                 "traited_facts": [
                     {
                         "apply_count": 1,
-                        "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                        "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                         "duration": 4,
                         "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
                         "overrides": 1,
                         "requires_trait": 473,
-                        "status": "Protection",
+                        "status": "프로텍션",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }

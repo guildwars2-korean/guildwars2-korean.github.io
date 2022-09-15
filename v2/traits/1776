@@ -1,11 +1,11 @@
 [
     {
-        "description": "이동 기술은 고정 상태를 제거합니다.",
+        "description": "이동 스킬들이 이모빌을 제거한다.",
         "facts": [
             {
-                "description": "Unable to move; stacks duration.",
+                "description": "이동할 수 없다; 지속시간이 중첩된다.",
                 "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                "status": "Immobile",
+                "status": "이모빌",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

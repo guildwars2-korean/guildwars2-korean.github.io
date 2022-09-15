@@ -3,41 +3,41 @@
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-                "status": "Protection",
+                "status": "프로텍션",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-                "status": "Protection",
+                "status": "프로텍션",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-                "status": "Protection",
+                "status": "프로텍션",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Allied Targets",
+                "text": "적용 아군",
                 "type": "Number",
                 "value": 5
             },
             {
                 "distance": 360,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             }
         ],

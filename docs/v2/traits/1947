@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신보다 낮은 건강 비율을 가진 적에게 증가된 공격 피해를 줍니다. 폭발로 명중하면 몇 초에 걸쳐 치유됩니다.",
+        "description": "본인보다 낮은 생명력 퍼센트의 적에게 주는 데미지가 증가한다. 익스플로전으로 공격하면 몇초동안 생명력을 회복한다.",
         "facts": [
             {
                 "apply_count": 1,
@@ -13,13 +13,13 @@
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 15,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             }
         ],

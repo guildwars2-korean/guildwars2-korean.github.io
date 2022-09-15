@@ -1,17 +1,17 @@
 [
     {
-        "description": "당신이 입힌 공격 피해의 일정 비율이 당신을 치유합니다.",
+        "description": "타격 데미지의 퍼센트만큼 회복받는다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 5,
-                "text": "Percent",
+                "text": "퍼센트",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 10,
-                "text": "Percent",
+                "text": "퍼센트",
                 "type": "Percent"
             }
         ],

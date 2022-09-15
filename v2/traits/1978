@@ -1,11 +1,11 @@
 [
     {
-        "description": "당신에게 적용된 민첩성은 더 강하지만 지속 시간이 줄어듭니다. 민첩성이 있을 때 치명타 피해가 증가합니다.",
+        "description": "당신에게 적용되는 알라크리티가 더 강력해지지만, 지속시간은 감소한다. 당신이 알라크리티를 적용받는 동안 크리티컬 데미지량이 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 33,
-                "text": "Duration Decreased",
+                "text": "지속시간 감소",
                 "type": "Percent"
             },
             {
@@ -17,7 +17,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
                 "percent": 10,
-                "text": "Critical Damage Increase",
+                "text": "크리티컬 데미지 증가",
                 "type": "Percent"
             }
         ],

@@ -1,6 +1,6 @@
 [
     {
-        "description": "치유력을 얻습니다. 치유력의 일부에 따라 집중력을 얻습니다.",
+        "description": "힐링 파워를 획득한다. 힐링 파워 최대값의 일정량만큼 컨센트레이션이 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",

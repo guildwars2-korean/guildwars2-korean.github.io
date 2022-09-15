@@ -1,23 +1,23 @@
 [
     {
-        "description": "범위 임계값 내에서 적을 공격하면 증가된 타격 피해를 입히고 입힌 피해의 일부를 회복합니다.<br> 생명력이 건강을 대체하는 동안에는 치유가 일어나지 않습니다.",
+        "description": "임계 거리 이내의 적을 공격하는 것은 데미지를 증가시키며, 데미지의 일정량만큼 생명력 회복을 한다. <br>라이프 포스가 생명력을 대체하고 있는 상황에서는 생명력 회복이 일어나지 않는다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "percent": 4,
-                "text": "Healing",
+                "text": "힐링",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "percent": 5,
-                "text": "Healing",
+                "text": "힐링",
                 "type": "Percent"
             },
             {

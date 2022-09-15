@@ -1,18 +1,18 @@
 [
     {
-        "description": "당신이 그들에게 혜택을 줄 때 아군을 치유하십시오.<br> 아군은 간격당 한 번만 이 기술의 영향을 받을 수 있습니다.",
+        "description": "아군에게 분을 전파할 경우 생명력도 회복시킨다. <br> 해당 스킬의 회복은 주기별 한 번으로 제한된다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "Healing",
+                "text": "힐링",
                 "type": "AttributeAdjust",
                 "value": 389
             },
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "Interval",
+                "text": "주기",
                 "type": "Time"
             }
         ],

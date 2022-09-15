@@ -8,7 +8,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "Range",
+                "text": "사정거리",
                 "type": "Range",
                 "value": 450
             },
@@ -20,37 +20,37 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                "text": "StunBreak",
+                "text": "스턴 해제",
                 "type": "StunBreak",
                 "value": true
             },
             {
                 "distance": 180,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Allied Targets",
+                "text": "적용 아군",
                 "type": "Number",
                 "value": 5
             },
             {
                 "apply_count": 1,
-                "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+                "description": "넉다운, 넉백, 풀, 런치, 스턴, 데이즈, 플로트, 싱크, 피어, 타운트에 면역된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-                "status": "Stability",
+                "status": "스태빌리티",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Incoming condition damage decreased by 33%; stacks duration.",
+                "description": "받는 컨디션 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
-                "status": "Resolution",
+                "status": "레졸루션",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

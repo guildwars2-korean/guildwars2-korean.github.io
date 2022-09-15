@@ -1,11 +1,11 @@
 [
     {
-        "description": "자신에게 혜택을 줄 때 자신을 치유하십시오. 증가된 집중력을 얻습니다.",
+        "description": "스스로 분을 획득할때 회복한다. 추가 컨센트레이션을 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "Healing",
+                "text": "힐링",
                 "type": "AttributeAdjust",
                 "value": 37
             },

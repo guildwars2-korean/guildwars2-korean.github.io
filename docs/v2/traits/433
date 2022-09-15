@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신이 가하는 화상은 더 오래 지속되며 치명타는 화상을 입힙니다.",
+        "description": "주는 버닝의 지속시간이 증가한다. 크리티컬 공격이 버닝을 유발할 확률을 가진다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,23 +10,23 @@
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "Burning",
+                "status": "버닝",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 33,
-                "text": "Duration Increase",
+                "text": "지속시간 증가",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 10,
-                "text": "Duration Increase",
+                "text": "지속시간 증가",
                 "type": "Percent"
             }
         ],

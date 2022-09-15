@@ -1,6 +1,6 @@
 [
     {
-        "description": "힘을 얻은 다음 공개되는 동안 추가 힘을 얻습니다.",
+        "description": "파워가 증가한다. 리빌 상태에서 추가 파워를 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
@@ -18,10 +18,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "You cannot stealth",
+                "description": "은신할 수 없다",
                 "duration": 0,
                 "icon": "https://render.guildwars2.com/file/62BFF65D1CE99B1B2B0928152BCC596EAC0D372B/102887.png",
-                "status": "Revealed",
+                "status": "리빌",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

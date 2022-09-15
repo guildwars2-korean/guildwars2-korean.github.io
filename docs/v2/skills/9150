@@ -14,7 +14,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                "text": "StunBreak",
+                "text": "스턴 해제",
                 "type": "StunBreak",
                 "value": true
             },
@@ -29,31 +29,31 @@
             },
             {
                 "apply_count": 1,
-                "description": "Incoming condition damage decreased by 33%; stacks duration.",
+                "description": "받는 컨디션 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
-                "status": "Resolution",
+                "status": "레졸루션",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "Burning",
+                "status": "버닝",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "distance": 300,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             }
@@ -80,12 +80,12 @@
             },
             {
                 "apply_count": 1,
-                "description": "Incoming condition damage decreased by 33%; stacks duration.",
+                "description": "받는 컨디션 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
                 "overrides": 3,
                 "requires_trait": 604,
-                "status": "Resolution",
+                "status": "레졸루션",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

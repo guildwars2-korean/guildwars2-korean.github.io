@@ -12,21 +12,21 @@
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
                 "target": "Healing",
-                "text": "Barrier",
+                "text": "배리어",
                 "type": "AttributeAdjust",
                 "value": 2420
             },
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
                 "target": "Healing",
-                "text": "Barrier",
+                "text": "배리어",
                 "type": "AttributeAdjust",
                 "value": 2420
             },
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
                 "target": "Healing",
-                "text": "Barrier",
+                "text": "배리어",
                 "type": "AttributeAdjust",
                 "value": 2420
             },
@@ -39,22 +39,22 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             },
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                "description": "매초 데미지를 준다. 움직이지 않는 적에게 추가 피해를 준다. 강도가 중첩된다.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                "status": "Torment",
+                "status": "토먼트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -66,10 +66,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "Movement speed decreased by 50%; stacks duration.",
+                "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                "status": "Crippled",
+                "status": "크리플",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

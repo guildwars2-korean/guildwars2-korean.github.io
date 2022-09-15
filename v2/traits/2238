@@ -1,6 +1,6 @@
 [
     {
-        "description": "회피의 영향을 받는 영역이 증가합니다. 이제 착지할 때 피해를 입히는 대신 지역 내의 아군을 치유합니다. 착지 시 일정 시간 동안 외부 치유량이 증가합니다.",
+        "description": "구르기 효과 범위가 넓어진다. 착지할때, 데미지를 주지않고 아군을 회복한다. 착지 후 일정 시간동안 주는 회복량이 증가한다.",
         "facts": [
             {
                 "apply_count": 1,
@@ -24,14 +24,14 @@
                     {
                         "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                         "target": "Healing",
-                        "text": "Healing",
+                        "text": "힐링",
                         "type": "AttributeAdjust",
                         "value": 2570
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
                         "target": "Healing",
-                        "text": "Barrier",
+                        "text": "배리어",
                         "type": "AttributeAdjust",
                         "value": 2570
                     },
@@ -47,12 +47,12 @@
                     {
                         "distance": 300,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     }

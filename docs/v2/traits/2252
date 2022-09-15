@@ -1,6 +1,6 @@
 [
     {
-        "description": "적을 무력화하거나 이동 불가 상태로 만들 때 원소 강화와 힘을 얻습니다.",
+        "description": "적에게 이모빌을 유발시키거나, 무력화시키면 Elemental Empowerment 효과와 마이트를 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -19,10 +19,10 @@
             },
             {
                 "apply_count": 2,
-                "description": "Increased outgoing damage; stacks intensity.",
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "Might",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

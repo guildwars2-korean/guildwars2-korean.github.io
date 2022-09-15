@@ -1,13 +1,13 @@
 [
     {
-        "description": "유지 기술을 유지하는 동안 에너지 핍이 증가하지만 매 간격마다 자신에게 고통을 줍니다.",
+        "description": "활성화 중인 지속 스킬이 있을 경우, 에너지 회복량이 증가하지만 주기적으로 토먼트를 획득한다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                "description": "매초 데미지를 준다. 움직이지 않는 적에게 추가 피해를 준다. 강도가 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                "status": "Torment",
+                "status": "토먼트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -20,7 +20,7 @@
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "Interval",
+                "text": "주기",
                 "type": "Time"
             }
         ],

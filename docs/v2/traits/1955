@@ -1,26 +1,26 @@
 [
     {
-        "description": "정의의 창으로 묶인 적을 공격하면 취약성을 부여하고 공격력이 증가합니다. 테더 지속 시간이 증가합니다.",
+        "description": "적에게 Spear of Justice를 걸어버리면 벌너러빌리티와 가하는 피해량을 증가시킨다. 사슬의 지속시간이 더 길어진다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 15,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             },
             {
                 "apply_count": 1,
-                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-                "status": "Vulnerability",
+                "status": "벌너러빌리티",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 66,
-                "text": "Duration Increase",
+                "text": "지속시간 증가",
                 "type": "Percent"
             }
         ],

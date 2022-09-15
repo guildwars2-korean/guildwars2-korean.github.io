@@ -1,6 +1,6 @@
 [
     {
-        "description": "전투 중에 원소 강화를 얻습니다.",
+        "description": "전투중일때, Elemental Empowerment 효과를 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,7 +10,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "Maximum Stacks",
+                "text": "최대 중첩",
                 "type": "Number",
                 "value": 10
             },
@@ -25,7 +25,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Combat Only",
+                "text": "전투시에만 적용",
                 "type": "NoData"
             }
         ],

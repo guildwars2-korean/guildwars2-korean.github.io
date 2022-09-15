@@ -1,11 +1,11 @@
 [
     {
-        "description": "결단력이 있는 동안 받는 타격 피해가 일정 비율만큼 감소합니다.",
+        "description": "레솔루션 효과가 지속 중인 경우 받는 타격 데미지가 감소한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "Damage Reduced",
+                "text": "데미지 감소",
                 "type": "Percent"
             }
         ],

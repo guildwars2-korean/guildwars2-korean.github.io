@@ -1,37 +1,37 @@
 [
     {
-        "description": "적용한 손상 조건은 더 오래 지속됩니다.",
+        "description": "적에게 가하는 데미지 컨디션의 지속시간이 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 10,
-                "text": "Duration Increase",
+                "text": "지속시간 증가",
                 "type": "Percent"
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
                 "duration": 0,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                "status": "Bleeding",
+                "status": "블리딩",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
                 "duration": 0,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "Burning",
+                "status": "버닝",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Damage received on skill activation; stacks intensity.",
+                "description": "스킬 시전시 데미지를 받는다; 강도가 중첩된다.",
                 "duration": 0,
                 "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-                "status": "Confusion",
+                "status": "컨퓨전",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -40,16 +40,16 @@
                 "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
                 "duration": 0,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-                "status": "Poisoned",
+                "status": "포이즌",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                "description": "매초 데미지를 준다. 움직이지 않는 적에게 추가 피해를 준다. 강도가 중첩된다.",
                 "duration": 0,
                 "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                "status": "Torment",
+                "status": "토먼트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

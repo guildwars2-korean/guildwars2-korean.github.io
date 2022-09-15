@@ -1,6 +1,6 @@
 [
     {
-        "description": "치유 기술을 사용한 후 건강을 흡수합니다.",
+        "description": "힐링 스킬 사용 후 적을 타격 시 체력을 흡수한다.",
         "facts": [
             {
                 "apply_count": 5,

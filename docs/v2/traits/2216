@@ -1,6 +1,6 @@
 [
     {
-        "description": "클론이 소환될 때마다 대신 블레이드를 비축합니다. 블레이드는 사용할 때까지 무기한 지속됩니다. 산산조각은 비축된 칼날을 소모하는 칼날노래로 대체되지만 핵심 특성의 목적에서는 산산조각으로 간주됩니다.<br><br> 전투 중이 아닐 때 10초마다 자동으로 칼날을 비축합니다.",
+        "description": "클론을 생성하는 효과 대신 블레이드를 생성한다. 섀터 스킬들이 블레이드송 스킬들로 대체되고 이는 생성된 블레이드를 소모한다. 블레이드송 스킬이 섀터로 작용해 코어 트레잇에도 적용된다. <br><br>전투 중이 아닐 때, 매 10초마다 자동으로 블레이드를 생성한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -20,7 +20,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "Range",
+                        "text": "사정거리",
                         "type": "Range",
                         "value": 1200
                     },
@@ -39,7 +39,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
@@ -50,7 +50,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
-                        "text": "Pierces",
+                        "text": "관통",
                         "type": "NoData"
                     }
                 ],
@@ -61,11 +61,11 @@
                 "traited_facts": [
                     {
                         "apply_count": 5,
-                        "description": "Increased outgoing damage; stacks intensity.",
+                        "description": "데미지가 증가한다; 강도가 중첩된다.",
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                         "requires_trait": 1687,
-                        "status": "Might",
+                        "status": "마이트",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -73,13 +73,13 @@
                         "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                         "percent": 25,
                         "requires_trait": 2035,
-                        "text": "Critical Chance Increase",
+                        "text": "크리티컬 확률 증가",
                         "type": "Percent"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 740,
-                        "text": "Conditions Removed",
+                        "text": "상태이상 해제",
                         "type": "Number",
                         "value": 1
                     }
@@ -91,7 +91,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "Range",
+                        "text": "사정거리",
                         "type": "Range",
                         "value": 1200
                     },
@@ -110,16 +110,16 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "Damage received on skill activation; stacks intensity.",
+                        "description": "스킬 시전시 데미지를 받는다; 강도가 중첩된다.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-                        "status": "Confusion",
+                        "status": "컨퓨전",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
@@ -130,7 +130,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
-                        "text": "Pierces",
+                        "text": "관통",
                         "type": "NoData"
                     }
                 ],
@@ -141,49 +141,49 @@
                 "traited_facts": [
                     {
                         "apply_count": 1,
-                        "description": "Endurance regeneration increased by 50%; stacks duration.",
+                        "description": "지구력 회복이 50% 증가한다; 지속시간이 중첩된다.",
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
                         "requires_trait": 1687,
-                        "status": "Vigor",
+                        "status": "비거",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Critical chance increased; stacks duration.",
+                        "description": "크리티컬 확률이 증가한다; 지속시간이 중첩된다.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
                         "requires_trait": 2207,
-                        "status": "Fury",
+                        "status": "퓨리",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 2,
-                        "description": "Damage received on skill activation; stacks intensity.",
+                        "description": "스킬 시전시 데미지를 받는다; 강도가 중첩된다.",
                         "duration": 4,
                         "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
                         "overrides": 3,
                         "requires_trait": 734,
-                        "status": "Confusion",
+                        "status": "컨퓨전",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Movement speed decreased by 50%; stacks duration.",
+                        "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
                         "requires_trait": 2035,
-                        "status": "Crippled",
+                        "status": "크리플",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 740,
-                        "text": "Conditions Removed",
+                        "text": "상태이상 해제",
                         "type": "Number",
                         "value": 1
                     }
@@ -195,7 +195,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "Range",
+                        "text": "사정거리",
                         "type": "Range",
                         "value": 1200
                     },
@@ -209,7 +209,7 @@
                         "dmg_multiplier": 1,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
@@ -220,7 +220,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 1
                     },
@@ -237,11 +237,11 @@
                 "traited_facts": [
                     {
                         "apply_count": 1,
-                        "description": "Critical chance increased; stacks duration.",
+                        "description": "크리티컬 확률이 증가한다; 지속시간이 중첩된다.",
                         "duration": 10,
                         "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
                         "requires_trait": 1687,
-                        "status": "Fury",
+                        "status": "퓨리",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -249,21 +249,21 @@
                         "distance": 240,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                         "requires_trait": 2035,
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
                         "overrides": 4,
                         "requires_trait": 2035,
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 740,
-                        "text": "Conditions Removed",
+                        "text": "상태이상 해제",
                         "type": "Number",
                         "value": 1
                     }
@@ -282,14 +282,14 @@
                     {
                         "distance": 240,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "dmg_multiplier": 0.2,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
@@ -305,7 +305,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     }
@@ -317,18 +317,18 @@
                 "traited_facts": [
                     {
                         "apply_count": 1,
-                        "description": "Gain health every second; stacks duration.",
+                        "description": "매 초마다 생명력을 회복한다; 지속시간이 중첩된다.",
                         "duration": 10,
                         "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
                         "requires_trait": 1687,
-                        "status": "Regeneration",
+                        "status": "리제너레이션",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 740,
-                        "text": "Conditions Removed",
+                        "text": "상태이상 해제",
                         "type": "Number",
                         "value": 1
                     },

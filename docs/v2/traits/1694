@@ -1,6 +1,6 @@
 [
     {
-        "description": "장막에 있는 동안 체력을 재생합니다. 생명력이 임계값 이상인 경우 치명적인 타격을 가하면 수의가 활성화됩니다.",
+        "description": "슈라우드 상태에서 생명력을 회복한다. 라이프 포스가 제시된 임계치 이상일 때 치사량의 데미지를 받는 경우 다운되지 않고 슈라우드 상태가 활성화 된다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -23,7 +23,7 @@
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "Interval",
+                "text": "주기",
                 "type": "Time"
             },
             {

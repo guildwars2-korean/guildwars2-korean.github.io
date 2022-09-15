@@ -1,13 +1,13 @@
 [
     {
-        "description": "도구 벨트 기술을 사용하면 활력이 생깁니다.",
+        "description": "툴 벨트 스킬을 사용하면 비거를 부여한다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Endurance regeneration increased by 50%; stacks duration.",
+                "description": "지구력 회복이 50% 증가한다; 지속시간이 중첩된다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
-                "status": "Vigor",
+                "status": "비거",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

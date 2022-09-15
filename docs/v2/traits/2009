@@ -1,20 +1,20 @@
 [
     {
-        "description": "느려진 적에 대한 추가 치명타 확률을 얻습니다. 이 보너스는 환상에도 적용됩니다.",
+        "description": "슬로우에 걸린 적을 상대로 추가 크리티컬 확률을 획득한다. 이 보너스 효과는 환영에게도 적용된다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Skills and actions are slower.",
+                "description": "스킬 및 행동이 느려진다.",
                 "duration": 0,
                 "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
-                "status": "Slow",
+                "status": "슬로우",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 15,
-                "text": "Critical Chance Increase",
+                "text": "크리티컬 확률 증가",
                 "type": "Percent"
             }
         ],

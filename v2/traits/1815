@@ -1,6 +1,6 @@
 [
     {
-        "description": "레전드 스킬 사용 시 주변 아군을 치유합니다. 전설적인 켄타우로스 기술을 사용할 때 벤타리의 서판 주변의 아군을 치유하십시오.<br> Dragon Facet 기술과 Ventari&#39;s Will은 이 특성을 활성화할 수 없습니다.",
+        "description": "레전드 스킬 발동 시 시전자 주위의 아군을 회복시키며, Legendary Centaur 스킬 사용 시 Ventari's Tablet 주위의 아군을 회복시킨다. < br> Dragon Facet 스킬들과 Ventari's Will 은 해당 특성을 발동시킬 수 없다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
@@ -33,12 +33,12 @@
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             }

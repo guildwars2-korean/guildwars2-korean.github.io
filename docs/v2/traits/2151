@@ -18,10 +18,10 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "Unable to move; stacks duration.",
+                        "description": "이동할 수 없다; 지속시간이 중첩된다.",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                        "status": "Immobile",
+                        "status": "이모빌",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -29,7 +29,7 @@
                         "dmg_multiplier": 0.4,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
@@ -41,12 +41,12 @@
                     {
                         "distance": 300,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     }
@@ -58,11 +58,11 @@
                 "traited_facts": [
                     {
                         "apply_count": 1,
-                        "description": "Next outgoing attack misses; stacks duration.",
+                        "description": "다음 공격이 빗나간다; 지속시간이 중첩된다.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
                         "requires_trait": 1861,
-                        "status": "Blinded",
+                        "status": "블라인드",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }
@@ -80,10 +80,10 @@
                     },
                     {
                         "apply_count": 3,
-                        "description": "Deals damage every second; stacks intensity.",
+                        "description": "매초 데미지를 준다; 강도가 중첩된다.",
                         "duration": 6,
                         "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                        "status": "Bleeding",
+                        "status": "블리딩",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -91,27 +91,27 @@
                         "dmg_multiplier": 0.4,
                         "hit_count": 3,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
                         "apply_count": 9,
-                        "description": "Damage and condition damage taken are increased; stacks intensity.",
+                        "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
                         "duration": 6,
                         "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-                        "status": "Vulnerability",
+                        "status": "벌너러빌리티",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "distance": 360,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     }
@@ -133,37 +133,37 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+                        "description": "데미지를 주지 않는 컨디션의 영향을 받지 않는다; 지속시간이 중첩된다.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
-                        "status": "Resistance",
+                        "status": "레지스턴스",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                         "target": "Healing",
-                        "text": "Healing",
+                        "text": "힐링",
                         "type": "AttributeAdjust",
                         "value": 4235
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                         "target": "Healing",
-                        "text": "Healing",
+                        "text": "힐링",
                         "type": "AttributeAdjust",
                         "value": 3600
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Allied Targets",
+                        "text": "적용 아군",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "distance": 600,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     }
                 ],
@@ -184,28 +184,28 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                        "text": "StunBreak",
+                        "text": "스턴 해제",
                         "type": "StunBreak",
                         "value": true
                     },
                     {
-                        "description": "Movement speed decreased by 50%; stacks duration.",
+                        "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
                         "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                        "status": "Crippled",
+                        "status": "크리플",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
-                        "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+                        "description": "이동속도가 66% 감소한다; 스킬 재사용 대기시간이 66% 증가한다; 지속시간이 중첩된다.",
                         "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-                        "status": "Chilled",
+                        "status": "칠",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
-                        "description": "Unable to move; stacks duration.",
+                        "description": "이동할 수 없다; 지속시간이 중첩된다.",
                         "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                        "status": "Immobile",
+                        "status": "이모빌",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -237,12 +237,12 @@
                     {
                         "distance": 240,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
@@ -250,14 +250,14 @@
                         "dmg_multiplier": 1.89,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
                         "finisher_type": "Leap",
                         "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
                         "percent": 100,
-                        "text": "Combo Finisher",
+                        "text": "콤보 피니셔",
                         "type": "ComboFinisher"
                     }
                 ],
@@ -268,11 +268,11 @@
                 "traited_facts": [
                     {
                         "apply_count": 1,
-                        "description": "Next outgoing attack misses; stacks duration.",
+                        "description": "다음 공격이 빗나간다; 지속시간이 중첩된다.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
                         "requires_trait": 1861,
-                        "status": "Blinded",
+                        "status": "블라인드",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }

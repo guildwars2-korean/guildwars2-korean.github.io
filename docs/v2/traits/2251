@@ -1,17 +1,17 @@
 [
     {
-        "description": "비취 구체에 의해 적용된 혜택의 지속 시간이 증가했습니다.",
+        "description": "Jade Sphere로부터 받는 분 지속시간이 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 50,
-                "text": "Duration Increase",
+                "text": "지속시간 증가",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 100,
-                "text": "Duration Increase",
+                "text": "지속시간 증가",
                 "type": "Percent"
             }
         ],

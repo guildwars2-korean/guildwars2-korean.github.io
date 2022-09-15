@@ -1,10 +1,10 @@
 [
     {
-        "description": "재생을 부여한 아군의 상태를 정화합니다.",
+        "description": "아군에게 리저너레이션을 부여할때 컨디션도 제거해준다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Conditions Removed",
+                "text": "상태이상 해제",
                 "type": "Number",
                 "value": 1
             }

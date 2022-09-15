@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신과 당신의 애완 동물은 적을 공격할 때 서로에게 증가된 피해와 이동 속도를 부여합니다. 이것이 트리거되면 모든 스택의 지속 시간을 새로 고칩니다.",
+        "description": "적들을 공격할때, 펫과 자신에게 추가 이동속도와 추가 데미지를 부여한다. 이 효과가 적용되면, 효과의 지속시간이 초기화된다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,7 +10,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "Maximum Stacks",
+                "text": "최대 중첩",
                 "type": "Number",
                 "value": 5
             },

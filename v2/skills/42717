@@ -11,10 +11,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-                "status": "Protection",
+                "status": "프로텍션",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

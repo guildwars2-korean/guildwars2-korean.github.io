@@ -10,19 +10,19 @@
             },
             {
                 "apply_count": 1,
-                "description": "Next outgoing attack misses; stacks duration.",
+                "description": "다음 공격이 빗나간다; 지속시간이 중첩된다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
-                "status": "Blinded",
+                "status": "블라인드",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Next outgoing attack misses; stacks duration.",
+                "description": "다음 공격이 빗나간다; 지속시간이 중첩된다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
-                "status": "Blinded",
+                "status": "블라인드",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

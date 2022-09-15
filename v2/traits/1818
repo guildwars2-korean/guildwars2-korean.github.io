@@ -1,6 +1,6 @@
 [
     {
-        "description": "아군에게서 상태를 제거할 때 보호를 부여합니다.",
+        "description": "시전자는 아군의 컨디션을 제거할 때마다 프로텍션을 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,10 +10,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-                "status": "Protection",
+                "status": "프로텍션",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

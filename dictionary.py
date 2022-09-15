@@ -1,9 +1,11 @@
 DICTIONARY_FOR_TRANSLATION = {
     # Type에 들어갈 수 있는 텍스트는 text만 변경하는것을 명시해야 하기 때문에, 아래와 같이 작성한다.
     # '"text": "Healing"': '"text": "회복"',
+    # '"status": "Daze"': '"status": "데이즈"',
     # 그 외에는 아래와 같이 작성한다.
     # '"Radius"': '"범위"',
-    # ETC.
+    #
+    # Trait
     '"Ranger weapon skills deal increased strike damage. Damage is further increased for foes above the range threshold."': '"레인저 무기 스킬의 타격 데미지가 증가한다. 임계 거리 이상의 적에게 주는 데미지가 증가한다."',
     '"Activating a Signet grants fury to nearby allies. Signets gain reduced recharge."': '"시그넷 사용 시 아군에게 퓨리를 전파한다. 시그넷 스킬들의 재사용 대기시간이 감소한다."',
     '"Your opening strikes inflict cripple on your foes."': '"전투 돌입시 첫번째 공격은 적에게 크리플을 가한다."',

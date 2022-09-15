@@ -1,6 +1,6 @@
 [
     {
-        "description": "활력의 백분율에 따라 전문 지식을 얻으십시오. 적에게 받는 피해는 그들이 가진 조건의 수에 따라 감소합니다. Rot Wallow Venom은 더 긴 시간 동안 고통을 가합니다.",
+        "description": "바이탈리티에 따라 퍼센트로 추가 엑스퍼티즈를 획득한다. 적이 갖고있는 컨디션 갯수에 따라 그 적에게 받는 데미지가 감소한다. Rot Wallow Venom이 더 긴 지속시간의 토먼트를 유발한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",

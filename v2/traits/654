@@ -23,27 +23,27 @@
                         "dmg_multiplier": 0.6,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                        "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-                        "status": "Protection",
+                        "status": "프로텍션",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "Pulses",
+                        "text": "파동",
                         "type": "Number",
                         "value": 2
                     },
@@ -56,13 +56,13 @@
                     {
                         "distance": 180,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "field_type": "Light",
                         "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-                        "text": "Combo Field",
+                        "text": "콤보 필드",
                         "type": "ComboField"
                     }
                 ],
@@ -77,14 +77,14 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 1,
                         "requires_trait": 649,
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "overrides": 4,
                         "requires_trait": 558,
-                        "text": "Pulses",
+                        "text": "파동",
                         "type": "Number",
                         "value": 3
                     },
@@ -101,7 +101,7 @@
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                         "overrides": 6,
                         "requires_trait": 558,
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     }
                 ]

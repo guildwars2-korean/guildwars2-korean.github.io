@@ -5,7 +5,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "Recharge Reduced",
+                "text": "재사용 대기시간 감소",
                 "type": "Percent"
             }
         ],
@@ -20,7 +20,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "Range",
+                        "text": "사정거리",
                         "type": "Range",
                         "value": 200
                     },
@@ -28,7 +28,7 @@
                         "dmg_multiplier": 0.4,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
@@ -39,10 +39,10 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                        "description": "매초 데미지를 준다. 움직이지 않는 적에게 추가 피해를 준다. 강도가 중첩된다.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                        "status": "Torment",
+                        "status": "토먼트",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }
@@ -58,7 +58,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "Range",
+                        "text": "사정거리",
                         "type": "Range",
                         "value": 90
                     },
@@ -66,15 +66,15 @@
                         "dmg_multiplier": 0.4,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                        "description": "매초 데미지를 준다. 움직이지 않는 적에게 추가 피해를 준다. 강도가 중첩된다.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                        "status": "Torment",
+                        "status": "토먼트",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }

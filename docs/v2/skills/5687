@@ -11,10 +11,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "Movement speed increased by 33%; stacks duration.",
+                "description": "이동속도가 33% 증가한다; 지속시간이 중첩된다.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-                "status": "Swiftness",
+                "status": "스위프트니스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -27,12 +27,12 @@
             {
                 "distance": 180,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             }

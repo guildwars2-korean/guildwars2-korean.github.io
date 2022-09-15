@@ -1,6 +1,6 @@
 [
     {
-        "description": "Mech Command 기술 Sky Circus에 액세스할 수 있습니다. 해고되거나 수리를 위해 자리를 비운 동안 기계는 이따금 공중 폭격으로 당신을 지원합니다.<br> 인장 스킬은 향상된 패시브 효과를 얻고 재충전하는 동안 패시브 보너스를 계속 부여합니다.",
+        "description": "메카에케 Sky Circus 커맨드 스킬을 해금한다. 메카가 정비중일때, 공중공격 지원으로 전투를 돕는다. 시그넷 스킬의 패시브 효과가 증가하고, 재사용 대기 시간중일때도 패시브 효과가 적용된다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
@@ -40,14 +40,14 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "distance": 600,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
@@ -70,10 +70,10 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "Deals damage every second; stacks intensity.",
+                        "description": "매초 데미지를 준다; 강도가 중첩된다.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                        "status": "Burning",
+                        "status": "버닝",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }
@@ -91,12 +91,12 @@
                         "dmg_multiplier": 1,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 3
                     }

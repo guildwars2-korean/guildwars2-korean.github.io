@@ -1,6 +1,6 @@
 [
     {
-        "description": "쓰러진 아군을 소생시키기 시작할 때 간헐천을 시전하십시오. 간헐천이 이제 쓰러진 아군을 부분적으로 소생시킵니다. 아군 소생을 시작하면 조정에 따라 오라를 얻습니다.",
+        "description": "아군을 일으킬때, Geyser 스킬을 시전한다. Geyser 스킬이 다운된 아군을 조금씩 일으킨다. 아군을 일으킬때, 현재 어튠먼트에 따라서 오라를 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -80,7 +80,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "Range",
+                        "text": "사정거리",
                         "type": "Range",
                         "value": 1200
                     },
@@ -93,44 +93,44 @@
                     {
                         "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                         "target": "Healing",
-                        "text": "Healing",
+                        "text": "힐링",
                         "type": "AttributeAdjust",
                         "value": 552
                     },
                     {
                         "duration": 4,
                         "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                        "text": "Duration",
+                        "text": "지속시간",
                         "type": "Time"
                     },
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                        "text": "Interval",
+                        "text": "주기",
                         "type": "Time"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "percent": 7,
-                        "text": "Revive Percentage",
+                        "text": "부활 게이지",
                         "type": "Percent"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "percent": 1,
-                        "text": "Revive Percentage",
+                        "text": "부활 게이지",
                         "type": "Percent"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "field_type": "Water",
                         "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-                        "text": "Combo Field",
+                        "text": "콤보 필드",
                         "type": "ComboField"
                     }
                 ],

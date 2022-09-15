@@ -1,6 +1,6 @@
 [
     {
-        "description": "은신은 적중하면 건강 사이펀을 공격합니다.<br> 간격당 한 번 이상 동일한 대상을 흡입할 수 없습니다.",
+        "description": "스텔스 공격이 적중 시 생명력을 흡수한다. <br> 동일한 타겟은 주기마다 한번씩 흡수할 수 있다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

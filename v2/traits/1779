@@ -1,6 +1,6 @@
 [
     {
-        "description": "결의가 있는 동안 모든 피해가 증가하고 적을 공격할 때 힘을 얻습니다. 귀하에게 부여된 해결은 더 오래 지속됩니다.",
+        "description": "레졸루션 효과가 지속 중인 경우, 적에게 주는 모든 데미지가 증가하고, 타격을 입힐 때마다 마이트를 획득한다. 본인이 보유하는 레졸루션의 지속시간이 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,23 +10,23 @@
             },
             {
                 "apply_count": 1,
-                "description": "Increased outgoing damage; stacks intensity.",
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "Might",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 50,
-                "text": "Duration Increase",
+                "text": "지속시간 증가",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             }
         ],

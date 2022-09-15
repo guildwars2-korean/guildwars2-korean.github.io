@@ -1,31 +1,31 @@
 [
     {
-        "description": "우물의 첫 번째 펄스는 우물 근처의 아군에게도 민첩성을 적용합니다. 시간의 파도는 이제 시전 시 영역에 민첩성을 적용합니다.",
+        "description": "웰의 첫번째 파동이 웰 주변의 아군에게 알라크리티를 부여한다. Tides of Time을 시전시 영역 내에 알라크리티를 추가로 부여한다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Skills recharge faster.",
+                "description": "스킬 재사용 대기시간이 감소한다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-                "status": "Alacrity",
+                "status": "알라크리티",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "distance": 360,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             },
             {
                 "apply_count": 1,
-                "description": "Skills recharge faster.",
+                "description": "스킬 재사용 대기시간이 감소한다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
                 "prefix": {
@@ -34,7 +34,7 @@
                     "status": "Tides of Time",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Alacrity",
+                "status": "알라크리티",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }

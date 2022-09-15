@@ -1,6 +1,6 @@
 [
     {
-        "description": "장애가 있을 때 보호를 받으세요. 기절에서 벗어날 때 힘을 얻습니다.<br> 비활성화에는 기절, 멍, 넉백, 당기기, 넉다운, 가라앉기, 뜨기, 공포, 발사 및 도발이 포함됩니다.",
+        "description": "본인이 무력화 될 경우, 프로텍션을 획득한다. 본인의 무력화 해제 시, 마이트를 획득한다. <br> 무력화는 스턴, 데이즈, 넉백, 풀, 넉다운, 싱크, 플로트, 피어, 타운트와 런치를 포함한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,19 +10,19 @@
             },
             {
                 "apply_count": 5,
-                "description": "Increased outgoing damage; stacks intensity.",
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "Might",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-                "status": "Protection",
+                "status": "프로텍션",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

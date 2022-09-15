@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신의 힘이 증가합니다. Harbinger Shroud에 있는 동안 각 간격을 펄스하여 주변 적에게 피해를 입히고 불구로 만드는 오라를 얻습니다.",
+        "description": "파워가 증가한다. Harbinger Shroud 상태일 때, 주변의 적들에게 주기적으로 데미지와 크리플을 유발하는 오라를 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
@@ -17,7 +17,7 @@
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "Interval",
+                "text": "주기",
                 "type": "Time"
             }
         ],
@@ -33,28 +33,28 @@
                     {
                         "distance": 180,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "dmg_multiplier": 1,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "apply_count": 1,
-                        "description": "Movement speed decreased by 50%; stacks duration.",
+                        "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                        "status": "Crippled",
+                        "status": "크리플",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }

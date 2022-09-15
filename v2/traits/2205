@@ -1,13 +1,13 @@
 [
     {
-        "description": "공격을 성공적으로 완료한 판타즘은 목표물을 향해 칼날을 발사하고 만료 시 분노를 선사합니다.",
+        "description": "판타즘들이 공격을 성공적으로 마무리하고 나면, 블레이드 하나가 그들의 타겟에게 발사되고, 버츄오소에게 퓨리를 부여한다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Critical chance increased; stacks duration.",
+                "description": "크리티컬 확률이 증가한다; 지속시간이 중첩된다.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-                "status": "Fury",
+                "status": "퓨리",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -23,7 +23,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "Range",
+                        "text": "사정거리",
                         "type": "Range",
                         "value": 1200
                     },
@@ -31,7 +31,7 @@
                         "dmg_multiplier": 0.7,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {

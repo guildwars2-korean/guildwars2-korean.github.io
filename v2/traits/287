@@ -1,11 +1,11 @@
 [
     {
-        "description": "인장은 감소된 재충전을 얻고 재충전하는 동안 계속해서 패시브 보너스를 부여합니다.",
+        "description": "시그넷 스킬들의 재사용 대기 시간이 감소하고, 재사용 대기 시간중일때에도 패시브 효과를 받게된다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "Recharge Reduced",
+                "text": "재사용 대기시간 감소",
                 "type": "Percent"
             }
         ],

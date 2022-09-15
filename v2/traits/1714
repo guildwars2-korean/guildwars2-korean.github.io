@@ -1,6 +1,6 @@
 [
     {
-        "description": "적에게 적용한 조건은 더 오래 지속되지만 자신에게 적용된 조건도 더 오래 지속됩니다.",
+        "description": "적에게 주는 컨디션의 지속시간과 본인이 받는 컨디션의 지속시간이 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

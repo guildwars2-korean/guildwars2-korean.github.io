@@ -1,6 +1,6 @@
 [
     {
-        "description": "근접 공격은 원거리 공격이 되고 치명타 확률이 증가하며 취약성을 적용합니다. Mech Command 기술 Spark Revolver를 잠금 해제합니다.<br><br> Explosives 특성이 Aim-Assisted Rocket인 경우 기계도 해당 특성의 효과를 얻습니다.",
+        "description": "근접 공격들이 원거리 공격이 된다. 이 원거리 공격은 크리티컬 확률이 높아지고, 벌너러빌리티를 유발시킨다. 메카에게 커맨드 스킬 Spark Resolver를 해금한다. 만약 Explosives 트레잇의 Aim-Assisted Rocket을 사용중이라면 메카에게도 이 트레잇이 적용된다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,29 +10,29 @@
             },
             {
                 "apply_count": 1,
-                "description": "Damage and condition damage taken are increased; stacks intensity.",
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-                "status": "Vulnerability",
+                "status": "벌너러빌리티",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "Interval",
+                "text": "주기",
                 "type": "Time"
             },
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 20,
-                "text": "Critical Chance Increase",
+                "text": "크리티컬 확률 증가",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 5,
-                "text": "Critical Chance Increase",
+                "text": "크리티컬 확률 증가",
                 "type": "Percent"
             }
         ],
@@ -47,7 +47,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "Range",
+                        "text": "사정거리",
                         "type": "Range",
                         "value": 1200
                     },
@@ -61,17 +61,17 @@
                         "dmg_multiplier": 0.176,
                         "hit_count": 12,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
-                        "text": "Pierces",
+                        "text": "관통",
                         "type": "NoData"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     }

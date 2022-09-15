@@ -1,10 +1,10 @@
 [
     {
-        "description": "비취 구체가 활성화되면 현재 조율에 따라 주변 아군에게 혜택을 줍니다.",
+        "description": "제이드 스피어가 현재 어튠먼트에 따라 아군에게 분을 부여한다.",
         "facts": [
             {
                 "apply_count": 5,
-                "description": "Increased outgoing damage; stacks intensity.",
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "prefix": {
@@ -13,13 +13,13 @@
                     "status": "Fire Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Might",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 5,
-                "description": "Increased outgoing damage; stacks intensity.",
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "prefix": {
@@ -28,13 +28,13 @@
                     "status": "Fire Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Might",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Endurance regeneration increased by 50%; stacks duration.",
+                "description": "지구력 회복이 50% 증가한다; 지속시간이 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
                 "prefix": {
@@ -43,13 +43,13 @@
                     "status": "Water Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Vigor",
+                "status": "비거",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Endurance regeneration increased by 50%; stacks duration.",
+                "description": "지구력 회복이 50% 증가한다; 지속시간이 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
                 "prefix": {
@@ -58,13 +58,13 @@
                     "status": "Water Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Vigor",
+                "status": "비거",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Skills and actions are faster.",
+                "description": "스킬과 행동이 빨라진다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
                 "prefix": {
@@ -73,13 +73,13 @@
                     "status": "Air Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Quickness",
+                "status": "퀴크니스",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Critical chance increased; stacks duration.",
+                "description": "크리티컬 확률이 증가한다; 지속시간이 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
                 "prefix": {
@@ -88,13 +88,13 @@
                     "status": "Air Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Fury",
+                "status": "퓨리",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+                "description": "데미지를 주지 않는 컨디션의 영향을 받지 않는다; 지속시간이 중첩된다.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
                 "prefix": {
@@ -103,13 +103,13 @@
                     "status": "Earth Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Resistance",
+                "status": "레지스턴스",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+                "description": "데미지를 주지 않는 컨디션의 영향을 받지 않는다; 지속시간이 중첩된다.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
                 "prefix": {
@@ -118,19 +118,19 @@
                     "status": "Earth Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "Resistance",
+                "status": "레지스턴스",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "distance": 360,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             },
@@ -151,7 +151,7 @@
         "traited_facts": [
             {
                 "apply_count": 5,
-                "description": "Increased outgoing damage; stacks intensity.",
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 20,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "overrides": 0,
@@ -162,13 +162,13 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2251,
-                "status": "Might",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 5,
-                "description": "Increased outgoing damage; stacks intensity.",
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
                 "duration": 9,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "overrides": 1,
@@ -179,13 +179,13 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2251,
-                "status": "Might",
+                "status": "마이트",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Endurance regeneration increased by 50%; stacks duration.",
+                "description": "지구력 회복이 50% 증가한다; 지속시간이 중첩된다.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
                 "overrides": 2,
@@ -196,13 +196,13 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2251,
-                "status": "Vigor",
+                "status": "비거",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Endurance regeneration increased by 50%; stacks duration.",
+                "description": "지구력 회복이 50% 증가한다; 지속시간이 중첩된다.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
                 "overrides": 3,
@@ -213,13 +213,13 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2251,
-                "status": "Vigor",
+                "status": "비거",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Skills and actions are faster.",
+                "description": "스킬과 행동이 빨라진다.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
                 "overrides": 4,
@@ -230,13 +230,13 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2251,
-                "status": "Quickness",
+                "status": "퀴크니스",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Critical chance increased; stacks duration.",
+                "description": "크리티컬 확률이 증가한다; 지속시간이 중첩된다.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
                 "overrides": 5,
@@ -247,13 +247,13 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2251,
-                "status": "Fury",
+                "status": "퓨리",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+                "description": "데미지를 주지 않는 컨디션의 영향을 받지 않는다; 지속시간이 중첩된다.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
                 "overrides": 6,
@@ -264,13 +264,13 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2251,
-                "status": "Resistance",
+                "status": "레지스턴스",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+                "description": "데미지를 주지 않는 컨디션의 영향을 받지 않는다; 지속시간이 중첩된다.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
                 "overrides": 7,
@@ -281,7 +281,7 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 2251,
-                "status": "Resistance",
+                "status": "레지스턴스",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }

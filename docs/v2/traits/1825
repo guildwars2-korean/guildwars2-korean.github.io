@@ -1,6 +1,6 @@
 [
     {
-        "description": "치유 후 지속 시간 동안 받는 피해가 감소합니다. 자신이 아닌 아군을 치유하면 더 오래 지속됩니다.",
+        "description": "체력을 회복하면 일정 시간 동안 받는 타격 데미지가 감소한다. 아군을 회복시키는 경우 해당 특성의 지속시간이 길어진다.",
         "facts": [
             {
                 "apply_count": 1,
@@ -20,13 +20,13 @@
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 15,
-                "text": "Damage Reduced",
+                "text": "데미지 감소",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "Damage Reduced",
+                "text": "데미지 감소",
                 "type": "Percent"
             }
         ],

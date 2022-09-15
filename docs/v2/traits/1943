@@ -1,6 +1,6 @@
 [
     {
-        "description": "용기의 방패는 반경과 지속 시간이 증가합니다.",
+        "description": "Shield of Courage의 범위와 지속시간이 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -11,7 +11,7 @@
             {
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "Duration Increase",
+                "text": "지속시간 증가",
                 "type": "Time"
             }
         ],

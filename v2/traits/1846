@@ -1,11 +1,11 @@
 [
     {
-        "description": "당신이 가하는 출혈은 더 위험합니다.",
+        "description": "적에게 가하는 블리딩이 강화된다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 33,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             }
         ],

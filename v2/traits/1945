@@ -1,6 +1,6 @@
 [
     {
-        "description": "야수 능력은 주변의 적을 도발합니다.",
+        "description": "비스트 능력이 주변의 적을 도발한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,22 +10,22 @@
             },
             {
                 "apply_count": 1,
-                "description": "Involuntarily attack foes.",
+                "description": "강제로 적을 공격한다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/02EED459AD65FAF7DF32A260E479C625070841B9/1228472.png",
-                "status": "Taunt",
+                "status": "타운트",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             }

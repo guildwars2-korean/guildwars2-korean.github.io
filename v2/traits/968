@@ -4,7 +4,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Combat Only",
+                "text": "전투시에만 적용",
                 "type": "NoData"
             }
         ],
@@ -28,19 +28,19 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "Skills and actions are faster.",
+                        "description": "스킬과 행동이 빨라진다.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-                        "status": "Quickness",
+                        "status": "퀴크니스",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Movement speed is greatly increased. Maximum duration: 10s",
+                        "description": "이동속도가 대폭 증가한다; 최대 지속시간: 10초",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-                        "status": "Superspeed",
+                        "status": "슈퍼스피드",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }

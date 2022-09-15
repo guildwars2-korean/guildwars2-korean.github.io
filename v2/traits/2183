@@ -1,6 +1,6 @@
 [
     {
-        "description": "죽음의 수의가 선구자 수의로 대체되어 강력한 공격 기술을 제공하지만 공격에 취약합니다.<br> 선구자 장막에 남아 있으면 역병이 누적됩니다.<br> 역병은 최대 체력을 감소시킵니다.",
+        "description": "Death Shroud가 Harbinger Shroud로 대체된다. Harbinger Shroud는 강한 공격스킬들을 사용하지만, 취약한 상태가 된다. Harbinger Shoud 상태에서는 Blight를 축적하게된다. Blight는 최대 체력을 감소시킨다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -45,7 +45,7 @@
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                        "text": "Interval",
+                        "text": "주기",
                         "type": "Time"
                     }
                 ],
@@ -56,21 +56,21 @@
                 "traited_facts": [
                     {
                         "apply_count": 3,
-                        "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+                        "description": "넉다운, 넉백, 풀, 런치, 스턴, 데이즈, 플로트, 싱크, 피어, 타운트에 면역된다.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
                         "requires_trait": 2192,
-                        "status": "Stability",
+                        "status": "스태빌리티",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+                        "description": "넉다운, 넉백, 풀, 런치, 스턴, 데이즈, 플로트, 싱크, 피어, 타운트에 면역된다.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
                         "requires_trait": 2192,
-                        "status": "Stability",
+                        "status": "스태빌리티",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }

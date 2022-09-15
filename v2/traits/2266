@@ -1,6 +1,6 @@
 [
     {
-        "description": "새로운 전투 서브루틴을 사용하면 장비한 무기에서 스킬 3을 활성화할 때 로봇이 로켓 펀치를 사용할 수 있습니다. 당신의 기계는 당신 자신의 강인함과 활력 통계의 더 큰 비율을 얻습니다.",
+        "description": "새로운 전투 서브루틴으로 3번 무기스킬을 사용하면 메카가 Rocket Punch를 따라서 써준다. 메카가 메카니스트의 더 높은 퍼센트의 터프니스와 바이탈리티 스탯을 가진다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -26,7 +26,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "Range",
+                        "text": "사정거리",
                         "type": "Range",
                         "value": 900
                     },
@@ -40,7 +40,7 @@
                         "dmg_multiplier": 1,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
@@ -57,21 +57,21 @@
                     {
                         "distance": 180,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "apply_count": 1,
-                        "description": "Deals damage every second; stacks intensity.",
+                        "description": "매초 데미지를 준다; 강도가 중첩된다.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                        "status": "Burning",
+                        "status": "버닝",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }

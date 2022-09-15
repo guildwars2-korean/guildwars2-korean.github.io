@@ -1,6 +1,6 @@
 [
     {
-        "description": "그림자 장막에 있는 동안 일정한 간격으로 그림자 소비 스택을 얻습니다. 그림자 장막을 종료하면 남은 그림자 힘을 소모하고 얻은 중첩 수에 따라 아군을 치유합니다. 완전히 치유된 아군은 나머지 값을 장벽으로 받습니다.",
+        "description": "Shadow Shroud 상태일때, 주기적으로 Consume Shadows 스택을 획득한다. Shadow Shroud 상태에서 벗어날때, 남아있는 모든 Shadowforce를 소모해서 Consume Shadows 스택에 따라 아군을 회복시킨다. 이 효과로 최대 체력보다 넘치게 회복된 양만큼 배리어를 부여받는다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -17,24 +17,24 @@
             {
                 "distance": 600,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Allied Targets",
+                "text": "적용 아군",
                 "type": "Number",
                 "value": 5
             },
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "Interval",
+                "text": "주기",
                 "type": "Time"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "Maximum Stacks",
+                "text": "최대 중첩",
                 "type": "Number",
                 "value": 5
             }

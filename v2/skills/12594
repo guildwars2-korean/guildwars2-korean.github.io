@@ -13,27 +13,27 @@
                 "dmg_multiplier": 1.275,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
+                "text": "데미지",
                 "type": "Damage"
             },
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             },
             {
                 "apply_count": 1,
-                "description": "Unable to activate skills.",
+                "description": "스킬 사용을 억제한다.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                "status": "Daze",
+                "status": "데이즈",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -49,11 +49,11 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "Skills recharge faster.",
+                "description": "스킬 재사용 대기시간이 감소한다.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
                 "requires_trait": 1038,
-                "status": "Alacrity",
+                "status": "알라크리티",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -62,17 +62,17 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "overrides": 2,
                 "requires_trait": 1038,
-                "text": "Radius",
+                "text": "범위",
                 "type": "Distance"
             },
             {
                 "apply_count": 1,
-                "description": "Unable to activate skills.",
+                "description": "스킬 사용을 억제한다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
                 "overrides": 4,
                 "requires_trait": 1070,
-                "status": "Daze",
+                "status": "데이즈",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

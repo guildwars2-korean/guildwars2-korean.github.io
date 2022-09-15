@@ -1,6 +1,6 @@
 [
     {
-        "description": "아군이 생성된 무기를 집으면 화염 오라를 얻습니다. Conjure 무기 능력의 재충전이 감소했습니다.",
+        "description": "아군이 Conjured Weapon을 집어 들때, 파이어 오라를 획득한다. Conjure Weapon 스킬의 재사용 대기 시간이 감소한다.",
         "facts": [
             {
                 "apply_count": 1,
@@ -14,7 +14,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "Recharge Reduced",
+                "text": "재사용 대기시간 감소",
                 "type": "Percent"
             }
         ],

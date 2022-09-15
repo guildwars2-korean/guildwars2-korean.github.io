@@ -1,6 +1,6 @@
 [
     {
-        "description": "드래곤 슬래시는 최대 충전 레벨이 낮지만 플로우 비용을 지불할 수 있으면 드래곤 트리거에 다시 진입합니다. 용의 방아쇠에 재진입하면 용비늘 방어의 재사용 대기시간이 초기화됩니다. 드래곤 트리거가 종료될 때 전술적 재장전이 더 이상 제거되지 않습니다.",
+        "description": "Dragon Slash가 낮은 최대 Charge 레벨을 갖는다. Dragon Slash 사용 후 Flow가 10 이상 남아있다면 다시 Dragon Trigger 상태가 된다. 다시 Dragon Trigger상태가 되면 Dragonscale Defense 효과 재사용 대기 시간이 초기화된다. Dragon Trigger가 종료될 때, Tactical Reload가 더이상 제거되지 않는다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",

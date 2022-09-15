@@ -1,11 +1,11 @@
 [
     {
-        "description": "체력 임계값을 초과하는 동안 증가된 힘을 얻습니다. 그 아래에 있으면 치유력이 증가합니다.",
+        "description": "생명력 임계 이상일때, 추가 파워를 획득한다. 생명력 임계 이하일때는, 추가 힐링파워를 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "Health Threshold",
+                "text": "생명력 임계",
                 "type": "Percent"
             },
             {

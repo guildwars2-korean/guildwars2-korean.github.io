@@ -1,12 +1,12 @@
 [
     {
-        "description": "피하는 대신 위에서 강력한 일격을 가해 지면에 닿으면 적을 공격합니다. 회피는 모든 지구력을 소모하며 최대 지구력에서만 실행할 수 있습니다.",
+        "description": "구르기 대신에, 상공으로부터 강력한 공격을 가한다. 착지할 때, 적들을 공격한다. 구르기가 가지고있는 모든 지구력을 소모하고, 이 공격은 지구력이 꽉 차있을때 발동한다.",
         "facts": [
             {
                 "dmg_multiplier": 1,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "Damage",
+                "text": "데미지",
                 "type": "Damage"
             },
             {
@@ -17,7 +17,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "Number of Targets",
+                "text": "적용 대상",
                 "type": "Number",
                 "value": 5
             }

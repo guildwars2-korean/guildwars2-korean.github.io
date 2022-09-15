@@ -1,20 +1,20 @@
 [
     {
-        "description": "칼날 공격은 치명타 시 출혈을 일으킵니다. 가한 상태 피해의 일정 비율이 당신을 치유합니다.",
+        "description": "블레이드 공격이 크리티컬로 적용되면 블리딩을 유발한다. 적에게 가하는 컨디션 데미지의 일부만큼 회복된다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Deals damage every second; stacks intensity.",
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                "status": "Bleeding",
+                "status": "블리딩",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 3,
-                "text": "Percent",
+                "text": "퍼센트",
                 "type": "Percent"
             }
         ],

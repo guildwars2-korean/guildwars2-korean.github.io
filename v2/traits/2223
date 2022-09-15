@@ -1,11 +1,11 @@
 [
     {
-        "description": "당신이 적용한 출혈은 증가된 피해를 줍니다. 적에게 출혈을 충분히 가한 후 검을 비축하십시오.",
+        "description": "주는 블리딩의 데미지가 증가한다. 일정 수의 블리딩을 유발시킬때마다, 블레이드를 생성한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 25,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             },
             {

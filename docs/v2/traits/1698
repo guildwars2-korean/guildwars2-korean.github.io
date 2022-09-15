@@ -1,6 +1,6 @@
 [
     {
-        "description": "장궁과 작살총 기술이 더 빨리 관통하고 재충전됩니다. 범위 임계값을 넘어 적을 공격하면 혜택이 제공됩니다.",
+        "description": "롱보우와 하푼건 스킬이 관통하고 재사용 대기시간이 감소한다. 일정 거리 이상에서 적을 타격 시 분을 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,7 +10,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
-                "text": "Pierces",
+                "text": "관통",
                 "type": "NoData"
             },
             {
@@ -22,24 +22,24 @@
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "Recharge Reduced",
+                "text": "재사용 대기시간 감소",
                 "type": "Percent"
             },
             {
                 "apply_count": 1,
-                "description": "Movement speed increased by 33%; stacks duration.",
+                "description": "이동속도가 33% 증가한다; 지속시간이 중첩된다.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-                "status": "Swiftness",
+                "status": "스위프트니스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "Skills and actions are faster.",
+                "description": "스킬과 행동이 빨라진다.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-                "status": "Quickness",
+                "status": "퀴크니스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

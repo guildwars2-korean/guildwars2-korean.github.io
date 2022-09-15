@@ -1,6 +1,6 @@
 [
     {
-        "description": "엔지니어링 키트를 장착하면 공격이나 주문이 생성되고 신속함을 얻을 수 있습니다.",
+        "description": "엔지니어링 킷을 장착하면 엔지니어링 킷에 따라 공격이나 스킬을 시전하고 스위프트니스를 부여 받는다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,10 +10,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "Movement speed increased by 33%; stacks duration.",
+                "description": "이동속도가 33% 증가한다; 지속시간이 중첩된다.",
                 "duration": 20,
                 "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-                "status": "Swiftness",
+                "status": "스위프트니스",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -38,19 +38,19 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "Increased outgoing damage; stacks intensity.",
+                        "description": "데미지가 증가한다; 강도가 중첩된다.",
                         "duration": 10,
                         "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                        "status": "Might",
+                        "status": "마이트",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "Deals damage every second; stacks intensity.",
+                        "description": "매초 데미지를 준다; 강도가 중첩된다.",
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                        "status": "Burning",
+                        "status": "버닝",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }
@@ -66,17 +66,17 @@
                 "facts": [
                     {
                         "apply_count": 1,
-                        "description": "Unable to move; stacks duration.",
+                        "description": "이동할 수 없다; 지속시간이 중첩된다.",
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                        "status": "Immobile",
+                        "status": "이모빌",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                        "text": "Duration",
+                        "text": "지속시간",
                         "type": "Time"
                     }
                 ],
@@ -98,12 +98,12 @@
                     {
                         "distance": 240,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 3
                     }
@@ -119,7 +119,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "Unblockable",
+                        "text": "방어 불가",
                         "type": "Unblockable",
                         "value": true
                     },
@@ -127,24 +127,24 @@
                         "dmg_multiplier": 1.75,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
                         "distance": 60,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "Blast Radius",
+                        "text": "폭발 범위",
                         "type": "Number",
                         "value": 180
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
@@ -165,10 +165,10 @@
                 "facts": [
                     {
                         "apply_count": 1,
-                        "description": "Movement speed is greatly increased. Maximum duration: 10s",
+                        "description": "이동속도가 대폭 증가한다; 최대 지속시간: 10초",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-                        "status": "Superspeed",
+                        "status": "슈퍼스피드",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }
@@ -205,19 +205,19 @@
                         "dmg_multiplier": 0.3,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "Number of Targets",
+                        "text": "적용 대상",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "field_type": "Ethereal",
                         "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-                        "text": "Combo Field",
+                        "text": "콤보 필드",
                         "type": "ComboField"
                     }
                 ],

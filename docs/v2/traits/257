@@ -1,11 +1,11 @@
 [
     {
-        "description": "체력 임계값 미만일 때 공격을 받으면 하급 비전 보호막을 시전합니다.",
+        "description": "생명력 임게 이하일때 공격받으면 Lesser Arcane Shield를 시전한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "Health Threshold",
+                "text": "생명력 임계",
                 "type": "Percent"
             }
         ],
@@ -29,7 +29,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                        "text": "StunBreak",
+                        "text": "스턴 해제",
                         "type": "StunBreak",
                         "value": true
                     },
@@ -37,7 +37,7 @@
                         "dmg_multiplier": 1.5,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Damage",
+                        "text": "데미지",
                         "type": "Damage"
                     },
                     {
@@ -52,7 +52,7 @@
                     {
                         "distance": 360,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "Radius",
+                        "text": "범위",
                         "type": "Distance"
                     }
                 ],

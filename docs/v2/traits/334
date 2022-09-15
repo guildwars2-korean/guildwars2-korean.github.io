@@ -1,16 +1,16 @@
 [
     {
-        "description": "위력 임계값 이상일 때 증가된 힘을 얻습니다. 발사에 맞춰진 동안 파워 보너스가 두 배로 증가합니다.",
+        "description": "마이트가 중첩 임계 이상일때, 추가 파워를 획득한다. 추가 파워는 파이어 어튠먼트일때 더 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Stack Threshold",
+                "text": "중첩 임계",
                 "type": "Number",
                 "value": 10
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Stack Threshold",
+                "text": "중첩 임계",
                 "type": "Number",
                 "value": 8
             },

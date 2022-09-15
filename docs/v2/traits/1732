@@ -1,10 +1,10 @@
 [
     {
-        "description": "범례를 호출하면 조건이 제거됩니다.",
+        "description": "레전드 변경 시 보유 중인 컨디션을 제거한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Conditions Removed",
+                "text": "상태이상 해제",
                 "type": "Number",
                 "value": 1
             }

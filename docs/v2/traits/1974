@@ -1,11 +1,11 @@
 [
     {
-        "description": "외침은 감소된 재충전을 얻고 이제 체력을 흡수하며 적중한 각 적에 대해 추가 재충전 감소를 얻습니다.",
+        "description": "샤우트의 재사용 대기시간이 감소되며, 적의 생명력을 흡수하고 적을 맞출때마다 추가적으로 재사용 대기시간이 감소한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 10,
-                "text": "Recharge Reduced",
+                "text": "재사용 대기시간 감소",
                 "type": "Percent"
             },
             {

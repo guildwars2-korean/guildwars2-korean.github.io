@@ -1,16 +1,16 @@
 [
     {
-        "description": "전투 중에 자동으로 블레이드를 비축합니다.",
+        "description": "전투 중일때, 자동적으로 블레이드를 생성한다.",
         "facts": [
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "Interval",
+                "text": "주기",
                 "type": "Time"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Combat Only",
+                "text": "전투시에만 적용",
                 "type": "NoData"
             }
         ],

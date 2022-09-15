@@ -1,26 +1,26 @@
 [
     {
-        "description": "맹독 폭발은 더 많은 피해를 입히고 다른 효과와 함께 실명을 적용합니다. Unleashed Ambush 기술은 더 많은 피해를 줍니다.",
+        "description": "Venomous Outburst 스킬이 더 큰 데미지를 가하고, 추가로 블라인드를 유발시킨다. Unleashed Ambush 스킬들이 더 강한 데미지를 가한다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Next outgoing attack misses; stacks duration.",
+                "description": "다음 공격이 빗나간다; 지속시간이 중첩된다.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
-                "status": "Blinded",
+                "status": "블라인드",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 25,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "Damage Increase",
+                "text": "데미지 증가",
                 "type": "Percent"
             }
         ],

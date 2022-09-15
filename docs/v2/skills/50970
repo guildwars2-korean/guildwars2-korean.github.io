@@ -8,7 +8,7 @@
                 "description": "Unable to act.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
-                "status": "Stun",
+                "status": "스턴",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
