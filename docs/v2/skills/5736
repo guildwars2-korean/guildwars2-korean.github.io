@@ -9,7 +9,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 900
             },
@@ -23,33 +23,33 @@
                 "dmg_multiplier": 0.5,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
             {
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "지속시간",
+                "text": "Duration",
                 "type": "Time"
             },
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "화상",
+                "status": "Burning",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -68,21 +68,21 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "데미지가 증가한다(강도 중첩).",
+                "description": "Increased outgoing damage; stacks intensity.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "requires_trait": 229,
-                "status": "마이트",
+                "status": "Might",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 3,
-                "description": "데미지가 증가한다(강도 중첩).",
+                "description": "Increased outgoing damage; stacks intensity.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "requires_trait": 229,
-                "status": "마이트",
+                "status": "Might",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

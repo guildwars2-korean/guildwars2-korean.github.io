@@ -11,24 +11,24 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "생명력 임계",
+                "text": "Health Threshold",
                 "type": "Percent"
             },
             {
                 "apply_count": 1,
-                "description": "이동할 수 없다(지속시간 중첩).",
+                "description": "Unable to move; stacks duration.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                "status": "속박",
+                "status": "Immobile",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "이동할 수 없다(지속시간 중첩).",
+                "description": "Unable to move; stacks duration.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                "status": "속박",
+                "status": "Immobile",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -37,7 +37,7 @@
                 "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-                "status": "중독",
+                "status": "Poisoned",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -46,7 +46,7 @@
                 "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-                "status": "중독",
+                "status": "Poisoned",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -66,7 +66,7 @@
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
                 "overrides": 4,
                 "requires_trait": 1291,
-                "status": "중독",
+                "status": "Poisoned",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -77,7 +77,7 @@
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
                 "overrides": 5,
                 "requires_trait": 1291,
-                "status": "중독",
+                "status": "Poisoned",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

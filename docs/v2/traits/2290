@@ -1,11 +1,11 @@
 [
     {
-        "description": "당신이 가하는 고통이 증가합니다. 적을 괴롭히면 그림자의 힘을 얻습니다.<br><c=@warning> 슈라우드 상태에서는 그림자의 힘을 부여하지 않습니다.</c>",
+        "description": "당신이 가하는 고통이 증가합니다. 적을 괴롭히면 그림자의 힘을 얻습니다.<br> 슈라우드 상태에서는 그림자의 힘을 부여하지 않습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "데미지 증가",
+                "text": "Damage Increase",
                 "type": "Percent"
             },
             {

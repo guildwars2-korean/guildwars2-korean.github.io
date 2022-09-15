@@ -27,26 +27,26 @@
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "지속시간",
+                "text": "Duration",
                 "type": "Time"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
-                "text": "방어 불가",
+                "text": "Unblockable",
                 "type": "NoData"
             },
             {
                 "distance": 90,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "apply_count": 1,
-                "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
+                "description": "Movement speed decreased by 50%; stacks duration.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                "status": "불구",
+                "status": "Crippled",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -68,17 +68,17 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "overrides": 5,
                 "requires_trait": 1679,
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "apply_count": 1,
-                "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
+                "description": "Movement speed decreased by 50%; stacks duration.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
                 "overrides": 6,
                 "requires_trait": 1679,
-                "status": "불구",
+                "status": "Crippled",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>환상</c> 당신이 가진 힘의 각 스택에 대해 증가된 공격 피해를 입힙니다. 환상이 클론이 되면 힘을 얻습니다.",
+        "description": "Phantasms는 당신이 가진 힘의 각 스택에 대해 증가된 타격 피해를 줍니다. 환상이 클론이 되면 힘을 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,
@@ -13,32 +13,32 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "최대 중첩",
+                "text": "Maximum Stacks",
                 "type": "Number",
                 "value": 25
             },
             {
                 "apply_count": 3,
-                "description": "데미지가 증가한다(강도 중첩).",
+                "description": "Increased outgoing damage; stacks intensity.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "마이트",
+                "status": "Might",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 2,
-                "description": "데미지가 증가한다(강도 중첩).",
+                "description": "Increased outgoing damage; stacks intensity.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "마이트",
+                "status": "Might",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "distance": 360,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             }
         ],

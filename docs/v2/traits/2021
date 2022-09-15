@@ -1,6 +1,6 @@
 [
     {
-        "description": "사신의 장막에 있는 동안 사나움과 민첩성을 얻습니다. Life Reap으로 명중하면 슈라우드 스킬의 재충전 시간이 감소합니다.<br><c=@reminder> 재충전 감소는 Life Reap 사용 시 한 번만 발생할 수 있습니다.</c>",
+        "description": "사신의 장막에 있는 동안 사나움과 민첩성을 얻습니다. Life Reap으로 명중하면 슈라우드 스킬의 재충전 시간이 감소합니다.<br> 재충전 감소는 Life Reap 사용 시 한 번만 발생할 수 있습니다.",
         "facts": [
             {
                 "duration": 1,
@@ -10,17 +10,17 @@
             },
             {
                 "apply_count": 1,
-                "description": "스킬 시전과 행동이 빨라진다.",
+                "description": "Skills and actions are faster.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-                "status": "급속",
+                "status": "Quickness",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "주기",
+                "text": "Interval",
                 "type": "Time"
             },
             {

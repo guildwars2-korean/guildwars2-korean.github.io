@@ -1,6 +1,6 @@
 [
     {
-        "description": "독 데미지가 증가합니다. 독 보조금 적용<c=@abilitytype> 등딱지</c> .",
+        "description": "독 데미지가 증가합니다. 독을 바르면 갑피가 생깁니다.",
         "facts": [
             {
                 "apply_count": 1,

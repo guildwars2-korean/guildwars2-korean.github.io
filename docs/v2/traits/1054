@@ -1,6 +1,6 @@
 [
     {
-        "description": "회피는 손상 상태와 손상되지 않은 상태를 제거합니다.",
+        "description": "구르기시 피해량이 있는 컨디션과 피해량이 없는 컨디션 각각 한 개씩 제거한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

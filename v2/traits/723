@@ -1,6 +1,6 @@
 [
     {
-        "description": "환영을 만들면 나가는 피해가 증가하고 짧은 시간 동안 상태 피해가 증가합니다.<br><br><c=@reminder> 거장: 칼날을 장전할 때 발동합니다.</c>",
+        "description": "환영을 만들면 나가는 피해가 증가하고 짧은 시간 동안 상태 피해가 증가합니다.<br><br> 거장: 칼날을 장전할 때 발동합니다.",
         "facts": [
             {
                 "apply_count": 1,
@@ -13,13 +13,13 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "최대 중첩",
+                "text": "Maximum Stacks",
                 "type": "Number",
                 "value": 5
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "최대 중첩",
+                "text": "Maximum Stacks",
                 "type": "Number",
                 "value": 5
             }

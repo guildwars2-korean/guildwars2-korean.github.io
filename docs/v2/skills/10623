@@ -5,7 +5,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 1200
             },
@@ -13,15 +13,15 @@
                 "dmg_multiplier": 0.25,
                 "hit_count": 2,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
                 "apply_count": 2,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                "status": "출혈",
+                "status": "Bleeding",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

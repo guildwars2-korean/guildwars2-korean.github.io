@@ -7,31 +7,31 @@
                 "dmg_multiplier": 0.22,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 3
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "타격 횟수",
+                "text": "Number of Impacts",
                 "type": "Number",
                 "value": 5
             },
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "주기",
+                "text": "Interval",
                 "type": "Time"
             },
             {
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "지속시간",
+                "text": "Duration",
                 "type": "Time"
             }
         ],
@@ -51,34 +51,34 @@
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "overrides": 0,
                 "requires_trait": 2190,
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "requires_trait": 2187,
                 "target": "Healing",
-                "text": "회복",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 277
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                 "requires_trait": 2191,
-                "status": "화상",
+                "status": "Burning",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                 "requires_trait": 2191,
-                "status": "화상",
+                "status": "Burning",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

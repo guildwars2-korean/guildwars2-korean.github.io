@@ -5,13 +5,13 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 8000
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "방어 불가",
+                "text": "Unblockable",
                 "type": "Unblockable",
                 "value": true
             },
@@ -19,7 +19,7 @@
                 "finisher_type": "Projectile",
                 "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
                 "percent": 100,
-                "text": "콤보 피니셔",
+                "text": "Combo Finisher",
                 "type": "ComboFinisher"
             }
         ],

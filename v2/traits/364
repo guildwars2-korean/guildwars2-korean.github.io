@@ -1,29 +1,29 @@
 [
     {
-        "description": "<c=@abilitytype>캔트립스</c> 감소된 재충전을 얻고 혜택을 얻습니다.",
+        "description": "캔트립은 감소된 충전량을 얻고 혜택을 받습니다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "description": "Gain health every second; stacks duration.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
-                "status": "재생력",
+                "status": "Regeneration",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
+                "description": "Endurance regeneration increased by 50%; stacks duration.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
-                "status": "활력",
+                "status": "Vigor",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "재사용 대기시간 감소",
+                "text": "Recharge Reduced",
                 "type": "Percent"
             }
         ],

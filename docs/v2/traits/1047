@@ -1,6 +1,6 @@
 [
     {
-        "description": "대검과 창 기술은 더 많은 피해를 입히고 더 빨리 재충전합니다. 적을 무력화하면 분노를 얻습니다.",
+        "description": "그레이트소드와 스피어 스킬의 피해량이 증가하고, 재사용 대기시간이 감소한다. 적을 무력화시키면 퓨리를 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -11,22 +11,22 @@
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "데미지 증가",
+                "text": "Damage Increase",
                 "type": "Percent"
             },
             {
                 "apply_count": 1,
-                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
+                "description": "Critical chance increased; stacks duration.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-                "status": "분노",
+                "status": "Fury",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "재사용 대기시간 감소",
+                "text": "Recharge Reduced",
                 "type": "Percent"
             }
         ],

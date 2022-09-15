@@ -1,11 +1,11 @@
 [
     {
-        "description": "오프닝 스트라이크의 치명타 확률이 증가합니다.",
+        "description": "Opening Strike 특성의 크리티컬 확률이 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 100,
-                "text": "크리티컬 확률 증가",
+                "text": "Critical Chance Increase",
                 "type": "Percent"
             }
         ],

@@ -1,6 +1,6 @@
 [
     {
-        "description": "사용<c=@abilitytype> 터지다</c> 스킬은 분노를 부여합니다. 분노는 증가된 크리티컬 확률을 제공합니다.",
+        "description": "버스트 스킬을 사용하면 분노가 부여됩니다. 분노는 증가된 크리티컬 확률을 제공합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,17 +10,17 @@
             },
             {
                 "apply_count": 1,
-                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
+                "description": "Critical chance increased; stacks duration.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-                "status": "분노",
+                "status": "Fury",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 5,
-                "text": "크리티컬 확률 증가",
+                "text": "Critical Chance Increase",
                 "type": "Percent"
             }
         ],

@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>고통을 불러일으키다</c> 당신의 조건을 적에게 이전합니다.",
+        "description": "Invoke Torment는 상태를 적에게 이전합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -16,13 +16,13 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
-                "text": "방어 불가",
+                "text": "Unblockable",
                 "type": "NoData"
             },
             {
-                "description": "다음 공격이 빗나간다(지속시간 중첩).",
+                "description": "Next outgoing attack misses; stacks duration.",
                 "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
-                "status": "실명",
+                "status": "Blinded",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

@@ -5,10 +5,10 @@
         "facts": [
             {
                 "apply_count": 1,
-                "description": "이동속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "description": "Movement speed is greatly increased. Maximum duration: 10s",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-                "status": "슈퍼스피드",
+                "status": "Superspeed",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -16,6 +16,6 @@
         "flags": [],
         "icon": "https://render.guildwars2.com/file/A70C929E10EE010851B3FF5FCCBAE5630496B746/103427.png",
         "id": 17812,
-        "name": "슈퍼스피드"
+        "name": "Superspeed"
     }
 ]

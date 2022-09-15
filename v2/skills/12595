@@ -11,37 +11,37 @@
             },
             {
                 "apply_count": 1,
-                "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
+                "description": "Movement speed decreased by 50%; stacks duration.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                "status": "불구",
+                "status": "Crippled",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "이동할 수 없다(지속시간 중첩).",
+                "description": "Unable to move; stacks duration.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                "status": "속박",
+                "status": "Immobile",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "지속시간",
+                "text": "Duration",
                 "type": "Time"
             },
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             }
@@ -57,11 +57,11 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "스킬 재사용 대기시간을 감소시킨다.",
+                "description": "Skills recharge faster.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
                 "requires_trait": 1038,
-                "status": "민첩",
+                "status": "Alacrity",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -70,7 +70,7 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "overrides": 4,
                 "requires_trait": 1038,
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             }
         ],

@@ -15,13 +15,13 @@
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "회복",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 6520
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "상태이상 해제",
+                "text": "Conditions Removed",
                 "type": "Number",
                 "value": 5
             }

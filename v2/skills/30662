@@ -16,24 +16,24 @@
                 "dmg_multiplier": 2.5,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
                 "apply_count": 5,
-                "description": "데미지가 증가한다(강도 중첩).",
+                "description": "Increased outgoing damage; stacks intensity.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "마이트",
+                "status": "Might",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 5,
-                "description": "데미지가 증가한다(강도 중첩).",
+                "description": "Increased outgoing damage; stacks intensity.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "마이트",
+                "status": "Might",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -48,40 +48,40 @@
             },
             {
                 "apply_count": 2,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "화상",
+                "status": "Burning",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "폭발 범위",
+                "text": "Blast Radius",
                 "type": "Number",
                 "value": 600
             },
             {
                 "duration": 25,
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-                "text": "충전 대기시간",
+                "text": "Count Recharge",
                 "type": "Time"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "최대 횟수",
+                "text": "Maximum Count",
                 "type": "Number",
                 "value": 2
             }
@@ -98,23 +98,23 @@
         "traited_facts": [
             {
                 "apply_count": 7,
-                "description": "데미지가 증가한다(강도 중첩).",
+                "description": "Increased outgoing damage; stacks intensity.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "overrides": 2,
                 "requires_trait": 1891,
-                "status": "마이트",
+                "status": "Might",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 9,
-                "description": "데미지가 증가한다(강도 중첩).",
+                "description": "Increased outgoing damage; stacks intensity.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "overrides": 3,
                 "requires_trait": 1891,
-                "status": "마이트",
+                "status": "Might",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

@@ -1,16 +1,16 @@
 [
     {
-        "description": "모래 섬광은 이제 주변 아군에게도 보호막을 부여합니다. 아군에게 장벽을 부여하면 그들을 괴롭히는 조건이 제거됩니다.<br><c=@reminder> 이 효과는 스컬지 스킬과 특성에 대한 배리어에서만 발생합니다.</c>",
+        "description": "모래 섬광은 이제 주변 아군에게도 보호막을 부여합니다. 아군에게 장벽을 부여하면 그들을 괴롭히는 조건이 제거됩니다.<br> 이 효과는 스컬지 스킬과 특성에 대한 배리어에서만 발생합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "상태이상 해제",
+                "text": "Conditions Removed",
                 "type": "Number",
                 "value": 1
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             }

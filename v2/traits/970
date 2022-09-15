@@ -5,14 +5,14 @@
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "회복",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 375
             },
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "주기",
+                "text": "Interval",
                 "type": "Time"
             }
         ],

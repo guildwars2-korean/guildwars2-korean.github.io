@@ -1,13 +1,13 @@
 [
     {
-        "description": "적을 무력화시키면 그들에게 고통을 줍니다.<br><c=@reminder> 비활성화에는 기절, 멍, 넉백, 당기기, 넉다운, 가라앉기, 뜨기, 발사, 도발 및 공포가 포함됩니다.</c>",
+        "description": "적을 무력화시키면 그들에게 고통을 줍니다.<br> 비활성화에는 기절, 멍, 넉백, 당기기, 넉다운, 가라앉기, 뜨기, 발사, 도발 및 공포가 포함됩니다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                "status": "고통",
+                "status": "Torment",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

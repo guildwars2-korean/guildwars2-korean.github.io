@@ -1,6 +1,6 @@
 [
     {
-        "description": "명중 시 아드레날린을 얻습니다. 적중했을 때 소모된 아드레날린의 모든 막대에 대한 조건 제거<c=@abilitytype> 터지다</c> 기술.",
+        "description": "명중 시 아드레날린을 얻습니다. 버스트 스킬로 적중할 때 소모된 아드레날린의 모든 막대에 대한 조건을 제거합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",

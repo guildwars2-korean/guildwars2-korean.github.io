@@ -1,6 +1,6 @@
 [
     {
-        "description": "액세스 권한 얻기<c=@abilitytype> 글리프</c> . 충분한 아스트랄 포스를 얻으면 천상의 아바타가 됩니다. 아군을 치유하고 적에게 피해를 주어 아스트랄 포스를 생성합니다.<c=@reminder> 펫의 속성이 약합니다.</c>",
+        "description": "글리프에 액세스할 수 있습니다. 충분한 아스트랄 포스를 얻으면 천상의 아바타가 됩니다. 아군을 치유하고 적에게 피해를 주어 아스트랄 포스를 생성합니다. 펫의 속성이 약합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
@@ -39,7 +39,7 @@
                     {
                         "duration": 15,
                         "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                        "text": "지속시간",
+                        "text": "Duration",
                         "type": "Time"
                     }
                 ],

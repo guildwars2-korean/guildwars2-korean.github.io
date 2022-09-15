@@ -16,7 +16,7 @@
             {
                 "duration": 60,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "지속시간",
+                "text": "Duration",
                 "type": "Time"
             }
         ],
@@ -34,7 +34,7 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "description": "Gain health every second; stacks duration.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
                 "prefix": {
@@ -44,7 +44,7 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 229,
-                "status": "재생력",
+                "status": "Regeneration",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }

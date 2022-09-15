@@ -7,27 +7,27 @@
                 "dmg_multiplier": 0.546,
                 "hit_count": 5,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "apply_count": 1,
-                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-                "status": "견고",
+                "status": "Stability",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

@@ -4,11 +4,11 @@
             "Elixir"
         ],
         "chat_link": "[&BlEXAAA=]",
-        "description": "비약. 엘릭서 C를 던져 조건을 아군에게 혜택으로 전환합니다.",
+        "description": "엘릭서. 엘릭서 C를 던져 조건을 아군에게 혜택으로 전환합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 900
             },
@@ -27,12 +27,12 @@
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             }

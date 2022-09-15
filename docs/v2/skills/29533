@@ -14,34 +14,34 @@
                 "dmg_multiplier": 0.66,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "화상",
+                "status": "Burning",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "distance": 180,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "지속시간",
+                "text": "Duration",
                 "type": "Time"
             },
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "주기",
+                "text": "Interval",
                 "type": "Time"
             },
             {
@@ -53,7 +53,7 @@
             {
                 "field_type": "Fire",
                 "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-                "text": "콤보 필드",
+                "text": "Combo Field",
                 "type": "ComboField"
             }
         ],
@@ -74,7 +74,7 @@
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "overrides": 4,
                 "requires_trait": 1510,
-                "text": "지속시간",
+                "text": "Duration",
                 "type": "Time"
             }
         ],

@@ -1,6 +1,6 @@
 [
     {
-        "description": "사용 시 증가된 공격 피해를 얻습니다.<c=@abilitytype> 터지다</c> 기술; 이 피해 증가는 아드레날린을 기반으로 합니다.",
+        "description": "버스트 스킬을 사용하면 스트라이크 데미지가 증가합니다. 이 피해 증가는 아드레날린을 기반으로 합니다.",
         "facts": [
             {
                 "apply_count": 1,
@@ -31,7 +31,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "최대 중첩",
+                "text": "Maximum Stacks",
                 "type": "Number",
                 "value": 3
             }

@@ -10,19 +10,19 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
-                "text": "관통",
+                "text": "Pierces",
                 "type": "NoData"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 5,
-                "text": "데미지 감소",
+                "text": "Damage Reduced",
                 "type": "Percent"
             }
         ],

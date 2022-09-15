@@ -4,20 +4,20 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "최대 중첩",
+                "text": "Maximum Stacks",
                 "type": "Number",
                 "value": 10
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 100,
-                "text": "퍼센트",
+                "text": "Percent",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 100,
-                "text": "퍼센트",
+                "text": "Percent",
                 "type": "Percent"
             }
         ],

@@ -9,7 +9,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 130
             },
@@ -23,7 +23,7 @@
                 "dmg_multiplier": 0.25,
                 "hit_count": 2,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
@@ -34,16 +34,16 @@
             },
             {
                 "apply_count": 2,
-                "description": "이동할 수 없다(지속시간 중첩).",
+                "description": "Unable to move; stacks duration.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                "status": "속박",
+                "status": "Immobile",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
-                "text": "방어 불가",
+                "text": "Unblockable",
                 "type": "NoData"
             }
         ],
@@ -81,7 +81,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "requires_trait": 1649,
-                "text": "상태이상 해제",
+                "text": "Conditions Removed",
                 "type": "Number",
                 "value": 1
             }

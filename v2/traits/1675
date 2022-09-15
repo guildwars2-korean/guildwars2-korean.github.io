@@ -1,20 +1,20 @@
 [
     {
-        "description": "화상을 입은 적에게 실명을 가합니다.<br><c=@reminder> 이 특성은 간격당 한 번만 동일한 적에게 영향을 줄 수 있습니다.</c>",
+        "description": "화상을 입은 적에게 실명을 가합니다.<br> 이 특성은 간격당 한 번만 동일한 적에게 영향을 줄 수 있습니다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "다음 공격이 빗나간다(지속시간 중첩).",
+                "description": "Next outgoing attack misses; stacks duration.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
-                "status": "실명",
+                "status": "Blinded",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "주기",
+                "text": "Interval",
                 "type": "Time"
             }
         ],

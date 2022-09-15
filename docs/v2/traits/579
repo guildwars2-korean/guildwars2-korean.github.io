@@ -1,17 +1,17 @@
 [
     {
-        "description": "<c=@abilitytype>인장</c> 감소된 재충전, 개선된 패시브 효과를 얻고 재충전하는 동안 패시브 보너스를 계속 부여합니다.",
+        "description": "인장은 재충전이 감소하고 패시브 효과가 향상되며 재충전하는 동안 패시브 보너스를 계속 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 20,
-                "text": "효과 증가",
+                "text": "Effectiveness Increased",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "재사용 대기시간 감소",
+                "text": "Recharge Reduced",
                 "type": "Percent"
             }
         ],

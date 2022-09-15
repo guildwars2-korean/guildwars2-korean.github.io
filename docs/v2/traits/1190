@@ -1,20 +1,20 @@
 [
     {
-        "description": "방해하는 적들은 고통을 받습니다.<br><c=@reminder> 이 특성은 간격당 한 번만 저항 막대가 있는 적에게만 영향을 줄 수 있습니다.</c>",
+        "description": "방해하는 적들은 고통을 받습니다.<br> 이 특성은 간격당 한 번만 저항 막대가 있는 적에게만 영향을 줄 수 있습니다.",
         "facts": [
             {
                 "apply_count": 2,
-                "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                "status": "고통",
+                "status": "Torment",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "주기",
+                "text": "Interval",
                 "type": "Time"
             }
         ],

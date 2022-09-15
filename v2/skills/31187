@@ -4,32 +4,32 @@
         "description": "조건을 제거하고 신속성을 얻은 다음, 앞으로 돌진하여 공격을 피하십시오.",
         "facts": [
             {
-                "description": "이동할 수 없다(지속시간 중첩).",
+                "description": "Unable to move; stacks duration.",
                 "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                "status": "속박",
+                "status": "Immobile",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
-                "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
+                "description": "Movement speed decreased by 50%; stacks duration.",
                 "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                "status": "불구",
+                "status": "Crippled",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
-                "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
+                "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
                 "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-                "status": "냉기",
+                "status": "Chilled",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "이동속도가 33% 증가한다(지속시간 중첩).",
+                "description": "Movement speed increased by 33%; stacks duration.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-                "status": "신속",
+                "status": "Swiftness",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -42,7 +42,7 @@
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/9F19DB1D3E1629390F2360F2D866651BBC0F6155/1938788.png",
-                "text": "회피",
+                "text": "Evade",
                 "type": "Time"
             }
         ],

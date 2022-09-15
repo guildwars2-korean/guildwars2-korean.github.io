@@ -13,30 +13,30 @@
             },
             {
                 "apply_count": 1,
-                "description": "스킬 시전과 행동이 빨라진다.",
+                "description": "Skills and actions are faster.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-                "status": "급속",
+                "status": "Quickness",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "이동속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "description": "Movement speed is greatly increased. Maximum duration: 10s",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-                "status": "슈퍼스피드",
+                "status": "Superspeed",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "전투시에만 적용",
+                "text": "Combat Only",
                 "type": "NoData"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "최대 중첩",
+                "text": "Maximum Stacks",
                 "type": "Number",
                 "value": 5
             }

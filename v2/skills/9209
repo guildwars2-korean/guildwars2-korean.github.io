@@ -11,28 +11,28 @@
             },
             {
                 "apply_count": 1,
-                "description": "받는 상태이상 데미지가 33% 감소한다(지속시간 중첩).",
+                "description": "Incoming condition damage decreased by 33%; stacks duration.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
-                "status": "결의",
+                "status": "Resolution",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "duration": 7,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "지속시간",
+                "text": "Duration",
                 "type": "Time"
             },
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
@@ -44,7 +44,7 @@
             {
                 "field_type": "Light",
                 "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-                "text": "콤보 필드",
+                "text": "Combo Field",
                 "type": "ComboField"
             }
         ],
@@ -59,12 +59,12 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "받는 상태이상 데미지가 33% 감소한다(지속시간 중첩).",
+                "description": "Incoming condition damage decreased by 33%; stacks duration.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
                 "overrides": 1,
                 "requires_trait": 604,
-                "status": "결의",
+                "status": "Resolution",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

@@ -1,41 +1,41 @@
 [
     {
-        "description": "<c=@AbilityType>처벌</c> 스킬의 재충전량이 감소하고 다음 Manifest Sand Shade가 근처의 적에게 화상을 입힙니다.",
+        "description": "처벌 기술은 재충전량이 감소하고 다음 Manifest Sand Shade가 근처의 적에게 화상을 입힙니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "재사용 대기시간 감소",
+                "text": "Recharge Reduced",
                 "type": "Percent"
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "화상",
+                "status": "Burning",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "화상",
+                "status": "Burning",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
             {
                 "distance": 180,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
@@ -60,7 +60,7 @@
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
                 "overrides": 3,
                 "requires_trait": 2112,
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 10
             },
@@ -69,7 +69,7 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "overrides": 4,
                 "requires_trait": 2112,
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             }
         ]

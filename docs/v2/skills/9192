@@ -16,13 +16,13 @@
                 "dmg_multiplier": 0.8,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "주기",
+                "text": "Interval",
                 "type": "Time"
             },
             {
@@ -39,23 +39,23 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
             {
                 "apply_count": 1,
-                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
+                "description": "Critical chance increased; stacks duration.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-                "status": "분노",
+                "status": "Fury",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "field_type": "Light",
                 "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-                "text": "콤보 필드",
+                "text": "Combo Field",
                 "type": "ComboField"
             }
         ],
@@ -74,7 +74,7 @@
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "overrides": 1,
                 "requires_trait": 649,
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {

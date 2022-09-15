@@ -6,7 +6,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 800
             },
@@ -20,12 +20,12 @@
                 "dmg_multiplier": 1,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
                 "apply_count": 2,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                 "prefix": {
@@ -34,13 +34,13 @@
                     "status": "Flame Wheel",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "화상",
+                "status": "Burning",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 6,
-                "description": "받는 데미지가 증가한다(강도 중첩).",
+                "description": "Damage and condition damage taken are increased; stacks intensity.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
                 "prefix": {
@@ -49,13 +49,13 @@
                     "status": "Icy Coil",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "취약",
+                "status": "Vulnerability",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
                 "prefix": {
@@ -64,13 +64,13 @@
                     "status": "Crescent Wind",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "약화",
+                "status": "Weakness",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 4,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
                 "prefix": {
@@ -79,26 +79,26 @@
                     "status": "Rocky Loop",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "출혈",
+                "status": "Bleeding",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
             {
                 "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
-                "text": "관통",
+                "text": "Pierces",
                 "type": "NoData"
             },
             {
                 "finisher_type": "Projectile",
                 "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
                 "percent": 100,
-                "text": "콤보 피니셔",
+                "text": "Combo Finisher",
                 "type": "ComboFinisher"
             }
         ],

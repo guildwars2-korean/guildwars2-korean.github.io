@@ -25,67 +25,67 @@
                         "dmg_multiplier": 0.1875,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "dmg_multiplier": 0.0625,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "apply_count": 1,
-                        "description": "매초 데미지를 준다(강도 중첩).",
+                        "description": "Deals damage every second; stacks intensity.",
                         "duration": 15,
                         "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                        "status": "출혈",
+                        "status": "Bleeding",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "매초 데미지를 준다(강도 중첩).",
+                        "description": "Deals damage every second; stacks intensity.",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                        "status": "출혈",
+                        "status": "Bleeding",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                        "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
                         "duration": 6,
                         "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                        "status": "고통",
+                        "status": "Torment",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                        "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                        "status": "고통",
+                        "status": "Torment",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
+                        "description": "Movement speed decreased by 50%; stacks duration.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                        "status": "불구",
+                        "status": "Crippled",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
+                        "description": "Movement speed decreased by 50%; stacks duration.",
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                        "status": "불구",
+                        "status": "Crippled",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -97,19 +97,19 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "타격 횟수",
+                        "text": "Number of Impacts",
                         "type": "Number",
                         "value": 3
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 3
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "전투시에만 적용",
+                        "text": "Combat Only",
                         "type": "NoData"
                     },
                     {
@@ -122,7 +122,7 @@
                         "finisher_type": "Whirl",
                         "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
                         "percent": 100,
-                        "text": "콤보 피니셔",
+                        "text": "Combo Finisher",
                         "type": "ComboFinisher"
                     }
                 ],

@@ -1,22 +1,22 @@
 [
     {
-        "description": "<c=@abilitytype>고통을 불러일으키다</c> 독과 화상을 적용합니다.",
+        "description": "Invoke Torment는 독과 화상을 적용합니다.",
         "facts": [
             {
                 "apply_count": 1,
                 "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-                "status": "중독",
+                "status": "Poisoned",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "화상",
+                "status": "Burning",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -25,16 +25,16 @@
                 "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-                "status": "중독",
+                "status": "Poisoned",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "화상",
+                "status": "Burning",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

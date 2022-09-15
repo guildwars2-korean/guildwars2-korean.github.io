@@ -1,11 +1,11 @@
 [
     {
-        "description": "사용<c=@abilitytype> 소비하다</c> 스킬이 당신을 치유합니다.",
+        "description": "소비 스킬을 사용하면 치유됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "회복",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 444
             }

@@ -16,19 +16,19 @@
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "percent": 100,
-                "text": "회복",
+                "text": "Healing",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "부활 대상",
+                "text": "Revive Targets",
                 "type": "Number",
                 "value": 1
             },
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             }
         ],
@@ -43,21 +43,21 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "description": "Gain health every second; stacks duration.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
                 "requires_trait": 229,
-                "status": "재생력",
+                "status": "Regeneration",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "description": "Gain health every second; stacks duration.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
                 "requires_trait": 229,
-                "status": "재생력",
+                "status": "Regeneration",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

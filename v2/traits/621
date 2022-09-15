@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>미덕</c> 활성화되면 아군에게 혜택을 적용합니다. 당신에게 주어진 각 혜택에 대해 증가된 타격 피해를 줍니다.",
+        "description": "미덕은 활성화되면 아군에게 혜택을 줍니다. 당신에게 주어진 각 혜택에 대해 증가된 타격 피해를 줍니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -10,59 +10,59 @@
             },
             {
                 "apply_count": 3,
-                "description": "데미지가 증가한다(강도 중첩).",
+                "description": "Increased outgoing damage; stacks intensity.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "prefix": {
-                    "description": "<c=@abilitytype>Virtue:</c> Burn foes every few attacks.<br><c=@abilitytype>Activate:</c> You and your allies inflict burning on the next attack.",
+                    "description": "Virtue: Burn foes every few attacks.<br>Activate: You and your allies inflict burning on the next attack.",
                     "icon": "https://render.guildwars2.com/file/0E4C27902671FBCB33713E3677604B0880EF0D60/103034.png",
                     "status": "Virtue of Justice",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "마이트",
+                "status": "Might",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "description": "Gain health every second; stacks duration.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
                 "prefix": {
-                    "description": "<c=@abilitytype>Virtue:</c> Regenerates health.</c><br><c=@abilitytype>Activate:</c> Heal yourself and nearby allies.",
+                    "description": "Virtue: Regenerates health.<br>Activate: Heal yourself and nearby allies.",
                     "icon": "https://render.guildwars2.com/file/F12B07B5466A51AB2BFD2C0CB8F3994D3F9E610C/103652.png",
                     "status": "Virtue of Resolve",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "재생력",
+                "status": "Regeneration",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
+                "description": "Incoming strike damage decreased by 33%; stacks duration.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
                 "prefix": {
-                    "description": "<c=@abilitytype>Virtue:</c> Gain aegis periodically.<br><c=@abilitytype>Activate:</c> Grant aegis to yourself and nearby allies.",
+                    "description": "Virtue: Gain aegis periodically.<br>Activate: Grant aegis to yourself and nearby allies.",
                     "icon": "https://render.guildwars2.com/file/1B55CBCB3E1165FD5D0C7BC3CBEEB65C5BD9D07C/103258.png",
                     "status": "Virtue of Courage",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "보호",
+                "status": "Protection",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
             {
                 "distance": 1200,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             }
         ],

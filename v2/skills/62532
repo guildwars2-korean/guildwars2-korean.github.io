@@ -8,7 +8,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 600
             },
@@ -20,7 +20,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                "text": "스턴 해제",
+                "text": "StunBreak",
                 "type": "StunBreak",
                 "value": true
             },
@@ -42,10 +42,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "다음 공격을 한번 막는다(지속시간 중첩).",
+                "description": "Block the next incoming attack; stacks duration.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
-                "status": "이지스",
+                "status": "Aegis",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -57,19 +57,19 @@
             },
             {
                 "apply_count": 1,
-                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-                "status": "견고",
+                "status": "Stability",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-                "status": "견고",
+                "status": "Stability",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -115,32 +115,32 @@
             },
             {
                 "apply_count": 1,
-                "description": "데미지를 주지않는 상태이상 효과를 무시한다(지속시간 중첩).",
+                "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
                 "requires_trait": 2199,
-                "status": "저항",
+                "status": "Resistance",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 4,
-                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
                 "overrides": 7,
                 "requires_trait": 612,
-                "status": "견고",
+                "status": "Stability",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
+                "description": "Incoming strike damage decreased by 33%; stacks duration.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
                 "requires_trait": 621,
-                "status": "보호",
+                "status": "Protection",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

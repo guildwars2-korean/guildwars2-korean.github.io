@@ -29,22 +29,22 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "최대 횟수",
+                "text": "Maximum Count",
                 "type": "Number",
                 "value": 2
             },
             {
                 "duration": 30,
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-                "text": "충전 대기시간",
+                "text": "Count Recharge",
                 "type": "Time"
             },
             {
                 "apply_count": 1,
-                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
+                "description": "Critical chance increased; stacks duration.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-                "status": "분노",
+                "status": "Fury",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

@@ -5,7 +5,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
                 "target": "CritDamage",
-                "text": "페로시티 증가",
+                "text": "Ferocity Increase",
                 "type": "AttributeAdjust",
                 "value": 300
             },

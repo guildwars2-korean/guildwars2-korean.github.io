@@ -1,35 +1,35 @@
 [
     {
-        "description": "<c=@abilitytype>비약</c> 감소된 재충전 및 증가된 지속 시간을 얻고 힘을 부여합니다.",
+        "description": "비약은 감소된 재충전 및 증가된 지속 시간을 얻고 힘을 부여합니다.",
         "facts": [
             {
                 "apply_count": 2,
-                "description": "데미지가 증가한다(강도 중첩).",
+                "description": "Increased outgoing damage; stacks intensity.",
                 "duration": 15,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "마이트",
+                "status": "Might",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 3,
-                "description": "데미지가 증가한다(강도 중첩).",
+                "description": "Increased outgoing damage; stacks intensity.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "마이트",
+                "status": "Might",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "재사용 대기시간 감소",
+                "text": "Recharge Reduced",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 20,
-                "text": "지속시간 증가",
+                "text": "Duration Increase",
                 "type": "Percent"
             }
         ],

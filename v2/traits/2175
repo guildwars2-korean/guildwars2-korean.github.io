@@ -1,6 +1,6 @@
 [
     {
-        "description": "최대 아드레날린은 2바로 제한되며 레벨 1 버스트만 사용할 수 있습니다. Full Counter 버스트에 액세스하고<c=@abilitytype> 심사 숙고</c> 기술.",
+        "description": "최대 아드레날린은 2바로 제한되며 레벨 1 버스트만 사용할 수 있습니다. 풀 카운터 버스트 및 명상 기술에 액세스할 수 있습니다.",
         "icon": "https://render.guildwars2.com/file/BD996FC6ABFDC280A0B3356C786D7C5D20DE4139/1770021.png",
         "id": 2175,
         "name": "Spellbreaker's Conviction",
@@ -15,7 +15,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "사정거리",
+                        "text": "Range",
                         "type": "Range",
                         "value": 300
                     },
@@ -29,25 +29,25 @@
                         "dmg_multiplier": 2,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "dmg_multiplier": 0.1,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
-                        "text": "방어 불가",
+                        "text": "Unblockable",
                         "type": "NoData"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "percent": 100,
-                        "text": "데미지 감소",
+                        "text": "Damage Reduced",
                         "type": "Percent"
                     },
                     {
@@ -58,34 +58,34 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                        "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-                        "status": "견고",
+                        "status": "Stability",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "침묵",
+                        "text": "Daze",
                         "type": "Time"
                     },
                     {
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "침묵",
+                        "text": "Daze",
                         "type": "Time"
                     },
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "침묵",
+                        "text": "Daze",
                         "type": "Time"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     }
@@ -111,7 +111,7 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
@@ -120,13 +120,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 3,
                         "requires_trait": 1657,
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "Conditions Removed",
                         "type": "Number",
                         "value": 1
                     }

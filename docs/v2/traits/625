@@ -1,6 +1,6 @@
 [
     {
-        "description": "비활성화되면 해상도와 보호를 얻습니다.<br><c=@reminder> 비활성화에는 기절, 멍, 넉백, 당기기, 넉다운, 가라앉기, 뜨기, 발사, 도발 및 공포가 포함됩니다.</c>",
+        "description": "비활성화되면 해상도와 보호를 얻습니다.<br> 비활성화에는 기절, 멍, 넉백, 당기기, 넉다운, 가라앉기, 뜨기, 발사, 도발 및 공포가 포함됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,28 +10,28 @@
             },
             {
                 "apply_count": 1,
-                "description": "받는 상태이상 데미지가 33% 감소한다(지속시간 중첩).",
+                "description": "Incoming condition damage decreased by 33%; stacks duration.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
-                "status": "결의",
+                "status": "Resolution",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "받는 상태이상 데미지가 33% 감소한다(지속시간 중첩).",
+                "description": "Incoming condition damage decreased by 33%; stacks duration.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
-                "status": "결의",
+                "status": "Resolution",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "다음 공격을 한번 막는다(지속시간 중첩).",
+                "description": "Block the next incoming attack; stacks duration.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
-                "status": "이지스",
+                "status": "Aegis",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

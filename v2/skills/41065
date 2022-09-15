@@ -8,7 +8,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 900
             },
@@ -22,15 +22,15 @@
                 "dmg_multiplier": 0.4,
                 "hit_count": 6,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
                 "apply_count": 1,
-                "description": "스킬 시전시 데미지를 받는다(강도 중첩).",
+                "description": "Damage received on skill activation; stacks intensity.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-                "status": "혼란",
+                "status": "Confusion",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

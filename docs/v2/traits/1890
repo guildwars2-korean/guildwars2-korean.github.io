@@ -1,23 +1,23 @@
 [
     {
-        "description": "처음으로<c=@abilitytype> 환상</c> 클론이 되어 스스로를 다시 불러일으키고 다시 공격합니다. 소환된 환상은 원본 피해의 일정 비율을 입힙니다.<br><c=@reminder> (소환된 환상은 잠시 멍해진다.)</c>",
+        "description": "환상이 처음으로 클론이 될 때, 그것은 대신 스스로를 소환하고 다시 공격합니다. 소환된 환상은 원본 피해의 일정 비율을 입힙니다.<br> (소환된 환상은 잠시 멍해진다.)",
         "facts": [
             {
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                "text": "침묵",
+                "text": "Daze",
                 "type": "Time"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 75,
-                "text": "퍼센트",
+                "text": "Percent",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "퍼센트",
+                "text": "Percent",
                 "type": "Percent"
             }
         ],

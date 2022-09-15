@@ -1,37 +1,37 @@
 [
     {
-        "description": "메크 커맨드 스킬 배리어 버스트를 잠금 해제합니다. 전투 중에 로봇은 자동으로 주변 아군에게 간격마다 작은 장벽을 부여합니다.<br><br><c=@reminder> 기계는 이 특성의 대상 수에 포함되지 않습니다.</c>",
+        "description": "메크 커맨드 스킬 배리어 버스트를 잠금 해제합니다. 전투 중에 로봇은 자동으로 주변 아군에게 간격마다 작은 장벽을 부여합니다.<br><br> 기계는 이 특성의 대상 수에 포함되지 않습니다.",
         "facts": [
             {
                 "distance": 600,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
                 "target": "Healing",
-                "text": "보호막",
+                "text": "Barrier",
                 "type": "AttributeAdjust",
                 "value": 260
             },
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
                 "target": "Healing",
-                "text": "보호막",
+                "text": "Barrier",
                 "type": "AttributeAdjust",
                 "value": 217
             },
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "주기",
+                "text": "Interval",
                 "type": "Time"
             }
         ],
@@ -59,55 +59,55 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "횟수",
+                        "text": "Pulses",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "distance": 360,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     },
                     {
                         "apply_count": 2,
-                        "description": "데미지가 증가한다(강도 중첩).",
+                        "description": "Increased outgoing damage; stacks intensity.",
                         "duration": 15,
                         "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                        "status": "마이트",
+                        "status": "Might",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 2,
-                        "description": "데미지가 증가한다(강도 중첩).",
+                        "description": "Increased outgoing damage; stacks intensity.",
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                        "status": "마이트",
+                        "status": "Might",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
+                        "description": "Critical chance increased; stacks duration.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-                        "status": "분노",
+                        "status": "Fury",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
+                        "description": "Critical chance increased; stacks duration.",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-                        "status": "분노",
+                        "status": "Fury",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     }

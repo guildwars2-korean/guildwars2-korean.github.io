@@ -1,6 +1,6 @@
 [
     {
-        "description": "Photon Forge는 도구 벨트 기술 5를 대체합니다.<c=@abilitytype> 초과하다</c> 기술.",
+        "description": "Photon Forge는 도구 벨트 기술 5를 대체합니다. Exceed 기술에 액세스할 수 있습니다.",
         "icon": "https://render.guildwars2.com/file/5E01A22E14BB552CCEB5B5E99417DD20D0C45B67/1769936.png",
         "id": 2158,
         "name": "Photon Projector",
@@ -25,13 +25,13 @@
                     {
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                        "text": "지속시간",
+                        "text": "Duration",
                         "type": "Time"
                     },
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                        "text": "주기",
+                        "text": "Interval",
                         "type": "Time"
                     },
                     {

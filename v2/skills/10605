@@ -8,7 +8,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 1200
             },
@@ -22,15 +22,15 @@
                 "dmg_multiplier": 1.8,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
                 "apply_count": 1,
-                "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
+                "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-                "status": "냉기",
+                "status": "Chilled",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -39,32 +39,32 @@
                 "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-                "status": "중독",
+                "status": "Poisoned",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "폭발 범위",
+                "text": "Blast Radius",
                 "type": "Number",
                 "value": 300
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
             {
                 "field_type": "Poison",
                 "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-                "text": "콤보 필드",
+                "text": "Combo Field",
                 "type": "ComboField"
             }
         ],
@@ -90,7 +90,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
                 "requires_trait": 898,
-                "text": "방어 불가",
+                "text": "Unblockable",
                 "type": "NoData"
             }
         ],

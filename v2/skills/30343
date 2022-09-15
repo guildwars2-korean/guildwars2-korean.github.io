@@ -8,7 +8,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 400
             },
@@ -20,7 +20,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                "text": "스턴 해제",
+                "text": "StunBreak",
                 "type": "StunBreak",
                 "value": true
             },
@@ -28,7 +28,7 @@
                 "dmg_multiplier": 3,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
@@ -52,20 +52,20 @@
             {
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "지속시간 증가",
+                "text": "Duration Increase",
                 "type": "Time"
             },
             {
-                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
                 "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-                "status": "견고",
+                "status": "Stability",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 50,
-                "text": "데미지 증가",
+                "text": "Damage Increase",
                 "type": "Percent"
             }
         ],

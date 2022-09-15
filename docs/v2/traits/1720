@@ -1,52 +1,52 @@
 [
     {
-        "description": "<c=@abilitytype>고통을 불러일으키다</c> 저항을 부여합니다. 저항은 모든 간격을 치유합니다.",
+        "description": "Invoke Torment는 저항을 부여합니다. 저항은 모든 간격을 치유합니다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "데미지를 주지않는 상태이상 효과를 무시한다(지속시간 중첩).",
+                "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
-                "status": "저항",
+                "status": "Resistance",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "데미지를 주지않는 상태이상 효과를 무시한다(지속시간 중첩).",
+                "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
-                "status": "저항",
+                "status": "Resistance",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "데미지를 주지않는 상태이상 효과를 무시한다(지속시간 중첩).",
+                "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
-                "status": "저항",
+                "status": "Resistance",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "회복",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 394
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "회복",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 132
             },
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "주기",
+                "text": "Interval",
                 "type": "Time"
             }
         ],

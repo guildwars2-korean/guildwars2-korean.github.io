@@ -11,28 +11,28 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
-                "text": "<c=@abilitytype>Heat Threshold</c>",
+                "text": "Heat Threshold",
                 "type": "Number",
                 "value": 50
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "상태이상 해제",
+                "text": "Conditions Removed",
                 "type": "Number",
                 "value": 3
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "<c=@abilitytype>Additional Conditions</c>",
+                "text": "Additional Conditions",
                 "type": "Number",
                 "value": 3
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "화상",
+                "status": "Burning",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

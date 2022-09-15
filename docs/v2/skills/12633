@@ -5,7 +5,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 2000
             },
@@ -26,10 +26,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "은신할 수 없다",
+                "description": "You cannot stealth",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/62BFF65D1CE99B1B2B0928152BCC596EAC0D372B/102887.png",
-                "status": "노출",
+                "status": "Revealed",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

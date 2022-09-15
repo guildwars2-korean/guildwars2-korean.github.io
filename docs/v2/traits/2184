@@ -1,6 +1,6 @@
 [
     {
-        "description": "홀을 잠금 해제하십시오.<c=@abilitytype> 훔치다</c> 된다<c=@abilitytype> 사이펀</c> 그리고 당신의 주도권이 줄어듭니다. 지출 이니셔티브를 통해 그림자 세력에 액세스하고 그림자 장막 능력에 액세스하십시오.",
+        "description": "셉터를 잠금 해제하십시오. 도둑질은 사이펀이 되고 주도권이 줄어듭니다. 지출 이니셔티브를 통해 그림자 세력에 액세스하고 그림자 장막 능력에 액세스하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -16,7 +16,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "전투시에만 적용",
+                "text": "Combat Only",
                 "type": "NoData"
             },
             {
@@ -37,7 +37,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "사정거리",
+                        "text": "Range",
                         "type": "Range",
                         "value": 1200
                     },
@@ -56,7 +56,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
                         "requires_trait": 1163,
-                        "text": "아군 적용 대상",
+                        "text": "Number of Allied Targets",
                         "type": "Number",
                         "value": 5
                     }

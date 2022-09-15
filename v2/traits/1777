@@ -1,6 +1,6 @@
 [
     {
-        "description": "이제 사용할 수 있습니다.<c=@abilitytype> 레전더리 드래곤</c> 기술을 습득하고 자연의 면에 접근할 수 있습니다.",
+        "description": "이제 Legendary Dragon 기술을 사용하고 Facet of Nature에 액세스할 수 있습니다.",
         "icon": "https://render.guildwars2.com/file/717C45E150E866A74310E6E5A96FC83BD96C384A/1058543.png",
         "id": 1777,
         "name": "Crystal Harbinger",
@@ -97,25 +97,25 @@
                     {
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                        "text": "주기",
+                        "text": "Interval",
                         "type": "Time"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 10
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "distance": 600,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     }
                 ],
@@ -206,14 +206,14 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "distance": 600,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     }
                 ],

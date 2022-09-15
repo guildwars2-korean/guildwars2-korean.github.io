@@ -1,6 +1,6 @@
 [
     {
-        "description": "적용한 혜택<c=@abilitytype> 주정</c> 더 오래 지속되고 영혼은 간격당 더 적은 건강을 잃습니다.<c=@abilitytype> 영혼</c> - 활성화된 스킬은 더 넓은 지역에 영향을 미치며 아군에게 민첩성을 부여합니다.",
+        "description": "스피릿이 부여하는 분의 지속시간이 증가하고, 주기마다 스피릿의 생명력 소모가 감소한다. 스피릿의 액티브 스킬 범위가 증가하고, 아군에게 알라크리티를 추가로 부여한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -17,21 +17,21 @@
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 50,
-                "text": "지속시간 증가",
+                "text": "Duration Increase",
                 "type": "Percent"
             },
             {
                 "apply_count": 1,
-                "description": "스킬 재사용 대기시간을 감소시킨다.",
+                "description": "Skills recharge faster.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-                "status": "민첩",
+                "status": "Alacrity",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "아군 적용 대상",
+                "text": "Number of Allied Targets",
                 "type": "Number",
                 "value": 5
             }

@@ -4,7 +4,7 @@
             "Virtue"
         ],
         "chat_link": "[&BjSjAAA=]",
-        "description": "미덕: 건강을 회복합니다. 활성화: Vabbi의 사람들이 겪은 시련을 설명하는 마법의 책을 꺼냅니다. 각 책 스킬 사용은 페이지를 소모합니다.",
+        "description": "미덕: 건강을 재생합니다. 활성화: Vabbi의 사람들이 겪은 시련을 설명하는 마법의 책을 꺼냅니다. 각 책 스킬 사용은 페이지를 소모합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -48,28 +48,28 @@
             },
             {
                 "apply_count": 1,
-                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "description": "Gain health every second; stacks duration.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
                 "requires_trait": 621,
-                "status": "재생력",
+                "status": "Regeneration",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "받는 상태이상 데미지가 33% 감소한다(지속시간 중첩).",
+                "description": "Incoming condition damage decreased by 33%; stacks duration.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
                 "requires_trait": 604,
-                "status": "결의",
+                "status": "Resolution",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "requires_trait": 610,
-                "text": "상태이상 해제",
+                "text": "Conditions Removed",
                 "type": "Number",
                 "value": 3
             },
@@ -77,7 +77,7 @@
                 "distance": 600,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "requires_trait": 610,
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             }
         ],

@@ -1,13 +1,13 @@
 [
     {
-        "description": "사용할 때<c=@abilitytype> 격노</c> 스킬, 주변의 적에게 화상을 입힌다.",
+        "description": "분노 스킬 사용 시 주변 적에게 화상을 입힌다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "화상",
+                "status": "Burning",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -19,7 +19,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             }

@@ -1,22 +1,22 @@
 [
     {
-        "description": "<c=@abilitytype>짐승</c> 능력은 적중한 자에게 약점을 줍니다.<br><c=@reminder> 이 효과는 능력에 적중당한 각 대상에 대해 한 번만 발생합니다.</c>",
+        "description": "야수 능력은 적중당한 자들에게 약점을 줍니다.<br> 이 효과는 능력에 적중당한 각 대상에 대해 한 번만 발생합니다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
-                "status": "약화",
+                "status": "Weakness",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
-                "status": "약화",
+                "status": "Weakness",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

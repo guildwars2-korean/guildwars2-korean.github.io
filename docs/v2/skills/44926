@@ -23,49 +23,49 @@
             },
             {
                 "apply_count": 1,
-                "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-                "status": "견고",
+                "status": "Stability",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
                 "target": "Healing",
-                "text": "보호막",
+                "text": "Barrier",
                 "type": "AttributeAdjust",
                 "value": 1069
             },
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
                 "target": "Healing",
-                "text": "보호막",
+                "text": "Barrier",
                 "type": "AttributeAdjust",
                 "value": 535
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "횟수",
+                "text": "Pulses",
                 "type": "Number",
                 "value": 5
             },
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "주기",
+                "text": "Interval",
                 "type": "Time"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "최대 횟수",
+                "text": "Maximum Count",
                 "type": "Number",
                 "value": 2
             },
             {
                 "duration": 50,
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-                "text": "충전 대기시간",
+                "text": "Count Recharge",
                 "type": "Time"
             }
         ],

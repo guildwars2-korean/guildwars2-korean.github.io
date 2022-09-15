@@ -1,11 +1,11 @@
 [
     {
-        "description": "레인저 무기 기술은 공격 피해를 증가시킵니다. 범위 임계값을 초과하는 적에 대한 피해가 추가로 증가합니다.",
+        "description": "레인저 무기 스킬의 타격 데미지가 증가한다. 임계 거리 이상의 적에게 주는 데미지가 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 5,
-                "text": "데미지 증가",
+                "text": "Damage Increase",
                 "type": "Percent"
             },
             {

@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>파편</c> 기술은 또한 명중 시 혜택을 제거합니다.",
+        "description": "산산조각 기술은 적중 시 혜택도 제거합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

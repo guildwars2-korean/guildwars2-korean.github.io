@@ -1,17 +1,17 @@
 [
     {
-        "description": "수의에 들어갈 때와 수의에 남아 있는 동안 몇 초마다 조건을 잃습니다. 얻다<c=@abilitytype> 등딱지</c> 자신의 조건을 제거할 때.",
+        "description": "수의에 들어갈 때와 수의에 남아 있는 동안 몇 초마다 조건을 잃습니다. 자신에게서 조건을 제거할 때 갑피를 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "상태이상 해제",
+                "text": "Conditions Removed",
                 "type": "Number",
                 "value": 1
             },
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "주기",
+                "text": "Interval",
                 "type": "Time"
             },
             {

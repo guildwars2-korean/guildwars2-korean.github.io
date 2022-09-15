@@ -1,6 +1,6 @@
 [
     {
-        "description": "버서크 모드에 액세스하고<c=@abilitytype> 원시 버스트</c> .",
+        "description": "광포한 모드 및 원시 버스트에 액세스할 수 있습니다.",
         "icon": "https://render.guildwars2.com/file/FF5A46180F4096BE3749D038E298F44EE9BEC4F6/1029976.png",
         "id": 1831,
         "name": "Primal Rage",
@@ -21,7 +21,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     },
@@ -29,15 +29,15 @@
                         "dmg_multiplier": 0.8,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "apply_count": 1,
-                        "description": "매초 데미지를 준다(강도 중첩).",
+                        "description": "Deals damage every second; stacks intensity.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                        "status": "화상",
+                        "status": "Burning",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -50,7 +50,7 @@
                     {
                         "duration": 15,
                         "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                        "text": "지속시간",
+                        "text": "Duration",
                         "type": "Time"
                     },
                     {
@@ -62,7 +62,7 @@
                     {
                         "distance": 300,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     }
                 ],
@@ -77,7 +77,7 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
@@ -93,7 +93,7 @@
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "Conditions Removed",
                         "type": "Number",
                         "value": 3
                     },
@@ -102,7 +102,7 @@
                         "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                         "overrides": 5,
                         "requires_trait": 2049,
-                        "text": "지속시간",
+                        "text": "Duration",
                         "type": "Time"
                     }
                 ]
@@ -116,7 +116,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "사정거리",
+                        "text": "Range",
                         "type": "Range",
                         "value": 300
                     },
@@ -130,22 +130,22 @@
                         "dmg_multiplier": 2.5,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "apply_count": 5,
-                        "description": "데미지가 증가한다(강도 중첩).",
+                        "description": "Increased outgoing damage; stacks intensity.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                        "status": "마이트",
+                        "status": "Might",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                         "percent": 100,
-                        "text": "재사용 대기시간 감소",
+                        "text": "Recharge Reduced",
                         "type": "Percent"
                     }
                 ],
@@ -160,13 +160,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "Conditions Removed",
                         "type": "Number",
                         "value": 3
                     },
@@ -191,7 +191,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "사정거리",
+                        "text": "Range",
                         "type": "Range",
                         "value": 450
                     },
@@ -205,19 +205,19 @@
                         "dmg_multiplier": 1.4,
                         "hit_count": 3,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "dmg_multiplier": 1.4,
                         "hit_count": 3,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     },
@@ -251,7 +251,7 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
@@ -260,13 +260,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 3,
                         "requires_trait": 1657,
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "Conditions Removed",
                         "type": "Number",
                         "value": 3
                     },
@@ -291,7 +291,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "사정거리",
+                        "text": "Range",
                         "type": "Range",
                         "value": 600
                     },
@@ -305,35 +305,35 @@
                         "dmg_multiplier": 1.5,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "distance": 360,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     },
                     {
                         "apply_count": 1,
-                        "description": "이동할 수 없다(지속시간 중첩).",
+                        "description": "Unable to move; stacks duration.",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                        "status": "속박",
+                        "status": "Immobile",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "침묵",
+                        "text": "Daze",
                         "type": "Time"
                     },
                     {
                         "finisher_type": "Blast",
                         "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
                         "percent": 100,
-                        "text": "콤보 피니셔",
+                        "text": "Combo Finisher",
                         "type": "ComboFinisher"
                     }
                 ],
@@ -348,13 +348,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "Conditions Removed",
                         "type": "Number",
                         "value": 3
                     },
@@ -386,7 +386,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "사정거리",
+                        "text": "Range",
                         "type": "Range",
                         "value": 1200
                     },
@@ -400,24 +400,24 @@
                         "dmg_multiplier": 2.75,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "apply_count": 1,
-                        "description": "매초 데미지를 준다(강도 중첩).",
+                        "description": "Deals damage every second; stacks intensity.",
                         "duration": 10,
                         "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                        "status": "화상",
+                        "status": "Burning",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "이동할 수 없다(지속시간 중첩).",
+                        "description": "Unable to move; stacks duration.",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-                        "status": "속박",
+                        "status": "Immobile",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -425,7 +425,7 @@
                         "finisher_type": "Projectile",
                         "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
                         "percent": 100,
-                        "text": "콤보 피니셔",
+                        "text": "Combo Finisher",
                         "type": "ComboFinisher"
                     }
                 ],
@@ -440,20 +440,20 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "Conditions Removed",
                         "type": "Number",
                         "value": 3
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
                         "requires_trait": 1329,
-                        "text": "관통",
+                        "text": "Pierces",
                         "type": "NoData"
                     },
                     {
@@ -477,7 +477,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "사정거리",
+                        "text": "Range",
                         "type": "Range",
                         "value": 1200
                     },
@@ -491,52 +491,52 @@
                         "dmg_multiplier": 0.5,
                         "hit_count": 3,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "dmg_multiplier": 0.5,
                         "hit_count": 3,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "apply_count": 3,
-                        "description": "매초 데미지를 준다(강도 중첩).",
+                        "description": "Deals damage every second; stacks intensity.",
                         "duration": 4,
                         "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                        "status": "화상",
+                        "status": "Burning",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "duration": 4,
                         "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                        "text": "지속시간",
+                        "text": "Duration",
                         "type": "Time"
                     },
                     {
                         "distance": 120,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
-                        "text": "관통",
+                        "text": "Pierces",
                         "type": "NoData"
                     },
                     {
                         "field_type": "Fire",
                         "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-                        "text": "콤보 필드",
+                        "text": "Combo Field",
                         "type": "ComboField"
                     }
                 ],
@@ -551,7 +551,7 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
@@ -560,13 +560,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 3,
                         "requires_trait": 1657,
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "Conditions Removed",
                         "type": "Number",
                         "value": 3
                     },
@@ -591,7 +591,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "사정거리",
+                        "text": "Range",
                         "type": "Range",
                         "value": 300
                     },
@@ -605,82 +605,82 @@
                         "dmg_multiplier": 1.5,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "dmg_multiplier": 1,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "침묵",
+                        "text": "Daze",
                         "type": "Time"
                     },
                     {
                         "apply_count": 1,
-                        "description": "다음 공격이 빗나간다(지속시간 중첩).",
+                        "description": "Next outgoing attack misses; stacks duration.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
-                        "status": "실명",
+                        "status": "Blinded",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 4,
-                        "description": "매초 데미지를 준다(강도 중첩).",
+                        "description": "Deals damage every second; stacks intensity.",
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                        "status": "출혈",
+                        "status": "Bleeding",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 3,
-                        "description": "매초 데미지를 준다(강도 중첩).",
+                        "description": "Deals damage every second; stacks intensity.",
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                        "status": "출혈",
+                        "status": "Bleeding",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 5,
-                        "description": "스킬 시전시 데미지를 받는다(강도 중첩).",
+                        "description": "Damage received on skill activation; stacks intensity.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-                        "status": "혼란",
+                        "status": "Confusion",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 4,
-                        "description": "스킬 시전시 데미지를 받는다(강도 중첩).",
+                        "description": "Damage received on skill activation; stacks intensity.",
                         "duration": 4,
                         "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-                        "status": "혼란",
+                        "status": "Confusion",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
+                        "description": "Movement speed decreased by 50%; stacks duration.",
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                        "status": "불구",
+                        "status": "Crippled",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
+                        "description": "Movement speed decreased by 50%; stacks duration.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                        "status": "불구",
+                        "status": "Crippled",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }
@@ -696,7 +696,7 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
@@ -705,13 +705,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 3,
                         "requires_trait": 1657,
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "Conditions Removed",
                         "type": "Number",
                         "value": 3
                     },
@@ -736,7 +736,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "사정거리",
+                        "text": "Range",
                         "type": "Range",
                         "value": 1500
                     },
@@ -750,15 +750,15 @@
                         "dmg_multiplier": 2.2,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "apply_count": 1,
-                        "description": "매초 데미지를 준다(강도 중첩).",
+                        "description": "Deals damage every second; stacks intensity.",
                         "duration": 10,
                         "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                        "status": "화상",
+                        "status": "Burning",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -770,27 +770,27 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 3
                     },
                     {
                         "distance": 180,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     },
                     {
                         "duration": 0,
                         "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                        "text": "침묵",
+                        "text": "Daze",
                         "type": "Time"
                     },
                     {
                         "finisher_type": "Projectile",
                         "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
                         "percent": 100,
-                        "text": "콤보 피니셔",
+                        "text": "Combo Finisher",
                         "type": "ComboFinisher"
                     }
                 ],
@@ -805,20 +805,20 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "Conditions Removed",
                         "type": "Number",
                         "value": 3
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
                         "requires_trait": 1329,
-                        "text": "관통",
+                        "text": "Pierces",
                         "type": "NoData"
                     },
                     {
@@ -842,7 +842,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "사정거리",
+                        "text": "Range",
                         "type": "Range",
                         "value": 150
                     },
@@ -856,21 +856,21 @@
                         "dmg_multiplier": 1.5,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "apply_count": 1,
-                        "description": "매초 데미지를 준다(강도 중첩).",
+                        "description": "Deals damage every second; stacks intensity.",
                         "duration": 6,
                         "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                        "status": "화상",
+                        "status": "Burning",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -883,14 +883,14 @@
                     {
                         "distance": 600,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     },
                     {
                         "finisher_type": "Whirl",
                         "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
                         "percent": 100,
-                        "text": "콤보 피니셔",
+                        "text": "Combo Finisher",
                         "type": "ComboFinisher"
                     }
                 ],
@@ -905,13 +905,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "Conditions Removed",
                         "type": "Number",
                         "value": 3
                     },
@@ -936,7 +936,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "사정거리",
+                        "text": "Range",
                         "type": "Range",
                         "value": 900
                     },
@@ -950,26 +950,26 @@
                         "dmg_multiplier": 0.25,
                         "hit_count": 8,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "apply_count": 8,
-                        "description": "매초 데미지를 준다(강도 중첩).",
+                        "description": "Deals damage every second; stacks intensity.",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                        "status": "화상",
+                        "status": "Burning",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
-                        "text": "관통",
+                        "text": "Pierces",
                         "type": "NoData"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     },
@@ -990,13 +990,13 @@
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                         "overrides": 2,
                         "requires_trait": 1657,
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                         "requires_trait": 1649,
-                        "text": "상태이상 해제",
+                        "text": "Conditions Removed",
                         "type": "Number",
                         "value": 3
                     },

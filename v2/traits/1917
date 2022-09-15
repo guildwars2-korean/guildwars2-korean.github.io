@@ -1,43 +1,43 @@
 [
     {
-        "description": "<c=@abilitytype>잘</c> 능력의 효과 범위가 증가하고 마지막 순간에 주변 아군에게 초고속을 부여합니다. 기능 자이로가 시전할 때 아군에게 초고속도 부여합니다.",
+        "description": "우물 능력은 효과 범위가 증가하고 마지막 순간에 주변 아군에게 초고속을 부여합니다. 기능 자이로가 시전할 때 아군에게 초고속도 부여합니다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "이동속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "description": "Movement speed is greatly increased. Maximum duration: 10s",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-                "status": "슈퍼스피드",
+                "status": "Superspeed",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "이동속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "description": "Movement speed is greatly increased. Maximum duration: 10s",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-                "status": "슈퍼스피드",
+                "status": "Superspeed",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "이동속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "description": "Movement speed is greatly increased. Maximum duration: 10s",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-                "status": "슈퍼스피드",
+                "status": "Superspeed",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "distance": 360,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "아군 적용 대상",
+                "text": "Number of Allied Targets",
                 "type": "Number",
                 "value": 5
             }

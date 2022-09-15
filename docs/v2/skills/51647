@@ -1,11 +1,11 @@
 [
     {
         "chat_link": "[&Br/JAAA=]",
-        "description": "대상 주변의 적들로부터 타락한 혜택을 받습니다. 고통을 가하고 임계값까지 초기 대상에 대한 각 조건에 대한 생명력을 얻으십시오. 적중한 추가 적마다 추가 생명력을 얻습니다.",
+        "description": "대상 주변의 적으로부터 부패한 혜택을 받습니다. 고통을 가하고 임계값까지 초기 대상에 대한 각 조건에 대한 생명력을 얻으십시오. 적중한 추가 적마다 추가 생명력을 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 900
             },
@@ -19,14 +19,14 @@
                 "dmg_multiplier": 0.928,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
                 "dmg_multiplier": 1.16,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
@@ -49,10 +49,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                "status": "고통",
+                "status": "Torment",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -77,12 +77,12 @@
             {
                 "distance": 360,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             }

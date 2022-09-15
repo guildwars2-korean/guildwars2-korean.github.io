@@ -5,7 +5,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "생명력 임계",
+                "text": "Health Threshold",
                 "type": "Percent"
             }
         ],
@@ -23,7 +23,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                        "text": "사정거리",
+                        "text": "Range",
                         "type": "Range",
                         "value": 1200
                     },
@@ -35,10 +35,10 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "보이지 않는다. 공격시 해제된다.",
+                        "description": "Currently invisible. Ends if you deal damage.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
-                        "status": "은신",
+                        "status": "Stealth",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }
@@ -50,12 +50,12 @@
                 "traited_facts": [
                     {
                         "apply_count": 1,
-                        "description": "보이지 않는다. 공격시 해제된다.",
+                        "description": "Currently invisible. Ends if you deal damage.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
                         "overrides": 2,
                         "requires_trait": 674,
-                        "status": "은신",
+                        "status": "Stealth",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }

@@ -1,10 +1,10 @@
 [
     {
-        "description": "<c=@abilitytype>환상</c> 그들이 처음 소환될 때 당신의 조건을 취하십시오.",
+        "description": "환영은 처음 소환될 때 조건을 받습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "상태이상 이전",
+                "text": "Conditions Transferred",
                 "type": "Number",
                 "value": 1
             }

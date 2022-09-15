@@ -11,25 +11,25 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 75,
-                "text": "생명력 임계",
+                "text": "Health Threshold",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "데미지 증가",
+                "text": "Damage Increase",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 5,
-                "text": "데미지 증가",
+                "text": "Damage Increase",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "회복",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 714
             }

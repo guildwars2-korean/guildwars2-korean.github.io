@@ -17,7 +17,7 @@
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "주기",
+                "text": "Interval",
                 "type": "Time"
             }
         ],
@@ -32,31 +32,31 @@
                 "facts": [
                     {
                         "apply_count": 3,
-                        "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                        "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                        "status": "고통",
+                        "status": "Torment",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                        "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
-                        "status": "약화",
+                        "status": "Weakness",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "distance": 180,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     }

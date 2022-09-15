@@ -14,7 +14,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                "text": "스턴 해제",
+                "text": "StunBreak",
                 "type": "StunBreak",
                 "value": true
             },

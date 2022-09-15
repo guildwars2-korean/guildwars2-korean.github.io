@@ -1,6 +1,6 @@
 [
     {
-        "description": "로 적을 공격할 때 증가된 그림자 힘을 얻습니다.<c=@abilitytype> 사이펀</c> . 아군을 대상으로 할 때 증가된 보호막을 부여합니다.",
+        "description": "사이펀으로 적을 공격할 때 증가된 그림자 힘을 얻습니다. 아군을 대상으로 할 때 증가된 보호막을 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -11,7 +11,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 100,
-                "text": "효과 증가",
+                "text": "Effectiveness Increased",
                 "type": "Percent"
             }
         ],

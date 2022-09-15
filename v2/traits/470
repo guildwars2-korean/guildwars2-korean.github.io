@@ -1,11 +1,11 @@
 [
     {
-        "description": "사용 시 1초마다 체력 회복<c=@abilitytype> 엔지니어링 키트</c> .",
+        "description": "엔지니어링 키트를 사용할 때 1초마다 체력을 회복합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "회복",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 117
             }

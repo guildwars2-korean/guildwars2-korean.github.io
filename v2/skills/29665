@@ -11,28 +11,28 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                "text": "스턴 해제",
+                "text": "StunBreak",
                 "type": "StunBreak",
                 "value": true
             },
             {
                 "apply_count": 1,
-                "description": "이동속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "description": "Movement speed is greatly increased. Maximum duration: 10s",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-                "status": "슈퍼스피드",
+                "status": "Superspeed",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "아군 적용 대상",
+                "text": "Number of Allied Targets",
                 "type": "Number",
                 "value": 5
             }

@@ -2,7 +2,7 @@
     {
         "chat_link": "[&BsVoAAA=]",
         "cost": 5,
-        "description": "전설적인 켄타우로스. 적의 발사체를 차단하는 태블릿 주위에 보호 장벽을 소환합니다. 이 기술이 강화되면 태블릿 주변의 아군도 보호할 수 있습니다.",
+        "description": "전설의 켄타우로스. 적의 발사체를 차단하는 태블릿 주위에 보호 장벽을 소환합니다. 이 기술이 강화되면 태블릿 주변의 아군도 보호할 수 있습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -13,13 +13,13 @@
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "field_type": "Light",
                 "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-                "text": "콤보 필드",
+                "text": "Combo Field",
                 "type": "ComboField"
             }
         ],

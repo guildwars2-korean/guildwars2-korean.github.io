@@ -11,13 +11,13 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                "text": "스턴 해제",
+                "text": "StunBreak",
                 "type": "StunBreak",
                 "value": true
             },
             {
                 "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
-                "text": "<c=@abilitytype>Heat Threshold</c>",
+                "text": "Heat Threshold",
                 "type": "Number",
                 "value": 50
             },
@@ -40,13 +40,13 @@
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 50,
-                "text": "<c=@abilitytype>Recharge Reduced</c>",
+                "text": "Recharge Reduced",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 25,
-                "text": "<c=@abilitytype>Recharge Reduced</c>",
+                "text": "Recharge Reduced",
                 "type": "Percent"
             }
         ],

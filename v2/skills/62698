@@ -13,61 +13,61 @@
                 "dmg_multiplier": 0.6,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "주기",
+                "text": "Interval",
                 "type": "Time"
             },
             {
                 "duration": 0,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "주기",
+                "text": "Interval",
                 "type": "Time"
             },
             {
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "지속시간",
+                "text": "Duration",
                 "type": "Time"
             },
             {
                 "apply_count": 1,
-                "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
+                "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-                "status": "냉기",
+                "status": "Chilled",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
+                "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-                "status": "냉기",
+                "status": "Chilled",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "distance": 180,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 3
             },
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "지속시간 증가",
+                "text": "Duration Increase",
                 "type": "Time"
             }
         ],

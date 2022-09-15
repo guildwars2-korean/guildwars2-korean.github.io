@@ -1,20 +1,20 @@
 [
     {
-        "description": "약화 된 적에게 증가 된 타격 대미지를줍니다. 적을 비활성화하면 약점이 적용됩니다.<br><c=@reminder> 비활성화에는 기절, 멍, 넉백, 당기기, 넉다운, 가라앉기, 뜨기, 공포, 도발 및 발사가 포함됩니다.</c>",
+        "description": "약화 된 적에게 증가 된 타격 대미지를줍니다. 적을 비활성화하면 약점이 적용됩니다.<br> 비활성화에는 기절, 멍, 넉백, 당기기, 넉다운, 가라앉기, 뜨기, 공포, 도발 및 발사가 포함됩니다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
-                "status": "약화",
+                "status": "Weakness",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "데미지 증가",
+                "text": "Damage Increase",
                 "type": "Percent"
             }
         ],

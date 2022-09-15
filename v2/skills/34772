@@ -15,13 +15,13 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                "text": "스턴 해제",
+                "text": "StunBreak",
                 "type": "StunBreak",
                 "value": true
             },
             {
                 "apply_count": 1,
-                "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
+                "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
                 "prefix": {
@@ -30,19 +30,19 @@
                     "status": "Water Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "냉기",
+                "status": "Chilled",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "duration": 25,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "지속시간",
+                "text": "Duration",
                 "type": "Time"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "공격 횟수",
+                "text": "Number of Strikes",
                 "type": "Number",
                 "value": 5
             }
@@ -58,7 +58,7 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "description": "Gain health every second; stacks duration.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
                 "prefix": {
@@ -68,13 +68,13 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 229,
-                "status": "재생력",
+                "status": "Regeneration",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "description": "Gain health every second; stacks duration.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
                 "prefix": {
@@ -84,7 +84,7 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 229,
-                "status": "재생력",
+                "status": "Regeneration",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }

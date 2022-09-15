@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>과부하</c> 조정에 따라 오라를 부여합니다.",
+        "description": "과부하는 조정에 따라 오라를 부여합니다.",
         "facts": [
             {
                 "apply_count": 1,

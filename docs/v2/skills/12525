@@ -5,7 +5,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 220
             },
@@ -19,15 +19,15 @@
                 "dmg_multiplier": 1.75,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
                 "apply_count": 5,
-                "description": "받는 데미지가 증가한다(강도 중첩).",
+                "description": "Damage and condition damage taken are increased; stacks intensity.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-                "status": "취약",
+                "status": "Vulnerability",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -51,7 +51,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             }
@@ -74,7 +74,7 @@
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "overrides": 2,
                 "requires_trait": 1047,
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             }
         ],

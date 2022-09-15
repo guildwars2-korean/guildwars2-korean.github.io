@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>스텔스 공격</c> 스킬은 적에게 성공하면 취약성을 부여하고 분노를 부여합니다.",
+        "description": "은신 공격 기술은 취약성을 부여하고 성공적으로 적을 공격하면 분노를 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,19 +10,19 @@
             },
             {
                 "apply_count": 5,
-                "description": "받는 데미지가 증가한다(강도 중첩).",
+                "description": "Damage and condition damage taken are increased; stacks intensity.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-                "status": "취약",
+                "status": "Vulnerability",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
+                "description": "Critical chance increased; stacks duration.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-                "status": "분노",
+                "status": "Fury",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

@@ -1,17 +1,17 @@
 [
     {
-        "description": "활성 유지 기술로 증가된 공격 피해를 입힙니다.<br><c=@reminder> 전령 유지 기술은 피해량이 적지만 중첩될 수 있습니다.</c>",
+        "description": "활성 유지 기술로 증가된 공격 피해를 입힙니다.<br> 전령 유지 기술은 피해량이 적지만 중첩될 수 있습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 15,
-                "text": "데미지 증가",
+                "text": "Damage Increase",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 13,
-                "text": "데미지 증가",
+                "text": "Damage Increase",
                 "type": "Percent"
             },
             {

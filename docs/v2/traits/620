@@ -1,6 +1,6 @@
 [
     {
-        "description": "생명력에 따라 상태 피해를 얻습니다.<c=@abilitytype> 미덕</c> 감소된 재충전을 얻습니다.",
+        "description": "생명력에 따라 상태 피해를 얻습니다. 덕은 감소된 재충전을 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
@@ -13,7 +13,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 15,
-                "text": "재사용 대기시간 감소",
+                "text": "Recharge Reduced",
                 "type": "Percent"
             }
         ],

@@ -1,11 +1,11 @@
 [
     {
-        "description": "방해하는 적들은 폐 충격을 받습니다.<br><c=@reminder> 이 특성은 간격당 한 번만 저항 막대가 있는 적에게만 영향을 줄 수 있습니다.</c>",
+        "description": "방해하는 적들은 폐 충격을 받습니다.<br> 이 특성은 간격당 한 번만 저항 막대가 있는 적에게만 영향을 줄 수 있습니다.",
         "facts": [
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "주기",
+                "text": "Interval",
                 "type": "Time"
             }
         ],
@@ -23,7 +23,7 @@
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "방어 불가",
+                        "text": "Unblockable",
                         "type": "Unblockable",
                         "value": true
                     },
@@ -31,14 +31,14 @@
                         "dmg_multiplier": 3.28,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "dmg_multiplier": 0.75,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     }
                 ],

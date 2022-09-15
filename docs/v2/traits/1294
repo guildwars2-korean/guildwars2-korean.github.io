@@ -1,6 +1,6 @@
 [
     {
-        "description": "은신에 들어가거나 나올 때 치유됩니다. 아군을 소생시킬 때 자신과 대상을 은신합니다.<c=@reminder> 이 효과는 아군에게 부여하는 은신에도 적용됩니다.</c>",
+        "description": "은신에 들어가거나 나올 때 치유됩니다. 아군을 소생시킬 때 자신과 대상을 은신합니다. 이 효과는 아군에게 부여하는 은신에도 적용됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -11,23 +11,23 @@
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "회복",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 273
             },
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "회복",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 439
             },
             {
                 "apply_count": 1,
-                "description": "보이지 않는다. 공격시 해제된다.",
+                "description": "Currently invisible. Ends if you deal damage.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
-                "status": "은신",
+                "status": "Stealth",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

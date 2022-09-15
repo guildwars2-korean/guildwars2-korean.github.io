@@ -1,6 +1,6 @@
 [
     {
-        "description": "Rending Vines는 혜택을 제거하는 대신 조건으로 변환합니다.<c=@abilitytype> 해방된 매복</c> 기술은 적으로부터 혜택을 제거합니다.<c=@reminder> 스킬당 한 번 이상 적에게 영향을 줄 수 없습니다.</c>",
+        "description": "Rending Vines는 혜택을 제거하는 대신 조건으로 변환합니다. Unleashed Ambush 기술은 적으로부터 혜택을 제거합니다. 스킬당 한 번 이상 적에게 영향을 줄 수 없습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -22,7 +22,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             }

@@ -5,7 +5,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "재사용 대기시간 감소",
+                "text": "Recharge Reduced",
                 "type": "Percent"
             },
             {
@@ -25,7 +25,7 @@
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                 "prefix": {
@@ -34,13 +34,13 @@
                     "status": "Dual Shot",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "화상",
+                "status": "Burning",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
                 "prefix": {
@@ -49,7 +49,7 @@
                     "status": "Mariner's Shot",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "출혈",
+                "status": "Bleeding",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }

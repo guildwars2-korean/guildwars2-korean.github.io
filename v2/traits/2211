@@ -1,6 +1,6 @@
 [
     {
-        "description": "공격주 차단 또는 회피<c=@abilitytype> 블레이드</c> 다음 Bladesong을 차단할 수 없게 만듭니다.",
+        "description": "공격을 막거나 회피하면 칼날이 쌓여 다음 칼날노래를 막을 수 없게 됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

@@ -14,13 +14,13 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                "text": "스턴 해제",
+                "text": "Breaks Stun",
                 "type": "NoData"
             },
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "지속시간 증가",
+                "text": "Duration Increase",
                 "type": "Time"
             },
             {

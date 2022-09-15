@@ -1,10 +1,10 @@
 [
     {
-        "description": "<c=@abilitytype>아케인</c> 기술은 감소된 재충전을 얻고, 증가된 사나움을 부여하고, 조정에 따라 조건을 부여합니다.",
+        "description": "아케인 스킬은 감소된 재충전을 얻고, 증가된 사나움을 부여하고, 조정에 따라 조건을 부여합니다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
                 "prefix": {
@@ -13,13 +13,13 @@
                     "status": "Fire Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "화상",
+                "status": "Burning",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
+                "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
                 "prefix": {
@@ -28,13 +28,13 @@
                     "status": "Water Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "냉기",
+                "status": "Chilled",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "다음 공격이 빗나간다(지속시간 중첩).",
+                "description": "Next outgoing attack misses; stacks duration.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
                 "prefix": {
@@ -43,13 +43,13 @@
                     "status": "Air Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "실명",
+                "status": "Blinded",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "이동할 수 없다(지속시간 중첩).",
+                "description": "Unable to move; stacks duration.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
                 "prefix": {
@@ -58,13 +58,13 @@
                     "status": "Earth Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "속박",
+                "status": "Immobile",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "이동할 수 없다(지속시간 중첩).",
+                "description": "Unable to move; stacks duration.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
                 "prefix": {
@@ -73,7 +73,7 @@
                     "status": "Earth Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "속박",
+                "status": "Immobile",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
@@ -95,7 +95,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "재사용 대기시간 감소",
+                "text": "Recharge Reduced",
                 "type": "Percent"
             }
         ],

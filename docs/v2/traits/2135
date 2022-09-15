@@ -1,6 +1,6 @@
 [
     {
-        "description": "손실된 열 단위당 체력을 얻습니다.<br><c=@reminder> 이 특성은 Photonic Blasting Module이 장착되어 있지 않으면 과열로 인한 냉각 중에는 작동하지 않습니다.</c>",
+        "description": "손실된 열 단위당 체력을 얻습니다.<br> 이 특성은 Photonic Blasting Module이 장착되어 있지 않으면 과열로 인한 냉각 중에는 작동하지 않습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

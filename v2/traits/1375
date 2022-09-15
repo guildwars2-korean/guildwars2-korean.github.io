@@ -1,19 +1,19 @@
 [
     {
-        "description": "당신이 비활성화되었을 때 덜 균형 잡힌 자세를 시전하십시오.<c=@abilitytype> 자세</c> 활성화 시 활력을 부여하고 지속 시간이 증가합니다.<br><c=@reminder> 비활성화에는 기절, 멍, 넉백, 당기기, 넉다운, 가라앉기, 뜨기, 발사, 도발 및 공포가 포함됩니다.</c>",
+        "description": "당신이 비활성화되었을 때 덜 균형 잡힌 자세를 시전하십시오. 자세는 활성화되면 활력을 부여하고 지속 시간이 증가합니다.<br> 비활성화에는 기절, 멍, 넉백, 당기기, 넉다운, 가라앉기, 뜨기, 발사, 도발 및 공포가 포함됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "percent": 25,
-                "text": "지속시간 증가",
+                "text": "Duration Increase",
                 "type": "Percent"
             },
             {
                 "apply_count": 1,
-                "description": "지구력 회복이 50% 증가한다(지속시간 중첩).",
+                "description": "Endurance regeneration increased by 50%; stacks duration.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
-                "status": "활력",
+                "status": "Vigor",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -38,7 +38,7 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                        "text": "스턴 해제",
+                        "text": "StunBreak",
                         "type": "StunBreak",
                         "value": true
                     },
@@ -53,19 +53,19 @@
                     },
                     {
                         "apply_count": 2,
-                        "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                        "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-                        "status": "견고",
+                        "status": "Stability",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "이동속도가 33% 증가한다(지속시간 중첩).",
+                        "description": "Movement speed increased by 33%; stacks duration.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-                        "status": "신속",
+                        "status": "Swiftness",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },

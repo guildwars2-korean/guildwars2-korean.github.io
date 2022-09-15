@@ -1,6 +1,6 @@
 [
     {
-        "description": "기절, 멍, 넉백, 당김, 기절, 가라앉음, 뜨거나 발사되거나 공포에 휩싸일 때 기절을 깨고 지구력을 충전하십시오.",
+        "description": "기절하거나, 멍해지거나, 뒤로 밀려나거나, 당기거나, 쓰러지거나, 가라앉거나, 뜨거나, 발사되거나 공포에 휩싸일 때 기절을 깨고 지구력을 재충전하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,13 +10,13 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "지구력 회복",
+                "text": "Endurance Gained",
                 "type": "Number",
                 "value": 100
             },
             {
                 "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
-                "text": "스턴 해제",
+                "text": "Breaks Stun",
                 "type": "NoData"
             }
         ],

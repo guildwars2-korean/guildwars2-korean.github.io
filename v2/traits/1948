@@ -1,29 +1,29 @@
 [
     {
-        "description": "<c=@abilitytype>과부하</c> 보호를 부여합니다. 보호는 증가된 피해 감소를 얻습니다.",
+        "description": "과부하는 보호를 부여합니다. 보호는 증가된 피해 감소를 얻습니다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
+                "description": "Incoming strike damage decreased by 33%; stacks duration.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-                "status": "보호",
+                "status": "Protection",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
+                "description": "Incoming strike damage decreased by 33%; stacks duration.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-                "status": "보호",
+                "status": "Protection",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 20,
-                "text": "효과 증가",
+                "text": "Effectiveness Increased",
                 "type": "Percent"
             }
         ],

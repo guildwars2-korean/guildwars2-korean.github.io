@@ -4,19 +4,19 @@
         "facts": [
             {
                 "apply_count": 1,
-                "description": "스킬 시전과 행동이 빨라진다.",
+                "description": "Skills and actions are faster.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-                "status": "급속",
+                "status": "Quickness",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "스킬 시전과 행동이 빨라진다.",
+                "description": "Skills and actions are faster.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-                "status": "급속",
+                "status": "Quickness",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },

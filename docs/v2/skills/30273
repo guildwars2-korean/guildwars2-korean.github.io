@@ -8,7 +8,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 180
             },
@@ -22,33 +22,33 @@
                 "dmg_multiplier": 2.4,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
                 "apply_count": 10,
-                "description": "데미지가 증가한다(강도 중첩).",
+                "description": "Increased outgoing damage; stacks intensity.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-                "status": "마이트",
+                "status": "Might",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "스킬 시전과 행동이 느려진다.",
+                "description": "Skills and actions are slower.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
-                "status": "둔화",
+                "status": "Slow",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "스킬 시전과 행동이 느려진다.",
+                "description": "Skills and actions are slower.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
-                "status": "둔화",
+                "status": "Slow",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -78,7 +78,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
@@ -103,23 +103,23 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "스킬 시전과 행동이 느려진다.",
+                "description": "Skills and actions are slower.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
                 "overrides": 4,
                 "requires_trait": 1898,
-                "status": "둔화",
+                "status": "Slow",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "스킬 시전과 행동이 느려진다.",
+                "description": "Skills and actions are slower.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
                 "overrides": 5,
                 "requires_trait": 1898,
-                "status": "둔화",
+                "status": "Slow",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

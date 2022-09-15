@@ -5,19 +5,19 @@
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
                 "target": "Healing",
-                "text": "보호막",
+                "text": "Barrier",
                 "type": "AttributeAdjust",
                 "value": 1044
             },
             {
                 "distance": 360,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "아군 적용 대상",
+                "text": "Number of Allied Targets",
                 "type": "Number",
                 "value": 5
             }

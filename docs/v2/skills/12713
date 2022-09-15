@@ -11,23 +11,23 @@
             },
             {
                 "apply_count": 1,
-                "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
+                "description": "Incoming strike damage decreased by 33%; stacks duration.",
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-                "status": "보호",
+                "status": "Protection",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
             {
                 "distance": 600,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             }
         ],

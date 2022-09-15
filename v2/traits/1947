@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신보다 낮은 건강 비율을 가진 적에게 증가된 공격 피해를 줍니다. 로 타격<c=@abilitytype> 폭발</c> 몇 초에 걸쳐 치유합니다.",
+        "description": "당신보다 낮은 건강 비율을 가진 적에게 증가된 공격 피해를 줍니다. 폭발로 명중하면 몇 초에 걸쳐 치유됩니다.",
         "facts": [
             {
                 "apply_count": 1,
@@ -13,13 +13,13 @@
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 15,
-                "text": "데미지 증가",
+                "text": "Damage Increase",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "데미지 증가",
+                "text": "Damage Increase",
                 "type": "Percent"
             }
         ],

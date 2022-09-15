@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>파편</c> 충분한 클론이 있는 경우 스킬은 클론을 생성합니다.",
+        "description": "충분한 클론이 있는 경우 산산조각 기술은 클론을 생성합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

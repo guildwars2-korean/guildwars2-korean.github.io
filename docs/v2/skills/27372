@@ -16,22 +16,22 @@
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "회복",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 5501
             },
             {
                 "apply_count": 1,
-                "description": "받는 상태이상 데미지가 33% 감소한다(지속시간 중첩).",
+                "description": "Incoming condition damage decreased by 33%; stacks duration.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
-                "status": "결의",
+                "status": "Resolution",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "상태이상 해제",
+                "text": "Conditions Removed",
                 "type": "Number",
                 "value": 5
             }

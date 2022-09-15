@@ -1,11 +1,11 @@
 [
     {
-        "description": "Renewing Gaze가 발동되면 이 특성은 치유, 유틸리티 및 엘리트 기술에 필요한 재충전 시간의 일부를 회복합니다.<br><c=@reminder> 종족 스킬 제외.</c>",
+        "description": "Renewing Gaze가 발동되면 이 특성은 치유, 유틸리티 및 엘리트 기술에 필요한 재충전 시간의 일부를 회복합니다.<br> 종족 스킬 제외.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "재사용 대기시간 감소",
+                "text": "Recharge Reduced",
                 "type": "Percent"
             }
         ],

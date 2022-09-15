@@ -1,13 +1,13 @@
 [
     {
-        "description": "쌍수 공격으로 적을 공격하면 독을 가합니다. 상태 피해가 증가합니다.<br><c=@reminder> 공격 사용 시 한 번 독을 적용합니다.</c>",
+        "description": "쌍수 공격으로 적을 공격하면 독을 가합니다. 상태 피해가 증가합니다.<br> 공격 사용 시 한 번 독을 적용합니다.",
         "facts": [
             {
                 "apply_count": 1,
                 "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-                "status": "중독",
+                "status": "Poisoned",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -39,7 +39,7 @@
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
                 "overrides": 0,
                 "requires_trait": 1291,
-                "status": "중독",
+                "status": "Poisoned",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

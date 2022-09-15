@@ -5,7 +5,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 900
             },
@@ -20,16 +20,16 @@
                 "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-                "status": "중독",
+                "status": "Poisoned",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
                 "duration": 8,
                 "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                "status": "고통",
+                "status": "Torment",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -37,7 +37,7 @@
                 "dmg_multiplier": 0.85,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
@@ -48,35 +48,35 @@
             },
             {
                 "apply_count": 1,
-                "description": "이동 속도가 50% 감소한다(지속시간 중첩).",
+                "description": "Movement speed decreased by 50%; stacks duration.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-                "status": "불구",
+                "status": "Crippled",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
                 "target": "Healing",
-                "text": "보호막",
+                "text": "Barrier",
                 "type": "AttributeAdjust",
                 "value": 1487
             },
             {
                 "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
-                "text": "방어 불가",
+                "text": "Unblockable",
                 "type": "NoData"
             },
             {
                 "distance": 360,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             }
         ],

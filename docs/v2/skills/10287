@@ -1,11 +1,11 @@
 [
     {
         "chat_link": "[&Bi8oAAA=]",
-        "description": "파편. 모든 클론을 파괴하고 목표물을 멍하게 만드십시오. 산산조각 효과는 당신의 위치에서도 발생합니다.",
+        "description": "파편. 모든 클론을 파괴하고 목표물을 멍하게 만드십시오. 산산조각 효과는 또한 당신의 위치에서 발생합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 1200
             },
@@ -18,18 +18,18 @@
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                "text": "침묵",
+                "text": "Daze",
                 "type": "Time"
             },
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 1
             }
@@ -45,11 +45,11 @@
         "traited_facts": [
             {
                 "apply_count": 1,
-                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
+                "description": "Critical chance increased; stacks duration.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
                 "requires_trait": 1687,
-                "status": "분노",
+                "status": "Fury",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -57,14 +57,14 @@
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
                 "overrides": 4,
                 "requires_trait": 2035,
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "requires_trait": 740,
-                "text": "상태이상 해제",
+                "text": "Conditions Removed",
                 "type": "Number",
                 "value": 1
             }

@@ -11,7 +11,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
-                "text": "<c=@abilitytype>Heat Threshold</c>",
+                "text": "Heat Threshold",
                 "type": "Number",
                 "value": 50
             },
@@ -31,14 +31,14 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "<c=@abilitytype>Radius and Pull Increase</c>",
+                "text": "Radius and Pull Increase",
                 "type": "Number",
                 "value": 120
             },
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
@@ -49,7 +49,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
@@ -60,7 +60,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "폭발 범위",
+                "text": "Blast Radius",
                 "type": "Number",
                 "value": 120
             }

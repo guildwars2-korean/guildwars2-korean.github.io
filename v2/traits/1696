@@ -1,17 +1,17 @@
 [
     {
-        "description": "상태 피해의 일정 비율이 당신을 치유합니다.<br><c=@reminder> 생명력이 건강을 대체하는 동안에는 치유가 일어나지 않습니다.</c>",
+        "description": "상태 피해의 일정 비율이 당신을 치유합니다.<br> 생명력이 건강을 대체하는 동안에는 치유가 일어나지 않습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 5,
-                "text": "퍼센트",
+                "text": "Percent",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 10,
-                "text": "퍼센트",
+                "text": "Percent",
                 "type": "Percent"
             }
         ],

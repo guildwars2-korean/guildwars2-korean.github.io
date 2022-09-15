@@ -8,7 +8,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 900
             },
@@ -22,43 +22,43 @@
                 "dmg_multiplier": 0.4,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
                 "dmg_multiplier": 0.2,
                 "hit_count": 1,
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "apply_count": 1,
-                "description": "의지와 상관없이 적을 공격한다.",
+                "description": "Involuntarily attack foes.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/02EED459AD65FAF7DF32A260E479C625070841B9/1228472.png",
-                "status": "도발",
+                "status": "Taunt",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "의지와 상관없이 적을 공격한다.",
+                "description": "Involuntarily attack foes.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/02EED459AD65FAF7DF32A260E479C625070841B9/1228472.png",
-                "status": "도발",
+                "status": "Taunt",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
@@ -86,7 +86,7 @@
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "overrides": 2,
                 "requires_trait": 682,
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             },
             {
@@ -95,7 +95,7 @@
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "overrides": 3,
                 "requires_trait": 682,
-                "text": "데미지",
+                "text": "Damage",
                 "type": "Damage"
             }
         ]

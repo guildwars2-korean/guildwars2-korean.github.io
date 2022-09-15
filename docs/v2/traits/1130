@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>독액</c> 유틸리티 스킬은 공격당한 적의 생명력을 흡수합니다. 은신에 들어가거나 나올 때 거미 독의 스택을 얻습니다.<br><c=@reminder> 사이펀은 공격당 한 번만 발생할 수 있습니다.</c>",
+        "description": "베놈 유틸리티 스킬은 적중당한 적의 생명력을 빨아들입니다. 은신에 들어가거나 나올 때 거미 독의 스택을 얻습니다.<br> 사이펀은 공격당 한 번만 발생할 수 있습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
@@ -86,7 +86,7 @@
                         "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-                        "status": "중독",
+                        "status": "Poisoned",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -95,7 +95,7 @@
                         "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-                        "status": "중독",
+                        "status": "Poisoned",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -104,19 +104,19 @@
                         "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-                        "status": "중독",
+                        "status": "Poisoned",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "공격 횟수",
+                        "text": "Number of Attacks",
                         "type": "Number",
                         "value": 6
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "공격 횟수",
+                        "text": "Number of Attacks",
                         "type": "Number",
                         "value": 3
                     },
@@ -128,14 +128,14 @@
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "distance": 240,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     }
                 ],

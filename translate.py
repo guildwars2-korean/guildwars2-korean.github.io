@@ -103,6 +103,9 @@ def translate_item(param):
 def get_custom_transalted_text(origin_text, dictionary):
     copied_text = copy.deepcopy(origin_text)
     for k, v in dictionary.items():
+        # 엑셀에서 편하게 전체 옮겨담기 위해서
+        if v == None:
+            return copied_text
         copied_text = copied_text.replace('{}'.format(k), '{}'.format(v))
     return copied_text
 

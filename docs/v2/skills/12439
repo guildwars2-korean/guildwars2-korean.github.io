@@ -11,19 +11,19 @@
             },
             {
                 "apply_count": 1,
-                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "description": "Gain health every second; stacks duration.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
-                "status": "재생력",
+                "status": "Regeneration",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "이동속도가 33% 증가한다(지속시간 중첩).",
+                "description": "Movement speed increased by 33%; stacks duration.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-                "status": "신속",
+                "status": "Swiftness",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

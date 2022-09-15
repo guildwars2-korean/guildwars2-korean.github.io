@@ -1,26 +1,26 @@
 [
     {
-        "description": "당신이 공격하는 적에게서 혜택을 훔치십시오<c=@abilitytype> 스텔스 공격</c> . 은신 공격으로 무의미한 적을 공격하면 주변의 적에게 공포를 가합니다.",
+        "description": "은신 공격으로 공격한 적에게서 혜택을 훔칩니다. 은신 공격으로 무의미한 적을 공격하면 주변의 적에게 공포를 가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "버프 강탈",
+                "text": "Boons Stolen",
                 "type": "Number",
                 "value": 2
             },
             {
                 "apply_count": 1,
-                "description": "공포에 질려 도망간다(지속시간 중첩).",
+                "description": "Involuntary retreat; unable to act; stacks duration.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/30307A6E766D74B6EB09EDA12A4A2DE50E4D76F4/102869.png",
-                "status": "공포",
+                "status": "Fear",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "distance": 180,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {

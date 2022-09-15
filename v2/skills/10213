@@ -15,7 +15,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "회복",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 1640
             },
@@ -29,19 +29,19 @@
             {
                 "duration": 20,
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-                "text": "충전 대기시간",
+                "text": "Count Recharge",
                 "type": "Time"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "최대 횟수",
+                "text": "Maximum Count",
                 "type": "Number",
                 "value": 2
             },
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "생명력 임계",
+                "text": "Health Threshold",
                 "type": "Percent"
             }
         ],

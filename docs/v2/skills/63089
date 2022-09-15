@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BnH2AAA=]",
-        "description": "수리를 위해 기계를 회수하십시오. Crash Down의 재사용 대기시간은 기계가 입은 피해량에 따라 결정됩니다. 마우스 오른쪽 버튼을 클릭하여 기계 이름을 바꾸세요.",
+        "description": "수리를 위해 기계를 회수하십시오. Crash Down의 재사용 대기시간은 기계가 입은 피해량에 따라 결정됩니다. 마우스 오른쪽 버튼을 클릭하여 기계 이름을 바꿉니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

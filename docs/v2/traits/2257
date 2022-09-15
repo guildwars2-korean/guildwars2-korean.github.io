@@ -25,15 +25,15 @@
                         "dmg_multiplier": 4,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "apply_count": 10,
-                        "description": "받는 데미지가 증가한다(강도 중첩).",
+                        "description": "Damage and condition damage taken are increased; stacks intensity.",
                         "duration": 10,
                         "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-                        "status": "취약",
+                        "status": "Vulnerability",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
@@ -49,12 +49,12 @@
                     {
                         "distance": 180,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     }

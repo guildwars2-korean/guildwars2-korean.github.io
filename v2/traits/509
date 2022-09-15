@@ -1,6 +1,6 @@
 [
     {
-        "description": "장애가 있을 때 보호를 받으세요.<br><c=@reminder> 비활성화에는 기절, 멍, 넉백, 당기기, 넉다운, 가라앉기, 뜨기, 발사, 도발 및 공포가 포함됩니다.",
+        "description": "장애가 있을 때 보호를 받으세요.<br> 비활성화에는 기절, 멍, 넉백, 당기기, 넉다운, 가라앉기, 뜨기, 발사, 도발 및 공포가 포함됩니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,10 +10,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
+                "description": "Incoming strike damage decreased by 33%; stacks duration.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-                "status": "보호",
+                "status": "Protection",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

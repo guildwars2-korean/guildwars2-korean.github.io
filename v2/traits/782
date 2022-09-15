@@ -22,7 +22,7 @@
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "전투시에만 적용",
+                "text": "Combat Only",
                 "type": "NoData"
             }
         ],

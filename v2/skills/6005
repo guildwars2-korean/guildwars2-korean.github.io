@@ -5,7 +5,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 800
             },
@@ -31,22 +31,22 @@
             },
             {
                 "apply_count": 3,
-                "description": "받는 데미지가 증가한다(강도 중첩).",
+                "description": "Damage and condition damage taken are increased; stacks intensity.",
                 "duration": 7,
                 "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-                "status": "취약",
+                "status": "Vulnerability",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             },
@@ -59,7 +59,7 @@
                 "finisher_type": "Leap",
                 "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
                 "percent": 100,
-                "text": "콤보 피니셔",
+                "text": "Combo Finisher",
                 "type": "ComboFinisher"
             }
         ],

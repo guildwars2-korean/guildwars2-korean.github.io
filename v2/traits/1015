@@ -1,6 +1,6 @@
 [
     {
-        "description": "분노를 얻을 때마다 개방 공격을 회복하십시오. 오프닝 스트라이크는 더 많은 피해를 줍니다.",
+        "description": "퓨리를 획득할때마다 Oepning strike 특성이 발동된다. Opening strike 데미지가 증가한다.",
         "facts": [
             {
                 "apply_count": 1,
@@ -14,7 +14,7 @@
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 25,
-                "text": "데미지 증가",
+                "text": "Damage Increase",
                 "type": "Percent"
             }
         ],

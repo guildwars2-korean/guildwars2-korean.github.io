@@ -4,10 +4,10 @@
         "facts": [
             {
                 "apply_count": 1,
-                "description": "스킬 재사용 대기시간을 감소시킨다.",
+                "description": "Skills recharge faster.",
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-                "status": "민첩",
+                "status": "Alacrity",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

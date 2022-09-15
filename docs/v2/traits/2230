@@ -1,6 +1,6 @@
 [
     {
-        "description": "오라 획득 시 데미지 감소량이 증가합니다.<c=@reminder> 이것이 트리거되면 모든 스택의 지속 시간이 새로 고쳐집니다.</c>",
+        "description": "오라 획득 시 데미지 감소량이 증가합니다. 이것이 트리거되면 모든 스택의 지속 시간이 새로 고쳐집니다.",
         "facts": [
             {
                 "apply_count": 1,
@@ -14,12 +14,12 @@
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 2,
-                "text": "중첩당 데미지 감소",
+                "text": "Damage reduction per stack.",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
-                "text": "최대 중첩",
+                "text": "Maximum Stacks",
                 "type": "Number",
                 "value": 5
             }

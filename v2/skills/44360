@@ -1,11 +1,11 @@
 [
     {
         "chat_link": "[&BkitAAA=]",
-        "description": "당신의 원수가 두려워 도망가게 하십시오.",
+        "description": "당신의 원수가 두려움에 떨게 하십시오.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-                "text": "사정거리",
+                "text": "Range",
                 "type": "Range",
                 "value": 900
             },
@@ -17,10 +17,10 @@
             },
             {
                 "apply_count": 1,
-                "description": "공포에 질려 도망간다(지속시간 중첩).",
+                "description": "Involuntary retreat; unable to act; stacks duration.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/30307A6E766D74B6EB09EDA12A4A2DE50E4D76F4/102869.png",
-                "status": "공포",
+                "status": "Fear",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }
@@ -28,7 +28,7 @@
         "flags": [],
         "icon": "https://render.guildwars2.com/file/DCA9272A24D30D5B61C99B1E800A7F0B4E29FCAF/104058.png",
         "id": 44360,
-        "name": "공포",
+        "name": "Fear",
         "professions": [
             "Ranger"
         ],

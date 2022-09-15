@@ -15,13 +15,13 @@
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                 "target": "Healing",
-                "text": "회복",
+                "text": "Healing",
                 "type": "AttributeAdjust",
                 "value": 6494
             },
             {
                 "apply_count": 3,
-                "description": "데미지가 증가한다(강도 중첩).",
+                "description": "Increased outgoing damage; stacks intensity.",
                 "duration": 20,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "prefix": {
@@ -30,13 +30,13 @@
                     "status": "Fire Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "마이트",
+                "status": "Might",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "description": "Gain health every second; stacks duration.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
                 "prefix": {
@@ -45,13 +45,13 @@
                     "status": "Water Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "재생력",
+                "status": "Regeneration",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "이동속도가 33% 증가한다(지속시간 중첩).",
+                "description": "Movement speed increased by 33%; stacks duration.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
                 "prefix": {
@@ -60,13 +60,13 @@
                     "status": "Air Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "신속",
+                "status": "Swiftness",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
+                "description": "Incoming strike damage decreased by 33%; stacks duration.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
                 "prefix": {
@@ -75,7 +75,7 @@
                     "status": "Earth Attunement",
                     "text": "Apply Buff/Condition"
                 },
-                "status": "보호",
+                "status": "Protection",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }
@@ -109,7 +109,7 @@
         "traited_facts": [
             {
                 "apply_count": 4,
-                "description": "데미지가 증가한다(강도 중첩).",
+                "description": "Increased outgoing damage; stacks intensity.",
                 "duration": 20,
                 "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
                 "overrides": 2,
@@ -120,13 +120,13 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 229,
-                "status": "마이트",
+                "status": "Might",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "매초마다 생명력을 회복한다(지속시간 중첩).",
+                "description": "Gain health every second; stacks duration.",
                 "duration": 20,
                 "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
                 "overrides": 3,
@@ -137,13 +137,13 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 229,
-                "status": "재생력",
+                "status": "Regeneration",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "이동속도가 33% 증가한다(지속시간 중첩).",
+                "description": "Movement speed increased by 33%; stacks duration.",
                 "duration": 20,
                 "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
                 "overrides": 4,
@@ -154,13 +154,13 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 229,
-                "status": "신속",
+                "status": "Swiftness",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             },
             {
                 "apply_count": 1,
-                "description": "받는 데미지가 33% 감소한다(지속시간 중첩).",
+                "description": "Incoming strike damage decreased by 33%; stacks duration.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
                 "overrides": 5,
@@ -171,7 +171,7 @@
                     "text": "Apply Buff/Condition"
                 },
                 "requires_trait": 229,
-                "status": "보호",
+                "status": "Protection",
                 "text": "Apply Buff/Condition",
                 "type": "PrefixedBuff"
             }

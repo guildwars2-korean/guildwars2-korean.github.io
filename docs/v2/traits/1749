@@ -4,7 +4,7 @@
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "전투시에만 적용",
+                "text": "Combat Only",
                 "type": "NoData"
             }
         ],
@@ -21,45 +21,45 @@
                         "dmg_multiplier": 0.93,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "distance": 240,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "apply_count": 1,
-                        "description": "스킬 시전과 행동이 빨라진다.",
+                        "description": "Skills and actions are faster.",
                         "duration": 2,
                         "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-                        "status": "급속",
+                        "status": "Quickness",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "스킬 시전과 행동이 빨라진다.",
+                        "description": "Skills and actions are faster.",
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-                        "status": "급속",
+                        "status": "Quickness",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 8,
-                        "description": "받는 데미지가 증가한다(강도 중첩).",
+                        "description": "Damage and condition damage taken are increased; stacks intensity.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-                        "status": "취약",
+                        "status": "Vulnerability",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }
@@ -77,18 +77,18 @@
                         "dmg_multiplier": 0.75,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "distance": 240,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     },
@@ -108,10 +108,10 @@
                     },
                     {
                         "apply_count": 1,
-                        "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                        "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
-                        "status": "약화",
+                        "status": "Weakness",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }
@@ -129,45 +129,45 @@
                         "dmg_multiplier": 0.9,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "distance": 240,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "apply_count": 1,
-                        "description": "스킬 시전과 행동이 느려진다.",
+                        "description": "Skills and actions are slower.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
-                        "status": "둔화",
+                        "status": "Slow",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 2,
-                        "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                        "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                        "status": "고통",
+                        "status": "Torment",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "매 초 데미지를 준다. 이동하지 않는 적에게 추가 데미지를 준다(세기 중첩).",
+                        "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-                        "status": "고통",
+                        "status": "Torment",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }
@@ -184,19 +184,19 @@
                     {
                         "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
                         "target": "Healing",
-                        "text": "회복",
+                        "text": "Healing",
                         "type": "AttributeAdjust",
                         "value": 1940
                     },
                     {
                         "distance": 240,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     }
@@ -214,36 +214,36 @@
                         "dmg_multiplier": 0.75,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "distance": 240,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "apply_count": 2,
-                        "description": "매초 데미지를 준다(강도 중첩).",
+                        "description": "Deals damage every second; stacks intensity.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                        "status": "화상",
+                        "status": "Burning",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "이동속도가 66% 감소하고, 스킬 시전시간이 66% 증가한다(지속시간 중첩).",
+                        "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
-                        "status": "냉기",
+                        "status": "Chilled",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }
@@ -261,18 +261,18 @@
                         "dmg_multiplier": 0.5,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
                         "distance": 240,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     },
@@ -296,19 +296,19 @@
                     },
                     {
                         "apply_count": 2,
-                        "description": "매초 데미지를 준다(강도 중첩).",
+                        "description": "Deals damage every second; stacks intensity.",
                         "duration": 8,
                         "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                        "status": "출혈",
+                        "status": "Bleeding",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 2,
-                        "description": "매초 데미지를 준다(강도 중첩).",
+                        "description": "Deals damage every second; stacks intensity.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-                        "status": "출혈",
+                        "status": "Bleeding",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }
@@ -350,7 +350,7 @@
                         "dmg_multiplier": 0.93,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "데미지",
+                        "text": "Damage",
                         "type": "Damage"
                     },
                     {
@@ -368,12 +368,12 @@
                     {
                         "distance": 240,
                         "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                        "text": "범위",
+                        "text": "Radius",
                         "type": "Distance"
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                        "text": "적용 대상",
+                        "text": "Number of Targets",
                         "type": "Number",
                         "value": 5
                     }

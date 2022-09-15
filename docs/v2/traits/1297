@@ -1,6 +1,6 @@
 [
     {
-        "description": "그림자 단계를 완료하면 치유됩니다. 주변 아군도 더 많은 양의 치유를 받습니다.<br><c=@reminder> 도둑 섀도스텝에만 영향을 줍니다.</c>",
+        "description": "그림자 단계를 완료하면 치유됩니다. 주변 아군도 더 많은 양의 치유를 받습니다.<br> 도둑 섀도스텝에만 영향을 줍니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
@@ -19,12 +19,12 @@
             {
                 "distance": 360,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "아군 적용 대상",
+                "text": "Number of Allied Targets",
                 "type": "Number",
                 "value": 5
             }

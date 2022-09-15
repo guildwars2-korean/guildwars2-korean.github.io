@@ -1,25 +1,25 @@
 [
     {
-        "description": "<c=@abilitytype>트랩</c> 감소된 재충전을 얻고 적을 느리게 만듭니다.",
+        "description": "덫은 재충전량이 감소하고 적을 느리게 만듭니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "재사용 대기시간 감소",
+                "text": "Recharge Reduced",
                 "type": "Percent"
             },
             {
                 "apply_count": 1,
-                "description": "스킬 시전과 행동이 느려진다.",
+                "description": "Skills and actions are slower.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
-                "status": "둔화",
+                "status": "Slow",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             }

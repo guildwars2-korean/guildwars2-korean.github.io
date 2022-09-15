@@ -1,23 +1,23 @@
 [
     {
-        "description": "미니언은 더 많은 피해를 입히고 조건을 가져옵니다. 미니언이 공격할 때 대상에게 조건을 전달합니다.<br><c=@reminder> 미니언당 10초의 재사용 대기시간이 있습니다.</c>",
+        "description": "미니언은 더 많은 피해를 입히고 조건을 가져옵니다. 미니언이 공격할 때 대상에게 조건을 전달합니다.<br> 미니언당 10초의 재사용 대기시간이 있습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 25,
-                "text": "데미지 증가",
+                "text": "Damage Increase",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "상태이상 이전",
+                "text": "Conditions Transferred",
                 "type": "Number",
                 "value": 1
             },
             {
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "주기",
+                "text": "Interval",
                 "type": "Time"
             }
         ],

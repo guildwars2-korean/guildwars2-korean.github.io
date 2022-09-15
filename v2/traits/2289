@@ -1,35 +1,35 @@
 [
     {
-        "description": "<c=@abilitytype>사이펀</c> 이제 적을 대상으로 할 때 장벽을 부여하고 대상을 대상으로 할 때 아군을 소생시킵니다. Shadowstepping은 장벽을 허물고 영향을 받는 아군의 수에 비례하여 주변 아군에게 보호막을 부여합니다.",
+        "description": "사이펀은 이제 적을 조준할 때 보호막을 부여하고 적을 조준할 때 아군을 소생시킵니다. Shadowstepping은 장벽을 허물고 영향을 받는 아군의 수에 비례하여 주변 아군에게 보호막을 부여합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 33,
-                "text": "부활 게이지",
+                "text": "Revive Percentage",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
                 "percent": 15,
-                "text": "부활 게이지",
+                "text": "Revive Percentage",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
                 "target": "Healing",
-                "text": "보호막",
+                "text": "Barrier",
                 "type": "AttributeAdjust",
                 "value": 1980
             },
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "아군 적용 대상",
+                "text": "Number of Allied Targets",
                 "type": "Number",
                 "value": 5
             }

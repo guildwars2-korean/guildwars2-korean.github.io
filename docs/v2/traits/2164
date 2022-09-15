@@ -1,26 +1,26 @@
 [
     {
-        "description": "당신이 가한 고통은 증가된 피해를 입히고 적을 불태웁니다.<br><c=@reminder> 이 특성은 3초에 한 번만 특정 대상에게 화상을 입힐 수 있습니다.</c>",
+        "description": "당신이 가한 고통은 증가된 피해를 입히고 적을 불태웁니다.<br> 이 특성은 3초에 한 번만 특정 대상에게 화상을 입힐 수 있습니다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "매초 데미지를 준다(강도 중첩).",
+                "description": "Deals damage every second; stacks intensity.",
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-                "status": "화상",
+                "status": "Burning",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 25,
-                "text": "데미지 증가",
+                "text": "Damage Increase",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 33,
-                "text": "데미지 증가",
+                "text": "Damage Increase",
                 "type": "Percent"
             }
         ],

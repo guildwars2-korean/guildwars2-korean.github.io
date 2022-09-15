@@ -1,25 +1,25 @@
 [
     {
-        "description": "조정을 전환하면 에너지와 분노를 얻을 수 있습니다.<c=@reminder> 에너지는 전투 중에만 얻을 수 있습니다.</c>",
+        "description": "조정을 전환하면 에너지와 분노를 얻을 수 있습니다. 에너지는 전투 중에만 얻을 수 있습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "에너지 획득",
+                "text": "Energy Gain",
                 "type": "Number",
                 "value": 2
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "에너지 획득",
+                "text": "Energy Gain",
                 "type": "Number",
                 "value": 3
             },
             {
                 "apply_count": 1,
-                "description": "크리티컬 확률이 증가한다(지속시간 중첩).",
+                "description": "Critical chance increased; stacks duration.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-                "status": "분노",
+                "status": "Fury",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

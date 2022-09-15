@@ -1,26 +1,26 @@
 [
     {
-        "description": "활성화<c=@abilitytype> 파편</c> 당신의 환상에 초고속을 제공합니다. 산산조각은 이동 장애가 있는 적에게 증가된 피해를 줍니다.",
+        "description": "산산조각을 활성화하면 환상이 초고속으로 바뀝니다. 산산조각은 이동 장애가 있는 적에게 증가된 피해를 줍니다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "이동속도가 비약적으로 증가한다. 최대 지속시간 : 10초.",
+                "description": "Movement speed is greatly increased. Maximum duration: 10s",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
-                "status": "슈퍼스피드",
+                "status": "Superspeed",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 10,
-                "text": "데미지 증가",
+                "text": "Damage Increase",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
                 "percent": 5,
-                "text": "데미지 증가",
+                "text": "Damage Increase",
                 "type": "Percent"
             }
         ],

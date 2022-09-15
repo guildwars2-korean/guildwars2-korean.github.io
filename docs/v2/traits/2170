@@ -1,6 +1,6 @@
 [
     {
-        "description": "활성화 시 배리어 획득<c=@abilitytype> 위치</c> . 체력 임계값 미만일 때 공격을 받으면 하급 스톤 레조넌스를 활성화합니다.",
+        "description": "자세를 활성화할 때 장벽을 얻습니다. 체력 임계값 미만일 때 공격을 받으면 하급 스톤 레조넌스를 활성화합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -11,13 +11,13 @@
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "percent": 50,
-                "text": "생명력 임계",
+                "text": "Health Threshold",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
                 "target": "Healing",
-                "text": "보호막",
+                "text": "Barrier",
                 "type": "AttributeAdjust",
                 "value": 680
             }
@@ -46,27 +46,27 @@
                     {
                         "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
                         "target": "Healing",
-                        "text": "보호막",
+                        "text": "Barrier",
                         "type": "AttributeAdjust",
                         "value": 1069
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
                         "target": "Healing",
-                        "text": "보호막",
+                        "text": "Barrier",
                         "type": "AttributeAdjust",
                         "value": 535
                     },
                     {
                         "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                        "text": "횟수",
+                        "text": "Pulses",
                         "type": "Number",
                         "value": 5
                     },
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                        "text": "주기",
+                        "text": "Interval",
                         "type": "Time"
                     }
                 ],

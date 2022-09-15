@@ -5,10 +5,10 @@
         "facts": [
             {
                 "apply_count": 1,
-                "description": "스킬을 시전할 수 없다.",
+                "description": "Unable to activate skills.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
-                "status": "침묵",
+                "status": "Daze",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

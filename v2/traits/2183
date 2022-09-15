@@ -1,6 +1,6 @@
 [
     {
-        "description": "죽음의 수의가 선구자 수의로 대체되어 강력한 공격 기술을 제공하지만 공격에 취약합니다.<br> 선구자 장막에 남아 있으면 역병이 누적됩니다.<br><c=@reminder> 역병은 최대 체력을 감소시킵니다.</c>",
+        "description": "죽음의 수의가 선구자 수의로 대체되어 강력한 공격 기술을 제공하지만 공격에 취약합니다.<br> 선구자 장막에 남아 있으면 역병이 누적됩니다.<br> 역병은 최대 체력을 감소시킵니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -45,7 +45,7 @@
                     {
                         "duration": 1,
                         "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                        "text": "주기",
+                        "text": "Interval",
                         "type": "Time"
                     }
                 ],
@@ -56,21 +56,21 @@
                 "traited_facts": [
                     {
                         "apply_count": 3,
-                        "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                        "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
                         "duration": 5,
                         "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
                         "requires_trait": 2192,
-                        "status": "견고",
+                        "status": "Stability",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     },
                     {
                         "apply_count": 1,
-                        "description": "쓰러짐, 밀려남, 당겨짐, 날아감, 스턴, 침묵, 떠오름, 가라앉음, 공포, 도발 효과를 무시한다.",
+                        "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
                         "duration": 3,
                         "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
                         "requires_trait": 2192,
-                        "status": "견고",
+                        "status": "Stability",
                         "text": "Apply Buff/Condition",
                         "type": "Buff"
                     }

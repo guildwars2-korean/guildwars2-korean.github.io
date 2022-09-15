@@ -1,17 +1,17 @@
 [
     {
-        "description": "<c=@abilitytype>봉헌</c> 감소된 재충전 및 증가된 지속 시간을 얻습니다.",
+        "description": "신성화는 감소된 재충전과 증가된 지속 시간을 얻습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
                 "percent": 20,
-                "text": "재사용 대기시간 감소",
+                "text": "Recharge Reduced",
                 "type": "Percent"
             },
             {
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "지속시간 증가",
+                "text": "Duration Increase",
                 "type": "Time"
             }
         ],

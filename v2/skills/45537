@@ -13,34 +13,34 @@
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "지속시간",
+                "text": "Duration",
                 "type": "Time"
             },
             {
                 "apply_count": 4,
-                "description": "스킬 재사용 대기시간을 감소시킨다.",
+                "description": "Skills recharge faster.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
-                "status": "민첩",
+                "status": "Alacrity",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "아군 적용 대상",
+                "text": "Number of Allied Targets",
                 "type": "Number",
                 "value": 5
             },
             {
                 "duration": 1,
                 "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-                "text": "주기",
+                "text": "Interval",
                 "type": "Time"
             }
         ],
@@ -59,7 +59,7 @@
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
                 "overrides": 1,
                 "requires_trait": 2182,
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
@@ -67,17 +67,17 @@
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
                 "overrides": 2,
                 "requires_trait": 2182,
-                "text": "지속시간",
+                "text": "Duration",
                 "type": "Time"
             },
             {
                 "apply_count": 6,
-                "description": "스킬 재사용 대기시간을 감소시킨다.",
+                "description": "Skills recharge faster.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
                 "overrides": 3,
                 "requires_trait": 2182,
-                "status": "민첩",
+                "status": "Alacrity",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             }

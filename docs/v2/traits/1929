@@ -1,6 +1,6 @@
 [
     {
-        "description": "임계값 이상인 동안 감소된 상태 피해를 받습니다.<c=@abilitytype> 등딱지</c> 스택.",
+        "description": "갑각 스택의 임계값 이상에서 감소된 상태 손상을 받습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>듀얼 어택</c> 스킬은 적을 약화시킵니다. 약해진 적에 대한 공격이 크리티컬 확률을 증가시켰습니다.",
+        "description": "듀얼 어택 스킬은 적을 약화시킵니다. 약해진 적에 대한 공격이 크리티컬 확률을 증가시켰습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,32 +10,32 @@
             },
             {
                 "apply_count": 1,
-                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
                 "duration": 5,
                 "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
-                "status": "약화",
+                "status": "Weakness",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "apply_count": 1,
-                "description": "지구력 회복이 50% 감소한다(지속시간 중첩).",
+                "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
-                "status": "약화",
+                "status": "Weakness",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 10,
-                "text": "크리티컬 확률 증가",
+                "text": "Critical Chance Increase",
                 "type": "Percent"
             },
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
                 "percent": 15,
-                "text": "크리티컬 확률 증가",
+                "text": "Critical Chance Increase",
                 "type": "Percent"
             }
         ],

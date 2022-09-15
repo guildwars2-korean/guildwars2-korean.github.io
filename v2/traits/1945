@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>짐승</c> 능력은 주변의 적을 도발합니다.",
+        "description": "야수 능력은 주변의 적을 도발합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -10,22 +10,22 @@
             },
             {
                 "apply_count": 1,
-                "description": "의지와 상관없이 적을 공격한다.",
+                "description": "Involuntarily attack foes.",
                 "duration": 2,
                 "icon": "https://render.guildwars2.com/file/02EED459AD65FAF7DF32A260E479C625070841B9/1228472.png",
-                "status": "도발",
+                "status": "Taunt",
                 "text": "Apply Buff/Condition",
                 "type": "Buff"
             },
             {
                 "distance": 240,
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-                "text": "범위",
+                "text": "Radius",
                 "type": "Distance"
             },
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-                "text": "적용 대상",
+                "text": "Number of Targets",
                 "type": "Number",
                 "value": 5
             }

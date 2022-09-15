@@ -1,6 +1,6 @@
 [
     {
-        "description": "<c=@abilitytype>은신 공격<c/> 그들이 히트하면 사이펀 건강.<br><c=@reminder> 간격당 한 번 이상 동일한 대상을 흡입할 수 없습니다.</c>",
+        "description": "은신은 적중하면 건강 사이펀을 공격합니다.<br> 간격당 한 번 이상 동일한 대상을 흡입할 수 없습니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
