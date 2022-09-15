@@ -388,8 +388,6 @@ function ProfessionsNecromancer() {
                   <Card.Body>
                     {/* Death Magic */}
                     <TraitLine id={2} resettable selectable />
-                    {/* Corruption */}
-                    <TraitLine id={14} resettable selectable />
                     {/* Blood Magic */}
                     <TraitLine id={19} resettable selectable />
                     {/* Curses */}

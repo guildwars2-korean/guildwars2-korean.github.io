@@ -379,6 +379,8 @@ function ProfessionsRevenant() {
                     <TraitLine id={9} resettable selectable />
                     {/* Salvation */}
                     <TraitLine id={12} resettable selectable />
+                    {/* Corruption */}
+                    <TraitLine id={14} resettable selectable />
                     {/* Devastation */}
                     <TraitLine id={15} resettable selectable />
                   </Card.Body>
