@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.baf61354.css",
-    "main.js": "/static/js/main.75c4e568.js",
-    "static/js/500.d41331fa.chunk.js": "/static/js/500.d41331fa.chunk.js",
-    "static/js/366.c4462635.chunk.js": "/static/js/366.c4462635.chunk.js",
+    "main.css": "/static/css/main.647bbcb5.css",
+    "main.js": "/static/js/main.83e5e8cd.js",
+    "static/js/796.7c8b35ed.chunk.js": "/static/js/796.7c8b35ed.chunk.js",
+    "static/js/806.46d89cd9.chunk.js": "/static/js/806.46d89cd9.chunk.js",
     "static/js/787.7ff347de.chunk.js": "/static/js/787.7ff347de.chunk.js",
     "static/media/tooltip-background.png": "/static/media/tooltip-background.07f54aa85aaddcab5cad.png",
     "static/media/500.png": "/static/media/500.44d1495d241665786c9f.png",
@@ -46,14 +46,14 @@
     "static/media/Scourge.png": "/static/media/Scourge.8931c429924373647ffe.png",
     "static/media/Willbender.png": "/static/media/Willbender.39406bf791f7ce34495e.png",
     "index.html": "/index.html",
-    "main.baf61354.css.map": "/static/css/main.baf61354.css.map",
-    "main.75c4e568.js.map": "/static/js/main.75c4e568.js.map",
-    "500.d41331fa.chunk.js.map": "/static/js/500.d41331fa.chunk.js.map",
-    "366.c4462635.chunk.js.map": "/static/js/366.c4462635.chunk.js.map",
+    "main.647bbcb5.css.map": "/static/css/main.647bbcb5.css.map",
+    "main.83e5e8cd.js.map": "/static/js/main.83e5e8cd.js.map",
+    "796.7c8b35ed.chunk.js.map": "/static/js/796.7c8b35ed.chunk.js.map",
+    "806.46d89cd9.chunk.js.map": "/static/js/806.46d89cd9.chunk.js.map",
     "787.7ff347de.chunk.js.map": "/static/js/787.7ff347de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.baf61354.css",
-    "static/js/main.75c4e568.js"
+    "static/css/main.647bbcb5.css",
+    "static/js/main.83e5e8cd.js"
   ]
 }
