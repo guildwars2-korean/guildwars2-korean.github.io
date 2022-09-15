@@ -18,8 +18,6 @@ function Home() {
               특성/스킬은 기본적인 번역 이후 구글 번역 API를 사용해 우선 번역해두었고,<br></br>
               이후 하나씩 직접 번역한 내용으로 업데이트 할 예정입니다.<br></br>
               의견 및 도움주실 분들께서는 <a href="https://discord.gg/m8XwaW4waa" target="_blank" rel="noreferrer" >개발/번역 디스코드</a>로 참여 부탁드립니다.<br></br>
-              <br></br>
-              모두 즐거운 한가위 보내세요~ ^^
             </Card.Body>
           </Gw2card>
         </Col>
@@ -70,6 +68,9 @@ function Home() {
           <Gw2card header="주요 업데이트" defaultActiveKey="0">
             <Card.Body>
               <ul>
+                <li>
+                  [2022.09.15] 속성/분/컨디션 추가
+                </li>
                 <li>
                   [2022.09.12] 직업별 무기 스킬 추가
                 </li>
