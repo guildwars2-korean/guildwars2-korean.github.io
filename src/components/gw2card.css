@@ -13,6 +13,10 @@
     margin: 0px;
 }
 
+.accordion-body:not(.discord) {
+    padding: 0px;
+}
+
 .accordion-button {
     height: auto;
     background-color: #F5F5F5 !important;

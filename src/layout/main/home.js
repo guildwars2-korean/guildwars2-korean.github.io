@@ -3,6 +3,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, Col, Row, Card } from 'react-bootstrap';
 import Gw2card from '../../components/gw2card';
+import DiscordWidget from '../discordWidget';
 
 function Home() {
   return (
@@ -114,6 +115,22 @@ function Home() {
                   <a href="https://discord.gg/r2mdc8D" target="_blank" rel="noreferrer" >This Is M [rn]</a>
                 </li>
               </ul>
+            </Card.Body>
+          </Gw2card>
+        </Col>
+        {/* gw2kr.com 디스코드 */}
+        <Col md="6">
+          <Gw2card header="gw2kr.com 디스코드"className="discord"defaultActiveKey="0">
+            <Card.Body>
+              <DiscordWidget id="1007871222429786152"></DiscordWidget>
+            </Card.Body>
+          </Gw2card>
+        </Col>
+        {/* This Is M [rn] 디스코드 */}
+        <Col md="6">
+          <Gw2card header=" This Is M [rn] 디스코드" className="discord" defaultActiveKey="0">
+            <Card.Body>
+              <DiscordWidget id="632367806968496148"></DiscordWidget>
             </Card.Body>
           </Gw2card>
         </Col>
