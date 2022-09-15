@@ -119,9 +119,9 @@ function Home() {
           </Gw2card>
         </Col>
         {/* gw2kr.com 디스코드 */}
-        <Col md="6" className="discord">
+        {/* <Col md="6" className="discord">
           <DiscordWidget id="1007871222429786152"></DiscordWidget>
-        </Col>
+        </Col> */}
         {/* 정보 */}
         <Col md="6">
           <Gw2card header="정보">
