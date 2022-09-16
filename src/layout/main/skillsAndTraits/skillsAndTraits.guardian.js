@@ -16,7 +16,7 @@ function ProfessionsGuardian() {
     <Container>
       <Row >
         {/* 오리지널 / Original */}
-        <Gw2card header="가디언 : Original">
+        <Gw2card header="가디언 : Original" defaultActiveKey="0">
           <Card.Body>
             <center>
               <img src="https://wiki.guildwars2.com/images/thumb/8/88/Guardian_04_concept_art.png/350px-Guardian_04_concept_art.png"></img>

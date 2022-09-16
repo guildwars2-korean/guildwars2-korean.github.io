@@ -16,7 +16,7 @@ function ProfessionsNecromancer() {
     <Container>
       <Row >
         {/* 오리지널 / Original */}
-        <Gw2card header="네크로맨서 : Original">
+        <Gw2card header="네크로맨서 : Original" defaultActiveKey="0">
           
           <Card.Body>
             <center>

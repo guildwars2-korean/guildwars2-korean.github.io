@@ -16,7 +16,7 @@ function ProfessionsMesmer() {
     <Container>
       <Row >
         {/* 오리지널 / Original */}
-        <Gw2card header="메스머 : Original">
+        <Gw2card header="메스머 : Original" defaultActiveKey="0">
           <Card.Body>
             <center>
               <img src="https://wiki.guildwars2.com/images/thumb/3/32/Mesmer_04_concept_art_%28wide%29.png/250px-Mesmer_04_concept_art_%28wide%29.png"></img>

@@ -16,7 +16,7 @@ function ProfessionsWarrior() {
     <Container>
       <Row >
         {/* 오리지널 / Original */}
-        <Gw2card header="워리어 : Original">
+        <Gw2card header="워리어 : Original" defaultActiveKey="0">
           
           <Card.Body>
             <center>

@@ -16,7 +16,7 @@ function ProfessionsEngineer() {
     <Container>
       <Row >
         {/* 오리지널 / Original */}
-        <Gw2card header="엔지니어 : Original">
+        <Gw2card header="엔지니어 : Original" defaultActiveKey="0">
           <Card.Body>
             <center>
               <img src="https://wiki.guildwars2.com/images/thumb/e/e5/Engineer_04_concept_art.png/350px-Engineer_04_concept_art.png"></img>

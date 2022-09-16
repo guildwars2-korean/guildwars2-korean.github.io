@@ -16,7 +16,7 @@ function ProfessionsRanger() {
     <Container>
       <Row >
         {/* 오리지널 / Original */}
-        <Gw2card header="레인저 : Original">
+        <Gw2card header="레인저 : Original" defaultActiveKey="0">
           
           <Card.Body>
             <center>

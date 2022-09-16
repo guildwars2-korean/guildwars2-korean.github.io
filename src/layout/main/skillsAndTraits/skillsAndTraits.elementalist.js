@@ -16,7 +16,7 @@ function ProfessionsElementalist() {
     <Container>
       <Row>
         {/* 오리지널 / Original */}
-        <Gw2card header="엘리멘탈리스트 : Original">
+        <Gw2card header="엘리멘탈리스트 : Original" defaultActiveKey="0">
           <Card.Body>
             <center>
               <img src="https://wiki.guildwars2.com/images/thumb/5/5e/Elementalist_04_concept_art.png/250px-Elementalist_04_concept_art.png"></img>

@@ -16,7 +16,7 @@ function ProfessionsThief() {
     <Container>
       <Row >
         {/* 오리지널 / Original */}
-        <Gw2card header="시프 : Original">
+        <Gw2card header="시프 : Original" defaultActiveKey="0">
           
           <Card.Body>
             <center>

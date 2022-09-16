@@ -16,7 +16,7 @@ function ProfessionsRevenant() {
     <Container>
       <Row >
         {/* 오리지널 / Original */}
-        <Gw2card header="레버넌트 : Original">
+        <Gw2card header="레버넌트 : Original" defaultActiveKey="0">
           
           <Card.Body>
             <center>
