@@ -23,7 +23,9 @@ function App() {
       padding: '0px 0px 0px 0px',
     }}>
       <Col sm="12">
-        <GoogleAd/>
+        <center>
+          <GoogleAd/>
+        </center>
       </Col>
     </Row>
   </div>
