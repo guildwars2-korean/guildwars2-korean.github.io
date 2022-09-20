@@ -1,6 +1,6 @@
 [
     {
-        "description": "닷지 롤링 벤트는 열을 방출하여 주변의 적에게 공격합니다.<br> (열이 없으면 공격이 일어나지 않습니다.)",
+        "description": "구르기가 열기를 방출하여 주변의 적들에게 데미지를 가한다. <br> 열기가 없을때는 발동하지않는다.",
         "icon": "https://render.guildwars2.com/file/051954D32BCDA37DEAA1730C9CF09CAEF22F9FB3/1769933.png",
         "id": 2066,
         "name": "Thermal Release Valve",

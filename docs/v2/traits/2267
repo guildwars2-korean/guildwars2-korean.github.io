@@ -1,6 +1,6 @@
 [
     {
-        "description": "메카가 체력 절반 이하일때 공격받으면, Exigency Protocols를 발동한다. 받는 데미지 감소 효과와 리저너레이션을 짧은시간 획득한다. 주는 리저너레이션 효과가 강해진다.",
+        "description": "메카가 생명력 절반 이하에서 공격받으면, Exigency Protocols를 발동한다. 받는 데미지 감소 효과와 리저너레이션을 짧은시간 획득한다. 주는 리저너레이션 효과가 강해진다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

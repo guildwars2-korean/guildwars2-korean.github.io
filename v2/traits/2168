@@ -1,6 +1,6 @@
 [
     {
-        "description": "풀 카운터는 추가 피해를 입히고 저항을 부여합니다. 풀 카운터로 적중한 대상에 자신의 조건을 복사합니다.",
+        "description": "Full Counter 스킬이 적에게 추가 데미지를 가하고, 레지스턴스를 획득한다. Full Counter 스킬로 적을 타격하면 자신에게 걸린 컨디션을 적에게 복사시킨다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

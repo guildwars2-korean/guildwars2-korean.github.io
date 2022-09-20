@@ -1,6 +1,6 @@
 [
     {
-        "description": "셉터를 새로 사용할 수 있게 된다. 스틸 스킬이 쉬폰이되고, 최대 이니셔티브 수가 감소한다. 소모한 이니셔티브로 Shadowforce능력을 사용할 수 있게 되고, Shadow Shroud 능력을 사용할 수 있게 된다.",
+        "description": "셉터를 사용할 수 있다. 스틸 스킬이 쉬폰이되고, 최대 이니셔티브 수가 감소한다. 소모한 이니셔티브로 Shadowforce능력을 사용할 수 있게 되고, Shadow Shroud 능력을 사용할 수 있게 된다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

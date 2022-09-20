@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&Bgi3AAA=]",
-        "description": "주위의 적을 공격하여 적중한 적에게 조건을 건다.",
+        "description": "주변의 적을 공격하여 적중한 적에게 조건을 부여합니다.",
         "facts": [
             {
                 "dmg_multiplier": 0.9,

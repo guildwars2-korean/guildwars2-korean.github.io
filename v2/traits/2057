@@ -1,6 +1,6 @@
 [
     {
-        "description": "천상의 화신 능력 범위 내의 아군에게 증가된 피해 출력을 부여합니다.",
+        "description": "Celestial Avatar 능력의 범위 안에있는 아군들에게 데미지 증가 효과를 부여한다.",
         "facts": [
             {
                 "apply_count": 1,

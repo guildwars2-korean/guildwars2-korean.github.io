@@ -1,6 +1,6 @@
 [
     {
-        "description": "크리티컬 확률이 증가한다. 에어 어튠상태일때, 이동속도가 증가한다.",
+        "description": "크리티컬 확률이 증가한다. 에어 어튠 상태에서 이동속도가 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

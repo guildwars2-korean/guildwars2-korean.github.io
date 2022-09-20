@@ -1,6 +1,6 @@
 [
     {
-        "description": "Death Shroud가 Harbinger Shroud로 대체된다. Harbinger Shroud는 강한 공격스킬들을 사용하지만, 취약한 상태가 된다. Harbinger Shoud 상태에서는 Blight를 축적하게된다. Blight는 최대 체력을 감소시킨다.",
+        "description": "Death Shroud가 Harbinger Shroud로 대체된다. Harbinger Shroud는 강한 공격스킬들을 사용하지만, 취약한 상태가 된다. Harbinger Shoud 상태에서는 블라이트를 축적하게된다. 블라이트는 최대 생명력을 감소시킨다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

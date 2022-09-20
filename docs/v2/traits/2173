@@ -1,6 +1,6 @@
 [
     {
-        "description": "대상이 표식된 상태에서 죽으면 대상의 위치에 Burst of Shadows를 발동합니다.",
+        "description": "마킹된 적이 죽으면, 죽은 자리에 Burst of Shadows 스킬이 발동된다.",
         "icon": "https://render.guildwars2.com/file/1E6104F9F36395A3A175649DE6232BD0DDC61180/1983625.png",
         "id": 2173,
         "name": "Collateral Damage",

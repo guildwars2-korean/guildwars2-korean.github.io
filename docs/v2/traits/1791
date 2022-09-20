@@ -1,6 +1,6 @@
 [
     {
-        "description": "레전드 변경 시 에너지가 제시된 임계치 이하일 경우 변경된 레전드의 에너지를 추가 획득한다.",
+        "description": "레전드 변경시 에너지가 임계 이하일 경우 변경된 레전드의 에너지를 추가 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

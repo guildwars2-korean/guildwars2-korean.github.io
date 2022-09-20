@@ -1,6 +1,6 @@
 [
     {
-        "description": "대체 무기로 Gunsaber를 사용할 수 있게 된다. Gunsaber 사용중에는 무기 스왑이 불가능하다. 아드레날린이 플로우로 대체된다.",
+        "description": "대체 무기로 Gunsaber를 사용할 수 있다. Gunsaber 사용중에는 무기 스왑이 불가능하다. 아드레날린이 플로우로 대체된다.",
         "icon": "https://render.guildwars2.com/file/BACAB405BB94D2C40568E273D0BEE55D29777FC3/2491552.png",
         "id": 2226,
         "name": "Gun X Sword",

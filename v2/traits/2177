@@ -1,6 +1,6 @@
 [
     {
-        "description": "듀얼 어택 스킬은 적을 약화시킵니다. 약해진 적에 대한 공격이 크리티컬 확률을 증가시켰습니다.",
+        "description": "듀얼어택 스킬이 적에게 위크니스를 유발시킨다. 위크니스를 가진 적을 상대로 크리티컬 확률이 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

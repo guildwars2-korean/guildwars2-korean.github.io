@@ -1,6 +1,6 @@
 [
     {
-        "description": "취약한 적을 공격하면 치명타 확률이 높아집니다.",
+        "description": "벌러너빌리티에 걸린 적을 상대로 크리티컬 확률이 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",

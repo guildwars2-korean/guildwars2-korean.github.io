@@ -1,6 +1,6 @@
 [
     {
-        "description": "Shadow Shroud 상태일때, 주기적으로 Consume Shadows 스택을 획득한다. Shadow Shroud 상태에서 벗어날때, 남아있는 모든 Shadowforce를 소모해서 Consume Shadows 스택에 따라 아군을 회복시킨다. 이 효과로 최대 체력보다 넘치게 회복된 양만큼 배리어를 부여받는다.",
+        "description": "Shadow Shroud 상태에서 주기적으로 Consume Shadows 스택을 획득한다. Shadow Shroud 상태에서 벗어나면 남아있는 모든 Shadowforce를 소모해서 Consume Shadows 스택에 따라 아군을 회복시킨다. 이 효과로 최대 생명력보다 넘치게 회복된 양만큼 배리어를 부여받는다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

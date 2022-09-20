@@ -1,6 +1,6 @@
 [
     {
-        "description": "적의 공격을 회피 시, 퀵크니스를 획득. 소드 스킬의 재사용 대기시간이 감소한다.",
+        "description": "적의 공격을 회피 시, 퀵크니스를 획득한다. 소드 스킬의 재사용 대기시간이 감소한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

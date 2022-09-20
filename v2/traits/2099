@@ -1,6 +1,6 @@
 [
     {
-        "description": "짧은 활을 휘두를 수 있습니다.",
+        "description": "숏보우를 장착할 수 있다.",
         "icon": "https://render.guildwars2.com/file/3400E10252A4C2380A686DEF920F0E180992E359/1770029.png",
         "id": 2099,
         "name": "Short Bow Proficiency",

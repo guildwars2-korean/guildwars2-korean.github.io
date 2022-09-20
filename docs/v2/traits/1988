@@ -1,6 +1,6 @@
 [
     {
-        "description": "데미지를 받을때, 주변의 적들에게 위크니스를 유발시키고 자신은 프로텍션을 부여받는다.",
+        "description": "데미지를 받을때, 주변의 적들에게 위크니스를 유발하고 자신은 프로텍션을 부여받는다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "은신에 들어가거나 나올 때 초고속을 얻습니다.",
+        "description": "은신하거나 은신 상태에서 벗어나면 슈퍼스피드를 획득한다.",
         "facts": [
             {
                 "apply_count": 1,

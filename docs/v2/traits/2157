@@ -1,6 +1,6 @@
 [
     {
-        "description": "Photon Forge 비활성화는 열 수준에 따라 조건을 혜택으로 변환합니다.",
+        "description": "Photon Forge 상태에서 벗어날때 현재 열기 축적레벨에 따라 자신에게 걸린 컨디션들을 분으로 변환한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

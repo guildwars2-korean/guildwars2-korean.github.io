@@ -1,6 +1,6 @@
 [
     {
-        "description": "블라인드에 걸리거나 무력화에 빠질때 Lesser Utility Goggles 스킬을 발동한다. 무력화는 스턴, 데이즈, 넉백, 당겨짐, 넉다운, 가라앉음, 떠오름, 날아감, 도발, 공포에 해당한다.",
+        "description": "블라인드에 걸리거나 무력화에 빠질때 Lesser Utility Goggles 스킬을 발동한다.<br>무력화는 스턴, 데이즈, 넉백, 풀, 넉다운, 싱크, 플로트, 런치, 타운트, 피어를 포함한다.",
         "icon": "https://render.guildwars2.com/file/9DFA2D5E0C5E0EBBC0CD011E1FC6181F6D9ED5CC/1012379.png",
         "id": 1997,
         "name": "Reactive Lenses",

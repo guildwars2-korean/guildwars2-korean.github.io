@@ -1,6 +1,6 @@
 [
     {
-        "description": "피스톨(메인, 오프-핸드)을 장착 할 수 있게 된다.",
+        "description": "피스톨을 장착 할 수 있다.",
         "icon": "https://render.guildwars2.com/file/294A3948AE67A432B462014CFC6A7F65D7C666B0/2192626.png",
         "id": 2256,
         "name": "Pistol Proficiency",

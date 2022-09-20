@@ -1,6 +1,6 @@
 [
     {
-        "description": "적의 현재 체력이 제시된 임계치 이상일 경우 주는 타격 데미지가 증가한다.",
+        "description": "적의 현재 생명력이 제시된 임계치 이상일 경우 주는 타격 데미지가 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

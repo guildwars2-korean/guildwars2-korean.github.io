@@ -1,6 +1,6 @@
 [
     {
-        "description": "레전드를 스왑하거나, Legendary Alliance로 Alliance Tactic 능력을 사용할 때, 체력과 분을 획득한다.",
+        "description": "레전드를 스왑하거나, Legendary Alliance로 Alliance Tactic 능력을 사용할 때, 생명력과 분을 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

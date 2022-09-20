@@ -1,6 +1,6 @@
 [
     {
-        "description": "아군에게 프로텍션을 부여할때 아군에게 걸린 컨디션을 제거한다.",
+        "description": "아군에게 프로텍션 부여시 아군에게 걸린 컨디션을 제거한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

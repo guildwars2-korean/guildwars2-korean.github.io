@@ -1,6 +1,6 @@
 [
     {
-        "description": "Sunspot이 버닝을 유발시키고 범위가 증가한다. 컨디션 데미지가 증가한다.",
+        "description": "Sunspot이 버닝을 유발하고 범위가 증가한다. 컨디션 데미지가 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",

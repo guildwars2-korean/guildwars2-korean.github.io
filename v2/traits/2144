@@ -1,6 +1,6 @@
 [
     {
-        "description": "횃불을 휘두를 수 있습니다.",
+        "description": "토치를 장착할 수 있다.",
         "icon": "https://render.guildwars2.com/file/20231A942AAF5F60E32B64649A0FD51ACE447671/1770032.png",
         "id": 2144,
         "name": "Torch Proficiency",

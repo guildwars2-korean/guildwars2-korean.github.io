@@ -1,6 +1,6 @@
 [
     {
-        "description": "Photon Forge가 활성화되어 있는 동안 현재 열에 따라 나가는 공격 피해가 증가합니다.",
+        "description": "Photon Forge 상태에서, 열기 축적량에 따라 가하는 데미지가 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

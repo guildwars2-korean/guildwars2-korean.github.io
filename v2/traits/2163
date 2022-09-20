@@ -1,6 +1,6 @@
 [
     {
-        "description": "적에게서 혜택을 제거하면 주변의 모든 적이 추가 혜택을 잃게 됩니다.",
+        "description": "적의 분을 제거하면 그 주변의 적들에게 추가로 분을 제거한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

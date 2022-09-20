@@ -1,6 +1,6 @@
 [
     {
-        "description": "Rending Vines 스킬이 적의 분을 지우지않고 컨디션으로 변환시키게된다. Unleashed Ambush 스킬들이 적이 가진 분을 제거한다. 이 효과는 스킬당 한번씩만 발동한다.",
+        "description": "Rending Vines 스킬이 적의 분을 제거하는 대신 컨디션으로 변환시킨다. Unleashed Ambush 스킬들이 적이 가진 분을 제거한다. 이 효과는 스킬당 한번씩만 발동한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

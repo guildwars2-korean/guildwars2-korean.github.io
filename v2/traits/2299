@@ -1,6 +1,6 @@
 [
     {
-        "description": "Shadow Shroud상태일때 자신과 연결된 아군이 치명적인 공격을 당하면, 슈라우드를 소모해 아군의 죽음을 막아주고 회복시킨다. 만약 자신이 치명적인 공격을 당할때, 슈라우드가 임계보다 높을경우 죽지않고 Shadow Shroud 상태로 들어간다.",
+        "description": "Shadow Shroud 상태에서 자신과 연결된 아군이 치명적인 공격을 당하면, 슈라우드를 소모해 아군의 죽음을 막아주고 회복시킨다. 만약 자신이 치명적인 공격을 당하면, 슈라우드가 임계보다 높을경우 죽지않고 Shadow Shroud 상태로 들어간다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

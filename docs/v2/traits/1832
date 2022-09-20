@@ -1,6 +1,6 @@
 [
     {
-        "description": "타격한 적의 체력이 제시된 임계치보다 높은 경우 적의 위치에 지연폭발물을 설치한다.",
+        "description": "타격한 적의 생명력이 임계보다 높은 경우 적의 위치에 지연폭발물을 설치한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

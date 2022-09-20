@@ -1,6 +1,6 @@
 [
     {
-        "description": "전체 카운터 성공 후 보호를 받습니다.",
+        "description": "Full Counter스킬을 성공적으로 마치고나서 프로텍션을 획득한다.",
         "facts": [
             {
                 "apply_count": 1,

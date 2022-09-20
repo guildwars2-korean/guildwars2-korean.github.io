@@ -1,6 +1,6 @@
 [
     {
-        "description": "오라를 획득할떄, 주변의 아군에게도 같은 오라를 부여한다.",
+        "description": "오라 획득시, 주변의 아군에게도 같은 오라를 부여한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",

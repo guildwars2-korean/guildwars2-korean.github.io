@@ -1,6 +1,6 @@
 [
     {
-        "description": "은신에 들어가거나 나올 때 주도권을 얻습니다.",
+        "description": "은신하거나 은신 상태에서 벗어나면 이니셔티브를 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

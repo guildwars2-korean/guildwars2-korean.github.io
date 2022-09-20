@@ -1,6 +1,6 @@
 [
     {
-        "description": "적에게 스틸을 사용하면 블리딩을 가한다. 블리딩의 데미지가 증가한다.",
+        "description": "적에게 스틸을 사용하면 블리딩을 유발한다. 블리딩의 데미지가 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

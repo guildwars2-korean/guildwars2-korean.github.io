@@ -1,6 +1,6 @@
 [
     {
-        "description": "분노 스킬 사용 시 주변 적에게 화상을 입힌다.",
+        "description": "레이지 스킬을 사용할때, 주변의 적들에게 버닝을 유발한다.",
         "facts": [
             {
                 "apply_count": 1,

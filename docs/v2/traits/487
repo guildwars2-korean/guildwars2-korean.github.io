@@ -1,6 +1,6 @@
 [
     {
-        "description": "자신에게 일정 임계 수만큼 컨디션이 걸리면 Lesser Elixir C를 마신다.",
+        "description": "자신에게 임계 수만큼 컨디션이 걸리면 Lesser Elixir C를 마신다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
@@ -25,7 +25,7 @@
                     "Elixir"
                 ],
                 "chat_link": "[&Bsm/AAA=]",
-                "description": "비약. 조건을 혜택으로 전환하는 비약을 쿼프(Quaff)합니다.",
+                "description": "엘릭서. 조건을 혜택으로 전환하는 비약을 쿼프(Quaff)합니다.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

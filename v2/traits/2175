@@ -1,6 +1,6 @@
 [
     {
-        "description": "최대 아드레날린은 2바로 제한되며 레벨 1 버스트만 사용할 수 있습니다. 풀 카운터 버스트 및 명상 기술에 액세스할 수 있습니다.",
+        "description": "최대 아드레날린 레벨이 2개로 변경되고, 오직 1레벨 버스트만 사용가능해진다. Full Counter 버스트스킬과 메디테이션 스킬을 사용할 수 있게 된다.",
         "icon": "https://render.guildwars2.com/file/BD996FC6ABFDC280A0B3356C786D7C5D20DE4139/1770021.png",
         "id": 2175,
         "name": "Spellbreaker's Conviction",

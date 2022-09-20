@@ -1,6 +1,6 @@
 [
     {
-        "description": "멍과 기절로 움직이지 못하게 만듭니다.",
+        "description": "적에게 데이즈나 스턴을 걸면 이모빌을 유발한다.",
         "facts": [
             {
                 "apply_count": 1,

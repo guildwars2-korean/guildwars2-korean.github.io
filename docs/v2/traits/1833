@@ -1,6 +1,6 @@
 [
     {
-        "description": "본인의 구르기가 적들에게 단검을 발사하는 Impaling Lotus로 변경된다. 구르기 시전시간 동안 컨디션 데미지가 증가한다.",
+        "description": "구르기가 적들에게 단검을 발사하는 Impaling Lotus로 변경된다. 구르기 시전시간 동안 컨디션 데미지가 증가한다.",
         "facts": [
             {
                 "apply_count": 1,

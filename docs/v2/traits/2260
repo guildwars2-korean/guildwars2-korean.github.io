@@ -1,6 +1,6 @@
 [
     {
-        "description": "이동하는 스킬이 스위프트니스와 플로우를 증가한다.",
+        "description": "이동 스킬이 스위프트니스를 부여하고 플로우를 증가시킨다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

@@ -5,18 +5,18 @@
             {
                 "duration": 30,
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-                "text": "Jagged Horror Lifetime Duration",
+                "text": "Jagged Horror 생존 시간",
                 "type": "Time"
             },
             {
                 "duration": 3,
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-                "text": "Jagged Horror Summon Recharge",
+                "text": "Jagged Horror 재소환 대기시간",
                 "type": "Time"
             },
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-                "text": "Jagged Horror Maximum",
+                "text": "최대 Jagged Horror 수",
                 "type": "Number",
                 "value": 5
             }
@@ -43,14 +43,14 @@
                         "dmg_multiplier": 1.2,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Explosion Damage",
+                        "text": "폭발 데미지",
                         "type": "Damage"
                     },
                     {
                         "dmg_multiplier": 1.2,
                         "hit_count": 1,
                         "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-                        "text": "Explosion Damage",
+                        "text": "폭발 데미지",
                         "type": "Damage"
                     },
                     {

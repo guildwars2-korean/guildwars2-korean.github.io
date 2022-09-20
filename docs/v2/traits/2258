@@ -1,6 +1,6 @@
 [
     {
-        "description": "지구력이 꽉 차있을때, 데미지가 증가한다.",
+        "description": "지구력이 가득 차있을때, 데미지가 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

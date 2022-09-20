@@ -1,6 +1,6 @@
 [
     {
-        "description": "적에게 불너러빌리티를 유발하는 경우, Battle Scars 중첩형 버프를 획득한다. 본인의 체력이 제시된 임계치보다 낮을 경우 Battle Scars 로부터 받는 회복량이 증가한다.",
+        "description": "적에게 벌너러빌리티를 유발하는 경우, Battle Scars 중첩형 버프를 획득한다. 본인의 생명력이 임계보다 낮을 경우 Battle Scars 로부터 받는 회복량이 증가한다.",
         "facts": [
             {
                 "apply_count": 1,

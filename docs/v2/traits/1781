@@ -1,6 +1,6 @@
 [
     {
-        "description": "본인이 퓨리를 획득하면 마이트도 획득한다.",
+        "description": "본인이 퓨리를 부여하면 마이트도 획득한다.",
         "facts": [
             {
                 "apply_count": 5,

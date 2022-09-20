@@ -1,6 +1,6 @@
 [
     {
-        "description": "적에게 Siphon 스킬을 사용할때, 더 많은 Shadowforce를 획득한다. 아군에게 더 많은 양의 배리어를 부여한다.",
+        "description": "적에게 Siphon 스킬 사용시 더 많은 Shadowforce를 획득한다. 아군에게 더 많은 양의 배리어를 부여한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

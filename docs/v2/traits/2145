@@ -1,6 +1,6 @@
 [
     {
-        "description": "표적을 표시하거나 은신 공격으로 표식을 치면 즉시 악의가 부여됩니다.",
+        "description": "타겟을 마킹하거나, 마킹된 적을 스텔스 어택으로 공격하면 말리스를 부여받는다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/5E50F7555EC3E9D7373B35C5FC73F24E74573459/1983628.png",

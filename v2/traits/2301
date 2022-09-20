@@ -1,6 +1,6 @@
 [
     {
-        "description": "Venomous Outburst 스킬이 더 큰 데미지를 가하고, 추가로 블라인드를 유발시킨다. Unleashed Ambush 스킬들이 더 강한 데미지를 가한다.",
+        "description": "Venomous Outburst 스킬이 더 큰 데미지를 가하고, 추가로 블라인드를 유발한다. Unleashed Ambush 스킬들이 더 강한 데미지를 가한다.",
         "facts": [
             {
                 "apply_count": 1,

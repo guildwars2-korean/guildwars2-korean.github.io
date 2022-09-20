@@ -1,6 +1,6 @@
 [
     {
-        "description": "Dragon Slash스킬 데미지의 일부만큼 회복받는다. 플로우를 Charge로 변환할때마다 프로텍션을 획득한다.",
+        "description": "Dragon Slash스킬 데미지의 일부만큼 회복받는다. 플로우를 차지로 변환시 프로텍션을 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

@@ -95,9 +95,9 @@ function Home() {
                 <li>
                   El Rosen Ritter [RR]
                 </li>
-                <li>
+                {/* <li>
                   <a href="https://discord.gg/KVuhmFuFeg" target="_blank" rel="noreferrer" >End of Melee [End]</a>
-                </li>
+                </li> */}
                 <li>
                   <a href="https://discord.gg/rJNa6EtuBC" target="_blank" rel="noreferrer" >Gamers World [kiwi]</a>
                 </li>
@@ -123,7 +123,7 @@ function Home() {
             <Card.Body>
               <ul>
                 <li>
-                  특성 : 50% (2022.09.16)
+                  특성 : 75% (2022.09.20)
                 </li>
                 <li>
                   스킬 : 10% (2022.09.16)

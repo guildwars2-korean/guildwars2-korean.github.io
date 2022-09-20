@@ -1,6 +1,6 @@
 [
     {
-        "description": "Berserk 모드는 위력과 상태 피해를 증가시키지만 인성을 감소시킵니다.",
+        "description": "버서크 모드가 추가적으로 파워와 컨디션 데미지를 증가시키지만, 터프니스는 감소한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",

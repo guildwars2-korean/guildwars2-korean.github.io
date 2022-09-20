@@ -1,7 +1,7 @@
 [
     {
         "chat_link": "[&BipwAAA=]",
-        "description": "적에게 안개 창을 던져 적에게 가까울수록 고통의 지속 시간이 증가합니다.",
+        "description": "안개 창을 적에게 던져 적과 가까워지면 고통의 지속 시간이 증가합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

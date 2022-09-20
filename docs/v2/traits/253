@@ -1,6 +1,6 @@
 [
     {
-        "description": "적에게 크리티컬 공격을 할때, 현재 어튠먼트에 따라 컨디션을 유발시킬 확률이 생긴다.",
+        "description": "적에게 크리티컬 공격시 현재 어튠먼트에 따라 컨디션을 유발할 확률이 생긴다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

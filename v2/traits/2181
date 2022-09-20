@@ -1,6 +1,6 @@
 [
     {
-        "description": "적의 측면, 후방에서 공격하거나 적에게 크리티컬 공격을 할때, Kalla's Fervor를 획득한다. Citadel Order 능력을 사용할 수 있게된다.",
+        "description": "적의 측면, 후방에서 공격하거나 적에게 크리티컬 공격시 Kalla's Fervor를 획득한다. Citadel Order 능력을 사용할 수 있게된다.",
         "facts": [
             {
                 "apply_count": 1,

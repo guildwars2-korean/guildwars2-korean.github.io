@@ -1,6 +1,6 @@
 [
     {
-        "description": "파이어 오라의 지속시간이 증가한다. 아군에게 부여하는 오라가 컨디션을 제거해주고, 오라를 Transmuting할때 주변의 아군들의 컨디션을 제거한다.",
+        "description": "파이어 오라의 지속시간이 증가한다. 아군에게 부여하는 오라가 컨디션을 제거해주고, 오라 폭발시 주변의 아군들의 컨디션을 제거한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

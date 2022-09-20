@@ -1,6 +1,6 @@
 [
     {
-        "description": "Photon Forge는 받는 피해를 줄이지만 패시브 열 생성을 증가시켰습니다.",
+        "description": "Photon Forge 상태에서 받는 데미지가 감소한다. 그러나 열기 축적량이 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

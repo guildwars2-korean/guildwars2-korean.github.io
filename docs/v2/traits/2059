@@ -1,6 +1,6 @@
 [
     {
-        "description": "Manifest Sand Shade는 근처의 아군에게 보호막을 부여합니다.",
+        "description": "Manifest Sand Shade 안에 있는 아군에게 배리어를 부여한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "모래 그림자를 만들고 생명력을 사용하여 명령할 수 있는 힘을 얻으세요. Punishment 및 Shade 기술에 액세스할 수 있습니다.<br> 쉐이드 스킬은 슈라우드 스킬에 영향을 주는 특성의 효과를 상속합니다.",
+        "description": "라이프 포스를 이용하여 모래 그림자를 만들고 조종하는 힘을 획득한다. 퍼니쉬먼트 스킬과 셰이드 스킬을 사용할 수 있게 된다. <br> 셰이드 스킬은 슈라우드 스킬과 관련된 트레잇에도 작용한다.",
         "icon": "https://render.guildwars2.com/file/CC70C2E5CBD991510C2DF661111AD0351DAF186E/1769972.png",
         "id": 2147,
         "name": "Mantle of Sand",

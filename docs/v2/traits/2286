@@ -1,6 +1,6 @@
 [
     {
-        "description": "추가 바이탈리티를 획득한다. Unleashed Ambush 스킬이 적중한 적의 체력을 흡수한다. 흡수되는 회복량은 첫 타격 이후에 감소한다. 흡수 효과는 같은 적에게 스킬당 한번씩만 일어난다.",
+        "description": "추가 바이탈리티를 획득한다. Unleashed Ambush 스킬이 적중한 적의 생명력을 흡수한다. 흡수되는 회복량은 첫 타격 이후에 감소한다. 흡수 효과는 같은 적에게 스킬당 한번씩만 일어난다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/CAE8B4C43FF9D203FA55016700420A0454DFFE02/2229325.png",

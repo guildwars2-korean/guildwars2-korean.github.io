@@ -1,6 +1,6 @@
 [
     {
-        "description": "공격을 성공적으로 회피하면 생명력을 회복한다. 공격을 회피할때마다 컨디션 하나를 제거한다.",
+        "description": "공격을 성공적으로 회피하면 생명력을 회복한다. 회피시 컨디션 하나를 제거한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

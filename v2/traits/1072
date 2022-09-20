@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신과 당신의 애완동물은 적에게 치명타를 가할 때 서로에게 힘을 부여합니다.",
+        "description": "본인과 펫이 적을 크리티컬로 공격하면 서로에게 마이트를 부여한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

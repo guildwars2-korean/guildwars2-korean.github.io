@@ -123,7 +123,7 @@
             },
             {
                 "chat_link": "[&Bgi3AAA=]",
-                "description": "주위의 적을 공격하여 적중한 적에게 조건을 건다.",
+                "description": "주변의 적을 공격하여 적중한 적에게 조건을 부여합니다.",
                 "facts": [
                     {
                         "dmg_multiplier": 0.9,
@@ -179,7 +179,7 @@
             },
             {
                 "chat_link": "[&Bv+2AAA=]",
-                "description": "자신과 주변 아군을 치료하십시오.",
+                "description": "자신과 주변 아군을 치유하십시오.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

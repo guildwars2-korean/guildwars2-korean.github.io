@@ -1,6 +1,6 @@
 [
     {
-        "description": "스탠스 스킬은 지속 시간이 증가하고 감소된 지속 시간 동안 주변 아군에게 효과를 부여합니다.",
+        "description": "본인의 스탠스 스킬로 받는 효과의 지속시간이 증가한다. 스탠스의 효과를 줄어든 지속시간으로 주변 아군에게 부여한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

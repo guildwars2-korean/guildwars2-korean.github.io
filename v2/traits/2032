@@ -1,6 +1,6 @@
 [
     {
-        "description": "건강 임계값을 초과하는 동안 공격은 독을 가합니다. 애완동물의 건강이 건강 임계값 이상인 동안 공격하면 독이 됩니다.",
+        "description": "생명력 임계 이상일 때, 가하는 공격이 포이즌을 유발한다. 펫에게도 적용된다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

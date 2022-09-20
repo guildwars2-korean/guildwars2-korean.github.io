@@ -1,6 +1,6 @@
 [
     {
-        "description": "Explosions 공격이 크리플과 블리딩을 유발할 확률을 가진다.",
+        "description": "폭발 공격이 크리플과 블리딩을 유발할 확률을 가진다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

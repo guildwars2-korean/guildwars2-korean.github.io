@@ -1,6 +1,6 @@
 [
     {
-        "description": "퓨리를 획득할때마다 Oepning strike 특성이 발동된다. Opening strike 데미지가 증가한다.",
+        "description": "퓨리 획득시 Oepning strike 특성이 발동된다. Opening strike 데미지가 증가한다.",
         "facts": [
             {
                 "apply_count": 1,

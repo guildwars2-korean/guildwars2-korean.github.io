@@ -1,6 +1,6 @@
 [
     {
-        "description": "코로나 버스트가 적중한 각 대상에 대해 장벽을 부여합니다.",
+        "description": "Corona Burst 스킬이 각각 적에게 적중될때 배리어를 부여받는다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

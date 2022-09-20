@@ -1,6 +1,6 @@
 [
     {
-        "description": "아군을 일으킬때, Geyser 스킬을 시전한다. Geyser 스킬이 다운된 아군을 조금씩 일으킨다. 아군을 일으킬때, 현재 어튠먼트에 따라서 오라를 획득한다.",
+        "description": "아군을 소생시킬 때, Geyser 스킬을 시전한다. Geyser 스킬이 다운된 아군을 조금씩 일으킨다. 아군을 소생시킬 때, 현재 어튠먼트에 따라서 오라를 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
@@ -76,7 +76,7 @@
         "skills": [
             {
                 "chat_link": "[&BpYWAAA=]",
-                "description": "간헐천을 만들어 주변 아군을 치료합니다.",
+                "description": "간헐천을 만들어 주변 아군을 치료하세요.",
                 "facts": [
                     {
                         "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "회피할 때 작은 캘트롭을 남겨둡니다.",
+        "description": "구르기시 후방에 Lesser Caltrop을 남긴다.",
         "icon": "https://render.guildwars2.com/file/EC22A2BBEB08C71E270EA29FE6E5C80BC192BBEB/1012762.png",
         "id": 1159,
         "name": "Uncatchable",

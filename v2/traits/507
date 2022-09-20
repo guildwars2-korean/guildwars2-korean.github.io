@@ -1,6 +1,6 @@
 [
     {
-        "description": "무력화 상태에 빠지면 Smoke Bomb을 투하한다.<br>무력화는 스턴, 데이즈, 넉백, 넉다운, 가라앉음, 떠오름, 날리기, 도발, 공포에 해당한다.",
+        "description": "무력화 상태에 빠지면 Smoke Bomb을 투하한다.<br>무력화는 스턴, 데이즈, 넉백, 풀, 넉다운, 싱크, 플로트, 런치, 타운트, 피어를 포함한다.",
         "icon": "https://render.guildwars2.com/file/5580D97E0BC8B7AD57783CAD2CE6E64F0F3AD45F/1012368.png",
         "id": 507,
         "name": "Autodefense Bomb Dispenser",

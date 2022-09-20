@@ -1,6 +1,6 @@
 [
     {
-        "description": "다른 클론이 활성화되어 있는 경우 디셉션 스킬을 사용하면 클론이 생성됩니다.",
+        "description": "활성화된 클론이 존재할 시, 디셉션 스킬이 클론 하나를 생성한다.",
         "icon": "https://render.guildwars2.com/file/603C30B0D0F90E21BCCC569AE8B5A35BC9E0BDBC/1769951.png",
         "id": 2141,
         "name": "Self-Deception",

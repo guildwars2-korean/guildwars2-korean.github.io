@@ -1,6 +1,6 @@
 [
     {
-        "description": "주 손에 도끼를 휘두를 수 있습니다.",
+        "description": "메인핸드에 액스를 장착할 수 있다.",
         "icon": "https://render.guildwars2.com/file/2954E76EF9EE10EC9B7659980713A2654A5749D6/1770024.png",
         "id": 2087,
         "name": "Axe Proficiency",

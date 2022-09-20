@@ -1,6 +1,6 @@
 [
     {
-        "description": "충전식 스킬을 사용할때, 충전량을 소모한만큼 타격 데미지 증가 효과를 획득한다.",
+        "description": "충전식 스킬 사용시 충전량을 소모한만큼 타격 데미지 증가 효과를 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
