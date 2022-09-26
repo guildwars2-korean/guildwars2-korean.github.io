@@ -49,14 +49,8 @@ def get_skills():
         skill = read_item(path)
         if not skill:
             continue
-        if skill.get('specialization', None) not in specializations:
-            continue
         each_professions = skill.get('professions', [])
         if not each_professions:
-            continue
-        if len(each_professions) > 1:
-            continue
-        if each_professions[0] not in professions:
             continue
         description = skill.get('description', None)
         if not description:
