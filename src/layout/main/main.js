@@ -19,6 +19,7 @@ import ProfessionsThief from './skillsAndTraits/skillsAndTraits.thief';
 import ProfessionsWarrior from './skillsAndTraits/skillsAndTraits.warrior';
 
 import AttributesAndBoonsAndConditions from './attributesAndBoonsAndConditions/attributesAndBoonsAndConditions';
+import Board from './board/board';
 
 
 function Main(props) {
@@ -37,6 +38,7 @@ function Main(props) {
                 <Route path="/skillsAndTraits/revenant" element={<ProfessionsRevenant />}/>
                 <Route path="/skillsAndTraits/thief" element={<ProfessionsThief />}/>
                 <Route path="/skillsAndTraits/warrior" element={<ProfessionsWarrior />}/>
+                <Route path="/board" element={<Board />} />
             </Routes>
         </Router>
         </>
