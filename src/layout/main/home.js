@@ -73,6 +73,9 @@ function Home() {
                   <a href="http://www.gw2taco.com/" target="_blank" rel="noreferrer">TacO</a> 애드온
                 </li>
                 <li>
+                  <a href="https://blishhud.com/" target="_blank" rel="noreferrer">Blish HUD</a> 애드온
+                </li>
+                <li>
                   <a href="https://wiki.guildwars2.com/wiki/Event_timers" target="_blank" rel="noreferrer">Event timers</a> 월드보스, 이벤트 시간표
                 </li>
                 <li>
