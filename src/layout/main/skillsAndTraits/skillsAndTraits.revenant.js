@@ -9,6 +9,7 @@ import 'discretize-monorepo-root/typeface-menomonia';
 import Gw2card from '../../../components/gw2card';
 import { Container, Col, Row, Card } from 'react-bootstrap';
 import { TraitLine, Skill } from 'discretize-monorepo-root/gw2-ui';
+import { GoogleAd } from '../../../layout/googleAd'
 
 function ProfessionsRevenant() {
   return (
@@ -20,7 +21,7 @@ function ProfessionsRevenant() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/f/fa/Revenant_01_concept_art.jpg/350px-Revenant_01_concept_art.jpg"></img>
+              <img alt="revenant" src="https://wiki.guildwars2.com/images/thumb/f/fa/Revenant_01_concept_art.jpg/350px-Revenant_01_concept_art.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -456,7 +457,7 @@ function ProfessionsRevenant() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/0/06/Spec_image_Herald.jpg/325px-Spec_image_Herald.jpg"></img>
+              <img alt="herald" src="https://wiki.guildwars2.com/images/thumb/0/06/Spec_image_Herald.jpg/325px-Spec_image_Herald.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -553,7 +554,7 @@ function ProfessionsRevenant() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/f/f6/Spec_image_Renegade.jpg/375px-Spec_image_Renegade.jpg"></img>
+              <img alt="renegade" src="https://wiki.guildwars2.com/images/thumb/f/f6/Spec_image_Renegade.jpg/375px-Spec_image_Renegade.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -665,7 +666,7 @@ function ProfessionsRevenant() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/b/b5/Vindicator_concept_art_2.jpg/350px-Vindicator_concept_art_2.jpg"></img>
+              <img alt="vindicator" src="https://wiki.guildwars2.com/images/thumb/b/b5/Vindicator_concept_art_2.jpg/350px-Vindicator_concept_art_2.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -778,6 +779,17 @@ function ProfessionsRevenant() {
             </Row>
           </Card.Body>
         </Gw2card>
+      </Row>
+      {/* google ad */}
+      <Row style={{
+        margin: '20px 0px 0px 0px',
+        padding: '0px 0px 0px 0px',
+      }}>
+        <Col sm="12">
+          <center>
+            <GoogleAd/>
+          </center>
+        </Col>
       </Row>
     </Container>
     </>

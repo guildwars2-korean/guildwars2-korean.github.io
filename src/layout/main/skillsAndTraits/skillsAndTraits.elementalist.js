@@ -9,6 +9,7 @@ import 'discretize-monorepo-root/typeface-menomonia';
 import Gw2card from '../../../components/gw2card';
 import { Container, Col, Row, Card } from 'react-bootstrap';
 import { TraitLine, Skill } from 'discretize-monorepo-root/gw2-ui';
+import { GoogleAd } from '../../../layout/googleAd'
 
 function ProfessionsElementalist() {
   return (
@@ -19,7 +20,7 @@ function ProfessionsElementalist() {
         <Gw2card header="엘리멘탈리스트 : Original" defaultActiveKey="0">
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/5/5e/Elementalist_04_concept_art.png/250px-Elementalist_04_concept_art.png"></img>
+              <img alt="elementalist" src="https://wiki.guildwars2.com/images/thumb/5/5e/Elementalist_04_concept_art.png/250px-Elementalist_04_concept_art.png"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -416,7 +417,7 @@ function ProfessionsElementalist() {
         <Gw2card header="템페스트 : HoT(Heart Of Thorns)">
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/4/41/Spec_image_Tempest.jpg/300px-Spec_image_Tempest.jpg"></img>
+              <img alt="tempest" src="https://wiki.guildwars2.com/images/thumb/4/41/Spec_image_Tempest.jpg/300px-Spec_image_Tempest.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -501,7 +502,7 @@ function ProfessionsElementalist() {
         <Gw2card header="위버 : PoF(Path of Fire)">
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/b/b2/Spec_image_Weaver.jpg/400px-Spec_image_Weaver.jpg"></img>
+              <img alt="weaver" src="https://wiki.guildwars2.com/images/thumb/b/b2/Spec_image_Weaver.jpg/400px-Spec_image_Weaver.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -694,7 +695,7 @@ function ProfessionsElementalist() {
         <Gw2card header="카탈리스트 : EoD(End of Dragons)">
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/4/42/Catalyst_concept_art_2.jpg/350px-Catalyst_concept_art_2.jpg"></img>
+              <img alt="catalyst" src="https://wiki.guildwars2.com/images/thumb/4/42/Catalyst_concept_art_2.jpg/350px-Catalyst_concept_art_2.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -811,6 +812,17 @@ function ProfessionsElementalist() {
             </Row>
           </Card.Body>
         </Gw2card>
+      </Row>
+      {/* google ad */}
+      <Row style={{
+        margin: '20px 0px 0px 0px',
+        padding: '0px 0px 0px 0px',
+      }}>
+        <Col sm="12">
+          <center>
+            <GoogleAd/>
+          </center>
+        </Col>
       </Row>
     </Container>
     </>

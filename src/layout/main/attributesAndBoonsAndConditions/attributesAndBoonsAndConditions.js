@@ -9,6 +9,7 @@ import 'discretize-monorepo-root/typeface-menomonia';
 import Gw2card from '../../../components/gw2card';
 import { Container, Col, Row, Card } from 'react-bootstrap';
 import { Attribute, Boon, Condition, ControlEffect, CommonEffect } from 'discretize-monorepo-root/gw2-ui';
+import { GoogleAd } from '../../../layout/googleAd'
 
 function AttributesAndBoonsAndConditions() {
   return (
@@ -105,6 +106,17 @@ function AttributesAndBoonsAndConditions() {
             <CommonEffect name="Superspeed" /><br></br>
             <CommonEffect name="Unblockable" /><br></br>
           </Gw2card>
+        </Col>
+      </Row>
+      {/* google ad */}
+      <Row style={{
+        margin: '20px 0px 0px 0px',
+        padding: '0px 0px 0px 0px',
+      }}>
+        <Col sm="12">
+          <center>
+            <GoogleAd/>
+          </center>
         </Col>
       </Row>
     </Container>

@@ -9,6 +9,7 @@ import 'discretize-monorepo-root/typeface-menomonia';
 import Gw2card from '../../../components/gw2card';
 import { Container, Col, Row, Card } from 'react-bootstrap';
 import { TraitLine, Skill } from 'discretize-monorepo-root/gw2-ui';
+import { GoogleAd } from '../../../layout/googleAd'
 
 function ProfessionsEngineer() {
   return (
@@ -19,7 +20,7 @@ function ProfessionsEngineer() {
         <Gw2card header="엔지니어 : Original" defaultActiveKey="0">
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/e/e5/Engineer_04_concept_art.png/350px-Engineer_04_concept_art.png"></img>
+              <img alt="engineer" src="https://wiki.guildwars2.com/images/thumb/e/e5/Engineer_04_concept_art.png/350px-Engineer_04_concept_art.png"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -332,7 +333,7 @@ function ProfessionsEngineer() {
         <Gw2card header="스크래퍼 : HoT(Heart Of Thorns)">
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/5/5e/Spec_image_Scrapper.jpg/500px-Spec_image_Scrapper.jpg"></img>
+              <img alt="scrapper" src="https://wiki.guildwars2.com/images/thumb/5/5e/Spec_image_Scrapper.jpg/500px-Spec_image_Scrapper.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -429,7 +430,7 @@ function ProfessionsEngineer() {
         <Gw2card header="홀로스미스 : PoF(Path of Fire)">
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/f/f0/Spec_image_Holosmith.jpg/470px-Spec_image_Holosmith.jpg"></img>
+              <img alt="holosmith" src="https://wiki.guildwars2.com/images/thumb/f/f0/Spec_image_Holosmith.jpg/470px-Spec_image_Holosmith.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -563,7 +564,7 @@ function ProfessionsEngineer() {
         <Gw2card header="메카니스트 : EoD(End of Dragons)">
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/a/a3/Mechanist_concept_art_3.png/350px-Mechanist_concept_art_3.png"></img>
+              <img alt="mechanist" src="https://wiki.guildwars2.com/images/thumb/a/a3/Mechanist_concept_art_3.png/350px-Mechanist_concept_art_3.png"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -644,6 +645,17 @@ function ProfessionsEngineer() {
             </Row>
           </Card.Body>
         </Gw2card>
+      </Row>
+      {/* google ad */}
+      <Row style={{
+        margin: '20px 0px 0px 0px',
+        padding: '0px 0px 0px 0px',
+      }}>
+        <Col sm="12">
+          <center>
+            <GoogleAd/>
+          </center>
+        </Col>
       </Row>
     </Container>
     </>

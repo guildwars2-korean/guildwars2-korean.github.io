@@ -9,6 +9,7 @@ import 'discretize-monorepo-root/typeface-menomonia';
 import Gw2card from '../../../components/gw2card';
 import { Container, Col, Row, Card } from 'react-bootstrap';
 import { TraitLine, Skill } from 'discretize-monorepo-root/gw2-ui';
+import { GoogleAd } from '../../../layout/googleAd'
 
 function ProfessionsNecromancer() {
   return (
@@ -20,7 +21,7 @@ function ProfessionsNecromancer() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/1/14/Necromancer_03_concept_art.jpg/350px-Necromancer_03_concept_art.jpg"></img>
+              <img alt="necromancer" src="https://wiki.guildwars2.com/images/thumb/1/14/Necromancer_03_concept_art.jpg/350px-Necromancer_03_concept_art.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -504,7 +505,7 @@ function ProfessionsNecromancer() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/f/f8/Spec_image_Reaper.jpg/425px-Spec_image_Reaper.jpg"></img>
+              <img alt="reaper" src="https://wiki.guildwars2.com/images/thumb/f/f8/Spec_image_Reaper.jpg/425px-Spec_image_Reaper.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -612,7 +613,7 @@ function ProfessionsNecromancer() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/7/7d/Spec_image_Scourge.jpg/425px-Spec_image_Scourge.jpg"></img>
+              <img alt="scourge" src="https://wiki.guildwars2.com/images/thumb/7/7d/Spec_image_Scourge.jpg/425px-Spec_image_Scourge.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -706,7 +707,7 @@ function ProfessionsNecromancer() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/a/ae/Harbinger_concept_art_2.jpg/350px-Harbinger_concept_art_2.jpg"></img>
+              <img alt="harbinger" src="https://wiki.guildwars2.com/images/thumb/a/ae/Harbinger_concept_art_2.jpg/350px-Harbinger_concept_art_2.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -797,6 +798,17 @@ function ProfessionsNecromancer() {
             </Row>
           </Card.Body>
         </Gw2card>
+      </Row>
+      {/* google ad */}
+      <Row style={{
+        margin: '20px 0px 0px 0px',
+        padding: '0px 0px 0px 0px',
+      }}>
+        <Col sm="12">
+          <center>
+            <GoogleAd/>
+          </center>
+        </Col>
       </Row>
     </Container>
     </>

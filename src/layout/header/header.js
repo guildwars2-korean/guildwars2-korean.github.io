@@ -1,7 +1,7 @@
 import React from 'react';
 import './header.css'
 
-import { Container, Nav, Navbar, NavDropdown, Row, Col } from 'react-bootstrap'
+import { Container, Nav, Navbar, NavDropdown } from 'react-bootstrap'
 
 import elementalist_icon from '../../images/Elementalist_icon_small.png'
 import engineer_icon from '../../images/Engineer_icon_small.png'

@@ -9,6 +9,7 @@ import 'discretize-monorepo-root/typeface-menomonia';
 import Gw2card from '../../../components/gw2card';
 import { Container, Col, Row, Card } from 'react-bootstrap';
 import { TraitLine, Skill } from 'discretize-monorepo-root/gw2-ui';
+import { GoogleAd } from '../../../layout/googleAd'
 
 function ProfessionsRanger() {
   return (
@@ -20,7 +21,7 @@ function ProfessionsRanger() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/f/f5/Ranger_04_concept_art.png/350px-Ranger_04_concept_art.png"></img>
+              <img alt="ranger" src="https://wiki.guildwars2.com/images/thumb/f/f5/Ranger_04_concept_art.png/350px-Ranger_04_concept_art.png"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -609,7 +610,7 @@ function ProfessionsRanger() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/8/8c/Spec_image_Druid.jpg/350px-Spec_image_Druid.jpg"></img>
+              <img alt="druid" src="https://wiki.guildwars2.com/images/thumb/8/8c/Spec_image_Druid.jpg/350px-Spec_image_Druid.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -729,7 +730,7 @@ function ProfessionsRanger() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/f/fd/Spec_image_Soulbeast.jpg/520px-Spec_image_Soulbeast.jpg"></img>
+              <img alt="soulbeast" src="https://wiki.guildwars2.com/images/thumb/f/fd/Spec_image_Soulbeast.jpg/520px-Spec_image_Soulbeast.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -872,7 +873,7 @@ function ProfessionsRanger() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/b/bc/Untamed_concept_art_3.png/350px-Untamed_concept_art_3.png"></img>
+              <img alt="untamed" src="https://wiki.guildwars2.com/images/thumb/b/bc/Untamed_concept_art_3.png/350px-Untamed_concept_art_3.png"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -1116,6 +1117,17 @@ function ProfessionsRanger() {
             </Row>
           </Card.Body>
         </Gw2card>
+      </Row>
+      {/* google ad */}
+      <Row style={{
+        margin: '20px 0px 0px 0px',
+        padding: '0px 0px 0px 0px',
+      }}>
+        <Col sm="12">
+          <center>
+            <GoogleAd/>
+          </center>
+        </Col>
       </Row>
     </Container>
     </>

@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, Col, Row, Card } from 'react-bootstrap';
 import Gw2card from '../../components/gw2card';
 import DiscordWidget from '../discordWidget';
+import { GoogleAd } from '../../layout/googleAd'
 
 function Home() {
   return (
@@ -178,6 +179,17 @@ function Home() {
         {/* gw2kr.com 디스코드 */}
         <Col md="6" className="discord">
           <DiscordWidget id="1007871222429786152"></DiscordWidget>
+        </Col>
+      </Row>
+      {/* google ad */}
+      <Row style={{
+        margin: '20px 0px 0px 0px',
+        padding: '0px 0px 0px 0px',
+      }}>
+        <Col sm="12">
+          <center>
+            <GoogleAd/>
+          </center>
         </Col>
       </Row>
     </Container>

@@ -9,6 +9,7 @@ import 'discretize-monorepo-root/typeface-menomonia';
 import Gw2card from '../../../components/gw2card';
 import { Container, Col, Row, Card } from 'react-bootstrap';
 import { TraitLine, Skill } from 'discretize-monorepo-root/gw2-ui';
+import { GoogleAd } from '../../../layout/googleAd'
 
 function ProfessionsWarrior() {
   return (
@@ -20,7 +21,7 @@ function ProfessionsWarrior() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/5/56/Warrior_04_concept_art.png/350px-Warrior_04_concept_art.png"></img>
+              <img alt="warrior" src="https://wiki.guildwars2.com/images/thumb/5/56/Warrior_04_concept_art.png/350px-Warrior_04_concept_art.png"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -675,7 +676,7 @@ function ProfessionsWarrior() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/6/64/Spec_image_Berserker.jpg/305px-Spec_image_Berserker.jpg"></img>
+              <img alt="berserker" src="https://wiki.guildwars2.com/images/thumb/6/64/Spec_image_Berserker.jpg/305px-Spec_image_Berserker.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -771,7 +772,7 @@ function ProfessionsWarrior() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/4/47/Spec_image_Spellbreaker.jpg/440px-Spec_image_Spellbreaker.jpg"></img>
+              <img alt="spellbreaker" src="https://wiki.guildwars2.com/images/thumb/4/47/Spec_image_Spellbreaker.jpg/440px-Spec_image_Spellbreaker.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -896,7 +897,7 @@ function ProfessionsWarrior() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/2/2a/Bladesworn_concept_art_2.jpg/350px-Bladesworn_concept_art_2.jpg"></img>
+              <img alt="bladesworn" src="https://wiki.guildwars2.com/images/thumb/2/2a/Bladesworn_concept_art_2.jpg/350px-Bladesworn_concept_art_2.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -979,6 +980,17 @@ function ProfessionsWarrior() {
             </Row>
           </Card.Body>
         </Gw2card>
+      </Row>
+      {/* google ad */}
+      <Row style={{
+        margin: '20px 0px 0px 0px',
+        padding: '0px 0px 0px 0px',
+      }}>
+        <Col sm="12">
+          <center>
+            <GoogleAd/>
+          </center>
+        </Col>
       </Row>
     </Container>
     </>

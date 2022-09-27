@@ -9,6 +9,7 @@ import 'discretize-monorepo-root/typeface-menomonia';
 import Gw2card from '../../../components/gw2card';
 import { Container, Col, Row, Card } from 'react-bootstrap';
 import { TraitLine, Skill } from 'discretize-monorepo-root/gw2-ui';
+import { GoogleAd } from '../../../layout/googleAd'
 
 function ProfessionsGuardian() {
   return (
@@ -19,7 +20,7 @@ function ProfessionsGuardian() {
         <Gw2card header="가디언 : Original" defaultActiveKey="0">
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/8/88/Guardian_04_concept_art.png/350px-Guardian_04_concept_art.png"></img>
+              <img alt="guardian" src="https://wiki.guildwars2.com/images/thumb/8/88/Guardian_04_concept_art.png/350px-Guardian_04_concept_art.png"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -529,7 +530,7 @@ function ProfessionsGuardian() {
         <Gw2card header="드래곤헌터 : HoT(Heart Of Thorns)">
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/e/eb/Spec_image_Dragonhunter.jpg/370px-Spec_image_Dragonhunter.jpg"></img>
+              <img alt="dragonhunter" src="https://wiki.guildwars2.com/images/thumb/e/eb/Spec_image_Dragonhunter.jpg/370px-Spec_image_Dragonhunter.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -630,7 +631,7 @@ function ProfessionsGuardian() {
         <Gw2card header="파이어브랜드 : PoF(Path of Fire)">
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/e/ef/Spec_image_Firebrand.jpg/370px-Spec_image_Firebrand.jpg"></img>
+              <img alt="firebrand" src="https://wiki.guildwars2.com/images/thumb/e/ef/Spec_image_Firebrand.jpg/370px-Spec_image_Firebrand.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -719,7 +720,7 @@ function ProfessionsGuardian() {
         <Gw2card header="윌벤더 : EoD(End of Dragons)">
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/1/18/Willbender_concept_art_2.jpg/350px-Willbender_concept_art_2.jpg"></img>
+              <img alt="willbender" src="https://wiki.guildwars2.com/images/thumb/1/18/Willbender_concept_art_2.jpg/350px-Willbender_concept_art_2.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -800,6 +801,17 @@ function ProfessionsGuardian() {
             </Row>
           </Card.Body>
         </Gw2card>
+      </Row>
+      {/* google ad */}
+      <Row style={{
+        margin: '20px 0px 0px 0px',
+        padding: '0px 0px 0px 0px',
+      }}>
+        <Col sm="12">
+          <center>
+            <GoogleAd/>
+          </center>
+        </Col>
       </Row>
     </Container>
     </>

@@ -9,6 +9,7 @@ import 'discretize-monorepo-root/typeface-menomonia';
 import Gw2card from '../../../components/gw2card';
 import { Container, Col, Row, Card } from 'react-bootstrap';
 import { TraitLine, Skill } from 'discretize-monorepo-root/gw2-ui';
+import { GoogleAd } from '../../../layout/googleAd'
 
 function ProfessionsThief() {
   return (
@@ -20,7 +21,7 @@ function ProfessionsThief() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/3/35/Thief_04_concept_art.png"></img>
+              <img alt="thief" src="https://wiki.guildwars2.com/images/3/35/Thief_04_concept_art.png"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -445,7 +446,7 @@ function ProfessionsThief() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/e/e8/Spec_image_Daredevil.jpg/425px-Spec_image_Daredevil.jpg"></img>
+              <img alt="daredevil" src="https://wiki.guildwars2.com/images/thumb/e/e8/Spec_image_Daredevil.jpg/425px-Spec_image_Daredevil.jpg"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -559,7 +560,7 @@ function ProfessionsThief() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/b/b6/Spec_image_Deadeye.jpg/590px-Spec_image_Deadeye.jpg"></img>
+              <img alt="deadeye" src="https://wiki.guildwars2.com/images/thumb/b/b6/Spec_image_Deadeye.jpg/590px-Spec_image_Deadeye.jpg"></img>
             </center>
             <Row>
             <Col xl="12" >
@@ -787,7 +788,7 @@ function ProfessionsThief() {
           
           <Card.Body>
             <center>
-              <img src="https://wiki.guildwars2.com/images/thumb/6/6d/Specter_concept_art_2.png/350px-Specter_concept_art_2.png"></img>
+              <img alt="specter" src="https://wiki.guildwars2.com/images/thumb/6/6d/Specter_concept_art_2.png/350px-Specter_concept_art_2.png"></img>
             </center>
             <Row>
               <Col xl="12" >
@@ -881,6 +882,17 @@ function ProfessionsThief() {
             </Row>
           </Card.Body>
         </Gw2card>
+      </Row>
+      {/* google ad */}
+      <Row style={{
+        margin: '20px 0px 0px 0px',
+        padding: '0px 0px 0px 0px',
+      }}>
+        <Col sm="12">
+          <center>
+            <GoogleAd/>
+          </center>
+        </Col>
       </Row>
     </Container>
     </>
