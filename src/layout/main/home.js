@@ -115,7 +115,7 @@ function Home() {
                   <a href="https://discord.gg/M6ErTnFwJP" target="_blank" rel="noreferrer" >La Campanella [LC]</a>
                 </li>
                 <li>
-                  Never Die [ND]
+                  <a href="https://cafe.naver.com/guildneverdie" target="_blank" rel="noreferrer" >Never Die [ND]</a>
                 </li>
                 <li>
                   <a href="https://discord.gg/r2mdc8D" target="_blank" rel="noreferrer" >This Is M [rn]</a>
