@@ -1,6 +1,6 @@
 [
     {
-        "description": "Sunspot이 버닝을 유발하고 범위가 증가한다. 컨디션 데미지가 증가한다..",
+        "description": "일정 수 이상 컨디션에 걸리면, Lesser Cleansing Fire를 시전한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신이 가하는 고통이 증가합니다. 적을 괴롭히면 그림자의 힘을 얻습니다.<br> 슈라우드 상태에서는 그림자의 힘을 부여하지 않습니다.",
+        "description": "주는 토먼트 데미지가 증가한다. 적에게 토먼트를 유발할때마다 Shadowforce를 획득한다. 슈라우드 상태일때는 이 Shadowforce를 획득하지않는다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

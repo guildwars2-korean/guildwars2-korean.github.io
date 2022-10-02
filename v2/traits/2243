@@ -1,6 +1,6 @@
 [
     {
-        "description": "전설을 바꾸거나 Alliance Tactics를 활성화할 때 지역에서 인내심을 부여하십시오. 다른 변명자 전문화에 대한 효과가 감소했습니다.",
+        "description": "레전드를 스왑하거나, Alliance Tactic을 발동시킬때, 범위의 아군들에게 지구력을 회복시킨다. 다른 빈디케이터들에게는 이 효과가 감소한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

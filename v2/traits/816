@@ -14,7 +14,7 @@
                 "duration": 4,
                 "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
                 "prefix": {
-                    "description": "Corruption. Feast on your conditions, gaining health for each one consumed. You become vulnerable.",
+                    "description": "Corruption.Feast on your conditions, gaining health for each one consumed. You become vulnerable.",
                     "icon": "https://render.guildwars2.com/file/2E59B8AD34566FB37594A703180D1F1744012B20/103806.png",
                     "status": "Consume Conditions",
                     "text": "Apply Buff/Condition"
@@ -29,7 +29,7 @@
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
                 "prefix": {
-                    "description": "Corruption. Bleed yourself to grant might to allies around you and bleed your target.",
+                    "description": "Corruption.Bleed yourself to grant might to allies around you and bleed your target.",
                     "icon": "https://render.guildwars2.com/file/F26312E5CBFE5CA12261B66E194F21A5D205F314/103795.png",
                     "status": "Blood Is Power",
                     "text": "Apply Buff/Condition"

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Distortion스킬로 섀터된 환영이 미라지미러가 된다. 디스토션을 받을때마다 짧은 시간동안 앰부쉬 스킬이 사용가능해진다.",
+        "description": "Distortion스킬로 섀터된 일루전이 Mirage Mirrors가 된다. 디스토션을 받을때마다 짧은 시간동안 앰부쉬 스킬이 사용가능해진다.",
         "facts": [
             {
                 "duration": 2,

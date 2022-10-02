@@ -1,6 +1,6 @@
 [
     {
-        "description": "보호막을 부여한 아군에게 부패 방지 독을 적용합니다. 아군에게 주는 치유량이 증가합니다. Rot Wallow Venom 효과는 자신에게 적용할 수 없습니다.",
+        "description": "아군에게 배리어를 부여할때, Rot Wallow Venom 효과도 같이 부여한다. 주는 힐링량이 증가한다. Rot Wallow Venom 효과는 자신에게 부여하지않는다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

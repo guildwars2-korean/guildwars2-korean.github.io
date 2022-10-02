@@ -1,6 +1,6 @@
 [
     {
-        "description": "미라지 클록을 획득하면, 환영들도 미라지 클록을 획득하여 효과를 받게된다.",
+        "description": "미라지 클록을 획득하면, 일루전들도 미라지 클록을 획득한다.",
         "icon": "https://render.guildwars2.com/file/AE970495F2A5F7907CDBB836B5079911FC5A1064/1769957.png",
         "id": 2070,
         "name": "Infinite Horizon",

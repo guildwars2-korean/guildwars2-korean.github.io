@@ -22,7 +22,8 @@ client = translate.Client()
 def main():
     translated_dir = './{}'.format(translated_dir_name)
     create_dir(translated_dir)
-    resources = get_resources()
+    # resources = get_resources()
+    resources = ['traits']
     for resource in resources:
         translate_resource(resource)
 
@@ -60,7 +61,8 @@ def pre_translate_item(origin_text):
         '<c=@AbilityType>',
         ' <c/>',
         '<c/>',
-        '</c>',
+        ' </c>',
+        '</c>'
     ]
     for ignore_text in ignore_texts:
         copied_text = copied_text.replace(ignore_text, '')
