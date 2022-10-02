@@ -1,6 +1,6 @@
 [
     {
-        "description": "&quot;폭풍의 눈!&quot; 비활성화된 경우.<br> 무력화에는 기절, 멍, 넉백, 당기기, 쓰러뜨리기, 가라앉기, 띄우기, 발사, 도발 및 공포가 포함됩니다.",
+        "description": "행동 불능에 걸렸을 때 \"Eye of the Storm!\"을 시전한다. <br>행동불능에는 스턴, 데이즈, 풀, 넉다운, 싱크, 플로트, 런치, 도발, 공포를 포함한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

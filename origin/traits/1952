@@ -1,5 +1,5 @@
 {
-    "description": "Cast \"Eye of the Storm!\" when disabled.<br><c=@reminder>Disables include stun, daze, knock back, pull, knock down, sink, float, launch, taunt, and fear.",
+    "description": "Cast \"Eye of the Storm!\" when disabled.<br>Disables include stun, daze, knock back, pull, knock down, sink, float, launch, taunt, and fear.",
     "facts": [
         {
             "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
