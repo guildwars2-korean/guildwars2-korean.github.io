@@ -1,5 +1,5 @@
 {
-    "description": "Grant stability to nearby allies when attuning to earth.\n<c=@reminder>Note: This effect will not trigger when attuning to the same element.</c>",
+    "description": "Grant stability to nearby allies when attuning to earth.\nNote: This effect will not trigger when attuning to the same element.",
     "facts": [
         {
             "apply_count": 1,
