@@ -1,6 +1,6 @@
 [
     {
-        "description": "갑각 더미는 힘을 부여합니다.",
+        "description": "Carapace 중첩 수에 따라 추가 파워를 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",

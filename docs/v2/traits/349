@@ -1,6 +1,6 @@
 [
     {
-        "description": "생명력 임계 이상일때 주는 타격 데미지가 증가한다. 공격을 막거나 회피하면 회복한다.",
+        "description": "생명력 임계 이상에서 주는 타격 데미지가 증가한다. 공격을 막거나 회피하면 회복한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

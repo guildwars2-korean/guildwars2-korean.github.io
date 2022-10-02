@@ -1,6 +1,6 @@
 [
     {
-        "description": "Aegis는 종료 시 혜택을 제공합니다.",
+        "description": "이지스가 종료될 때 분을 부여한다.",
         "facts": [
             {
                 "apply_count": 1,

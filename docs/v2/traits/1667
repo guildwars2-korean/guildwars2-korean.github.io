@@ -1,6 +1,6 @@
 [
     {
-        "description": "솔저의 집중은 영향을 받은 아군에게 신속성을 부여합니다.",
+        "description": "Soldier's Focus에 영향받은 아군들에게 퀴크니스를 부여한다.",
         "facts": [
             {
                 "apply_count": 1,

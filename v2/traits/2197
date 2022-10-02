@@ -1,6 +1,6 @@
 [
     {
-        "description": "버츄를 발동시키면 무기스킬의 재사용 대기 시간이 감소한다. Flowing Resolve를 발동시키면 알라크리티를 획득한다.",
+        "description": "버츄를 발동시키면 무기스킬의 재사용 대기시간이 감소한다. Flowing Resolve를 발동시키면 알라크리티를 획득한다.",
         "facts": [
             {
                 "apply_count": 1,

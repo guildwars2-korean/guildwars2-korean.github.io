@@ -1,6 +1,6 @@
 [
     {
-        "description": "적에게 조건을 부여하면 갑피가 부여됩니다. 갑각 임계값 이상에서 펄스 보호를 얻습니다.",
+        "description": "적에게 컨디션을 유발하는것이 carapace를 부여한다. carapace가 일정 중첩 수 이상이면 주기적으로 프로텍션을 획득한다.",
         "facts": [
             {
                 "apply_count": 1,

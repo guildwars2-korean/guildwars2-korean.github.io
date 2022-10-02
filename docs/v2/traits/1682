@@ -1,6 +1,6 @@
 [
     {
-        "description": "증가된 활력을 얻습니다. 생명력의 백분율에 따라 다른 사람의 치유가 향상됩니다.",
+        "description": "추가 바이탈리티를 획득한다. 바이탈리티에 비례해서 주는 힐링량이 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

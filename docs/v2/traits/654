@@ -1,6 +1,6 @@
 [
     {
-        "description": "치유 스킬 사용 시 하급 보호의 상징을 시전합니다.",
+        "description": "힐링 스킬을 사용시 Lesser Symbols of Protection을 시전한다.",
         "icon": "https://render.guildwars2.com/file/DB1111AB10B1D3FAA67EF4957A0167BB1E61C90C/1012404.png",
         "id": 654,
         "name": "Protector's Restoration",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "주변 아군은 미덕 스킬 2의 패시브 효과를 얻습니다.<br><br> Willbender: 결의 효과가 발동하면 아군을 치유합니다.",
+        "description": "주변의 아군은 버츄 2번 스킬의 패시브 효과를 얻는다.<br><br>윌벤더: Resolve 스킬의 효과가 발동할 시 아군들을 회복시킨다.",
         "facts": [
             {
                 "apply_count": 1,

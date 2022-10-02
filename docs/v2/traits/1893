@@ -1,6 +1,6 @@
 [
     {
-        "description": "가해지는 타격 피해는 부족한 지구력에 따라 증가합니다.",
+        "description": "지구력에 반비례하여 타격 데미지가 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

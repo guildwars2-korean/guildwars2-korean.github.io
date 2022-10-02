@@ -1,6 +1,6 @@
 [
     {
-        "description": "깃발은 아군이 떨어질 때 신속함을 부여합니다. 현수막을 통해 적용된 펄스 효과는 더 오래 지속됩니다.",
+        "description": "배너 아군에게 퀴크니스를 부여한다. 배너로 받는 분의 지속시간이 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

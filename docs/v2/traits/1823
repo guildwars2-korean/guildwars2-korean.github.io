@@ -1,10 +1,10 @@
 [
     {
-        "description": "레전드 변경 시 아군에게 주는 회복량이 증가한다.",
+        "description": "레전드 변경시 아군에게 주는 회복량이 증가한다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "레전드 변경 시 아군에게 주는 회복량이 증가한다.",
+                "description": "레전드 변경시 아군에게 주는 회복량이 증가한다.",
                 "duration": 10,
                 "icon": "https://render.guildwars2.com/file/4BA0B6F2AD93F72CA3D5C3C40D30B40B14920825/2128015.png",
                 "status": "Invoking Harmony",

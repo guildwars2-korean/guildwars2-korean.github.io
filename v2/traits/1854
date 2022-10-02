@@ -1,10 +1,10 @@
 [
     {
-        "description": "당신이 가진 각 혜택에 대한 물리적 및 상태 손상을 줄입니다.",
+        "description": "갖고있는 분 종류 수에 따라 피격 데미지가 감소한다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Reduce physical and condition damage for each boon you have.",
+                "description": "갖고있는 분 종류 수에 따라 피격 데미지가 감소한다.",
                 "duration": 0,
                 "icon": "https://render.guildwars2.com/file/09CAECBD623B9DD4BB97E24795B99B27EC0240EC/1012338.png",
                 "status": "Iron Blooded",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "치유 스킬을 사용할 때 레서 파워 클린즈를 시전합니다.",
+        "description": "힐링 스킬 사용시 Lesser Power Cleanse를 시전한다.",
         "icon": "https://render.guildwars2.com/file/05AB640373CFD462B305061165617C0D0FE0A878/1012531.png",
         "id": 757,
         "name": "Mender's Purity",

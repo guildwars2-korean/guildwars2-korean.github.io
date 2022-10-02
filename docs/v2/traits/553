@@ -1,6 +1,6 @@
 [
     {
-        "description": "외침 기술은 감소된 재충전을 얻고 조건을 아군에게 혜택으로 전환합니다.",
+        "description": "샤우트 스킬의 재사용 대기시간이 감소하고, 샤우트 스킬이 아군의 컨디션을 분으로 변환시킨다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

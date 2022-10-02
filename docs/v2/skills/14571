@@ -5,7 +5,7 @@
             "Banner"
         ],
         "chat_link": "[&Bus4AAA=]",
-        "description": "배너. 초기 배치 시 적에게 피해를 입히고 조건을 적용하는 배너를 배치한 다음 나중에 자신과 주변 아군에게 추가 혜택을 제공합니다.",
+        "description": "배너. 초기 배치 시 적에게 피해를 입히고 조건을 적용한 배너를 배치한 다음, 나중에 자신과 주변 아군에게 추가 혜택을 제공합니다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",

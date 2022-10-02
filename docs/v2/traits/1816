@@ -1,6 +1,6 @@
 [
     {
-        "description": "회피 굴림이 끝나면 주변 아군을 치유합니다.",
+        "description": "구르기 모션을 마치면 주위 아군을 회복시킨다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

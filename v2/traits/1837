@@ -1,6 +1,6 @@
 [
     {
-        "description": "적에게 Steal 을 적중시키는 경우, 지구력을 회복한다.",
+        "description": "적에게 Steal 을 적중시 지구력을 회복한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

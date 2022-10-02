@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신이나 당신의 하수인 중 한 명이 쓰러지면 포이즌 노바를 생성합니다. 적을 죽이면 들쭉날쭉한 공포를 소환합니다.",
+        "description": "네크로맨서나 미니언중 하나가 다운되었을때 Poison Nova를 생성한다. 적을 처치하면 Jagged Horror 하나를 소환한다.",
         "facts": [
             {
                 "duration": 30,

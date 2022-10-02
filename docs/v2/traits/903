@@ -1,6 +1,6 @@
 [
     {
-        "description": "장막에 들어갈 때 주위를 공격하십시오.",
+        "description": "슈라우드 상태에 들어갈때 주변의 적들을 공격한다.",
         "icon": "https://render.guildwars2.com/file/9775E905A6CBDF95CB106A0F95B79E74132CAF9C/1012602.png",
         "id": 903,
         "name": "Spiteful Spirit",

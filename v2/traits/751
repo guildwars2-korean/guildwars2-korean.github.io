@@ -1,6 +1,6 @@
 [
     {
-        "description": "집중 무기 기술은 발사체를 반사합니다. 집중 무기 기술의 재충전을 줄입니다.",
+        "description": "포커스 스킬이 투사체를 반사시킨다. 포커스 스킬의 재사용 대기시간이 감소한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

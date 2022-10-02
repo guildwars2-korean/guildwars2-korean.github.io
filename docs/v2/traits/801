@@ -1,6 +1,6 @@
 [
     {
-        "description": "상태 데미지가 증가합니다. 셉터 스킬에 의해 가해진 상태의 지속 시간이 더 길어지고, 타락의 향연이 포식하는 어둠이 됩니다.",
+        "description": "컨디션 데미지가 증가한다. 셉터 스킬로 유발된 컨디션의 지속시간이 증가한다. Feast of Corruption 스킬이 Devouring Darkness로 대체된다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

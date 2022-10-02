@@ -1,6 +1,6 @@
 [
     {
-        "description": "소비한 아드레날린에 따라 건강을 얻습니다.",
+        "description": "아드레날린 소모량에 따라 회복한다.",
         "facts": [
             {
                 "apply_count": 1,

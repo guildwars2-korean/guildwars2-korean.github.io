@@ -1,6 +1,6 @@
 [
     {
-        "description": "트릭은 감소된 재충전을 얻고 조건을 제거합니다.",
+        "description": "트릭 스킬의 재사용 대기시간이 감소하고, 트릭 스킬을 사용시 컨디션을 제거한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "아군에게 부여하는 오라가 프로텍션도 부여해준다.",
+        "description": "아군에게 오라 부여시 프로텍션도 함께 부여한다.",
         "facts": [
             {
                 "apply_count": 1,

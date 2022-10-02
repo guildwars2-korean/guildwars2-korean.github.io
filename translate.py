@@ -125,7 +125,7 @@ def get_custom_transalted_text(origin_text, dictionary):
     return copied_text
 
 def read_item(item_path):
-    with open(item_path, 'r') as f:
+    with open(item_path, 'r', encoding='UTF-8') as f:
         return f.read()
 
 def save_item(item_path, item):

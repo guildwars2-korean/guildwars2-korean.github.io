@@ -1,6 +1,6 @@
 [
     {
-        "description": "단검을 휘두를 때 증가하는 추가 위력을 얻습니다.",
+        "description": "보너스 파워를 획득한다. 대거를 장착하면 이 보너스가 더 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",

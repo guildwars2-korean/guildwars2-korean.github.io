@@ -1,6 +1,6 @@
 [
     {
-        "description": "어스 어튠먼트일때 받는 타격 데미지가 감소한다.",
+        "description": "어스 어튠먼트에서 받는 타격 데미지가 감소한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

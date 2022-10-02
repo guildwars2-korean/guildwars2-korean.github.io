@@ -1,6 +1,6 @@
 [
     {
-        "description": "아군이 Conjured Weapon을 집어 들때, 파이어 오라를 획득한다. Conjure Weapon 스킬의 재사용 대기 시간이 감소한다.",
+        "description": "아군이 Conjured Weapon을 집어 들때, 파이어 오라를 획득한다. Conjure Weapon 스킬의 재사용 대기시간이 감소한다.",
         "facts": [
             {
                 "apply_count": 1,

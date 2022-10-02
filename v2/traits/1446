@@ -1,6 +1,6 @@
 [
     {
-        "description": "회피 굴림이 끝나면 적에게 피해를 줍니다.",
+        "description": "구르기가 끝날때 적들에게 데미지를 준다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

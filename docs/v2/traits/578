@@ -1,6 +1,6 @@
 [
     {
-        "description": "미덕 스킬 1의 데미지 효과로 적을 공격하면 하급 분노의 인장을 시전합니다.",
+        "description": "버츄 1번 스킬의 데미지 효과로 적을 공격하면 Lesser Signet of Wrath 스킬을 시전한다.",
         "icon": "https://render.guildwars2.com/file/CD1F3745DD010649D5F53553B695021580221DC0/1012417.png",
         "id": 578,
         "name": "Wrath of Justice",

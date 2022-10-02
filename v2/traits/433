@@ -1,6 +1,6 @@
 [
     {
-        "description": "주는 버닝의 지속시간이 증가한다. 크리티컬 공격이 버닝을 유발할 확률을 가진다.",
+        "description": "버닝의 지속시간이 증가한다. 크리티컬 공격이 확률적으로 버닝을 유발한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

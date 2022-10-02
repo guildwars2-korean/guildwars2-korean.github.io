@@ -1,6 +1,6 @@
 [
     {
-        "description": "냉각은 시간이 지남에 따라 피해를 줍니다.",
+        "description": "칠이 지속시간에 걸쳐 데미지를 준다.",
         "facts": [
             {
                 "apply_count": 1,

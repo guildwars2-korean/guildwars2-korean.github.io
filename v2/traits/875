@@ -1,6 +1,6 @@
 [
     {
-        "description": "슈라우드 스킬 1은 취약성을 부여합니다.",
+        "description": "슈라우드 1번 스킬이 벌너러빌리티를 유발한다.",
         "facts": [
             {
                 "apply_count": 2,

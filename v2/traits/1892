@@ -1,6 +1,6 @@
 [
     {
-        "description": "폭발은 적중 시 중첩되는 포악함을 부여합니다.",
+        "description": "폭발이 적중하면 추가 페로시티를 중첩한다.",
         "facts": [
             {
                 "apply_count": 1,

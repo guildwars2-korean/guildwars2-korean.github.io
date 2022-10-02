@@ -1,6 +1,6 @@
 [
     {
-        "description": "활력이 있는 동안 입히는 타격 피해가 증가합니다.",
+        "description": "비거를 갖고 있으면 타격데미지가 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

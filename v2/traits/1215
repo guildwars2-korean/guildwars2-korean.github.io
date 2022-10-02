@@ -1,6 +1,6 @@
 [
     {
-        "description": "은신 상태에서 추가 치명타 확률을 얻습니다. 이 보너스는 당신이 공개된 후에도 잠시 동안 지속됩니다.",
+        "description": "은신 상태에서 보너스 크리티컬 확률을 획득한다. 은신에서 드러난 후에도 짧은 시간동안 이 보너스가 유지된다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",

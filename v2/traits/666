@@ -1,6 +1,6 @@
 [
     {
-        "description": "체력 임계값 아래에 있는 동안 공격을 받으면 재생을 얻습니다.",
+        "description": "생명력 임계 이하에서 피격시 리제너레이션을 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "적의 각 상태에 대한 치명타 확률이 증가합니다. 정확도에 따라 상태 손상을 얻습니다.",
+        "description": "적에게 걸린 컨디션 종류 수에 따라 크리티컬 확률이 증가한다. 프리시젼에 비례해서 컨디션 데미지가 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",

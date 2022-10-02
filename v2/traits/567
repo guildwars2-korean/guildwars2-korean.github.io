@@ -1,6 +1,6 @@
 [
     {
-        "description": "적에게 치명타를 가하면 Zealot&#39;s Flame을 얻습니다. 당신이 가하는 화상의 지속 시간이 증가하고 토치 스킬의 재충전이 감소합니다.",
+        "description": "크리티컬 공격을 가하면 Zealot's Flame 스킬을 시전한다. 가하는 버닝의 지속시간이 증가하고, 토치 스킬의 재사용 대기시간이 감소한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

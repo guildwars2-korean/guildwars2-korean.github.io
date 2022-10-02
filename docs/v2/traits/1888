@@ -1,6 +1,6 @@
 [
     {
-        "description": "Fury는 흉포함을 부여하고 추가로 치명타 확률을 높입니다. 체력 임계값 미만일 때 공격을 받으면 분노를 얻습니다.",
+        "description": "퓨리가 페로시티를 증가시켜주고, 크리티컬 확률을 더 증가시킨다. 생명력 임계 이하에서 공격받으면 퓨리를 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

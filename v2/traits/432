@@ -1,6 +1,6 @@
 [
     {
-        "description": "전투상태로 들어간 뒤의 첫 공격이 폭발하여 주변의 적들에게 데미지를 가한다. 이 효과는 구르기로 초기화할 수 있다.",
+        "description": "전투상태로 들어간 뒤의 첫 공격이 폭발하여 주변의 적들에게 데미지를 가한다. 이 효과는 구르기시 재사용 대기시간이 초기화된다.",
         "icon": "https://render.guildwars2.com/file/61510F0752BC696F210F92CA0E13AD290F13AD33/2261507.png",
         "id": 432,
         "name": "Explosive Entrance",

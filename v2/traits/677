@@ -1,6 +1,6 @@
 [
     {
-        "description": "조작은 재충전 감소 효과를 얻고 자신과 영향을 받는 아군에게 초고속을 부여합니다.",
+        "description": "매니퓰레이션 스킬의 재사용 대기시간이 감소한다. 매니퓰레이션 스킬로 자신과, 영향받은 아군에게 슈퍼스피드를 부여한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

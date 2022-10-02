@@ -1,6 +1,6 @@
 [
     {
-        "description": "Engineering Kit를 사용중일때 매 초마다 회복한다.",
+        "description": "Engineering Kit 사용시 매 초마다 회복한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

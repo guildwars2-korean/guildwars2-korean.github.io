@@ -1,6 +1,6 @@
 [
     {
-        "description": "혜택이 없는 적에게 증가된 공격 피해를 줍니다. 집중 및 도끼 기술이 더 빨리 재충전됩니다.",
+        "description": "분이 없는 적을 상대로 타격 데미지가 증가한다. 포커스와 액스 스킬의 재사용 대기시간이 감소한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "체력 임계값 미만인 적을 공격하면 민첩성을 얻습니다.",
+        "description": "생명력 임계 이하인 적을 공격하면 퀴크니스를 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "대상의 눈을 멀게 하면 냉각 효과도 적용됩니다.",
+        "description": "적에게 블라인드를 유발하면, 칠도 함께 유발한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

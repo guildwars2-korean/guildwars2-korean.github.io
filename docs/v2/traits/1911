@@ -1,6 +1,6 @@
 [
     {
-        "description": "결의의 날개는 착지 시 공격을 합니다. 결의의 날개가 재사용 대기시간이 아닐 때 이동 속도가 증가합니다.",
+        "description": "Wings of Resolve로 착지할때 공격을 가한다. Wings of Resolve 스킬 재사용 대기중에도 이동속도가 증가한다.",
         "facts": [
             {
                 "dmg_multiplier": 1.5,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "과부하는 조정에 따라 오라를 부여합니다.",
+        "description": "오버로드 스킬이 현재 어튠먼트에 따라 오라를 부여한다.",
         "facts": [
             {
                 "apply_count": 1,

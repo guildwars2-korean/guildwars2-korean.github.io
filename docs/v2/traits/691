@@ -1,6 +1,6 @@
 [
     {
-        "description": "토치 스킬의 재충전을 줄입니다. 토치 스킬의 화염 폭발은 추가 화상을 입힙니다.",
+        "description": "토치 스킬의 재사용 대기시간이 감소한다. 토치 스킬로 발생한 화염폭발이 추가적인 버닝을 유발한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

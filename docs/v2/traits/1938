@@ -1,6 +1,6 @@
 [
     {
-        "description": "집중력이 높아집니다. 체력 임계값을 초과하는 동안 추가 집중력을 얻습니다.",
+        "description": "추가 컨센트레이션을 획득한다. 생명력 임계 이상에서 컨센트레이션이 더 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",

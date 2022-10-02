@@ -1,6 +1,6 @@
 [
     {
-        "description": "자신에게 적용된 이동방해 컨디션의 지속시간이 감소한다. 이동방해 컨디션에 걸릴때 지구력을 회복한다.",
+        "description": "자신에게 적용된 이동방해 컨디션의 지속시간이 감소한다. 이동방해 컨디션에 걸리면 지구력을 회복한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

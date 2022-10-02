@@ -1,6 +1,6 @@
 [
     {
-        "description": "툴킷 스킬들의 재사용 대기시간이 감소한다. 구르기를 하게 되면 엘리트 스킬의 재사용 대기시간이 감소한다.",
+        "description": "툴킷 스킬의 재사용 대기시간이 감소한다. 구르기를 하게 되면 엘리트 스킬의 재사용 대기시간이 감소한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

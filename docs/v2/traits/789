@@ -1,6 +1,6 @@
 [
     {
-        "description": "장막을 나갈 때 지역의 아군을 치유하고 부분적으로 소생시킵니다.",
+        "description": "슈라우드 상태에서 나갈때 회복하고, 주변에 쓰러진 아군을 부분적으로 소생시킨다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

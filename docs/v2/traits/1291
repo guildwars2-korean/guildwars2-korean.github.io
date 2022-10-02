@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신이 가하는 독의 피해와 지속 시간이 증가했습니다. 다른 Deadly Arts 특성은 독의 추가 스택을 적용합니다.",
+        "description": "유발하는 포이즌의 데미지와 지속시간이 증가한다. 다른 Deadly Arts 트레잇은 추가적으로 포이즌 중첩을 유발한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

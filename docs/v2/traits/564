@@ -1,6 +1,6 @@
 [
     {
-        "description": "치명타 공격 시 활력을 얻습니다.",
+        "description": "크리티컬 공격시 비거를 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

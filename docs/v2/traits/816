@@ -1,6 +1,6 @@
 [
     {
-        "description": "타락은 감소된 재충전 시간을 얻고 추가 조건을 부여합니다.",
+        "description": "커럽션 스킬의 재사용 대기시간이 감소하고, 추가적으로 자신에게 컨디션을 유발한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

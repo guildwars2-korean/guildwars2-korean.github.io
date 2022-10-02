@@ -1,6 +1,6 @@
 [
     {
-        "description": "공격으로 치명타를 가하면 해당 위치에 근접 지뢰와 의료 키트를 생성합니다.",
+        "description": "크리티컬 공격을 가하면 내 위치에 근접감지 지뢰와 치료 키트를 생성한다.",
         "icon": "https://render.guildwars2.com/file/6EABBE9E7D25709058EF66CC593E4BC8F903A83F/1012373.png",
         "id": 1680,
         "name": "Bunker Down",

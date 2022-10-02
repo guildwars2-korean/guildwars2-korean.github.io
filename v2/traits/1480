@@ -1,6 +1,6 @@
 [
     {
-        "description": "주기적으로 솔저의 집중을 얻습니다. 버스트 스킬로 명중하면 솔저의 포커스가 소모되어 주변 아군에게 위력을 부여합니다.",
+        "description": "지속적으로 Soldier's Focus를 획득한다. 버스트 스킬 적중시 Soldier's Focus를 연장하고 주변의 아군들에게 마이트를 부여한다.",
         "facts": [
             {
                 "duration": 10,

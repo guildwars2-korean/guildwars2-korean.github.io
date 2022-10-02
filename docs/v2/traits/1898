@@ -1,6 +1,6 @@
 [
     {
-        "description": "덫은 재충전량이 감소하고 적을 느리게 만듭니다.",
+        "description": "트랩 스킬이 적들을 느리게하고, 재사용 대기시간이 감소한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

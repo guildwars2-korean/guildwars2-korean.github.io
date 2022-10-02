@@ -1,6 +1,6 @@
 [
     {
-        "description": "후방이나 측면에서 적을 공격할 때 하급 가속을 사용하십시오.",
+        "description": "적의 후방이나 측면에서 공격하면 Lesser Haste를 사용한다.",
         "icon": "https://render.guildwars2.com/file/4B0201023C2E4B06BFE3EED499B2382D1F98FCB4/1012763.png",
         "id": 1252,
         "name": "Burst of Agility",

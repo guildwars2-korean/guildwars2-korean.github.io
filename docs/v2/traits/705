@@ -1,6 +1,6 @@
 [
     {
-        "description": "체력 임계값 아래에 있는 동안 공격을 받으면 자신의 복제품을 은폐하고 뒤에 남깁니다.",
+        "description": "생명력 임계 이하에서 공격받으면, 은신하고 그 자리에 클론 하나를 남긴다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신의 힘에 따라 상태 피해를 얻습니다.",
+        "description": "파워에 비례해서 추가 컨디션 데미지를 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",

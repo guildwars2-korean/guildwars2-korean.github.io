@@ -1,6 +1,6 @@
 [
     {
-        "description": "체력 임계값 아래에 있는 동안 공격을 받으면 하급 결의의 상징을 시전합니다.",
+        "description": "생명력 임계 이하에서 Lesser Symbols of Resolution을 시전한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

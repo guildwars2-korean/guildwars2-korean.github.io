@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신의 모든 혜택에 대해 증가된 공격 피해를 줍니다.",
+        "description": "가진 분 종류 수에따라 타격데미지가 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

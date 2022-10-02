@@ -1,6 +1,6 @@
 [
     {
-        "description": "물에 적응하면 주변 아군에게 활력을 부여합니다. 활력을 부여한 아군에게 지구력을 회복합니다.",
+        "description": "워터 어튠먼트로 변환시 주변 아군에게 비거를 부여한다. 비거 부여시 아군의 지구력을 회복시킨다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

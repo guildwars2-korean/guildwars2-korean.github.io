@@ -1,6 +1,6 @@
 [
     {
-        "description": "공격을 막으면 정의가 최대 충전량에 도달하고 정의의 창의 재사용 대기시간이 줄어듭니다.",
+        "description": "공격을 방어하면 저스티스를 최대로 충전하고, Spear of Justice의 재사용 대기시간을 감소시킨다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

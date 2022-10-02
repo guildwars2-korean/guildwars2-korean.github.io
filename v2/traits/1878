@@ -1,6 +1,6 @@
 [
     {
-        "description": "상태 피해를 얻습니다. 권총 기술의 상태 지속 시간이 증가합니다.",
+        "description": "컨디션 데미지가 증가한다. 피스톨 스킬의 컨디션 지속시간이 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신이 가하는 공포는 매초 피해를 줍니다.",
+        "description": "유발하는 공포가 매 초마다 데미지를 준다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

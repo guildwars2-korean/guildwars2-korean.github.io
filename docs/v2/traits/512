@@ -1,6 +1,6 @@
 [
     {
-        "description": "엔지니어링 킷을 장착하면 엔지니어링 킷에 따라 공격이나 스킬을 시전하고 스위프트니스를 부여 받는다.",
+        "description": "엔지니어링 킷 장착시 엔지니어링 킷에 따라 공격이나 스킬을 시전하고 스위프트니스를 부여 받는다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "당신이 부수는 각 클론에 대해 민첩성을 얻으십시오.",
+        "description": "클론이 새터될 때마다 알라크리티를 획득한다.",
         "facts": [
             {
                 "apply_count": 1,

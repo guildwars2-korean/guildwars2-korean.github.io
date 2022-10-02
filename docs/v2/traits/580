@@ -1,6 +1,6 @@
 [
     {
-        "description": "방패를 휘두를 때 강인함을 얻고, 방패 스킬의 재충전량이 감소합니다.",
+        "description": "쉴드 장착시 터프니스가 증가하고, 쉴드 스킬의 재사용 대기시간이 감소한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/432C0F04F740C1377E6D5D56640B57083C031216/2229324.png",

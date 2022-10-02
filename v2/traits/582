@@ -1,6 +1,6 @@
 [
     {
-        "description": "체력 임계값 미만일 때 공격을 받으면 보호를 받습니다.",
+        "description": "생명력이 임계 이하에서 피격시 이지스를 획득한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

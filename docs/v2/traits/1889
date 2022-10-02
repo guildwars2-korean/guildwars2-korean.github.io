@@ -1,6 +1,6 @@
 [
     {
-        "description": "섀터 스킬 2는 실명을 유발합니다.",
+        "description": "2번 섀터 스킬이 블라인드를 유발한다.",
         "facts": [
             {
                 "apply_count": 1,

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Renewing Gaze 발동시 힐링, 유틸리티, 엘리트 스킬의 재사용 대기 시간을 감소시킨다. <br> 종족스킬은 재사용 대기 시간이 감소하지않는다.",
+        "description": "Renewing Gaze 발동시 힐링, 유틸리티, 엘리트 스킬의 재사용 대기시간을 감소시킨다. <br> 종족스킬은 재사용 대기시간이 감소하지않는다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",

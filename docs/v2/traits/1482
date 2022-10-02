@@ -1,6 +1,6 @@
 [
     {
-        "description": "전투 중일 때 간격마다 자신과 주변 아군에게 힘을 부여합니다. 솔저의 집중 반경이 증가합니다.",
+        "description": "전투중일때, 자신과 주변의 아군들에게 마이트를 주기적으로 부여한다. Soldier's Focus의 범위가 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

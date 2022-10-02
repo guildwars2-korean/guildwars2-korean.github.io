@@ -1,10 +1,10 @@
 [
     {
-        "description": "미덕 발동 후 가하는 스트라이크 데미지가 증가합니다.",
+        "description": "버츄 스킬 발동시 가하는 타격 데미지가 증가한다.",
         "facts": [
             {
                 "apply_count": 1,
-                "description": "Strike damage dealt is increased after activating a virtue.",
+                "description": "버츄 스킬 발동시 가하는 타격 데미지가 증가한다.",
                 "duration": 6,
                 "icon": "https://render.guildwars2.com/file/3EC057E1739EF1F22815605956B46142D2669A6D/1466322.png",
                 "status": "Inspiring Virtue",

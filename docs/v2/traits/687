@@ -1,6 +1,6 @@
 [
     {
-        "description": "산산조각 기술은 명중 시 취약성을 부여합니다.",
+        "description": "섀터 스킬 적중시 벌너러빌리티를 유발한다.",
         "facts": [
             {
                 "apply_count": 1,

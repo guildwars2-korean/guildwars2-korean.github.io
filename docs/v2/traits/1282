@@ -1,6 +1,6 @@
 [
     {
-        "description": "생명력이 임계값 이상인 적에 대한 치명타 피해가 증가합니다.",
+        "description": "생명력 임게 이상인 적을 상대로 크리티컬 데미지가 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

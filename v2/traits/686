@@ -1,6 +1,6 @@
 [
     {
-        "description": "대검 스킬을 향상시킵니다. 미러 블레이드가 추가로 튕겨져 나오며, 판타스멀 버서커가 추가 버서커를 소환해 데미지를 줄인다.",
+        "description": "그레이트 소드의 스킬이 향상된다. Mirror Blade 스킬이 추가로 검을 튕기고, Phantasmal berserker 스킬이 데미지가 줄어드는 대신 판타즘을 추가로 소환한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

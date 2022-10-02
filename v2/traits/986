@@ -1,6 +1,6 @@
 [
     {
-        "description": "애완동물을 교환할 때 하급 야생의 부름을 시전하십시오.<br> Soulbeasts는 beastmode에 들어가거나 나가서 이 특성을 유발할 수 있습니다.",
+        "description": "펫 교체시 Lesser Call of the Wild를 시전한다. <br> 소울비스트는 비스트 모드에 들어가거나 나올때 이 트레잇이 발동된다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

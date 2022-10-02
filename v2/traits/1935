@@ -1,6 +1,6 @@
 [
     {
-        "description": "스태프 스킬의 재충전을 줄입니다. 지팡이로 바꾸면 주변의 적을 멍하게 만듭니다.",
+        "description": "스태프 스킬의 재사용 대기시간이 감소한다. 스태프로 무기 스왑시 주변의 적들에게 데이즈를 유발한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

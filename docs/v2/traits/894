@@ -1,6 +1,6 @@
 [
     {
-        "description": "장막에 들어가거나 나가면 지속 시간 동안 입히는 모든 피해가 증가합니다.",
+        "description": "슈라우드 상태에 들어가거나 나올때 일정 시간동안 모든 데미지가 증가한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",

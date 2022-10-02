@@ -1,6 +1,6 @@
 [
     {
-        "description": "적을 냉각시키면 취약성이 생깁니다.",
+        "description": "적에게 칠 유발시 벌너러빌리티를 함께 유발한다.",
         "facts": [
             {
                 "apply_count": 3,

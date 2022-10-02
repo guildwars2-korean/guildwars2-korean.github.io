@@ -1,6 +1,6 @@
 [
     {
-        "description": "적에게 출혈을 가하면 위력을 얻습니다.",
+        "description": "블리딩 유발시 마이트를 획득한다.",
         "facts": [
             {
                 "apply_count": 1,

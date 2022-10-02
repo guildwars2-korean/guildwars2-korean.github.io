@@ -1,6 +1,6 @@
 [
     {
-        "description": "열기를 해소하면서 체력을 회복한다 <br> 이 효과는 Photonic Blasting 트레잇으로 오버히트할때 일어나지않는다.",
+        "description": "열기를 해소하면서 생명력을 회복한다 <br> 이 효과는 Photonic Blasting 트레잇으로 오버히트할때 일어나지않는다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

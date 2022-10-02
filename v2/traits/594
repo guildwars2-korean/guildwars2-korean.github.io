@@ -1,6 +1,6 @@
 [
     {
-        "description": "이지스로 들어오는 공격을 차단하면 보호를 받습니다.",
+        "description": "이지스로 받는 공격을 막으면 프로텍션을 얻는다.",
         "facts": [
             {
                 "apply_count": 1,

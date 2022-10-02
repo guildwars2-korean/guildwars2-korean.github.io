@@ -1,6 +1,6 @@
 [
     {
-        "description": "가까운 죽음으로 인한 수동적인 생명력 생성이 증가합니다. 죽이면 갑각이 부여됩니다.",
+        "description": "주변의 죽음으로부터 얻는 라이프 포스 획득량이 증가한다. 적을 처치하면 Carapace를 부여받는다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",

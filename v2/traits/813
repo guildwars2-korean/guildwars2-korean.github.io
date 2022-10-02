@@ -1,6 +1,6 @@
 [
     {
-        "description": "슈라우드에 들어갈 때 하급 약화를 시전합니다. 치명타는 약점을 줍니다.",
+        "description": "슈라우드 상태로 들어갈때 Lesser Enfeeble을 시전한다. 크리티컬 공격이 위크니스를 유발한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",

@@ -1,6 +1,6 @@
 [
     {
-        "description": "건강이 임계값 이상일 때 받는 피해를 줄입니다.",
+        "description": "생명력 임계 이상에서 받는 데미지가 감소한다.",
         "facts": [
             {
                 "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
