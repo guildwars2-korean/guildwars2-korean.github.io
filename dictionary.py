@@ -556,7 +556,7 @@ DICTIONARY_FOR_TRANSLATION = {
     '"Build up elemental energy when you strike foes. Energy is consumed to imbue the jade sphere with different elements, creating combo fields and granting boons to allies in the area. <br>Gain access to Augments."': '"적을 공격하면 엘리멘탈 에너지를 축적한다. 에너지는 각각 다른 속성의 제이드 스피어를 채우는데 소모하고, 콤보 필드를 만들며 범위의 아군에게 분을 부여한다."',
     '"When struck while below the health threshold, heal allies in the area and cleanse their conditions."': '"생명력 임계 이하일 때, 공격을 받으면, 범위로 아군의 컨디션을 제거하고 아군을 회복한다."',
     '"Gain increased power while above the health threshold. Gain increased healing power when below it."': '"생명력 임계 이상일때, 추가 파워를 획득한다. 생명력 임계 이하일때는, 추가 힐링파워를 획득한다."',
-    '"Gain ferocity, and gain additional ferocity while attuned to air. Air weapon skills get a reduced recharge time."': '"추가 페로시티를 획득한다. 에어 어튠먼트상태일 때 추가로 페로시티를 더 획득한다. 에어 무기 스킬의 재사용 대기시간이 감소한다."',
+    '"Gain ferocity, and gain additional ferocity while attuned to air. Air weapon skills get a reduced recharge time."': '"추가 페로시티를 획득한다. 에어 어튠먼트에서 추가로 페로시티를 더 획득한다. 에어 무기 스킬의 재사용 대기시간이 감소한다."',
     '"Damage reduction is increased when you gain an aura. When this triggers, the durations of all stacks are refreshed."': '"오라를 획득하면, 받는 데미지가 감소한다. 이 효과가 발동하면, 받는 데미지 감소 지속시간이 초기화된다."',
     '"Gain an aura based on your current attunement when you combo. Gaining an aura grants you Elemental Empowerment. Auras can be gained this way once per attunement per interval."': '"콤보를 발동시키면, 현재 어튠먼트에 따라 오라를 획득한다. 오라를 획득하면 Elemental Empowerment를 부여받는다. 이 효과는 하나의 어튠먼트에서 주기적으로 한 번씩 발동한다."',
     '"Dodging now grants boons to allies and inflicts chill on struck foes when landing. Extend boon duration for allies upon landing."': '"구르기가 주변의 아군들에게 분을 부여하고, 적들에게는 칠을 유발시킨다. 아군에게는 부여된 분 지속시간이 연장된다."',
