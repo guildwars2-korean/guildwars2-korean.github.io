@@ -404,7 +404,7 @@ DICTIONARY_FOR_TRANSLATION = {
     '"Your strike damage is increased whenever your Symbols hit a foe."': '"심볼 스킬이 적을 타격시 자신의 타격 데미지가 증가한다."',
     '"Chill lasts longer, and chilled foes take increased strike damage from your attacks."': '"칠의 지속 시간이 증가한다. 칠에 걸린 적들을 상대로 더 강한 타격 데미지를 준다."',
     '"Critical hits against chilled foes cause an explosion that chills adjacent foes."': '"칠에 걸린 적에게 크리티컬 공격을 가하면, 칠을 전파하는 폭발을 일으킨다."',
-    '"Gain ferocity and quickness while in Reaper\'s Shroud. Hitting with Life Reap reduces the recharge time of shroud skills.<br>Recharge reduction can only occur once per use of Life Reap."': '"Reaper\'s Shroud 상태일때 추가 페로시티와 퀴크니스를 획독한다. Life Reap으로 적을 타격하면 슈라우드 스킬의 재사용 대기시간이 감소한다."',
+    '"Gain ferocity and quickness while in Reaper\'s Shroud. Hitting with Life Reap reduces the recharge time of shroud skills.<br>Recharge reduction can only occur once per use of Life Reap."': '"Reaper\'s Shroud 상태일때 추가 페로시티와 퀴크니스를 획득한다. Life Reap으로 적을 타격하면 슈라우드 스킬의 재사용 대기시간이 감소한다."',
     '"You and nearby allies gain quickness for each clone you shatter. Tides of Time now also applies quickness in an area when cast."': '"클론이 섀터될때마다 자신과 주변의 아군은 퀴크니스를 획득한다. Tides of Time 스킬이 시전될때 범위로 퀴크니스를 부여한다."',
     '"Gain health when you successfully evade an attack. Remove a condition whenever you evade an attack."': '"공격을 성공적으로 회피하면 생명력을 회복한다. 회피시 컨디션 하나를 제거한다."',
     '"Attain elemental singularity by remaining in an attunement for a period of time. Upon attaining singularity, you may overload the attunement to your vicinity. Gain access to Shouts."': '"하나의 어튠먼트를 일정 시간동안 유지하면서 원소적 특이점을 보유하여, 어튠먼트를 오버로드 할 수 있다. 샤우트 스킬을 사용할 수 있다."',

@@ -1,6 +1,6 @@
 [
     {
-        "description": "Reaper's Shroud 상태일때 추가 페로시티와 퀴크니스를 획독한다. Life Reap으로 적을 타격하면 슈라우드 스킬의 재사용 대기시간이 감소한다.",
+        "description": "Reaper's Shroud 상태일때 추가 페로시티와 퀴크니스를 획득한다. Life Reap으로 적을 타격하면 슈라우드 스킬의 재사용 대기시간이 감소한다.",
         "facts": [
             {
                 "duration": 1,
