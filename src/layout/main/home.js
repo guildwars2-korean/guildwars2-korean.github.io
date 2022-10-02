@@ -187,17 +187,6 @@ function Home() {
           <DiscordWidget id="1007871222429786152"></DiscordWidget>
         </Col>
       </Row>
-      {/* google ad */}
-      <Row style={{
-        margin: '20px 0px 0px 0px',
-        padding: '0px 0px 0px 0px',
-      }}>
-        <Col sm="12">
-          <center>
-            <GoogleAd/>
-          </center>
-        </Col>
-      </Row>
     </Container>
     </>
   );
