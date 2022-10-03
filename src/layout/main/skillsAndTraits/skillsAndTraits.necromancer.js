@@ -418,24 +418,7 @@ function ProfessionsNecromancer() {
                     <Skill id={18504} /> {/* Dhuumfire */}
                     <Skill id={19504} /> {/* Tainted Shackles */}
                     <Skill id={24287} /> {/* Dhuumfire */}
-                    <Skill id={29442} /> {/* Life Rend */}
-                    <Skill id={29458} /> {/* Life Slash */}
-                    <Skill id={29709} /> {/* Terrify */}
-                    <Skill id={29958} /> {/* Infusing Terror */}
-                    <Skill id={30278} /> {/* Life Reap */}
-                    <Skill id={30504} /> {/* Soul Spiral */}
-                    <Skill id={30557} /> {/* Executioner's Scythe */}
-                    <Skill id={30792} /> {/* Reaper's Shroud */}
-                    <Skill id={30825} /> {/* Death's Charge */}
-                    <Skill id={30961} /> {/* Exit Reaper's Shroud */}
                     <Skill id={56916} /> {/* Dark Pursuit */}
-                    <Skill id={62539} /> {/* Voracious Arc */}
-                    <Skill id={62540} /> {/* Exit Harbinger Shroud */}
-                    <Skill id={62563} /> {/* Vital Draw */}
-                    <Skill id={62567} /> {/* Harbinger Shroud */}
-                    <Skill id={62611} /> {/* Tainted Bolts */}
-                    <Skill id={62621} /> {/* Dark Barrage */}
-                    <Skill id={62672} /> {/* Devouring Cut */}
                     <Skill id={63448} /> {/* Voracious Dive */}
                   </Card.Body>
                 </Gw2card>
@@ -579,6 +562,16 @@ function ProfessionsNecromancer() {
                 <Gw2card header="직업 스킬">
                   
                   <Card.Body>
+                    <Skill id={30792} /> {/* Reaper's Shroud */}
+                    <Skill id={30961} /> {/* Exit Reaper's Shroud */}
+                    <Skill id={29442} /> {/* Life Rend */}
+                    <Skill id={29458} /> {/* Life Slash */}
+                    <Skill id={30278} /> {/* Life Reap */}
+                    <Skill id={30825} /> {/* Death's Charge */}
+                    <Skill id={29958} /> {/* Infusing Terror */}
+                    <Skill id={29709} /> {/* Terrify */}
+                    <Skill id={30504} /> {/* Soul Spiral */}
+                    <Skill id={30557} /> {/* Executioner's Scythe */}
                   </Card.Body>
                 </Gw2card>
                 <Gw2card header="힐 스킬">
@@ -765,6 +758,13 @@ function ProfessionsNecromancer() {
                 <Gw2card header="직업 스킬">
                   
                   <Card.Body>
+                    <Skill id={62567} /> {/* Harbinger Shroud */}
+                    <Skill id={62540} /> {/* Exit Harbinger Shroud */}
+                    <Skill id={62611} /> {/* Tainted Bolts */}
+                    <Skill id={62621} /> {/* Dark Barrage */}
+                    <Skill id={62672} /> {/* Devouring Cut */}
+                    <Skill id={62539} /> {/* Voracious Arc */}
+                    <Skill id={62563} /> {/* Vital Draw */}
                   </Card.Body>
                 </Gw2card>
                 <Gw2card header="힐 스킬">
