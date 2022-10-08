@@ -419,7 +419,6 @@ function ProfessionsNecromancer() {
                     <Skill id={19504} /> {/* Tainted Shackles */}
                     <Skill id={24287} /> {/* Dhuumfire */}
                     <Skill id={56916} /> {/* Dark Pursuit */}
-                    <Skill id={63448} /> {/* Voracious Dive */}
                   </Card.Body>
                 </Gw2card>
                 <Gw2card header="힐 스킬">
@@ -765,6 +764,7 @@ function ProfessionsNecromancer() {
                     <Skill id={62672} /> {/* Devouring Cut */}
                     <Skill id={62539} /> {/* Voracious Arc */}
                     <Skill id={62563} /> {/* Vital Draw */}
+                    <Skill id={63448} /> {/* Voracious Dive */}
                   </Card.Body>
                 </Gw2card>
                 <Gw2card header="힐 스킬">
