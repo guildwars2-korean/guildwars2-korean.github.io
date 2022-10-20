@@ -70,6 +70,9 @@ function Home() {
                   <a href="https://snowcrows.com/" target="_blank" rel="noreferrer">Snowcrows</a> 레이드 빌드
                 </li>
                 <li>
+                  <a href="https://hardstuck.gg/" target="_blank" rel="noreferrer">Hardstuck</a> 빌드, 가이드
+                </li>
+                <li>
                   <a href="https://www.deltaconnected.com/arcdps/" target="_blank" rel="noreferrer">arcdps</a> 애드온
                 </li>
                 <li>
