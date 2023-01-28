@@ -463,13 +463,10 @@ function ProfessionsMesmer() {
                   
                   <Card.Body>
                     <Skill id={10185} /> {/* Arcane Thievery */}
-                    <Skill id={10187} /> {/* Veil */}
                     <Skill id={10197} /> {/* Portal Entre */}
-                    <Skill id={10199} /> {/* Portal Exeunt */}
                     <Skill id={10200} /> {/* Blink */}
                     <Skill id={10201} /> {/* Decoy */}
                     <Skill id={10202} /> {/* Mirror Images */}
-                    <Skill id={10203} /> {/* Null Field */}
                     <Skill id={10204} /> {/* Mantra of Distraction */}
                     <Skill id={10207} /> {/* Mantra of Resolve */}
                     <Skill id={10211} /> {/* Mantra of Pain */}
@@ -477,10 +474,8 @@ function ProfessionsMesmer() {
                     <Skill id={10234} /> {/* Signet of Midnight */}
                     <Skill id={10236} /> {/* Signet of Inspiration */}
                     <Skill id={10237} /> {/* Mantra of Concentration */}
-                    <Skill id={10244} /> {/* Illusion of Life */}
                     <Skill id={10247} /> {/* Signet of Illusions */}
                     <Skill id={10267} /> {/* Phantasmal Disenchanter */}
-                    <Skill id={10302} /> {/* Feedback */}
                     <Skill id={10341} /> {/* Phantasmal Defender */}
                     <Skill id={25541} /> {/* Illusion of Life */}
                     <Skill id={29578} /> {/* Mimic */}
@@ -493,7 +488,6 @@ function ProfessionsMesmer() {
                   
                   <Card.Body>
                     <Skill id={10245} /> {/* Mass Invisibility */}
-                    <Skill id={10311} /> {/* Time Warp */}
                     <Skill id={10377} /> {/* Time Warp */}
                     <Skill id={29519} /> {/* Signet of Humility */}
                   </Card.Body>
@@ -556,7 +550,6 @@ function ProfessionsMesmer() {
                 <Gw2card header="직업 스킬">
                   
                   <Card.Body>
-                    <Skill id={29830} /> {/* Continuum Split */}
                     <Skill id={30747} /> {/* Continuum Shift */}
                     <Skill id={56873} /> {/* Time Sink */}
                     <Skill id={56925} /> {/* Split Second */}
