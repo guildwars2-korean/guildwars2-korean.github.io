@@ -1,0 +1,36 @@
+[
+    {
+        "chat_link": "[&Bse6AAA=]",
+        "description": "강력한 오버핸드 스트라이크를 제공하여 단일 대상을 기절시킵니다. 체력이 낮은 대상에게 더 큰 피해를 줍니다. 얼음 필드 뒤에 나뭇잎.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 35
+            },
+            {
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+                "text": "Stun",
+                "type": "Time"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "field_type": "Ice",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "콤보 필드",
+                "type": "ComboField"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/3C3D986465B49F38A6DCB560E0E855A75D075EB6/1012938.png",
+        "id": 47815,
+        "name": "Executioner's Scythe"
+    }
+]

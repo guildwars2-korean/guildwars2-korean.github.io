@@ -1,0 +1,35 @@
+[
+    {
+        "description": "오라를 획득하면, 받는 데미지가 감소한다. 이 효과가 발동하면, 받는 데미지 감소 지속시간이 초기화된다.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "Incoming damage is reduced.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/07F6DDB8129A05F6DF05E6669CE00C29FF260F80/2491519.png",
+                "status": "Hardened Auras",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 2,
+                "text": "중첩당 데미지 감소",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+                "text": "최대 중첩",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/07F6DDB8129A05F6DF05E6669CE00C29FF260F80/2491519.png",
+        "id": 2230,
+        "name": "Hardened Auras",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 67,
+        "tier": 1
+    }
+]

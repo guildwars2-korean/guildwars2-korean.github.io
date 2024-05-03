@@ -1,0 +1,74 @@
+[
+    {
+        "categories": [],
+        "chat_link": "[&BmgXAAA=]",
+        "description": "체인. 적을 때리십시오. 포탑을 수리하십시오.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "dmg_multiplier": 0.8,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 2,
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "벌너러빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "크리플",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "percent": 5,
+                "text": "Turret Heal Percent",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [],
+        "flip_skill": 5993,
+        "icon": "https://render.guildwars2.com/file/36E5D4B0B95401353321E8689B5148CD93D979DB/103466.png",
+        "id": 5992,
+        "name": "Smack",
+        "next_chain": 5993,
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Weapon_1",
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "overrides": 4,
+                "percent": 10,
+                "requires_trait": 531,
+                "text": "Turret Heal Percent",
+                "type": "Percent"
+            }
+        ],
+        "type": "Bundle",
+        "weapon_type": "None"
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "chat_link": "[&BqWnAAA=]",
+        "description": "처벌. 지면으로 뛰어들어 아군이 사용할 수 있도록 Tyria를 통해 포털을 만듭니다. 이 통로를 사용하는 아군에게 건강 장벽을 부여합니다. 근처의 적에게 주는 혜택을 고통과 불구로 전환합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 35
+            },
+            {
+                "dmg_multiplier": 1.4,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다. 움직이지 않는 적에게 추가 피해를 준다. 강도가 중첩된다.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "status": "토먼트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "배리어",
+                "type": "AttributeAdjust",
+                "value": 1618
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "컨디션으로 전환되는 분",
+                "type": "Number",
+                "value": 1
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "크리플",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            }
+        ],
+        "flags": [
+            "GroundTargeted",
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/791B58AC799B4F90FD80EC0F529B0B5A15AF1D0F/1770543.png",
+        "id": 42917,
+        "name": "Sand Swell",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Utility",
+        "specialization": 60,
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

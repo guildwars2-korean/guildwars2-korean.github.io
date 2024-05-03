@@ -1,0 +1,89 @@
+[
+    {
+        "chat_link": "[&Bs2yAAA=]",
+        "cost": 10,
+        "description": "전설적인 배신자. 중위 오펠라 소울클리브를 소환하여 아군에게 엄청난 피에 굶주림을 부여하여 피해를 입히고 체력을 회복시킵니다. Lieutenant Soulcleave는 플레이어가 간격당 한 번만 생명을 빨아들일 수 있도록 권한을 부여할 수 있으며, 비플레이어에게는 도움이 되지 않습니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 600
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 3
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 아군",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "apply_count": 1,
+                "description": "Your outgoing strikes deal additional damage and restore your health.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/CFD1582E6B180CA2DE6AD205981CBBAFC7480294/1770589.png",
+                "status": "Soulcleave's Summit",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "target": "Power",
+                "text": "Life Siphon Damage",
+                "type": "AttributeAdjust",
+                "value": 325
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "target": "Healing",
+                "text": "Life Siphon Healing",
+                "type": "AttributeAdjust",
+                "value": 578
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "target": "Healing",
+                "text": "Life Siphon Healing",
+                "type": "AttributeAdjust",
+                "value": 392
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            },
+            {
+                "field_type": "Fire",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "콤보 필드",
+                "type": "ComboField"
+            }
+        ],
+        "flags": [
+            "GroundTargeted",
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/CFD1582E6B180CA2DE6AD205981CBBAFC7480294/1770589.png",
+        "id": 45773,
+        "name": "Soulcleave's Summit",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Elite",
+        "specialization": 63,
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

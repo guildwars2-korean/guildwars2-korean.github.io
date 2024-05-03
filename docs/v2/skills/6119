@@ -1,0 +1,16 @@
+[
+    {
+        "chat_link": "[&BucXAAA=]",
+        "description": "엘릭서 H 병을 터뜨려 무작위로 아군에게 보호, 재생 또는 신속성을 부여합니다.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/7835AE041957D0DCCB7B2373CA76A90864017E09/103481.png",
+        "id": 6119,
+        "name": "Detonate Elixir H",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Toolbelt",
+        "type": "Toolbelt",
+        "weapon_type": "None"
+    }
+]

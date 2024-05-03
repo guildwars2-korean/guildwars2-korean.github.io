@@ -1,0 +1,21 @@
+[
+    {
+        "chat_link": "[&BrDHAAA=]",
+        "description": "고통을 적용하는 마법의 돌진.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "Deals damage every second; stacks intensity; reduces incoming healing and barrier application by 70% per stack; damage is reduced by agony resistance.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/C0B3EB17FEA2B0C4481333F36AA619EB9ABD1CD6/514400.png",
+                "status": "Agony",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 51120,
+        "name": "Agonizing Rune"
+    }
+]

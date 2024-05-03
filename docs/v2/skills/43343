@@ -1,0 +1,45 @@
+[
+    {
+        "chat_link": "[&Bk+pAAA=]",
+        "description": "사이오닉. 왜곡을 얻고 최대 블레이드 수까지 저장하는 채널입니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 60
+            },
+            {
+                "apply_count": 1,
+                "description": "Immune to conditions and damage.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/D0969802A76808ACD65A56A6D54F2A40E355F7C3/103284.png",
+                "status": "Distortion",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Prevents Capture-Point Contribution",
+                "type": "NoData"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Blades Created",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/F21B401FC2A8736497704B7FFD4773500CA57C37/2479380.png",
+        "id": 43343,
+        "name": "Blade Renewal",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Utility",
+        "specialization": 66,
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

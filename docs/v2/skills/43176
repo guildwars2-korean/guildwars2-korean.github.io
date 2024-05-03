@@ -1,0 +1,60 @@
+[
+    {
+        "chat_link": "[&BqioAAA=]",
+        "description": "홀로그램 방사체에서 눈부신 빛의 폭발을 일으키십시오. 열 임계값 위에 있는 동안 가벼운 오라를 얻습니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 40
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+                "text": "Heat Threshold",
+                "type": "Number",
+                "value": 50
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "apply_count": 1,
+                "description": "다음 공격이 빗나간다; 지속시간이 중첩된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "status": "블라인드",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "When struck, you gain resolution. Incoming condition damage is reduced by 10%. (Cooldown: 1 Second )",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/62405ED2322E80A4A95663BA6C6804DB0962E6B0/867451.png",
+                "status": "Light Aura",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/B60A1EE87D721F1DE1A3A293F8407B71DE0B51FB/1770395.png",
+        "id": 43176,
+        "name": "Flash Spark",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Toolbelt",
+        "type": "Toolbelt",
+        "weapon_type": "None"
+    }
+]

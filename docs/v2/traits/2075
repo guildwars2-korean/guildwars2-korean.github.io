@@ -1,0 +1,46 @@
+[
+    {
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "스킬 사용을 억제한다.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+                "status": "데이즈",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 33,
+                "text": "공격시 확률",
+                "type": "Percent"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "블리딩",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "블리딩",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/367971C6121BCC00A453525834FD673D0CABF398/1769939.png",
+        "id": 2075,
+        "name": "Unrelenting Criticism",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 62,
+        "tier": 1
+    }
+]

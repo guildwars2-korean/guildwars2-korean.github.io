@@ -1,0 +1,35 @@
+[
+    {
+        "description": "적을 무력화하면 스태빌리티를 얻는다. 무력화된 적에게 주는 데미지가 증가한다. <br>무력화는 스턴, 데이즈, 넉백, 풀, 넉다운, 싱크, 플로트, 런치, 타운트, 피어를 포함한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "apply_count": 1,
+                "description": "넉다운, 넉백, 풀, 런치, 스턴, 데이즈, 플로트, 싱크, 피어, 타운트에 면역된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "status": "스태빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 15,
+                "text": "데미지 증가",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/725424411D6131431FF9427BA77DCF3F2C5F7C2F/1012397.png",
+        "id": 1963,
+        "name": "Heavy Light",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 27,
+        "tier": 3
+    }
+]

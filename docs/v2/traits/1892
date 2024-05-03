@@ -1,0 +1,29 @@
+[
+    {
+        "description": "폭발이 적중하면 추가 페로시티를 중첩한다.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/E1D2A2466605A4BAE5AADC623AA5980FF5797693/2261520.png",
+                "status": "Explosive Temper",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+                "text": "최대 중첩",
+                "type": "Number",
+                "value": 10
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/273E26303F072C3EEEF0DA25D5ACC1E59AECACF6/2261504.png",
+        "id": 1892,
+        "name": "Explosive Temper",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 6,
+        "tier": 2
+    }
+]

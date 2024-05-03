@@ -1,0 +1,12 @@
+[
+    {
+        "description": "액스를 장착할 수 있다.",
+        "icon": "https://render.guildwars2.com/file/2954E76EF9EE10EC9B7659980713A2654A5749D6/1770024.png",
+        "id": 2073,
+        "name": "Axe Proficiency",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 62,
+        "tier": 0
+    }
+]

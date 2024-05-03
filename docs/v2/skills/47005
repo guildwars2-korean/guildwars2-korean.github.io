@@ -1,0 +1,45 @@
+[
+    {
+        "chat_link": "[&Bp23AAA=]",
+        "description": "얼어붙은 손가락이 땅을 찢고 파편을 폭발시켜 근처의 적에게 박습니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1000
+            },
+            {
+                "apply_count": 1,
+                "description": "데미지를 주지 않는 컨디션의 영향을 받지 않는다; 지속시간이 중첩된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+                "status": "레지스턴스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "크리티컬 확률이 증가한다; 지속시간이 중첩된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                "status": "퓨리",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 5,
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/6FA3B95C9E040C54F1BC20ED2727FA1FE24B0296/103639.png",
+        "id": 47005,
+        "name": "King's Wrath"
+    }
+]

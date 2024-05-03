@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BkrmAAA=]",
+        "description": "연속적인 얼음 파멸의 광선으로 가장 멀리 있는 플레이어를 대상으로 합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 2500
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 58954,
+        "name": "Aurora Beam"
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "chat_link": "[&BmDeAAA=]",
+        "description": "파편. 모든 클론을 파괴하고 주변의 적을 혼란스럽게 만들고 각 클론이 부서질 때마다 이 기술을 재충전하십시오.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "dmg_multiplier": 0.38,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "스킬 시전시 데미지를 받는다; 강도가 중첩된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                "status": "컨퓨전",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "text": "Rechage Reduced per Clone",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/F59775A05108441C09AC03C30CAD98CC049CCC28/2175058.png",
+        "id": 56928,
+        "name": "Rewinder",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Profession_2",
+        "specialization": 40,
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 증가한다; 지속시간이 중첩된다.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+                "requires_trait": 1687,
+                "status": "비거",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "스킬 시전시 데미지를 받는다; 강도가 중첩된다.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                "overrides": 3,
+                "requires_trait": 734,
+                "status": "컨퓨전",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "requires_trait": 2035,
+                "status": "크리플",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "requires_trait": 740,
+                "text": "컨디션 해제",
+                "type": "Number",
+                "value": 1
+            }
+        ],
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

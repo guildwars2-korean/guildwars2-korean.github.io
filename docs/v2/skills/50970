@@ -1,0 +1,21 @@
+[
+    {
+        "chat_link": "[&BhrHAAA=]",
+        "description": "대상이 출혈 중인 경우 야수를 광란에 빠뜨릴 수 있는 일격입니다.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "Unable to act.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+                "status": "스턴",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 50970,
+        "name": "Bloody Feed"
+    }
+]

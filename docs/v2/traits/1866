@@ -1,0 +1,40 @@
+[
+    {
+        "description": "일루전 소환시 자신 주변의 모든 아군들을 회복시킨다. <br><br> 버츄오소 : 블레이드를 생성시 작동한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "힐링",
+                "type": "AttributeAdjust",
+                "value": 212
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "힐링",
+                "type": "AttributeAdjust",
+                "value": 106
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 300,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/A2B419927562110402010EEF084BF953905D54E5/1012529.png",
+        "id": 1866,
+        "name": "Illusionary Inspiration",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 23,
+        "tier": 3
+    }
+]

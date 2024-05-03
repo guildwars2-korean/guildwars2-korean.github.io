@@ -1,0 +1,38 @@
+[
+    {
+        "categories": [
+            "Meditation"
+        ],
+        "chat_link": "[&BsIjAAA=]",
+        "description": "심사 숙고. 집중하여 자신을 무적 상태로 만들고 미덕을 재충전하십시오.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 90
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Duration"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Prevents Capture-Point Contribution",
+                "type": "NoData"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/344C7EEC3F6FE10568720E4F75EF91C37A58C43C/103665.png",
+        "id": 9154,
+        "name": "Renewed Focus",
+        "professions": [
+            "Guardian"
+        ],
+        "slot": "Elite",
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

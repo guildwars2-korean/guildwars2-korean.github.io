@@ -1,0 +1,68 @@
+[
+    {
+        "description": "아군에게 오라를 부여시 회복시킨다. 생명력 임계 이하일때 공격 받으면 주변의 아군들에게 프로스트 오라를 부여한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "힐링",
+                "type": "AttributeAdjust",
+                "value": 522
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "힐링",
+                "type": "AttributeAdjust",
+                "value": 391
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "힐링",
+                "type": "AttributeAdjust",
+                "value": 391
+            },
+            {
+                "apply_count": 1,
+                "description": "Chill foes that strike you (only once per second for each attacker); incoming damage is reduced by 10%.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/719B80E35C276D68EF0AABB79126CF4CD42E3AF6/2261522.png",
+                "status": "Frost Aura",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 75,
+                "text": "생명력 임계",
+                "type": "Percent"
+            },
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 아군",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/570FD4DD0094280F906ACAAD37705E9B0F4ADA63/1029949.png",
+        "id": 1986,
+        "name": "Elemental Bastion",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 48,
+        "tier": 3
+    }
+]

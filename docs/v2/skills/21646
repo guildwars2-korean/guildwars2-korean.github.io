@@ -1,0 +1,49 @@
+[
+    {
+        "chat_link": "[&Bo5UAAA=]",
+        "description": "자기 방패로 적을 부수십시오.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "dmg_multiplier": 0.7,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 2,
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "블리딩",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 5746,
+        "icon": "https://render.guildwars2.com/file/1AEEC88001EAD2ED284B08D537977C0EC03F0DE5/867449.png",
+        "id": 21646,
+        "name": "Shield Smash",
+        "next_chain": 5746,
+        "prev_chain": 5621,
+        "professions": [],
+        "slot": "Weapon_1",
+        "type": "Weapon",
+        "weapon_type": "Sword"
+    }
+]

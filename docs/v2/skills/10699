@@ -1,0 +1,59 @@
+[
+    {
+        "categories": [],
+        "chat_link": "[&BsspAAA=]",
+        "description": "체인. 적에게 출혈을 일으키십시오.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "dmg_multiplier": 0.35,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "블리딩",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 10552,
+        "icon": "https://render.guildwars2.com/file/78E39426079A026BC3459512BB589538A511BAB4/1228811.png",
+        "id": 10699,
+        "name": "Rending Curse",
+        "next_chain": 10552,
+        "prev_chain": 10698,
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Weapon_1",
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                "duration": 7,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "overrides": 2,
+                "requires_trait": 801,
+                "status": "블리딩",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Scepter"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BnR8AAA=]",
+        "description": "녹색 수호자는 불안정한 마법 스파이크를 생성하여 충격에 갇힌 플레이어를 순간이동시킵니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1500
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 31860,
+        "name": "Unstable Magic Spike"
+    }
+]

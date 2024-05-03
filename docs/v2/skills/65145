@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&Bnn+AAA=]",
+        "description": "Enforcer는 강력한 에너지로 대상 지역을 강타하여 큰 피해를 줍니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 45
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 65145,
+        "name": "Heaven's Palm"
+    }
+]

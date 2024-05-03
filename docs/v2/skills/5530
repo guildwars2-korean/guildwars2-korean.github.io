@@ -1,0 +1,39 @@
+[
+    {
+        "chat_link": "[&BpoVAAA=]",
+        "description": "발사체를 막는 소용돌이치는 바람을 만듭니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/2931CBED030FDBF30F0A0B293A0010925B90FDA6/103250.png",
+        "id": 5530,
+        "name": "Swirling Winds",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_4",
+        "specialization": 56,
+        "type": "Weapon",
+        "weapon_type": "Focus"
+    }
+]

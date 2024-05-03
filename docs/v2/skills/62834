@@ -1,0 +1,65 @@
+[
+    {
+        "attunement": "Water",
+        "chat_link": "[&BnL1AAA=]",
+        "description": "주위를 도는 얼음 투사체를 소환하여 통과하는 적을 공격합니다. 이 발사체가 활성화되어 있는 동안 상태에서 받는 피해가 감소합니다. 원형 발사체를 소환하면 다른 모든 원형 발사체의 지속 시간이 새로 고쳐집니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 18
+            },
+            {
+                "apply_count": 1,
+                "description": "Reduced incoming condition damage.",
+                "duration": 15,
+                "icon": "https://render.guildwars2.com/file/4CEE16E97EF99A6C4DEF356CE8650DB73B062A04/2491583.png",
+                "status": "Icy Coil",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "벌너러빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "dmg_multiplier": 0.001,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 2
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/4CEE16E97EF99A6C4DEF356CE8650DB73B062A04/2491583.png",
+        "id": 62834,
+        "name": "Icy Coil",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_3",
+        "specialization": 67,
+        "type": "Weapon",
+        "weapon_type": "Hammer"
+    }
+]

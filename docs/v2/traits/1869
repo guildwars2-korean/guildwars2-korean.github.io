@@ -1,0 +1,20 @@
+[
+    {
+        "description": "판타즘이 클론으로 변할 때 판타즘이 갖고있던 분들을 받는다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Boons Transferred",
+                "type": "Number",
+                "value": 12
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/F225A021EB41754E4E0C9FCB46F40F7212DA41CE/1012511.png",
+        "id": 1869,
+        "name": "Persistence of Memory",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 24,
+        "tier": 1
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "categories": [
+            "Shout"
+        ],
+        "chat_link": "[&BsAjAAA=]",
+        "description": "외침. 아군에게 보호와 재생을 부여합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 25
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "status": "프로텍션",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "status": "프로텍션",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매 초마다 생명력을 회복한다; 지속시간이 중첩된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "status": "리제너레이션",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 아군",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/CA143E59076FDECC06DF0F209836104F359977E0/103663.png",
+        "id": 9152,
+        "name": "\"Hold the Line!\"",
+        "professions": [
+            "Guardian"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

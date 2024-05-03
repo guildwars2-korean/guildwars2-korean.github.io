@@ -1,0 +1,34 @@
+[
+    {
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 8
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+                "percent": 33,
+                "text": "크리티컬 확률 증가",
+                "type": "Percent"
+            },
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 증가한다; 지속시간이 중첩된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+                "status": "비거",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/02380E4BB2AEA4C92A51599F1A7657C2FE586759/1769998.png",
+        "id": 2142,
+        "name": "Brutal Momentum",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 63,
+        "tier": 3
+    }
+]

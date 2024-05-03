@@ -1,0 +1,92 @@
+[
+    {
+        "categories": [
+            "Well"
+        ],
+        "chat_link": "[&BpV1AAA=]",
+        "description": "잘. 보호막 자이로를 배치하여 보호막을 부여하고 주변 아군의 피해를 리디렉션합니다. 초기 개인 장벽은 주변 아군의 수에 따라 조정됩니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "Initial Personal Barrier",
+                "type": "AttributeAdjust",
+                "value": 2226
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "Pulse Personal Barrier",
+                "type": "AttributeAdjust",
+                "value": 726
+            },
+            {
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            },
+            {
+                "apply_count": 1,
+                "description": "Some of your incoming damage is shared with a nearby scrapper.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/797E80E6AA3602795D95415D380A07A6325A0CDD/1128594.png",
+                "status": "Watchful Eye",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "field_type": "Lightning",
+                "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                "text": "콤보 필드",
+                "type": "ComboField"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/797E80E6AA3602795D95415D380A07A6325A0CDD/1128594.png",
+        "id": 30101,
+        "name": "Bulwark Gyro",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Utility",
+        "specialization": 43,
+        "toolbelt_skill": 30027,
+        "traited_facts": [
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "overrides": 5,
+                "requires_trait": 1917,
+                "text": "범위",
+                "type": "Distance"
+            }
+        ],
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

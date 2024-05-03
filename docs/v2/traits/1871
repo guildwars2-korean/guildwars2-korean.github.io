@@ -1,0 +1,242 @@
+[
+    {
+        "description": "아군의 컨디션을 제거하는 대신 분으로 변환시킨다. <br> 이 효과는 다수의 아군들에게 동시에 적용될 수 있다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 2
+            },
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 증가한다; 지속시간이 중첩된다.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+                "prefix": {
+                    "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                    "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                    "status": "블리딩",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "비거",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "크리티컬 확률이 증가한다; 지속시간이 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                "prefix": {
+                    "description": "다음 공격이 빗나간다; 지속시간이 중첩된다.",
+                    "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                    "status": "블라인드",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "퓨리",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "공격을 1회 막는다; 지속시간이 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
+                "prefix": {
+                    "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                    "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                    "status": "버닝",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "이지스",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "스킬 재사용 대기시간이 감소한다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+                "prefix": {
+                    "description": "이동속도가 66% 감소한다; 스킬 재사용 대기시간이 66% 증가한다; 지속시간이 중첩된다.",
+                    "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                    "status": "칠",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "알라크리티",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 컨디션 데미지가 33% 감소한다; 지속시간이 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+                "prefix": {
+                    "description": "스킬 시전시 데미지를 받는다; 강도가 중첩된다.",
+                    "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                    "status": "컨퓨전",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "레졸루션",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 33% 증가한다; 지속시간이 중첩된다.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                "prefix": {
+                    "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
+                    "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                    "status": "크리플",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "스위프트니스",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "넉다운, 넉백, 풀, 런치, 스턴, 데이즈, 플로트, 싱크, 피어, 타운트에 면역된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "prefix": {
+                    "description": "공포에 질려 도망가며, 행동할 수 없다; 지속시간이 중첩된다.",
+                    "icon": "https://render.guildwars2.com/file/30307A6E766D74B6EB09EDA12A4A2DE50E4D76F4/102869.png",
+                    "status": "피어",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "스태빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "데미지를 주지 않는 컨디션의 영향을 받지 않는다; 지속시간이 중첩된다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+                "prefix": {
+                    "description": "이동할 수 없다; 지속시간이 중첩된다.",
+                    "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                    "status": "이모빌",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "레지스턴스",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매 초마다 생명력을 회복한다; 지속시간이 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "prefix": {
+                    "description": "매초 데미지를 준다; 힐링 효과가 33% 감소한다; 강도가 중첩된다.",
+                    "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                    "status": "포이즌",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "리제너레이션",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "스킬과 행동이 빨라진다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+                "prefix": {
+                    "description": "스킬 및 행동이 느려진다.",
+                    "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+                    "status": "슬로우",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "퀴크니스",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "넉다운, 넉백, 풀, 런치, 스턴, 데이즈, 플로트, 싱크, 피어, 타운트에 면역된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "prefix": {
+                    "description": "강제로 적을 공격한다.",
+                    "icon": "https://render.guildwars2.com/file/02EED459AD65FAF7DF32A260E479C625070841B9/1228472.png",
+                    "status": "타운트",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "스태빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 3,
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "prefix": {
+                    "description": "매초 데미지를 준다. 움직이지 않는 적에게 추가 피해를 준다. 강도가 중첩된다.",
+                    "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                    "status": "토먼트",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "prefix": {
+                    "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
+                    "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                    "status": "벌너러빌리티",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "프로텍션",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 3,
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "prefix": {
+                    "description": "지구력 재생력이 50% 감소한다. 50%의 공격이 빗나간다(50% 데미지). 지속시간이 중첩된다.",
+                    "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                    "status": "위크니스",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/7A10C8FD41FC925B49BD4EAB5FD93C9AF816C123/1938785.png",
+        "id": 1871,
+        "name": "Purity of Purpose",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 29,
+        "tier": 3
+    }
+]

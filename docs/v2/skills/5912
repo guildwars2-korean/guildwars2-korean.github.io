@@ -1,0 +1,84 @@
+[
+    {
+        "categories": [
+            "Turret"
+        ],
+        "chat_link": "[&BhgXAAA=]",
+        "description": "터릿. 로켓을 발사하는 포탑을 만드십시오. 이 포탑은 처음 배치될 때 과충전됩니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 40
+            },
+            {
+                "dmg_multiplier": 2.25,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Rate of Fire",
+                "type": "Time"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "distance": 1000,
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Attack Range",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
+                "text": "폭발",
+                "type": "NoData"
+            }
+        ],
+        "flags": [],
+        "flip_skill": 5913,
+        "icon": "https://render.guildwars2.com/file/47EF9C2CA3E84E05E2AF9DAC3242C6DC2D0BDCEE/103431.png",
+        "id": 5912,
+        "name": "Rocket Turret",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Utility",
+        "toolbelt_skill": 6177,
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "받는 컨디션 데미지가 33% 감소한다; 지속시간이 중첩된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+                "requires_trait": 1678,
+                "status": "레졸루션",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "requires_trait": 1678,
+                "text": "분 부여 주기",
+                "type": "Time"
+            }
+        ],
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

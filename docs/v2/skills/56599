@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BhfdAAA=]",
+        "description": "Adina의 도전 막대는 반드시 부숴져야 합니다. 그렇지 않으면 그녀는 모든 적을 죽일 것입니다. 그녀는 회전하는 파란색 영역에서만 깨질 수 있습니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 200
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 56599,
+        "name": "Sand Call"
+    }
+]

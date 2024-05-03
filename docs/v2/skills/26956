@@ -1,0 +1,19 @@
+[
+    {
+        "categories": [
+            "LegendaryDwarf"
+        ],
+        "chat_link": "[&BkxpAAA=]",
+        "description": "전설의 드워프. Vengeful Hammers를 끝내기 위해 망치를 놓으십시오.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/727BD7D6B693C1DB70D62A09E8B06C746CCD48BF/961441.png",
+        "id": 26956,
+        "name": "Release Hammers",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "chat_link": "[&Br51AAA=]",
+        "description": "약간의 치유를 제공하는 붕대 팩을 떨어 뜨립니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 2
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "힐링",
+                "type": "AttributeAdjust",
+                "value": 502
+            },
+            {
+                "duration": 12,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/50C2CA45076553093FCF2135FBD7439280EE67F1/240697.png",
+        "id": 30142,
+        "name": "Bandage"
+    }
+]

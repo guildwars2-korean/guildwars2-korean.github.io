@@ -1,0 +1,20 @@
+[
+    {
+        "description": "판타즘이 처음 소환될 때 자신에게서 컨디션을 가져간다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "컨디션 이전",
+                "type": "Number",
+                "value": 1
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/FA0AE3A437419F325D682180687C5C7FF014602D/1012524.png",
+        "id": 744,
+        "name": "Sympathetic Visage",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 23,
+        "tier": 1
+    }
+]

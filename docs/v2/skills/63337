@@ -1,0 +1,41 @@
+[
+    {
+        "chat_link": "[&Bmn3AAA=]",
+        "description": "땅을 부수고 주변의 적에게 피해를 줍니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "dmg_multiplier": 1.4,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/1A02B377F59E6D0B0EB90AA6FBD13D01EFCA7A3B/2503715.png",
+        "id": 63337,
+        "name": "Heavy Smash",
+        "prev_chain": 63222,
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Weapon_1",
+        "specialization": 72,
+        "type": "Weapon",
+        "weapon_type": "Hammer"
+    }
+]

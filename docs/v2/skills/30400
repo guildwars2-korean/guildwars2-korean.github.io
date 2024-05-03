@@ -1,0 +1,62 @@
+[
+    {
+        "categories": [
+            "Physical"
+        ],
+        "chat_link": "[&BsB2AAA=]",
+        "description": "물리적 인. 에너지를 집중하여 맥박당 지구력과 건강을 얻으십시오. 지구력이 가득 차면 더 많은 것을 치유하십시오.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Heal if Endurance is Full",
+                "type": "AttributeAdjust",
+                "value": 2440
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "힐링",
+                "type": "AttributeAdjust",
+                "value": 1840
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "지구력 회복",
+                "type": "Number",
+                "value": 15
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "지구력 회복",
+                "type": "Number",
+                "value": 25
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "파동",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/AA5F2B2C68423A9A2CACFD6DFB74F05228E0A2B2/1058620.png",
+        "id": 30400,
+        "name": "Channeled Vigor",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Heal",
+        "specialization": 7,
+        "type": "Heal",
+        "weapon_type": "None"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "bundle_skills": [
+            5541,
+            5593,
+            5717,
+            5718,
+            5719
+        ],
+        "categories": [
+            "Conjure"
+        ],
+        "chat_link": "[&BqQVAAA=]",
+        "description": "상상하다 손과 대상 위치에 용암 도끼를 나타냅니다. 무기 사용자는 위력과 상태 피해가 증가합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 60
+            },
+            {
+                "apply_count": 1,
+                "description": "Increased power and condition damage.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/D171D89609420B0C11B52FD8632897B76D60F305/103338.png",
+                "status": "Conjure Flame Attributes",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 30,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            }
+        ],
+        "flags": [
+            "GroundTargeted",
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/D171D89609420B0C11B52FD8632897B76D60F305/103338.png",
+        "id": 5540,
+        "name": "Conjure Flame Axe",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

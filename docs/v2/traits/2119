@@ -1,0 +1,25 @@
+[
+    {
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 20,
+                "text": "데미지 감소",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 33,
+                "text": "데미지 감소",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/0C2E46F9BBF87F4EC89349385923A409BB1CFBF6/1769975.png",
+        "id": 2119,
+        "name": "Second Skin",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 55,
+        "tier": 2
+    }
+]

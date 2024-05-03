@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BsPOAAA=]",
+        "description": "생성된 물의 방울이 적을 둘러싸고 공중으로 들어 올립니다. 거품이 최대 높이에 도달하면 터져 적을 땅에 떨어뜨립니다.",
+        "facts": [
+            {
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/18F6E20EB4F7A812FD2C13723F130166BC54C6D1/2440713.png",
+                "text": "Float",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 52931,
+        "name": "Aquatic Detainment"
+    }
+]

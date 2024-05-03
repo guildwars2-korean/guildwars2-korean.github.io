@@ -1,0 +1,74 @@
+[
+    {
+        "categories": [
+            "Phantasm"
+        ],
+        "chat_link": "[&BgsoAAA=]",
+        "description": "환상. 회피 일격을 가하고 돌진하여 적을 공격하면서 회피하는 환상을 만듭니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "dmg_multiplier": 0.1,
+                "hit_count": 7,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 0.4,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Final Strike Damage",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 0.1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Evasive Strike Damage",
+                "type": "Damage"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/A05546CA54D82645FC9B1C0D30901FF80B3D60A3/103757.png",
+        "id": 10251,
+        "name": "Phantasmal Mariner",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Weapon_3",
+        "traited_facts": [
+            {
+                "dmg_multiplier": 0.115,
+                "hit_count": 7,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "overrides": 2,
+                "requires_trait": 682,
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 0.46,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "overrides": 3,
+                "requires_trait": 682,
+                "text": "Final Strike Damage",
+                "type": "Damage"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Spear"
+    }
+]

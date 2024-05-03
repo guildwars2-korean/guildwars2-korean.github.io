@@ -1,0 +1,37 @@
+[
+    {
+        "chat_link": "[&BpApAAA=]",
+        "description": "자신을 치유하기 위해 적에게서 건강을 빼냅니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "dmg_multiplier": 0.2,
+                "hit_count": 6,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "text": "Pulse Heal",
+                "type": "HealingAdjust"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/7BB45EE8CE6A5EE36B4B2579D82A22275DF0EBCB/103810.png",
+        "id": 10640,
+        "name": "Life Leech",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Downed_1",
+        "type": "Weapon",
+        "weapon_type": "None"
+    }
+]

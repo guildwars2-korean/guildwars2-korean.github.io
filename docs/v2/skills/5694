@@ -1,0 +1,42 @@
+[
+    {
+        "attunement": "Air",
+        "chat_link": "[&Bj4WAAA=]",
+        "description": "섬광으로 적의 눈을 멀게 합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "apply_count": 1,
+                "description": "다음 공격이 빗나간다; 지속시간이 중첩된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "status": "블라인드",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/A9B10F55FF0922633B0CCC3C42AB7C093372A8E2/102831.png",
+        "id": 5694,
+        "name": "Blinding Flash",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_3",
+        "type": "Weapon",
+        "weapon_type": "Scepter"
+    }
+]

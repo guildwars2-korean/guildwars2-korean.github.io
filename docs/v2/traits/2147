@@ -1,0 +1,12 @@
+[
+    {
+        "description": "라이프 포스를 이용하여 모래 그림자를 만들고 조종하는 힘을 획득한다. 퍼니쉬먼트 스킬과 셰이드 스킬을 사용할 수 있게 된다. <br> 셰이드 스킬은 슈라우드 스킬과 관련된 트레잇에도 작용한다.",
+        "icon": "https://render.guildwars2.com/file/CC70C2E5CBD991510C2DF661111AD0351DAF186E/1769972.png",
+        "id": 2147,
+        "name": "Mantle of Sand",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 60,
+        "tier": 1
+    }
+]

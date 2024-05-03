@@ -1,0 +1,16 @@
+[
+    {
+        "chat_link": "[&BhZ2AAA=]",
+        "description": "보급 상자의 포탑을 과충전하십시오.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/BBD1A5F3730F423A037F42B10FFFACD2EF65C271/103483.png",
+        "id": 30230,
+        "name": "Overcharge Supply Crate",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Elite",
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

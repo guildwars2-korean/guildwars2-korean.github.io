@@ -1,0 +1,36 @@
+[
+    {
+        "chat_link": "[&BkjdAAA=]",
+        "description": "기둥으로 막을 수 있는 바위로 무작위 적에게 포격을 가합니다. Boulders는 Radiant Blindness 및 출혈로 기둥과 아래쪽 플레이어를 손상시킵니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 5000
+            },
+            {
+                "apply_count": 1,
+                "description": "All outgoing attacks are rendered useless.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/392DC06DB4E50627B0DDF13A449D666B3B30A16D/1770068.png",
+                "status": "Radiant Blindness",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 3,
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                "duration": 20,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "블리딩",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 56648,
+        "name": "Boulder Barrage"
+    }
+]

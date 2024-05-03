@@ -1,0 +1,33 @@
+[
+    {
+        "description": "구르기 대신에, 상공으로부터 강력한 공격을 가한다. 착지시 적들을 공격한다. 구르기가 모든 지구력을 소모하고, 지구력이 가득 차있을때만 발동한다.",
+        "facts": [
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 100,
+                "text": "Endurance Cost",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/1F450E36D1969A3B0F9E09B070A1E5A73C5B3133/2491540.png",
+        "id": 2262,
+        "name": "Tenacious Ruin",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 69,
+        "tier": 1
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BuPaAAA=]",
+        "description": "Adina는 치명적인 대지 광선을 집중시키고 경기장 주변에 흩뿌립니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 2000
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 56035,
+        "name": "Quantum Quake"
+    }
+]

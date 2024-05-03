@@ -1,0 +1,38 @@
+[
+    {
+        "description": "현재 갖고있는 분의 종류 수에따라 가하는 타격 데미지가 증가한다. 추가 컨센트레이션을 획득한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 1.5,
+                "text": "Bonus Damage per Boon",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 1,
+                "text": "Bonus Damage per Boon",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+                "target": "BoonDuration",
+                "type": "AttributeAdjust",
+                "value": 180
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+                "target": "BoonDuration",
+                "type": "AttributeAdjust",
+                "value": 60
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/C72B4CD0151A0C4C5074D105649D9306C3284896/1983626.png",
+        "id": 2160,
+        "name": "Premeditation",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 58,
+        "tier": 2
+    }
+]

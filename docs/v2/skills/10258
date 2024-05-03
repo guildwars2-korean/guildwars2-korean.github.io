@@ -1,0 +1,74 @@
+[
+    {
+        "chat_link": "[&BhIoAAA=]",
+        "description": "다수의 적 사이에 튕기는 음파 에너지를 방출하여 적에게 피해를 입히고 출혈을 일으킵니다. 아군을 공격하면 힘, 활력 또는 신속함을 적용합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "dmg_multiplier": 0.3,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 33% 증가한다; 지속시간이 중첩된다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                "status": "스위프트니스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "지구력 회복이 50% 증가한다; 지속시간이 중첩된다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+                "status": "비거",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "블리딩",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Number of Bounces",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "flags": [],
+        "flip_skill": 39959,
+        "icon": "https://render.guildwars2.com/file/B406DBF83ABDA0C21E4FE76201D66324C84402E5/103759.png",
+        "id": 10258,
+        "name": "Siren's Call",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Weapon_1",
+        "type": "Weapon",
+        "weapon_type": "Trident"
+    }
+]

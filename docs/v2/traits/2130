@@ -1,0 +1,29 @@
+[
+    {
+        "description": "적을 무력화하거나 분을 제거하면 인사이트를 획득한다. Full Counter 스킬이 적중할때마다 모든 버스트 스킬의 재사용 대기시간이 초기화 된다. <br> 무력화는 스턴, 데이즈, 넉백, 넉다운, 싱크, 플로트, 런치, 타운트, 피어를 포함한다.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "",
+                "duration": 15,
+                "icon": "https://render.guildwars2.com/file/211512491566A15FDCE3E1B64A010445F1EB39E5/1770023.png",
+                "status": "Attacker's Insight",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "최대 중첩",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/211512491566A15FDCE3E1B64A010445F1EB39E5/1770023.png",
+        "id": 2130,
+        "name": "Attacker's Insight",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 61,
+        "tier": 3
+    }
+]

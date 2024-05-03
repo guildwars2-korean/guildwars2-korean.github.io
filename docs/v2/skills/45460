@@ -1,0 +1,83 @@
+[
+    {
+        "categories": [
+            "Mantra"
+        ],
+        "chat_link": "[&BpSxAAA=]",
+        "description": "만트라. 정화, 상태 제거 및 빠른 회복의 의식을 노래하십시오.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 450
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 1
+            },
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 아군",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "duration": 12,
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Charge Recovery",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "컨디션 해제",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "컨디션 해제",
+                "type": "Number",
+                "value": 1
+            },
+            {
+                "apply_count": 1,
+                "description": "매 초마다 생명력을 회복한다; 지속시간이 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "status": "리제너레이션",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/B304FBFE03030A1E2A07D8150CFB2A9EA24BE37E/1770487.png",
+        "id": 45460,
+        "name": "Mantra of Lore",
+        "professions": [
+            "Guardian"
+        ],
+        "slot": "Utility",
+        "specialization": 62,
+        "traited_facts": [
+            {
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "overrides": 4,
+                "requires_trait": 2063,
+                "text": "Charge Recovery",
+                "type": "Time"
+            }
+        ],
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

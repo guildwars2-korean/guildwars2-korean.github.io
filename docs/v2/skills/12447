@@ -1,0 +1,39 @@
+[
+    {
+        "chat_link": "[&Bp8wAAA=]",
+        "description": "당신의 편에서 싸울 드루이드 영혼을 소환하십시오.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 240
+            },
+            {
+                "duration": 60,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/21C80CDAECCAF5C2FCEC40FFC2DD943BE3C77D60/240699.png",
+        "id": 12447,
+        "name": "Summon Druid Spirit",
+        "professions": [
+            "Guardian",
+            "Warrior",
+            "Engineer",
+            "Ranger",
+            "Thief",
+            "Elementalist",
+            "Mesmer",
+            "Necromancer"
+        ],
+        "slot": "Elite",
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

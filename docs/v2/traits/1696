@@ -1,0 +1,26 @@
+[
+    {
+        "description": "본인이 가하는 컨디션 데미지의 일정량만큼 생명력을 회복한다. <br> 라이프 포스가 생명력을 대신하는 상태에선 발동할 수 없다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 5,
+                "text": "퍼센트",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 10,
+                "text": "퍼센트",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/64A06911F701972655B6130727A308023C98E301/1012553.png",
+        "id": 1696,
+        "name": "Parasitic Contagion",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 39,
+        "tier": 3
+    }
+]

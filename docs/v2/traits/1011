@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Opening Strike 특성의 크리티컬 확률이 증가한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+                "percent": 100,
+                "text": "크리티컬 확률 증가",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/C16AC293515DD1CCD131A6F79206EB5E5FDD7747/1012629.png",
+        "id": 1011,
+        "name": "Precise Strike",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 8,
+        "tier": 3
+    }
+]

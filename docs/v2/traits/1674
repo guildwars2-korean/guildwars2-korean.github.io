@@ -1,0 +1,23 @@
+[
+    {
+        "description": "어스 어튠먼트에서 크리티컬 공격을 받지 않는다.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "어스 어튠먼트에서 크리티컬 공격을 받지 않는다.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/22F1BDACFBEBC8FF2BF77B22B3E535D2BA03D140/1012302.png",
+                "status": "스톤 하트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/22F1BDACFBEBC8FF2BF77B22B3E535D2BA03D140/1012302.png",
+        "id": 1674,
+        "name": "Stone Heart",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 26,
+        "tier": 3
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BhDwAAA=]",
+        "description": "위험한 원소 에너지를 엮어 주변 적에게 큰 피해를 줍니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 6000
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/F6440A5D08EDFB78FD5A5BB31E30CD25040D3F23/103121.png",
+        "id": 61456,
+        "name": "Elemental Whirl"
+    }
+]

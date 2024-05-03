@@ -1,0 +1,30 @@
+[
+    {
+        "chat_link": "[&BhjEAAA=]",
+        "description": "멀리서 적을 강타하여 뒤로 밀쳐냅니다. 당신의 추진력은 놓치면 계속해서 당신을 데려갈 것입니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 2000
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "distance": 500,
+                "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
+                "text": "Knockback",
+                "type": "Distance"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/A8D6C7B0D4BF4B54B45728B06F059075FD0454E6/1948176.png",
+        "id": 50200,
+        "name": "Flying Slam"
+    }
+]

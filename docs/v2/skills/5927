@@ -1,0 +1,26 @@
+[
+    {
+        "bundle_skills": [
+            5928,
+            5931,
+            5930,
+            5929,
+            6159
+        ],
+        "chat_link": "[&BicXAAA=]",
+        "description": "엔지니어링 키트. 무기 기술을 대체하는 화염 방사기로 무장하십시오.",
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/573A10BFC3310A694740092B91E40C953EE80A03/103435.png",
+        "id": 5927,
+        "name": "Flamethrower",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Utility",
+        "toolbelt_skill": 5977,
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "background": "https://render.guildwars2.com/file/47F5CA90475E566650EF540BA82CA69C1C0332B1/1012063.png",
+        "elite": false,
+        "icon": "https://render.guildwars2.com/file/D1D9C63AD9CC05FC1B19970556B0C1E0ADD77905/1012006.png",
+        "id": 19,
+        "major_traits": [
+            780,
+            788,
+            1876,
+            789,
+            799,
+            1844,
+            782,
+            1692,
+            778
+        ],
+        "minor_traits": [
+            792,
+            783,
+            1931
+        ],
+        "name": "Blood Magic",
+        "profession": "Necromancer"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "chat_link": "[&BhYxAAA=]",
+        "description": "적에게 칼을 던집니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "dmg_multiplier": 0.33,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/D9B361EE74091132604A53A43BE732CD7CA90B92/104010.png",
+        "id": 12566,
+        "name": "Throw Knife",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Downed_1",
+        "type": "Weapon",
+        "weapon_type": "None"
+    }
+]

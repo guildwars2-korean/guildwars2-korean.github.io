@@ -1,0 +1,57 @@
+[
+    {
+        "categories": [
+            "Signet"
+        ],
+        "chat_link": "[&Bl5fAAA=]",
+        "description": "인장 패시브: 집중력을 향상시킵니다. 인장 활성화: 근처에 있는 쓰러진 아군을 소생시킵니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 25
+            },
+            {
+                "apply_count": 1,
+                "description": "Gain improved concentration.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/9FCB1995DC9106F6A1C9741142D4FF7DB407414F/103667.png",
+                "status": "Signet of Mercy",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Gain improved concentration.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/9FCB1995DC9106F6A1C9741142D4FF7DB407414F/103667.png",
+                "status": "Signet of Mercy",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 아군",
+                "type": "Number",
+                "value": 1
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/9FCB1995DC9106F6A1C9741142D4FF7DB407414F/103667.png",
+        "id": 24414,
+        "name": "Signet of Mercy",
+        "professions": [
+            "Guardian"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

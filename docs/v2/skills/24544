@@ -1,0 +1,45 @@
+[
+    {
+        "categories": [
+            "Signet"
+        ],
+        "chat_link": "[&BuBfAAA=]",
+        "description": "인장 패시브: 전투 중 생명력을 생성합니다. 시그넷 액티브: 체력을 희생하여 근처에 있는 쓰러진 아군 한 명을 소생시킵니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 75
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 4,
+                "text": "Life Force per 3 Seconds",
+                "type": "Percent"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 아군",
+                "type": "Number",
+                "value": 1
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/71931FADB11260EDB2770DF23054DC9970D35734/103826.png",
+        "id": 24544,
+        "name": "Signet of Undeath",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

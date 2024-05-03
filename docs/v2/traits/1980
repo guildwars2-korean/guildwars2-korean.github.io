@@ -1,0 +1,23 @@
+[
+    {
+        "description": "판타즘들이 이지스를 가지고 소환된다.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "공격을 1회 막는다; 지속시간이 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
+                "status": "이지스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/1503DDC5B62526D71901E3A7F891A6F4445D80C8/1012527.png",
+        "id": 1980,
+        "name": "Protected Phantasms",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 23,
+        "tier": 2
+    }
+]

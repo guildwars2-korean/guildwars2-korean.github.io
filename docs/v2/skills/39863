@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BrebAAA=]",
+        "description": "큰 피해를 입히고 조건을 적용합니다.",
+        "facts": [
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/7632087376D36B0D100F1B07BE53F154BC337D7C/2440716.png",
+                "text": "Knockdown",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 39863,
+        "name": "Red Marble"
+    }
+]

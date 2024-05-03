@@ -1,0 +1,52 @@
+[
+    {
+        "chat_link": "[&Bmf3AAA=]",
+        "description": "주변의 적을 공격하여 피해를 입힙니다. 비활성화된 적에게 추가 피해를 줍니다. 무력화에는 기절, 멍, 넉백, 당기기, 쓰러뜨리기, 가라앉기, 띄우기, 발사, 도발 및 공포가 포함됩니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 7
+            },
+            {
+                "dmg_multiplier": 1.25,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 20,
+                "text": "데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/7369B820749874C1F15A4B02AD2F18B94A6AB84C/2503717.png",
+        "id": 63335,
+        "name": "Unleashed Wild Swing",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Weapon_2",
+        "specialization": 72,
+        "type": "Weapon",
+        "weapon_type": "Hammer"
+    }
+]

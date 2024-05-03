@@ -1,0 +1,104 @@
+[
+    {
+        "description": "구르기가 주변의 아군들에게 분을 부여하고, 적들에게는 칠을 유발시킨다. 아군에게는 부여된 분 지속시간이 연장된다.",
+        "facts": [
+            {
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간 증가",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/955F334FAA12550A15127A6200CB7BDE4D41BD0A/2491538.png",
+        "id": 2232,
+        "name": "Vassals of the Empire",
+        "order": 1,
+        "skills": [
+            {
+                "chat_link": "[&Bov1AAA=]",
+                "description": "위에서 떨어뜨려 적에게는 강력한 공격을 가하고 아군에게는 혜택을 줍니다.",
+                "facts": [
+                    {
+                        "dmg_multiplier": 1.25,
+                        "hit_count": 1,
+                        "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                        "text": "데미지",
+                        "type": "Damage"
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "이동속도가 66% 감소한다; 스킬 재사용 대기시간이 66% 증가한다; 지속시간이 중첩된다.",
+                        "duration": 4,
+                        "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                        "status": "칠",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "distance": 240,
+                        "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                        "text": "범위",
+                        "type": "Distance"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "text": "적용 대상",
+                        "type": "Number",
+                        "value": 5
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "text": "적용 아군",
+                        "type": "Number",
+                        "value": 5
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/955F334FAA12550A15127A6200CB7BDE4D41BD0A/2491538.png",
+                "id": 62859,
+                "name": "Imperial Impact",
+                "traited_facts": [
+                    {
+                        "dmg_multiplier": 2,
+                        "hit_count": 1,
+                        "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                        "overrides": 0,
+                        "requires_trait": 2232,
+                        "text": "데미지",
+                        "type": "Damage"
+                    },
+                    {
+                        "apply_count": 10,
+                        "description": "데미지가 증가한다; 강도가 중첩된다.",
+                        "duration": 10,
+                        "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                        "requires_trait": 2232,
+                        "status": "마이트",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
+                        "duration": 10,
+                        "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                        "requires_trait": 2232,
+                        "status": "프로텍션",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "duration": 2,
+                        "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                        "requires_trait": 2232,
+                        "text": "Boon Duration Increase",
+                        "type": "Time"
+                    }
+                ]
+            }
+        ],
+        "slot": "Major",
+        "specialization": 69,
+        "tier": 3
+    }
+]

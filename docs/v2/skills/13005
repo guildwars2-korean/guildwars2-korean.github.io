@@ -1,0 +1,61 @@
+[
+    {
+        "categories": [
+            "StealthAttack"
+        ],
+        "chat_link": "[&Bs0yAAA=]",
+        "description": "스텔스 공격. 그림자에서 적을 공격하고 뒤에서 공격하면 두 배의 피해를 줍니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 1
+            },
+            {
+                "dmg_multiplier": 1.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Front Damage",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 3,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Back damage",
+                "type": "Damage"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/96EFE0C268C5A70654BBA8B491E1FACC1C180CF3/103616.png",
+        "id": 13005,
+        "name": "Backstab",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Weapon_1",
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "지구력 재생력이 50% 감소한다. 50%의 공격이 빗나간다(50% 데미지). 지속시간이 중첩된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                "requires_trait": 1284,
+                "status": "위크니스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Dagger"
+    }
+]

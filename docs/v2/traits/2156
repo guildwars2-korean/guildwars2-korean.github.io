@@ -1,0 +1,25 @@
+[
+    {
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 15,
+                "text": "데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 7,
+                "text": "데미지 증가",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/C95A3880A940B9073707A565A216032B92F5FCDD/1769985.png",
+        "id": 2156,
+        "name": "Furious Strength",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 55,
+        "tier": 2
+    }
+]

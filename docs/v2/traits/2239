@@ -1,0 +1,51 @@
+[
+    {
+        "description": "Dragon Slash 공격에 언블록커블 효과가 추가된다. 블라인드 컨디션 효과를 무시하고, 적중된 적들을 스턴시킨다. 플로우를 차지로 변환시 마이트를 획득한다.",
+        "facts": [
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+                "text": "Stun Duration per Charge",
+                "type": "Time"
+            },
+            {
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+                "text": "Stun Duration per Charge",
+                "type": "Time"
+            },
+            {
+                "description": "다음 공격이 빗나간다; 지속시간이 중첩된다.",
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "status": "블라인드",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/1EB2252BC0787298D1C656045C627D59AE666745/2491550.png",
+        "id": 2239,
+        "name": "Unyielding Dragon",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 68,
+        "tier": 3
+    }
+]

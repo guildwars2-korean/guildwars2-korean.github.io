@@ -1,0 +1,55 @@
+[
+    {
+        "chat_link": "[&Bs73AAA=]",
+        "description": "해방된 매복. 회전하면서 주변의 적을 공격하여 집중하는 동안 더 빠르게 이동합니다. 적을 처음 공격할 때 포자를 생성합니다.",
+        "facts": [
+            {
+                "dmg_multiplier": 0.546,
+                "hit_count": 5,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "apply_count": 1,
+                "description": "넉다운, 넉백, 풀, 런치, 스턴, 데이즈, 플로트, 싱크, 피어, 타운트에 면역된다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "status": "스태빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 50,
+                "text": "Movement Speed Increase",
+                "type": "Percent"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/1FD6BA0D5205082CF724026543A9CE3EA9E3AB10/2565748.png",
+        "id": 63438,
+        "name": "Relentless Whirl",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Weapon_1",
+        "specialization": 72,
+        "type": "Weapon",
+        "weapon_type": "Hammer"
+    }
+]

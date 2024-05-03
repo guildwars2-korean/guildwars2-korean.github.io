@@ -1,0 +1,58 @@
+[
+    {
+        "chat_link": "[&BhsYAAA=]",
+        "description": "폭발하는 수류탄을 여러 개 던집니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "dmg_multiplier": 0.33,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Number of Grenades",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "distance": 120,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "폭발 범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
+                "text": "폭발",
+                "type": "NoData"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/99C41308F9993ED99233525FA009C203E50A6CAF/103423.png",
+        "id": 6171,
+        "name": "Grenade",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Weapon_1",
+        "traited_facts": [
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "overrides": 3,
+                "requires_trait": 514,
+                "text": "폭발 범위",
+                "type": "Distance"
+            }
+        ],
+        "type": "Bundle",
+        "weapon_type": "None"
+    }
+]

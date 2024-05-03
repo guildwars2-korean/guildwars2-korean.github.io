@@ -1,0 +1,44 @@
+[
+    {
+        "attunement": "Water",
+        "categories": [],
+        "chat_link": "[&BpH1AAA=]",
+        "description": "체인. 물의 일격으로 적을 공격합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "dmg_multiplier": 0.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 62694,
+        "icon": "https://render.guildwars2.com/file/D8231F47FCFDD867032FFC79F5C21C0B750A99C0/2491570.png",
+        "id": 62865,
+        "name": "Stream Strike",
+        "next_chain": 62694,
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_1",
+        "specialization": 67,
+        "type": "Weapon",
+        "weapon_type": "Hammer"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "categories": [
+            "Elixir"
+        ],
+        "chat_link": "[&BsYXAAA=]",
+        "description": "엘릭서. 병을 터트려 아군을 소생시킵니다.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/7835AE041957D0DCCB7B2373CA76A90864017E09/103481.png",
+        "id": 6086,
+        "name": "Detonate Elixir R",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Toolbelt",
+        "type": "Toolbelt",
+        "weapon_type": "None"
+    }
+]

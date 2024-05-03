@@ -1,0 +1,53 @@
+[
+    {
+        "attunement": "Water",
+        "chat_link": "[&BqEVAAA=]",
+        "description": "적에게 피해를 입히고 아군을 치유하는 얼음 폭발을 원뿔형으로 분사합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 400
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "dmg_multiplier": 0.6,
+                "hit_count": 4,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "힐링",
+                "type": "AttributeAdjust",
+                "value": 236
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/069C46F135A34A5E3F15270E3B086A25FA790D92/102780.png",
+        "id": 5537,
+        "name": "Cone of Cold",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_2",
+        "type": "Weapon",
+        "weapon_type": "Dagger"
+    }
+]

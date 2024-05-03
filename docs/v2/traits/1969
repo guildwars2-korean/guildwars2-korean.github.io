@@ -1,0 +1,38 @@
+[
+    {
+        "description": "임계 거리 이내의 적을 공격하는 것은 데미지를 증가시키며, 데미지의 일정량만큼 생명력 회복을 한다. <br>라이프 포스가 생명력을 대체하고 있는 상황에서는 생명력 회복이 일어나지 않는다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 10,
+                "text": "데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "percent": 4,
+                "text": "힐링",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "percent": 5,
+                "text": "힐링",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "임계 거리",
+                "type": "Number",
+                "value": 300
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/6237B918FA7042581BF3D8AFB234B93644C8756C/1012573.png",
+        "id": 1969,
+        "name": "Soul Eater",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 34,
+        "tier": 2
+    }
+]

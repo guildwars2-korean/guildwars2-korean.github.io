@@ -1,0 +1,32 @@
+[
+    {
+        "description": "레인저 무기 스킬의 타격 데미지가 증가한다. 임계 거리 이상의 적에게 주는 데미지가 증가한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 5,
+                "text": "데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 10,
+                "text": "Damage Increase above Threshold",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "임계 거리",
+                "type": "Number",
+                "value": 600
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/6F338058C9CEAC7F35740F1F384E01F4C7D45428/1012622.png",
+        "id": 1000,
+        "name": "Farsighted",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 8,
+        "tier": 2
+    }
+]

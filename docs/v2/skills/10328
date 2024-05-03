@@ -1,0 +1,101 @@
+[
+    {
+        "categories": [
+            "Phantasm"
+        ],
+        "chat_link": "[&BlgoAAA=]",
+        "description": "환상. 주변의 적에게 사이렌의 부름을 시전하고 작살총으로 적을 혼동시키는 환영을 만듭니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Number of Casts",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "dmg_multiplier": 0.15,
+                "hit_count": 4,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 8,
+                "description": "스킬 시전시 데미지를 받는다; 강도가 중첩된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                "status": "컨퓨전",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 4,
+                "description": "스킬 시전시 데미지를 받는다; 강도가 중첩된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                "status": "컨퓨전",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+                "text": "최대 횟수",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "duration": 15,
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "text": "충전 대기시간",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/ED0BA8B7AC0F232E383E0F7E26E6E27FEAE9A1F3/103787.png",
+        "id": 10328,
+        "name": "Phantasmal Whaler",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Weapon_4",
+        "traited_facts": [
+            {
+                "dmg_multiplier": 0.1725,
+                "hit_count": 4,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "overrides": 4,
+                "requires_trait": 682,
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "duration": 12,
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "overrides": 8,
+                "requires_trait": 669,
+                "text": "충전 대기시간",
+                "type": "Time"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Trident"
+    }
+]

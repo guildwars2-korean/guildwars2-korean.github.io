@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BpC8AAA=]",
+        "description": "모든 적에게 막대한 피해를 입히는 에너지의 분출로 폭발합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 400
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/02A02091B1EBDB782719EB6AE56F01E6372C500D/103091.png",
+        "id": 48272,
+        "name": "Bombshell"
+    }
+]

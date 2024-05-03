@@ -1,0 +1,47 @@
+[
+    {
+        "chat_link": "[&BnEwAAA=]",
+        "description": "노른 스노우 레오파드 형태로 변신.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 240
+            },
+            {
+                "duration": 30,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 12402,
+        "icon": "https://render.guildwars2.com/file/7B3756644C01290CAB73D361B5033E3824544DF9/103962.png",
+        "id": 12401,
+        "name": "Become the Snow Leopard",
+        "professions": [
+            "Guardian",
+            "Warrior",
+            "Engineer",
+            "Ranger",
+            "Thief",
+            "Elementalist",
+            "Mesmer",
+            "Necromancer"
+        ],
+        "slot": "Elite",
+        "transform_skills": [
+            12429,
+            12430,
+            12431,
+            12427,
+            12399
+        ],
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "description": "현재 어튠먼트에 따라 추가 스탯을 획득한다. 속성을 두개 어튠중일때, 두 속성 어튠 스탯증가효과를 받게된다.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/7E6722B76FD7F8AC1B4591B2FF9B277147B13476/102801.png",
+                "status": "Fire Attunement",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/517FE8900C72EAADBB54676E324D45D31706C277/102865.png",
+                "status": "Water Attunement",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/4857F59020DE3B0950B9C91F3D234A1C1932984A/103048.png",
+                "status": "Air Attunement",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/4B8056D9BD080DC8E74AE6A57B2B383A2D4265C9/102870.png",
+                "status": "Earth Attunement",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/28460700BDF3B9D3000B963977B1555F7E999512/1769926.png",
+        "id": 2081,
+        "name": "Elemental Polyphony",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 56,
+        "tier": 3
+    }
+]

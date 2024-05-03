@@ -1,0 +1,50 @@
+[
+    {
+        "description": "Shadow Shroud 상태에서 주기적으로 Consume Shadows 스택을 획득한다. Shadow Shroud 상태에서 벗어나면 남아있는 모든 Shadowforce를 소모해서 Consume Shadows 스택에 따라 아군을 회복시킨다. 이 효과로 최대 생명력보다 넘치게 회복된 양만큼 배리어를 부여받는다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 10,
+                "text": "Healing per Stack",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 6.6,
+                "text": "Healing per Stack",
+                "type": "Percent"
+            },
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 아군",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+                "text": "최대 중첩",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/0DE6EECA322FE219A7DF6FFA9EE04B975FA2E06B/2503646.png",
+        "id": 2275,
+        "name": "Consume Shadows",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 71,
+        "tier": 1
+    }
+]

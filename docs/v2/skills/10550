@@ -1,0 +1,82 @@
+[
+    {
+        "categories": [
+            "Spectral"
+        ],
+        "chat_link": "[&BjYpAAA=]",
+        "description": "유령 같은. 짧은 시간 동안 리치의 형태를 취하여 정확성과 활력을 향상시킵니다. 이 스킬이 끝나면 생명력을 얻습니다. 이 형식을 입력하면 다른 스펙트럼 효과가 제거됩니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 150
+            },
+            {
+                "apply_count": 1,
+                "description": "넉다운, 넉백, 풀, 런치, 스턴, 데이즈, 플로트, 싱크, 피어, 타운트에 면역된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "status": "스태빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "Stability Interval",
+                "type": "Time"
+            },
+            {
+                "duration": 20,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 15,
+                "text": "Life Force When Ending",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 5,
+                "text": "Life Force When Ending",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+                "target": "Precision",
+                "type": "AttributeAdjust",
+                "value": 1000
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+                "target": "Vitality",
+                "type": "AttributeAdjust",
+                "value": 1000
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/05440954B9C0A2D8C13463196C64BB6777E6F79C/103807.png",
+        "id": 10550,
+        "name": "Lich Form",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Elite",
+        "transform_skills": [
+            14350,
+            10634,
+            10635,
+            10633,
+            10636,
+            10632
+        ],
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "chat_link": "[&BpgHAQA=]",
+        "description": "저격수가 파괴적인 레이저를 충전하기 시작하여 경로에 있는 모든 적에게 상당한 피해를 줍니다. 이 기술은 저격수의 저항 막대를 깨면 중단될 수 있습니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 4000
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "방어 불가",
+                "type": "Unblockable",
+                "value": true
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/170FEF0C80AE0E4FBF3FEAF05FF11871D242F346/2221493.png",
+        "id": 67480,
+        "name": "Jade Laser Shot"
+    }
+]

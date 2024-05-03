@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BiG9AAA=]",
+        "description": "방해받지 않으면 눈이 해당 지역의 모든 적에게 힘을 가합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 3500
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/0413A02F7A8009795B622EBC24ACF2C8E2164E4A/1896069.png",
+        "id": 48417,
+        "name": "Despairing Darkness"
+    }
+]

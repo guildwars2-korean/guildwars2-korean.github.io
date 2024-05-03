@@ -1,0 +1,71 @@
+[
+    {
+        "categories": [
+            "Signet"
+        ],
+        "chat_link": "[&BvZUAAA=]",
+        "description": "인장 패시브: 환상을 소환할 때마다 자신을 치유합니다. 시그넷 액티브: 자신을 치유하고 환상 스킬의 충전을 줄입니다. 거장: 칼날을 장전할 때 패시브 발동.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "힐링",
+                "type": "AttributeAdjust",
+                "value": 5560
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Heal on Illusion Summon",
+                "type": "AttributeAdjust",
+                "value": 350
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Heal on Illusion Summon",
+                "type": "AttributeAdjust",
+                "value": 297
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "percent": 100,
+                "text": "재사용 대기시간 감소",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "percent": 50,
+                "text": "재사용 대기시간 감소",
+                "type": "Percent"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/EE5271572B2B10FBCE95097ECD54775832E8B9EF/699528.png",
+        "id": 21750,
+        "name": "Signet of the Ether",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Heal",
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "overrides": 1,
+                "requires_trait": 752,
+                "target": "Healing",
+                "text": "힐링",
+                "type": "AttributeAdjust",
+                "value": 6600
+            }
+        ],
+        "type": "Heal",
+        "weapon_type": "None"
+    }
+]

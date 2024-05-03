@@ -1,0 +1,70 @@
+[
+    {
+        "categories": [
+            "LegendaryAssassin"
+        ],
+        "chat_link": "[&BhlyAAA=]",
+        "cost": 30,
+        "description": "전설의 암살자. 안개를 통해 뒤로 회피합니다. 이동 방해 조건을 제거하고 분노를 얻습니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                "text": "스턴 해제",
+                "type": "StunBreak",
+                "value": true
+            },
+            {
+                "description": "이동할 수 없다; 지속시간이 중첩된다.",
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "이모빌",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "description": "이동속도가 66% 감소한다; 스킬 재사용 대기시간이 66% 증가한다; 지속시간이 중첩된다.",
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "status": "칠",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "크리플",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "지구력 회복",
+                "type": "Number",
+                "value": 25
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "지구력 회복",
+                "type": "Number",
+                "value": 15
+            },
+            {
+                "apply_count": 1,
+                "description": "크리티컬 확률이 증가한다; 지속시간이 중첩된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                "status": "퓨리",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/75DF55FCC5120EF6B643C1B1730E050EA17F5827/1013019.png",
+        "id": 29209,
+        "name": "Riposting Shadows",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

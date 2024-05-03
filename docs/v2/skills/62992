@@ -1,0 +1,108 @@
+[
+    {
+        "attunement": "Earth",
+        "chat_link": "[&BhD2AAA=]",
+        "description": "다음 공격을 차단합니다. 공격을 차단하면 현재 조율에 따라 보호막과 오라를 얻습니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "apply_count": 1,
+                "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/2E7050E44690AFE0A396FA0DAD526699392743F3/2261521.png",
+                "prefix": {
+                    "description": "Cast fire spells.",
+                    "icon": "https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png",
+                    "status": "Fire Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "Fire Aura",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Chill foes that strike you (only once per second for each attacker); incoming damage is reduced by 10%.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/719B80E35C276D68EF0AABB79126CF4CD42E3AF6/2261522.png",
+                "prefix": {
+                    "description": "Cast water spells.",
+                    "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
+                    "status": "Water Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "Frost Aura",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Stun nearby attacking foes with an electric shock (only once per 2 seconds for each attacker).",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/79F60BF40AB3F306E7367CF3479A4163F76F3944/2261527.png",
+                "prefix": {
+                    "description": "Cast air spells.",
+                    "icon": "https://render.guildwars2.com/file/4857F59020DE3B0950B9C91F3D234A1C1932984A/103048.png",
+                    "status": "Air Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "Shocking Aura",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Reflect projectiles with magnetic energy.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/33D27C7FE0017F70749DE84576F56F381DDF0C30/2261524.png",
+                "prefix": {
+                    "description": "Cast earth spells.",
+                    "icon": "https://render.guildwars2.com/file/4B8056D9BD080DC8E74AE6A57B2B383A2D4265C9/102870.png",
+                    "status": "Earth Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "Magnetic Aura",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Block Duration",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "배리어",
+                "type": "AttributeAdjust",
+                "value": 2919
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "배리어",
+                "type": "AttributeAdjust",
+                "value": 2919
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/F560A6D6F1E70426210029040B5B735A3E3D5195/2491585.png",
+        "id": 62992,
+        "name": "Immutable Stone",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_4",
+        "specialization": 67,
+        "type": "Weapon",
+        "weapon_type": "Hammer"
+    }
+]

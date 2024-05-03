@@ -1,0 +1,350 @@
+[
+    {
+        "description": "클론을 생성하는 효과 대신 블레이드를 생성한다. 섀터 스킬들이 블레이드송 스킬들로 대체되고 이는 생성된 블레이드를 소모한다. 블레이드송 스킬이 섀터로 작용해 코어 트레잇에도 적용된다. <br><br>전투 중이 아닐 때, 매 10초마다 자동으로 블레이드를 생성한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Maximum Blades",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/D25E3C479F24BE357015AA03C4B8B2EBCBC01B1E/2479335.png",
+        "id": 2216,
+        "name": "Psychic Blades",
+        "order": 0,
+        "skills": [
+            {
+                "chat_link": "[&Bpn0AAA=]",
+                "description": "블레이드송. 모든 재고 블레이드를 목표물에 발사하십시오.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                        "text": "사정거리",
+                        "type": "Range",
+                        "value": 1200
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                        "text": "Recharge",
+                        "type": "Recharge",
+                        "value": 12
+                    },
+                    {
+                        "dmg_multiplier": 0.7,
+                        "hit_count": 1,
+                        "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                        "text": "Strike Damage per Blade Spent",
+                        "type": "Damage"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "text": "적용 대상",
+                        "type": "Number",
+                        "value": 5
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+                        "text": "Blade",
+                        "type": "NoData"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
+                        "text": "관통",
+                        "type": "NoData"
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/656A0C59523A4D9D935316EA93F1EA6247C32106/2479382.png",
+                "id": 62617,
+                "name": "Bladesong Harmony",
+                "traited_facts": [
+                    {
+                        "apply_count": 5,
+                        "description": "데미지가 증가한다; 강도가 중첩된다.",
+                        "duration": 8,
+                        "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                        "requires_trait": 1687,
+                        "status": "마이트",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+                        "percent": 25,
+                        "requires_trait": 2035,
+                        "text": "크리티컬 확률 증가",
+                        "type": "Percent"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                        "requires_trait": 740,
+                        "text": "컨디션 해제",
+                        "type": "Number",
+                        "value": 1
+                    }
+                ]
+            },
+            {
+                "chat_link": "[&Bpj0AAA=]",
+                "description": "블레이드송. 장착된 모든 칼날을 발사하여 대상에게 조건을 부여합니다.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                        "text": "사정거리",
+                        "type": "Range",
+                        "value": 1200
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                        "text": "Recharge",
+                        "type": "Recharge",
+                        "value": 20
+                    },
+                    {
+                        "dmg_multiplier": 0.38,
+                        "hit_count": 1,
+                        "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                        "text": "Strike Damage per Blade Spent",
+                        "type": "Damage"
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "스킬 시전시 데미지를 받는다; 강도가 중첩된다.",
+                        "duration": 3,
+                        "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                        "status": "컨퓨전",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "text": "적용 대상",
+                        "type": "Number",
+                        "value": 5
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+                        "text": "Blade",
+                        "type": "NoData"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
+                        "text": "관통",
+                        "type": "NoData"
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/EF9223543A66B8B5A8FD1C4BC4E7A218277C15C4/2479383.png",
+                "id": 62616,
+                "name": "Bladesong Sorrow",
+                "traited_facts": [
+                    {
+                        "apply_count": 1,
+                        "description": "지구력 회복이 50% 증가한다; 지속시간이 중첩된다.",
+                        "duration": 8,
+                        "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+                        "requires_trait": 1687,
+                        "status": "비거",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "크리티컬 확률이 증가한다; 지속시간이 중첩된다.",
+                        "duration": 5,
+                        "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                        "requires_trait": 2207,
+                        "status": "퓨리",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "apply_count": 2,
+                        "description": "스킬 시전시 데미지를 받는다; 강도가 중첩된다.",
+                        "duration": 4,
+                        "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                        "overrides": 3,
+                        "requires_trait": 734,
+                        "status": "컨퓨전",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
+                        "duration": 3,
+                        "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                        "requires_trait": 2035,
+                        "status": "크리플",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                        "requires_trait": 740,
+                        "text": "컨디션 해제",
+                        "type": "Number",
+                        "value": 1
+                    }
+                ]
+            },
+            {
+                "chat_link": "[&Bor0AAA=]",
+                "description": "블레이드송. 소모한 칼날의 수에 따라 목표물을 멍하게 만드는 하나의 큰 칼날로 모든 칼날을 결합하십시오.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                        "text": "사정거리",
+                        "type": "Range",
+                        "value": 1200
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                        "text": "Recharge",
+                        "type": "Recharge",
+                        "value": 30
+                    },
+                    {
+                        "dmg_multiplier": 1,
+                        "hit_count": 1,
+                        "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                        "text": "데미지",
+                        "type": "Damage"
+                    },
+                    {
+                        "duration": 1,
+                        "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+                        "text": "Daze per Blade",
+                        "type": "Time"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "text": "적용 대상",
+                        "type": "Number",
+                        "value": 1
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+                        "text": "Blade",
+                        "type": "NoData"
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/D96E115ADAB14D610215EC185C3C21B4611DC292/2479381.png",
+                "id": 62602,
+                "name": "Bladesong Dissonance",
+                "traited_facts": [
+                    {
+                        "apply_count": 1,
+                        "description": "크리티컬 확률이 증가한다; 지속시간이 중첩된다.",
+                        "duration": 10,
+                        "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                        "requires_trait": 1687,
+                        "status": "퓨리",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "distance": 240,
+                        "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                        "requires_trait": 2035,
+                        "text": "범위",
+                        "type": "Distance"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "overrides": 4,
+                        "requires_trait": 2035,
+                        "text": "적용 대상",
+                        "type": "Number",
+                        "value": 5
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                        "requires_trait": 740,
+                        "text": "컨디션 해제",
+                        "type": "Number",
+                        "value": 1
+                    }
+                ]
+            },
+            {
+                "chat_link": "[&BoX0AAA=]",
+                "description": "블레이드송. 들어오는 공격을 차단하고 주위의 적을 공격하기 위해 회전하는 블레이드를 보냅니다. 회전하는 블레이드 지속 시간은 소모된 블레이드 수에 따라 조정됩니다.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                        "text": "Recharge",
+                        "type": "Recharge",
+                        "value": 30
+                    },
+                    {
+                        "distance": 240,
+                        "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                        "text": "범위",
+                        "type": "Distance"
+                    },
+                    {
+                        "dmg_multiplier": 0.2,
+                        "hit_count": 1,
+                        "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                        "text": "데미지",
+                        "type": "Damage"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+                        "text": "Blade",
+                        "type": "NoData"
+                    },
+                    {
+                        "duration": 2,
+                        "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                        "text": "Block Duration",
+                        "type": "Time"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "text": "적용 대상",
+                        "type": "Number",
+                        "value": 5
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/040192EDDE9D2492D2428027E50DFC12B9044D39/2479384.png",
+                "id": 62597,
+                "name": "Bladeturn Requiem",
+                "traited_facts": [
+                    {
+                        "apply_count": 1,
+                        "description": "매 초마다 생명력을 회복한다; 지속시간이 중첩된다.",
+                        "duration": 10,
+                        "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                        "requires_trait": 1687,
+                        "status": "리제너레이션",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                        "requires_trait": 740,
+                        "text": "컨디션 해제",
+                        "type": "Number",
+                        "value": 1
+                    },
+                    {
+                        "duration": 3,
+                        "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                        "overrides": 4,
+                        "requires_trait": 2035,
+                        "text": "Block Duration",
+                        "type": "Time"
+                    }
+                ]
+            }
+        ],
+        "slot": "Minor",
+        "specialization": 66,
+        "tier": 1
+    }
+]

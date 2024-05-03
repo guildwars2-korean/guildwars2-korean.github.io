@@ -1,0 +1,24 @@
+[
+    {
+        "chat_link": "[&BuMwAAA=]",
+        "description": "당신을 소생시키기 위해 당신의 위치에서 당신의 애완 동물을 소생.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/7C0379BEF70903068064D0FE211A2305E5577EBF/103997.png",
+        "id": 12515,
+        "name": "Lick Wounds",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Downed_3",
+        "type": "Weapon",
+        "weapon_type": "None"
+    }
+]

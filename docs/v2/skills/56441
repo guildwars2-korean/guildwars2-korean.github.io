@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BnncAAA=]",
+        "description": "카딤이 지속적인 피해장을 남기는 에너지 파동을 던집니다. 철탑이 공격을 받으면 그 힘을 빼앗습니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 3000
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 56441,
+        "name": "Force of Havoc"
+    }
+]

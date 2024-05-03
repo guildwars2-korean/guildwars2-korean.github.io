@@ -1,0 +1,38 @@
+[
+    {
+        "description": "이동 스킬이 스위프트니스를 부여하고 플로우를 증가시킨다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 5
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 33% 증가한다; 지속시간이 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                "status": "스위프트니스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Gain flow per second.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/15AA251708A19EC6E1CBA4B208D7502797C9D111/2604722.png",
+                "status": "Positive Flow",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/E90966C0A20291FB1FC0FFC73BAFE756B938A805/2491544.png",
+        "id": 2260,
+        "name": "Swift as the Wind",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 68,
+        "tier": 1
+    }
+]

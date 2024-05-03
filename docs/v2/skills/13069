@@ -1,0 +1,49 @@
+[
+    {
+        "chat_link": "[&Bg0zAAA=]",
+        "description": "적을 피한 다음 공격하여 측면 또는 후면에서 증가된 피해를 줍니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 150
+            },
+            {
+                "dmg_multiplier": 1.75,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 2.625,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Damage When Flanking",
+                "type": "Damage"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/35C2E8631B0702AEEC14109FFB01D53352B40E94/104083.png",
+        "id": 13069,
+        "initiative": 3,
+        "name": "Flanking Dive",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Weapon_2",
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "requires_trait": 1238,
+                "target": "Healing",
+                "text": "힐링",
+                "type": "AttributeAdjust",
+                "value": 306
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Spear"
+    }
+]

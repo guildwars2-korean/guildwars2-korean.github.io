@@ -1,0 +1,26 @@
+[
+    {
+        "description": "아군의 컨디션을 제거시, 아군의 지구력을 일정량 회복시킨다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "지구력 회복",
+                "type": "Number",
+                "value": 4
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "지구력 회복",
+                "type": "Number",
+                "value": 3
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/CED766D430CC0E6CE1BAD33452EF9853B7ED6D59/2128012.png",
+        "id": 1820,
+        "name": "Invigorating Dismissal",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 12,
+        "tier": 3
+    }
+]

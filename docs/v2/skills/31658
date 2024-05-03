@@ -1,0 +1,71 @@
+[
+    {
+        "categories": [
+            "Glyph"
+        ],
+        "chat_link": "[&Bqp7AAA=]",
+        "description": "글리프. 주변의 적들을 멍하게 합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                "text": "스턴 해제",
+                "type": "StunBreak",
+                "value": true
+            },
+            {
+                "dmg_multiplier": 1.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+                "text": "데이즈",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 300,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/2BBD3BC59BF33E0A9B3F4A7DFB9B7EFF3FCA2D9A/1128637.png",
+        "id": 31658,
+        "name": "Glyph of Equality",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Utility",
+        "specialization": 5,
+        "traited_facts": [
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+                "overrides": 3,
+                "requires_trait": 1070,
+                "text": "데이즈",
+                "type": "Time"
+            }
+        ],
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

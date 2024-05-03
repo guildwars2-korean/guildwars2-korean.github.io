@@ -1,0 +1,32 @@
+[
+    {
+        "description": "전투시 첫 앰부쉬 공격이 컨퓨전을 유발한다. 이 능력은 섀터 스킬을 사용시 초기화된다.",
+        "facts": [
+            {
+                "apply_count": 2,
+                "description": "스킬 시전시 데미지를 받는다; 강도가 중첩된다.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                "status": "컨퓨전",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "스킬 시전시 데미지를 받는다; 강도가 중첩된다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                "status": "컨퓨전",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/5E140DCE41A40CD852FA570E4250D825627F7708/1769953.png",
+        "id": 2110,
+        "name": "Riddle of Sand",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 59,
+        "tier": 1
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "categories": [
+            "Cantrip"
+        ],
+        "chat_link": "[&Blf3AAA=]",
+        "description": "주문. 활성화되어 있는 동안에는 죽을 수 없습니다. 캔트립이 끝나면 잃은 체력의 백분율에 따라 치유합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "apply_count": 1,
+                "description": "If you would take lethal damage, ignore it.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/CF914B52D8B0B47D19245203726BF6C7366F33B5/2503724.png",
+                "status": "Perilous Gift",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 대폭 증가한다; 최대 지속시간: 10초",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+                "prefix": {
+                    "icon": "https://render.guildwars2.com/file/EFC812F33C2A9ECA91F0C1F966E1715FF35E2BDF/2503729.png",
+                    "status": "Unleashed",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "슈퍼스피드",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "넉다운, 넉백, 풀, 런치, 스턴, 데이즈, 플로트, 싱크, 피어, 타운트에 면역된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "prefix": {
+                    "icon": "https://render.guildwars2.com/file/A5E324616977BF624698CA610628B7C3D73ADB1C/2503728.png",
+                    "status": "Pet Unleashed",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "스태빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 50,
+                "text": "퍼센트",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 33,
+                "text": "퍼센트",
+                "type": "Percent"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/CF914B52D8B0B47D19245203726BF6C7366F33B5/2503724.png",
+        "id": 63319,
+        "name": "Perilous Gift",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Heal",
+        "specialization": 72,
+        "type": "Heal",
+        "weapon_type": "None"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "description": "적에게 스틸을 사용하면 블리딩을 유발한다. 블리딩의 데미지가 증가한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 25,
+                "text": "데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "apply_count": 3,
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "블리딩",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 3,
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "블리딩",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/55FB4EE6F25EEFB23CB0F8317FC16968EF3A5791/1012770.png",
+        "id": 1706,
+        "name": "Deadly Ambush",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 44,
+        "tier": 3
+    }
+]

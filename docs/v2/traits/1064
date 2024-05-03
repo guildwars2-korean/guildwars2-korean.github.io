@@ -1,0 +1,34 @@
+[
+    {
+        "description": "무기 스왑후, 사용하는 첫 레인저 무기 스킬의 재사용 대기시간이 감소한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 9
+            },
+            {
+                "apply_count": 1,
+                "description": "Your next weapon skill's cooldown is reduced by 66%.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/CBCB2EC86BC85CC02DA7AAB25CBFB226B8956D1E/1012648.png",
+                "status": "퀵 드로우",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "전투시에만 적용",
+                "type": "NoData"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/CBCB2EC86BC85CC02DA7AAB25CBFB226B8956D1E/1012648.png",
+        "id": 1064,
+        "name": "Quick Draw",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 30,
+        "tier": 3
+    }
+]

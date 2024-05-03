@@ -1,0 +1,29 @@
+[
+    {
+        "chat_link": "[&BmUEAAA=]",
+        "description": "건강과 주도권을 회복하십시오.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "힐링",
+                "type": "AttributeAdjust",
+                "value": 2132
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Initiative Gain",
+                "type": "Number",
+                "value": 8
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/23A3644A7C25F9ACCD64C00AE90858C2C2F2A61C/102934.png",
+        "id": 1125,
+        "name": "Eat Egg",
+        "professions": [],
+        "slot": "Profession_2",
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

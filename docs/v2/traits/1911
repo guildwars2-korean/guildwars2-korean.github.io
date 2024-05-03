@@ -1,0 +1,43 @@
+[
+    {
+        "description": "Wings of Resolve로 착지할때 공격을 가한다. Wings of Resolve 스킬 재사용 대기중에도 이동속도가 증가한다.",
+        "facts": [
+            {
+                "dmg_multiplier": 1.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 0.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동할 수 없다; 지속시간이 중첩된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "이모빌",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 25,
+                "text": "Movement Speed Increase",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/5BB39BC2BF306D32C16BD1D657A6191604C03ECB/1012392.png",
+        "id": 1911,
+        "name": "Soaring Devastation",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 27,
+        "tier": 1
+    }
+]

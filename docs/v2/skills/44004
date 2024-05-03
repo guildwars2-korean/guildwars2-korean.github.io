@@ -1,0 +1,46 @@
+[
+    {
+        "chat_link": "[&BuSrAAA=]",
+        "description": "목표물을 공격하세요. 스킬을 사용하지 않는 적에게 더 많은 데미지를 준다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 12
+            },
+            {
+                "dmg_multiplier": 1.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 100,
+                "text": "데미지 증가",
+                "type": "Percent"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/04677008EC13120C6201CF40DACE1B73D721FDBF/1770657.png",
+        "id": 44004,
+        "name": "Wastrel's Ruin",
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Weapon_4",
+        "specialization": 61,
+        "type": "Weapon",
+        "weapon_type": "Dagger"
+    }
+]

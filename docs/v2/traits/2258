@@ -1,0 +1,20 @@
+[
+    {
+        "description": "지구력이 가득 차있을때, 데미지가 증가한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 10,
+                "text": "데미지 증가",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/5863F212529A39973D0ABB76010DAA11AADF2E5F/2491531.png",
+        "id": 2258,
+        "name": "Leviathan Strength",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 69,
+        "tier": 1
+    }
+]

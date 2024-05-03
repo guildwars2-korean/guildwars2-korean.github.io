@@ -1,0 +1,20 @@
+[
+    {
+        "description": "버서크 모드 지속시간이 증가한다.",
+        "facts": [
+            {
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간 증가",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/780ACDAE6E6AE10E53470AF821FD246E380E65EB/1029973.png",
+        "id": 2049,
+        "name": "Smash Brawler",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 18,
+        "tier": 1
+    }
+]

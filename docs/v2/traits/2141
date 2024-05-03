@@ -1,0 +1,12 @@
+[
+    {
+        "description": "활성화된 클론이 존재할 시, 디셉션 스킬이 클론 하나를 생성한다.",
+        "icon": "https://render.guildwars2.com/file/603C30B0D0F90E21BCCC569AE8B5A35BC9E0BDBC/1769951.png",
+        "id": 2141,
+        "name": "Self-Deception",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 59,
+        "tier": 1
+    }
+]

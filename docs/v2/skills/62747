@@ -1,0 +1,35 @@
+[
+    {
+        "attunement": "Air",
+        "chat_link": "[&Bhv1AAA=]",
+        "description": "돌풍으로 적을 내리칩니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 600
+            },
+            {
+                "dmg_multiplier": 0.9,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Maximum Damage",
+                "type": "Damage"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/F6B968A25DCB611A00580215DF0E276B04CEFFE7/2491569.png",
+        "id": 62747,
+        "name": "Wind Slam",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_1",
+        "specialization": 67,
+        "type": "Weapon",
+        "weapon_type": "Hammer"
+    }
+]

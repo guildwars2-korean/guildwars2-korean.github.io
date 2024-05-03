@@ -1,0 +1,70 @@
+[
+    {
+        "categories": [
+            "Signet"
+        ],
+        "chat_link": "[&BsswAAA=]",
+        "description": "인장 패시브: 당신과 당신의 애완동물의 포악함을 증가시킵니다. 시그넷 활성: 땅을 탭하여 주변의 적을 묶습니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 40
+            },
+            {
+                "apply_count": 1,
+                "description": "Increased ferocity.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/C5C6F15A60FA590B2810DE5023E7402964190496/103542.png",
+                "status": "Signet of the Wild",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "dmg_multiplier": 0.2,
+                "hit_count": 4,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "apply_count": 4,
+                "description": "이동할 수 없다; 지속시간이 중첩된다.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "이모빌",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/C5C6F15A60FA590B2810DE5023E7402964190496/103542.png",
+        "id": 12491,
+        "name": "Signet of the Wild",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

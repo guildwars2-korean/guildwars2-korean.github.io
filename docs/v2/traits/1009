@@ -1,0 +1,23 @@
+[
+    {
+        "description": "전투 돌입시 첫번째 공격은 적에게 크리플을 가한다.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "크리플",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/D8167EA3C3CC7508DD2126F7A8C7BAC9C7069829/1012628.png",
+        "id": 1009,
+        "name": "Alpha Focus",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 8,
+        "tier": 2
+    }
+]

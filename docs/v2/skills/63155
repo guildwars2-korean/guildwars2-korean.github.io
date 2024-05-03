@@ -1,0 +1,68 @@
+[
+    {
+        "chat_link": "[&BrP2AAA=]",
+        "description": "동맹 대상: 그림자 장막에 들어가 대상 또는 이전에 흡수된 동맹을 묶어 보호막을 부여합니다. 대상을 선택하지 않으면 표시된 반경에서 무작위로 대상이 선택됩니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 8
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 150,
+                "text": "Total Shadow Shroud Health at Maximum Energy",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "배리어",
+                "type": "AttributeAdjust",
+                "value": 1428
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 4,
+                "text": "Shroud Degeneration Rate",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 2,
+                "text": "Shroud Degeneration Rate",
+                "type": "Percent"
+            },
+            {
+                "distance": 1200,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "최대 중첩",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/0A93EB27CFAE0291F0D009E15B4545DD7D054A28/2503737.png",
+        "id": 63155,
+        "name": "Enter Shadow Shroud",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Profession_2",
+        "specialization": 71,
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

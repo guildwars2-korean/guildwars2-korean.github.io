@@ -1,0 +1,32 @@
+[
+    {
+        "description": "생명력이 제시된 임계치 이상일 경우, 적에게 주는 타격 데미지가 증가한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 90,
+                "text": "생명력 임계",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 7,
+                "text": "데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 10,
+                "text": "데미지 증가",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/9003FBF9A0ED253A97A5DD1599D74F9305135363/1058538.png",
+        "id": 1761,
+        "name": "Rising Tide",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 3,
+        "tier": 1
+    }
+]

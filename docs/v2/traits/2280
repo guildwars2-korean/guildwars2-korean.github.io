@@ -1,0 +1,28 @@
+[
+    {
+        "description": "적은 은신 공격하면 배리어를 획득한다. 아군에게 은신을 부여할때 배리어도 부여한다. 이 효과는 한번씩만 발동되고, 은신으로부터 벗어나면 초기화된다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "Stealth Barrier",
+                "type": "AttributeAdjust",
+                "value": 2122
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "Stealth Attack Barrier",
+                "type": "AttributeAdjust",
+                "value": 714
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/630D6100268010ED04B2ABE529BD4AE9110BF65F/2503655.png",
+        "id": 2280,
+        "name": "Panaku's Ambition",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 71,
+        "tier": 3
+    }
+]

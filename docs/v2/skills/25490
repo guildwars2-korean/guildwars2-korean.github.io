@@ -1,0 +1,55 @@
+[
+    {
+        "attunement": "Air",
+        "categories": [
+            "Glyph"
+        ],
+        "chat_link": "[&BpJjAAA=]",
+        "description": "글리프. 조정에 따라 정령을 소환합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 40
+            },
+            {
+                "duration": 120,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 25480,
+        "icon": "https://render.guildwars2.com/file/BDA66A29990B4A4536967001B66EC721B3F22929/867439.png",
+        "id": 25490,
+        "name": "Glyph of Elementals",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Elite",
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "이동속도가 33% 증가한다; 지속시간이 중첩된다.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                "prefix": {
+                    "description": "Cast air spells.",
+                    "icon": "https://render.guildwars2.com/file/4857F59020DE3B0950B9C91F3D234A1C1932984A/103048.png",
+                    "status": "Air Attunement",
+                    "text": "Apply Buff/Condition"
+                },
+                "requires_trait": 229,
+                "status": "스위프트니스",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            }
+        ],
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

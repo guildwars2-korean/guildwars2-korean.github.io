@@ -1,0 +1,53 @@
+[
+    {
+        "description": "Holo Leap 스킬이 자신에게 걸린 이동방해 컨디션을 제거해준다. Holo Leap 스킬이 스위프트니스 대신 슈퍼스피드를 부여하고, 적에게 크리플을 유발시킨다.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "이동속도가 대폭 증가한다; 최대 지속시간: 10초",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+                "status": "슈퍼스피드",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "description": "이동속도가 66% 감소한다; 스킬 재사용 대기시간이 66% 증가한다; 지속시간이 중첩된다.",
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "status": "칠",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "크리플",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "description": "이동할 수 없다; 지속시간이 중첩된다.",
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "이모빌",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "크리플",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/73D708B30A589E3AE2E3141B327B4616B9CC663F/1769932.png",
+        "id": 2091,
+        "name": "Crystal Configuration: Zephyr",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 57,
+        "tier": 2
+    }
+]

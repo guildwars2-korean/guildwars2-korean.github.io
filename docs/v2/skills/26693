@@ -1,0 +1,19 @@
+[
+    {
+        "categories": [
+            "LegendaryDemon"
+        ],
+        "chat_link": "[&BkVoAAA=]",
+        "description": "전설의 악마. 조기에 어둠을 포용하십시오.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/330609F64410624EEE5B24FD7E46CC23F70B7D0E/961440.png",
+        "id": 26693,
+        "name": "Resist the Darkness",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Elite",
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

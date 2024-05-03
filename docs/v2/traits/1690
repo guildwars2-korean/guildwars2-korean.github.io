@@ -1,0 +1,32 @@
+[
+    {
+        "description": "섀터 스킬이 적에게 적중 시 토먼트를 가한다.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다. 움직이지 않는 적에게 추가 피해를 준다. 강도가 중첩된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "status": "토먼트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다. 움직이지 않는 적에게 추가 피해를 준다. 강도가 중첩된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                "status": "토먼트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/DBC6799E4A18BA9B9ABE280DAE35362DA9DAE00E/1012515.png",
+        "id": 1690,
+        "name": "Maim the Disillusioned",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 24,
+        "tier": 2
+    }
+]

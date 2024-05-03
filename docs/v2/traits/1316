@@ -1,0 +1,56 @@
+[
+    {
+        "description": "버스트 스킬이 벌너러빌리티를 유발하고, 버스트 스킬 공격이 크리티컬로 적중시 벌너러빌리티를 추가로 유발한다. <br> 이 효과는 여러번 공격하는 버스트 스킬에서 적 한명당 주기적으로 한번씩 발생한다.",
+        "facts": [
+            {
+                "apply_count": 5,
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "벌너러빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 5,
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "벌너러빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 5,
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "벌너러빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 5,
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "벌너러빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/933C9720EAD45955076748A3C6C224EA3D69C62D/1012776.png",
+        "id": 1316,
+        "name": "Sundering Burst",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 36,
+        "tier": 2
+    }
+]

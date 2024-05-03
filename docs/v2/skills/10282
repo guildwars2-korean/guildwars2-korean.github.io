@@ -1,0 +1,78 @@
+[
+    {
+        "categories": [
+            "Phantasm"
+        ],
+        "chat_link": "[&BiooAAA=]",
+        "description": "환상. 가까운 목표물에 도끼를 던지고 방어 거품을 만들어 자신과 아군을 발사체로부터 보호하는 환상을 만듭니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "dmg_multiplier": 0.138,
+                "hit_count": 12,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 12,
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "벌너러빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "dmg_multiplier": 0.1,
+                "hit_count": 12,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/4E08BB09C3E6BE013AE255D763A3EB7C99AE2644/103768.png",
+        "id": 10282,
+        "name": "Phantasmal Warden",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Weapon_5",
+        "traited_facts": [
+            {
+                "dmg_multiplier": 0.1587,
+                "hit_count": 12,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "overrides": 2,
+                "requires_trait": 682,
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 0.115,
+                "hit_count": 12,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "overrides": 4,
+                "requires_trait": 682,
+                "text": "데미지",
+                "type": "Damage"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Focus"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "chat_link": "[&BqAxAAA=]",
+        "description": "짐승. 다음 두 번의 공격은 희생자를 기절시킵니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 60
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
+                "text": "Stun",
+                "type": "Time"
+            },
+            {
+                "duration": 60,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Venom Duration",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/07354D6CEA72A5F607EBA5A5C54135F74424320A/103601.png",
+        "id": 12704,
+        "name": "Lashtail Venom",
+        "professions": [],
+        "slot": "Pet",
+        "type": "Pet",
+        "weapon_type": "None"
+    }
+]

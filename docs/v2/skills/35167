@@ -1,0 +1,39 @@
+[
+    {
+        "chat_link": "[&Bl+JAAA=]",
+        "description": "거대한 호를 그리며 지면을 부수는 천천히 휘감는 공격. 타격 시 대상의 모든 혜택을 공격자에게 이전합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 400
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 15
+            },
+            {
+                "apply_count": 1,
+                "description": "스킬 사용을 억제한다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+                "status": "데이즈",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "버프 강탈",
+                "type": "Number",
+                "value": 0
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 35167,
+        "name": "Overhead Smash"
+    }
+]

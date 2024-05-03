@@ -1,0 +1,91 @@
+[
+    {
+        "chat_link": "[&BgG3AAA=]",
+        "description": "주위의 적을 공격하여 출혈을 일으키고 칼라의 열정을 얻습니다. 적중한 각 적에 대해 추가 열정 스택을 얻습니다.",
+        "facts": [
+            {
+                "dmg_multiplier": 0.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "distance": 240,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "apply_count": 1,
+                "description": "Kalla's legend inspires you, increasing all damage dealt; stacks intensity.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/4DDE151C71EDB6120E3454036C4C3504EADB02D8/1770161.png",
+                "status": "Kalla's Fervor",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Kalla's legend inspires you, increasing all damage dealt; stacks intensity.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/4DDE151C71EDB6120E3454036C4C3504EADB02D8/1770161.png",
+                "status": "Kalla's Fervor",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "블리딩",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                "status": "블리딩",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/6B3205EF5ED0802DB74BBF7F0CAE04FAA2089B74/1770592.png",
+        "id": 46849,
+        "name": "Call of the Renegade",
+        "traited_facts": [
+            {
+                "apply_count": 1,
+                "description": "Kalla's legend inspires you, increasing all damage dealt; stacks intensity.",
+                "duration": 12,
+                "icon": "https://render.guildwars2.com/file/4DDE151C71EDB6120E3454036C4C3504EADB02D8/1770161.png",
+                "overrides": 3,
+                "requires_trait": 2100,
+                "status": "Improved Kalla's Fervor",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Kalla's legend inspires you, increasing all damage dealt; stacks intensity.",
+                "duration": 12,
+                "icon": "https://render.guildwars2.com/file/4DDE151C71EDB6120E3454036C4C3504EADB02D8/1770161.png",
+                "overrides": 4,
+                "requires_trait": 2100,
+                "status": "Improved Kalla's Fervor",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ]
+    }
+]

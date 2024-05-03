@@ -1,0 +1,62 @@
+[
+    {
+        "categories": [
+            "Shout"
+        ],
+        "chat_link": "[&Bs53AAA=]",
+        "description": "외침. 주변의 적에게 피해를 입히고 냉각시킵니다. 공격하는 각 적에게 조건을 이전합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "dmg_multiplier": 1.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 66% 감소한다; 스킬 재사용 대기시간이 66% 증가한다; 지속시간이 중첩된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "status": "칠",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "컨디션 이전",
+                "type": "Number",
+                "value": 1
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/E7D8759CBA4E41A03C4E466FDC1274A72D4CE862/1012950.png",
+        "id": 30670,
+        "name": "\"Suffer!\"",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Utility",
+        "specialization": 34,
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

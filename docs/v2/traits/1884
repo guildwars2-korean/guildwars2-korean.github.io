@@ -1,0 +1,48 @@
+[
+    {
+        "description": "스태프를 장착시 이니셔티브 소모량에 따라 지구력을 획득한다. 파워가 증가한다. 이 보너스는 스태프 장착시 더 증가한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Endurance per Initiative",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Endurance per Initiative",
+                "type": "Number",
+                "value": 1
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+                "target": "Power",
+                "type": "AttributeAdjust",
+                "value": 120
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+                "target": "Power",
+                "text": "Bonus Power with Staff",
+                "type": "AttributeAdjust",
+                "value": 120
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/5A6DC148221020B0E616EC77507CCAE9E026BDBD/1058549.png",
+        "id": 1884,
+        "name": "Staff Master",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 7,
+        "tier": 2,
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 5,
+                "requires_trait": 1455,
+                "text": "Bonus Damage",
+                "type": "Percent"
+            }
+        ]
+    }
+]

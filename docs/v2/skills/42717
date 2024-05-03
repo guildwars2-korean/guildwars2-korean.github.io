@@ -1,0 +1,34 @@
+[
+    {
+        "chat_link": "[&Bt2mAAA=]",
+        "description": "자신에게 보호를 적용하십시오.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "status": "프로텍션",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/52C6DD066E1F1BDC4DCA2F6AA408FCB97FF155B9/103555.png",
+        "id": 42717,
+        "name": "Protection",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Profession_1",
+        "specialization": 55,
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

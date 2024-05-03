@@ -1,0 +1,33 @@
+[
+    {
+        "chat_link": "[&BhYzAAA=]",
+        "description": "잉크 샷과 그림자 단계를 폭발시키십시오. 이 스킬에 적에게 맞으면 은신을 얻습니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "apply_count": 1,
+                "description": "보이지 않는다. 공격시 해제된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+                "status": "스텔스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/D65936EF1536C92873FA28A4A554D0F23DC744DA/104090.png",
+        "id": 13078,
+        "name": "Smoke Trail",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Weapon_5",
+        "type": "Weapon",
+        "weapon_type": "Speargun"
+    }
+]

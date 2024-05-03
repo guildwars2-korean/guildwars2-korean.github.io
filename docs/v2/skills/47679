@@ -1,0 +1,23 @@
+[
+    {
+        "chat_link": "[&Bj+6AAA=]",
+        "description": "우박 폭풍을 흡수하지 못하면 투기장 전체에 큰 피해를 입힙니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 3000
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/FC9D41631677D8A9A9AE437E1B01357F60B595F9/1824230.png",
+                "text": "Break Barrier",
+                "type": "NoData"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 47679,
+        "name": "Ice Breaker"
+    }
+]

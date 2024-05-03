@@ -1,0 +1,65 @@
+[
+    {
+        "attunement": "Air",
+        "chat_link": "[&Bqf1AAA=]",
+        "description": "주위를 도는 공기의 발사체를 소환하여 통과하는 적을 공격합니다. 이 발사체가 활성화되어 있는 동안 치명타 확률이 증가합니다. 원형 발사체를 소환하면 다른 모든 원형 발사체의 지속 시간이 새로 고쳐집니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 18
+            },
+            {
+                "apply_count": 1,
+                "description": "Increased critical chance.",
+                "duration": 15,
+                "icon": "https://render.guildwars2.com/file/A1154443E7FB75409FC77711E50D186D449670CF/2491579.png",
+                "status": "Crescent Wind",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "지구력 재생력이 50% 감소한다. 50%의 공격이 빗나간다(50% 데미지). 지속시간이 중첩된다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                "status": "위크니스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "dmg_multiplier": 0.001,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 2
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/A1154443E7FB75409FC77711E50D186D449670CF/2491579.png",
+        "id": 62887,
+        "name": "Crescent Wind",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_3",
+        "specialization": 67,
+        "type": "Weapon",
+        "weapon_type": "Hammer"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "chat_link": "[&BtGjAAA=]",
+        "description": "섀도우 스텝을 대상에서 멀어지면 조건을 잃게 됩니다. 시작 위치에 있는 적을 중독시킵니다.",
+        "facts": [
+            {
+                "distance": 600,
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Distance",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "컨디션 해제",
+                "type": "Number",
+                "value": 1
+            },
+            {
+                "dmg_multiplier": 0.3,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다; 힐링 효과가 33% 감소한다; 강도가 중첩된다.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "status": "포이즌",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "finisher_type": "Leap",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "콤보 피니셔",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 40436,
+        "icon": "https://render.guildwars2.com/file/BBAD4B7DA7187A9A09E01E6A11D74962A7050B44/1770629.png",
+        "id": 41937,
+        "initiative": 4,
+        "name": "Death's Retreat",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Weapon_4",
+        "specialization": 58,
+        "type": "Weapon",
+        "weapon_type": "Rifle"
+    }
+]

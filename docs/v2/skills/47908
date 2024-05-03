@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BiS7AAA=]",
+        "description": "땅은 치명적인 해골 손가락으로 분출하여 피해와 타락한 혜택을 줍니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "컨디션으로 전환되는 분",
+                "type": "Number",
+                "value": 1
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 47908,
+        "name": "Fingers of the Dead"
+    }
+]

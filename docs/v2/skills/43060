@@ -1,0 +1,34 @@
+[
+    {
+        "chat_link": "[&BjSoAAA=]",
+        "description": "들어오는 공격으로부터 피해를 받지 않습니다. 당신은 조건과 통제 효과에 취약합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 40
+            },
+            {
+                "apply_count": 1,
+                "description": "You receive no damage from incoming attacks. You remain susceptible to conditions and controlling effects.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/2A79C7DD0AFEEFC9C1D1C9E20845CA140734CE27/103951.png",
+                "status": "Defy Pain",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/2A79C7DD0AFEEFC9C1D1C9E20845CA140734CE27/103951.png",
+        "id": 43060,
+        "name": "Defy Pain",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Profession_2",
+        "specialization": 55,
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

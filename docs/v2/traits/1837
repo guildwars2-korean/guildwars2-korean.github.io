@@ -1,0 +1,26 @@
+[
+    {
+        "description": "적에게 Steal 을 적중시 지구력을 회복한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "지구력 회복",
+                "type": "Number",
+                "value": 50
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "지구력 회복",
+                "type": "Number",
+                "value": 25
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/FC48D05C3260AB41A0D4A6D7807495C7B60CBE76/1058557.png",
+        "id": 1837,
+        "name": "Endurance Thief",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 7,
+        "tier": 3
+    }
+]

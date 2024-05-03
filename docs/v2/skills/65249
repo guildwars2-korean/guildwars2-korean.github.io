@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BuH+AAA=]",
+        "description": "충돌 시 폭발하는 표적 미사일을 발사하여 피해를 주는 비취 에너지의 지속적인 장을 생성합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 2000
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/E50C7247504D08C059E5073515B6B367B7D52CD4/103040.png",
+        "id": 65249,
+        "name": "Jade Lob"
+    }
+]

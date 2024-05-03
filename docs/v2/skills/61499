@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BjvwAAA=]",
+        "description": "집중된 에너지 광선이 투기장을 관통하는 경로를 절단하여 경로에 있는 적에게 큰 피해를 줍니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 3000
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/C201170E43B8C805BC0795FD3B08B703E530B677/2156524.png",
+        "id": 61499,
+        "name": "Focused Wrath"
+    }
+]

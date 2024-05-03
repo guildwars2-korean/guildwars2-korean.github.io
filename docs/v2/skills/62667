@@ -1,0 +1,36 @@
+[
+    {
+        "categories": [
+            "Elixir"
+        ],
+        "chat_link": "[&Bsv0AAA=]",
+        "description": "비약. 건강에 대한 약속을 영약에 주입하여 자신을 치유하고 재생을 얻은 다음, 대상 지역에 영약을 던져 적을 중독시킵니다. 당신이 비약의 스플래시 영역에 있다면 역병을 얻습니다. 이 기술을 활성화할 때 역병 임계값 이상인 경우 해당 양의 역병을 소모하여 피해와 상태 지속 시간을 두 배로 늘립니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 25
+            }
+        ],
+        "flags": [
+            "GroundTargeted"
+        ],
+        "icon": "https://render.guildwars2.com/file/140E800A089A0CE7487E615006C02AAB9A944DA4/2479398.png",
+        "id": 62667,
+        "name": "Elixir of Promise",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Heal",
+        "specialization": 64,
+        "type": "Heal",
+        "weapon_type": "None"
+    }
+]

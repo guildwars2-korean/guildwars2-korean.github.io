@@ -1,0 +1,20 @@
+[
+    {
+        "description": "레졸루션을 가지고 있으면 가하는 타격 데미지가 증가한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 10,
+                "text": "데미지 증가",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/324CD720BC3A5F1B6B154BD909165F0DB03CBC0D/1012418.png",
+        "id": 565,
+        "name": "Retribution",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 16,
+        "tier": 2
+    }
+]

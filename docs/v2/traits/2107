@@ -1,0 +1,38 @@
+[
+    {
+        "description": "크리티컬 공격의 데미지가 증가한다. 분이 없는 적을 상대로 이 보너스는 두배가 된다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+                "percent": 7.5,
+                "text": "크리티컬 데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+                "percent": 15,
+                "text": "Boonless Critical Damage Increase",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+                "percent": 7,
+                "text": "크리티컬 데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+                "percent": 14,
+                "text": "Boonless Critical Damage Increase",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/11D652C0A03EBE2C50D7C804E30BD66862025F69/1770012.png",
+        "id": 2107,
+        "name": "Pure Strike",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 61,
+        "tier": 1
+    }
+]

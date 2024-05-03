@@ -1,0 +1,20 @@
+[
+    {
+        "description": "슈라우드상태에서 첫 공격이 자신의 컨디션을 적에게 전이시킨다. <br> 이 효과는 컨디션을 갖고있을때 발동한다",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "컨디션 이전",
+                "type": "Number",
+                "value": 2
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/F004E33D079E4B5762EEF51F94CA493B64FFC4A2/1012547.png",
+        "id": 2013,
+        "name": "Plague Sending",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 39,
+        "tier": 1
+    }
+]

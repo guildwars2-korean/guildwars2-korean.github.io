@@ -1,0 +1,47 @@
+[
+    {
+        "description": "적을 방해할 경우 데미지와 위크니스를 가한다. 방해 받은 적의 스킬의 재사용 대기시간이 증가한다.<br>재사용 대기시간이 없는 스킬 혹은 디파이언스 바가 존재하는 적에겐 적용되지 않는다.<br> 이 특성은 디파이언스 바가 존재하는 적에게 주기마다 한 번씩 피해를 준다.",
+        "facts": [
+            {
+                "duration": 15,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "dmg_multiplier": 1.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 1,
+                "description": "지구력 재생력이 50% 감소한다. 50%의 공격이 빗나간다(50% 데미지). 지속시간이 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                "status": "위크니스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/63015872E20761F5E76F803A90666FBE4E262BC9/536051.png",
+                "text": "크리티컬 불가",
+                "type": "NoData"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/E029766272E10A957B954B12B20FD916474D5A01/1012494.png",
+        "id": 1688,
+        "name": "Power Block",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 10,
+        "tier": 3
+    }
+]

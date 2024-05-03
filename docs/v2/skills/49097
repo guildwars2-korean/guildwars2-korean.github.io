@@ -1,0 +1,33 @@
+[
+    {
+        "categories": [
+            "Elixir"
+        ],
+        "chat_link": "[&Bsm/AAA=]",
+        "description": "비약. 조건을 혜택으로 전환하는 비약을 쿼프(Quaff)합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 60
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Conditions Converted to Boons",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Conditions Converted to Boons",
+                "type": "Number",
+                "value": 2
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/19E19A741B72550BF44E96F43C28571CCB059FBC/103402.png",
+        "id": 49097,
+        "name": "Lesser Elixir C"
+    }
+]

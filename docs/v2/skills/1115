@@ -1,0 +1,38 @@
+[
+    {
+        "chat_link": "[&BlsEAAA=]",
+        "description": "나뭇가지를 사용하여 적에게 도약합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 450
+            },
+            {
+                "dmg_multiplier": 2.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "finisher_type": "Leap",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "콤보 피니셔",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/15E0A1080FE0AE70ABD305F4DD045139F1216C37/102945.png",
+        "id": 1115,
+        "name": "Branch Leap",
+        "professions": [],
+        "slot": "Profession_2",
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

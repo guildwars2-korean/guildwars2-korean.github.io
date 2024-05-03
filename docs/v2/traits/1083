@@ -1,0 +1,34 @@
+[
+    {
+        "description": "전투중 무기 스왑시 퓨리를 획득한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 9
+            },
+            {
+                "apply_count": 1,
+                "description": "크리티컬 확률이 증가한다; 지속시간이 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                "status": "퓨리",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "전투시에만 적용",
+                "type": "NoData"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/F3EC5297B63F684BAA255FE261A85C152E534367/1012652.png",
+        "id": 1083,
+        "name": "Furious Grip",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 30,
+        "tier": 2
+    }
+]

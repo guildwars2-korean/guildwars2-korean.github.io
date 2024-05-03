@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&Bi/KAAA=]",
+        "description": "Apocalypse Bringer는 플레이어에게 피해를 입히고 뒤로 밀쳐내는 원뿔형 공격의 물결을 보냅니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 51759,
+        "name": "Wave of Force"
+    }
+]

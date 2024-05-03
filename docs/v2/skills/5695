@@ -1,0 +1,42 @@
+[
+    {
+        "attunement": "Earth",
+        "chat_link": "[&Bj8WAAA=]",
+        "description": "인성을 향상시키는 돌로 된 장벽으로 자신을 감싸십시오.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 8
+            },
+            {
+                "apply_count": 1,
+                "duration": 30,
+                "icon": "https://render.guildwars2.com/file/C5CB69247473AE2DEB35DB5F952A0C3832CC14F2/102858.png",
+                "status": "Rock Barrier",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 30,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 5780,
+        "icon": "https://render.guildwars2.com/file/C5CB69247473AE2DEB35DB5F952A0C3832CC14F2/102858.png",
+        "id": 5695,
+        "name": "Rock Barrier",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Weapon_2",
+        "type": "Weapon",
+        "weapon_type": "Scepter"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&Bts4AAA=]",
+        "description": "차단을 중지하고 아드레날린을 얻으십시오.",
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/F6D809292BC50B03A8E3A5F6C04201DE09A02C08/103221.png",
+        "id": 14555,
+        "name": "Adrenaline Rush",
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Weapon_4",
+        "type": "Weapon",
+        "weapon_type": "Spear"
+    }
+]

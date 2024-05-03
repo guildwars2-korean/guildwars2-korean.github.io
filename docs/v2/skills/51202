@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BgLIAAA=]",
+        "description": "소용돌이치는 그림자가 대상을 균열 중앙으로 끌어당기면서 찢어냅니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D5F6EBC4630F0E10F3DDB7A6DBB63592CD4B00BC/2440717.png",
+                "text": "Pull",
+                "type": "Number",
+                "value": 180
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/09C411D598E942F21FD64D1353B3725DFDFEF5CF/103286.png",
+        "id": 51202,
+        "name": "Shadow Rift"
+    }
+]

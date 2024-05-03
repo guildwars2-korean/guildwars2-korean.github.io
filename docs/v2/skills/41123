@@ -1,0 +1,55 @@
+[
+    {
+        "chat_link": "[&BqOgAAA=]",
+        "description": "Photon Forge를 취소하고 지연 후 냉각을 시작하십시오. 냉각 효과는 시간이 지남에 따라 증가합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 6
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Cooling Delay",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+                "percent": 5,
+                "text": "Heat Lost per Second",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+                "percent": 10,
+                "text": "Improved Heat Lost per Second",
+                "type": "Percent"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/2B65387C32A4AE09D67AF9D438BA4B4C09A24EE4/1770389.png",
+        "id": 41123,
+        "name": "Deactivate Photon Forge",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Profession_5",
+        "specialization": 57,
+        "traited_facts": [
+            {
+                "apply_count": 2,
+                "description": "Your next attack sets the target on fire.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/19FE5C016ACFF174DE03752D40D202F9B75FB0C2/1769929.png",
+                "requires_trait": 2106,
+                "status": "Afterburner",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

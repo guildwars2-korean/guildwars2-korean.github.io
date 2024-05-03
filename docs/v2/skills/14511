@@ -1,0 +1,51 @@
+[
+    {
+        "chat_link": "[&Bq84AAA=]",
+        "description": "적을 쓰러뜨리십시오. 약화 된 적은 더 오래 쓰러진 상태로 유지됩니다. 이 능력으로 적을 제어하면 Fierce Blow를 재충전합니다.<c=reminder> 디파이언스 바가 적중하면 맹렬한 일격을 재충전합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 25
+            },
+            {
+                "dmg_multiplier": 1.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/7632087376D36B0D100F1B07BE53F154BC337D7C/2440716.png",
+                "text": "Knockdown",
+                "type": "Time"
+            },
+            {
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/7632087376D36B0D100F1B07BE53F154BC337D7C/2440716.png",
+                "text": "Weakened Foe Knockdown",
+                "type": "Time"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/3FB1611D020DAE0C082558D346BBF91148E2E223/103086.png",
+        "id": 14511,
+        "name": "Backbreaker",
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Weapon_5",
+        "type": "Weapon",
+        "weapon_type": "Hammer"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "categories": [
+            "Cantrip"
+        ],
+        "chat_link": "[&BpyhAAA=]",
+        "description": "주문. 모든 악의를 잃고 즉시 Deadeye&#39;s Mark를 새로 고치고 주도권을 얻으십시오. 이 기술을 사용하기 전에 가지고 있었던 각 악의 스택에 대해 추가 주도권을 얻습니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                "text": "스턴 해제",
+                "type": "StunBreak",
+                "value": true
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Initiative",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Initiative per Malice",
+                "type": "Number",
+                "value": 1
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/120BA65D429AC57ECAED3BEAAFCF7C9E3D356DDD/1770635.png",
+        "id": 41372,
+        "name": "Mercy",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Utility",
+        "specialization": 58,
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

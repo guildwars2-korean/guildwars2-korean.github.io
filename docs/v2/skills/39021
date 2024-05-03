@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&Bm2YAAA=]",
+        "description": "투사 방어 시스템에 과부하를 주어 플랫폼 전체에 3개의 빔으로 에너지 파동을 보냅니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 3000
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 39021,
+        "name": "Cosmic Streaks"
+    }
+]

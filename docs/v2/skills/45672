@@ -1,0 +1,26 @@
+[
+    {
+        "chat_link": "[&BmiyAAA=]",
+        "description": "그림자 플레어로 장소를 바꿉니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/399C0ED664165E4E53C6F909CB150BE35A5B6C2D/1770634.png",
+        "id": 45672,
+        "name": "Shadow Swap",
+        "professions": [
+            "Thief"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

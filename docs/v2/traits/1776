@@ -1,0 +1,21 @@
+[
+    {
+        "description": "이동 스킬들이 이모빌을 제거한다.",
+        "facts": [
+            {
+                "description": "이동할 수 없다; 지속시간이 중첩된다.",
+                "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                "status": "이모빌",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/CAE712142E0AAF7C9DBA07F60E9A6E42420CDD69/2261514.png",
+        "id": 1776,
+        "name": "Aggressive Agility",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 15,
+        "tier": 1
+    }
+]

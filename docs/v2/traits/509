@@ -1,0 +1,29 @@
+[
+    {
+        "description": "무력화 상태에 빠지면 프로텍션을 획득한다.<br>무력화는 스턴, 데이즈, 넉백, 풀, 넉다운, 싱크, 플로트, 런치, 타운트, 피어를 포함한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "status": "프로텍션",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/B6B62423EB4608C40DA2E54E32129163062BEAF1/1012331.png",
+        "id": 509,
+        "name": "Protection Injection",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 29,
+        "tier": 1
+    }
+]

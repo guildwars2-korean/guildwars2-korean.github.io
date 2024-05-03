@@ -1,0 +1,84 @@
+[
+    {
+        "chat_link": "[&Bu0wAAA=]",
+        "description": "곰의 힘으로 적을 공격하세요. 당신의 애완 동물은 기회 공격을 얻습니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 220
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 4
+            },
+            {
+                "dmg_multiplier": 1.75,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "apply_count": 5,
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "status": "벌너러빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "Damage increased 50% on next attack.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/9B120D5A176870D4EC9F1BE44E295EAAA6EF0ABC/1012623.png",
+                "status": "Attack of Opportunity",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/9B120D5A176870D4EC9F1BE44E295EAAA6EF0ABC/1012623.png",
+                "status": "Attack of Opportunity",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 46629,
+        "icon": "https://render.guildwars2.com/file/630D39D16942680EC6EA66DE6D13317B6B9F3C30/103877.png",
+        "id": 12525,
+        "name": "Maul",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Weapon_2",
+        "traited_facts": [
+            {
+                "dmg_multiplier": 1.8375,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "overrides": 2,
+                "requires_trait": 1047,
+                "text": "데미지",
+                "type": "Damage"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Greatsword"
+    }
+]

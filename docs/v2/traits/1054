@@ -1,0 +1,20 @@
+[
+    {
+        "description": "구르기시 피해량이 있는 컨디션과 피해량이 없는 컨디션 각각 한 개씩 제거한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/C374B3F2C1BCFCB0B164FF0567FB6CC1B31B9651/1012633.png",
+        "id": 1054,
+        "name": "Evasive Purity",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 25,
+        "tier": 2
+    }
+]

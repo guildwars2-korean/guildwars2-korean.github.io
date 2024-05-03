@@ -1,0 +1,47 @@
+[
+    {
+        "description": "적을 방해하면 블라인드를 유발하고, 블라인드는 컨퓨전을 유발한다.<br>이 특성은 각 주기당 한번, 적이 defiance bar가 있는 경우에만 활성된다.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "다음 공격이 빗나간다; 지속시간이 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "status": "블라인드",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "스킬 시전시 데미지를 받는다; 강도가 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                "status": "컨퓨전",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 2,
+                "description": "스킬 시전시 데미지를 받는다; 강도가 중첩된다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
+                "status": "컨퓨전",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                "text": "주기",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/0214C11C1C217134B2565C5201C70E9A653B2C06/1012516.png",
+        "id": 1950,
+        "name": "Ineptitude",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 1,
+        "tier": 3
+    }
+]

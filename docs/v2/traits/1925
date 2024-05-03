@@ -1,0 +1,104 @@
+[
+    {
+        "description": "1번 버츄 스킬의 패시브효과 발동시 마이트를 획득한다: 셉터 장착시 마이트를 더 많이 획득한다.",
+        "facts": [
+            {
+                "apply_count": 2,
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "prefix": {
+                    "description": "Virtue: Burn foes every few attacks.<br>Activate: You and your allies inflict burning on the next attack.",
+                    "icon": "https://render.guildwars2.com/file/0E4C27902671FBCB33713E3677604B0880EF0D60/103034.png",
+                    "status": "Virtue of Justice",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 2,
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "prefix": {
+                    "description": "Virtue: Burn foes every few attacks.<br>Activate: You and your allies inflict burning on the next attack.",
+                    "icon": "https://render.guildwars2.com/file/0E4C27902671FBCB33713E3677604B0880EF0D60/103034.png",
+                    "status": "Virtue of Justice",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 2,
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "prefix": {
+                    "description": "Virtue: Burn foes every few attacks.<br>Activate: You and your allies inflict burning on the next attack.",
+                    "icon": "https://render.guildwars2.com/file/0E4C27902671FBCB33713E3677604B0880EF0D60/103034.png",
+                    "status": "Virtue of Justice",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "prefix": {
+                    "description": "Virtue: Burn foes every few attacks.<br>Activate: You and your allies inflict burning on the next attack.",
+                    "icon": "https://render.guildwars2.com/file/0E4C27902671FBCB33713E3677604B0880EF0D60/103034.png",
+                    "status": "Virtue of Justice",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "prefix": {
+                    "description": "Virtue: Burn foes every few attacks.<br>Activate: You and your allies inflict burning on the next attack.",
+                    "icon": "https://render.guildwars2.com/file/0E4C27902671FBCB33713E3677604B0880EF0D60/103034.png",
+                    "status": "Virtue of Justice",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "prefix": {
+                    "description": "Virtue: Burn foes every few attacks.<br>Activate: You and your allies inflict burning on the next attack.",
+                    "icon": "https://render.guildwars2.com/file/0E4C27902671FBCB33713E3677604B0880EF0D60/103034.png",
+                    "status": "Virtue of Justice",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/AFB520780B6C135961D60A389450800F1A78660E/1012452.png",
+        "id": 1925,
+        "name": "Zealous Scepter",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 42,
+        "tier": 1
+    }
+]

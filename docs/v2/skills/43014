@@ -1,0 +1,17 @@
+[
+    {
+        "chat_link": "[&BgaoAAA=]",
+        "description": "애완 동물과 분리하십시오.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/A331029A005037D1FA0470C66F802D5901502CF6/1770051.png",
+        "id": 43014,
+        "name": "Leave Beastmode",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Profession_5",
+        "specialization": 55,
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

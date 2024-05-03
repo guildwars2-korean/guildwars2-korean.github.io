@@ -1,0 +1,59 @@
+[
+    {
+        "categories": [
+            "Mantra"
+        ],
+        "chat_link": "[&BuUnAAA=]",
+        "description": "만트라. 회복의 만트라를 외우고 즉시 자신을 치유하십시오. 체력 임계값 미만인 경우 치유량이 증가합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 1
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "힐링",
+                "type": "AttributeAdjust",
+                "value": 1640
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "Healing below 50%",
+                "type": "AttributeAdjust",
+                "value": 2620
+            },
+            {
+                "duration": 20,
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "text": "충전 대기시간",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+                "text": "최대 횟수",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 50,
+                "text": "생명력 임계",
+                "type": "Percent"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/73CCCC9F09D026A016C5D760EA952B59C8AAF8F0/103744.png",
+        "id": 10213,
+        "name": "Mantra of Recovery",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Heal",
+        "type": "Heal",
+        "weapon_type": "None"
+    }
+]

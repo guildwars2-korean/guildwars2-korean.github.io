@@ -1,0 +1,43 @@
+[
+    {
+        "chat_link": "[&BlcwAAA=]",
+        "description": "주먹으로 땅을 내리쳐 아군을 치유하는 치유 영역을 만듭니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 280
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "힐링",
+                "type": "AttributeAdjust",
+                "value": 652
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/C4C4E35BAC660B4DE00AC748050E4DE0F22115AA/103948.png",
+        "id": 12375,
+        "name": "Summon Healing Spring",
+        "professions": [],
+        "slot": "Weapon_4",
+        "type": "Monster",
+        "weapon_type": "Hammer"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "description": "Venomous Outburst 스킬이 더 큰 데미지를 가하고, 추가로 블라인드를 유발한다. Unleashed Ambush 스킬들이 더 강한 데미지를 가한다.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "다음 공격이 빗나간다; 지속시간이 중첩된다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                "status": "블라인드",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 25,
+                "text": "데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 10,
+                "text": "데미지 증가",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/AD425360631C67A415F53C06FAD4027FA505474C/2503634.png",
+        "id": 2301,
+        "name": "Blinding Outburst",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 72,
+        "tier": 1
+    }
+]

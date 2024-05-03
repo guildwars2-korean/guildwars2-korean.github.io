@@ -1,0 +1,41 @@
+[
+    {
+        "description": "생명력을 회복하면 일정 시간 동안 받는 타격 데미지가 감소한다. 아군을 회복시키는 경우 해당 특성의 지속시간이 길어진다.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "Reduced incoming damage.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/11404242F05CA14C5ED90B3A0B74CDE8E3D8154C/2128014.png",
+                "status": "Unyielding Spirit",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Duration Increase for Ally Heal",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 15,
+                "text": "데미지 감소",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 10,
+                "text": "데미지 감소",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/11404242F05CA14C5ED90B3A0B74CDE8E3D8154C/2128014.png",
+        "id": 1825,
+        "name": "Unyielding Devotion",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 12,
+        "tier": 3
+    }
+]

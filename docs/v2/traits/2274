@@ -1,0 +1,35 @@
+[
+    {
+        "description": "적 공격시 펫과 자신에게 추가 이동속도와 추가 데미지를 부여한다. 이 효과가 적용되면, 효과의 지속시간이 초기화된다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 0.5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+                "text": "최대 중첩",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "apply_count": 1,
+                "description": "Gain 3% damage and 5% movement speed per stack.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/B367DF25F5F07C51CE5BD280C35A0E7BB19B98A3/2503640.png",
+                "status": "Ferocious Symbiosis",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/B367DF25F5F07C51CE5BD280C35A0E7BB19B98A3/2503640.png",
+        "id": 2274,
+        "name": "Ferocious Symbiosis",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 72,
+        "tier": 3
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "categories": [
+            "Rage"
+        ],
+        "chat_link": "[&BjJ2AAA=]",
+        "description": "격노. 스턴에서 벗어나 버서크 모드의 지속 시간을 연장하십시오. 스턴이 끊어지면 버서크 모드의 확장이 증가합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 10
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                "text": "스턴 해제",
+                "type": "NoData"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간 증가",
+                "type": "Time"
+            },
+            {
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Stun-Break Duration Increase",
+                "type": "Time"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/DE44372830465728D82500744A04041359ECA9C0/1058652.png",
+        "id": 30258,
+        "name": "Outrage",
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Utility",
+        "specialization": 18,
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

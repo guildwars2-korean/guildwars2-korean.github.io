@@ -1,0 +1,79 @@
+[
+    {
+        "chat_link": "[&BlSnAAA=]",
+        "cost": 35,
+        "description": "시타델 오더. 시간의 안개를 뚫고 차원문을 열고 연합 군단의 포병 폭풍을 일으킵니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 15
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "Targets per Ordnance",
+                "type": "Number",
+                "value": 3
+            },
+            {
+                "dmg_multiplier": 0.452,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Ordnance Count",
+                "type": "Number",
+                "value": 10
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "버닝",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "distance": 120,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            }
+        ],
+        "flags": [
+            "GroundTargeted",
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/A7C2C720C5ABE5AAB00EF0EA0318DA3B38FC981E/1770593.png",
+        "id": 42836,
+        "name": "Citadel Bombardment",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Profession_3",
+        "specialization": 63,
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "overrides": 4,
+                "requires_trait": 2094,
+                "text": "Maximum Ordnance Count",
+                "type": "Number",
+                "value": 15
+            }
+        ],
+        "type": "Profession",
+        "weapon_type": "None"
+    }
+]

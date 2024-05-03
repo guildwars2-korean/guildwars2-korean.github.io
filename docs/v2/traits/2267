@@ -1,0 +1,44 @@
+[
+    {
+        "description": "메카가 생명력 절반 이하에서 공격받으면, Exigency Protocols를 발동한다. 받는 데미지 감소 효과와 리저너레이션을 짧은시간 획득한다. 주는 리저너레이션 효과가 강해진다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 60
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 20,
+                "text": "Increased Regenerative Healing",
+                "type": "Percent"
+            },
+            {
+                "apply_count": 1,
+                "description": "",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/D303A429CCF6B672E66DA12DD014FEF8A80335E7/2503631.png",
+                "status": "Exigency Protocols",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매 초마다 생명력을 회복한다; 지속시간이 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "status": "리제너레이션",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/D303A429CCF6B672E66DA12DD014FEF8A80335E7/2503631.png",
+        "id": 2267,
+        "name": "Exigency Protocols",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 70,
+        "tier": 3
+    }
+]

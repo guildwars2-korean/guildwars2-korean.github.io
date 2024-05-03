@@ -1,0 +1,26 @@
+[
+    {
+        "description": "적용받는 배리어가 더 강력해진다. 배리어를 가지고 있는 동안, 받는 컨디션 데미지가 감소한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "percent": 15,
+                "text": "Barrier Increase",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 20,
+                "text": "Condition Damage Reduced",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/14BD5F0ADF34A1ECDD9FD4672A1597B441B141D8/1128521.png",
+        "id": 1981,
+        "name": "Adaptive Armor",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 43,
+        "tier": 3
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "description": "활성화 중인 지속 스킬의 에너지 소비 포인트만큼 받는 타격 데미지가 감소한다. 실드 스킬의 재사용 대기시간이 감소한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 1.5,
+                "text": "Damage Reduction per Upkeep Pip",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "컨디션 해제",
+                "type": "Number",
+                "value": 1
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/24682D5C432BB44FE807C5380DA4E8FAFC9FC678/1058537.png",
+        "id": 1730,
+        "name": "Hardening Persistence",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 52,
+        "tier": 2
+    }
+]

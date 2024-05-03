@@ -1,0 +1,33 @@
+[
+    {
+        "description": "추가 페로시티를 획득한다. 에어 어튠먼트에서 추가로 페로시티를 더 획득한다. 에어 무기 스킬의 재사용 대기시간이 감소한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "percent": 20,
+                "text": "재사용 대기시간 감소",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+                "target": "CritDamage",
+                "type": "AttributeAdjust",
+                "value": 150
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+                "target": "CritDamage",
+                "text": "추가 페로시티",
+                "type": "AttributeAdjust",
+                "value": 150
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/B07EBE9F0136026A2C710C1405C528DB4AC37936/2175041.png",
+        "id": 223,
+        "name": "Aeromancer's Training",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 41,
+        "tier": 3
+    }
+]

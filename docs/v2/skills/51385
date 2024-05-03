@@ -1,0 +1,21 @@
+[
+    {
+        "chat_link": "[&BrnIAAA=]",
+        "description": "그림자에서 적을 공격하십시오.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "이동속도가 50% 감소한다; 지속시간이 중첩된다.",
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                "status": "크리플",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 51385,
+        "name": "Pounce"
+    }
+]

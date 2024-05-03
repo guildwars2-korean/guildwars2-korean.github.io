@@ -1,0 +1,46 @@
+[
+    {
+        "categories": [
+            "Glamour"
+        ],
+        "chat_link": "[&BtUnAAA=]",
+        "description": "마법. 아군을 출구 포털로 순간이동시키는 입구 포털을 귀하의 위치에 만드십시오. (활성 포털이 있는 동안 새 입구 포털을 생성하면 활성 포털이 파괴됩니다.)",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 72
+            },
+            {
+                "duration": 30,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "duration": 60,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "임계 거리",
+                "type": "Number",
+                "value": 5000
+            }
+        ],
+        "flags": [],
+        "flip_skill": 10199,
+        "icon": "https://render.guildwars2.com/file/BB7D7902B947C52DF3FC340AA66697F0CE669E31/103558.png",
+        "id": 10197,
+        "name": "Portal Entre",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

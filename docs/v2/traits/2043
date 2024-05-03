@@ -1,0 +1,38 @@
+[
+    {
+        "description": "버서크 모드일때 추가 터프니스를 획득한다. 스턴 해제시마다 스태빌리티와 마이트를 획득한다.",
+        "facts": [
+            {
+                "apply_count": 3,
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "넉다운, 넉백, 풀, 런치, 스턴, 데이즈, 플로트, 싱크, 피어, 타운트에 면역된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                "status": "스태빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/432C0F04F740C1377E6D5D56640B57083C031216/2229324.png",
+                "target": "Toughness",
+                "type": "AttributeAdjust",
+                "value": 300
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/F375089AC9F1DB43B9FA783B133DECDF2935690D/1029975.png",
+        "id": 2043,
+        "name": "Eternal Champion",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 18,
+        "tier": 3
+    }
+]

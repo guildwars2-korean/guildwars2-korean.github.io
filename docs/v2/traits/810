@@ -1,0 +1,28 @@
+[
+    {
+        "description": "적에게 걸린 컨디션 종류 수에 따라 크리티컬 확률이 증가한다. 프리시젼에 비례해서 컨디션 데미지가 증가한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+                "percent": 2,
+                "text": "크리티컬 확률 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+                "percent": 13,
+                "source": "Precision",
+                "target": "ConditionDamage",
+                "text": "Attribute Conversion",
+                "type": "BuffConversion"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/1BA35717D3954A08444578250CB32717E0F92B69/1012557.png",
+        "id": 810,
+        "name": "Target the Weak",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 39,
+        "tier": 3
+    }
+]

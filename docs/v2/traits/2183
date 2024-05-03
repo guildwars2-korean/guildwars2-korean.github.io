@@ -1,0 +1,84 @@
+[
+    {
+        "description": "Death Shroud가 Harbinger Shroud로 대체된다. Harbinger Shroud는 강한 공격스킬들을 사용하지만, 취약한 상태가 된다. Harbinger Shoud 상태에서는 블라이트를 축적하게된다. 블라이트는 최대 생명력을 감소시킨다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 5,
+                "text": "Life Force Drain in Combat",
+                "type": "Percent"
+            },
+            {
+                "apply_count": 1,
+                "description": "Reduces your maximum health. Stacks intensity.",
+                "duration": 25,
+                "icon": "https://render.guildwars2.com/file/6B797B70EF545937F677BCD463BD23DC749B0801/2479350.png",
+                "status": "Blight",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/0167422FE0046CCFE6B5CFE05DFC67582A1CA529/2479347.png",
+        "id": 2183,
+        "name": "Dark Disciple",
+        "order": 0,
+        "skills": [
+            {
+                "chat_link": "[&Bmf0AAA=]",
+                "description": "Harbinger Shroud에 입장하여 강력한 공격 기술을 부여하지만 공격에 취약하게 만듭니다. Harbinger Shroud에 남아 있으면 시간이 지남에 따라 역병이 축적됩니다. 역병은 최대 체력을 감소시킵니다.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                        "text": "Recharge",
+                        "type": "Recharge",
+                        "value": 10
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "Reduces your maximum health. Stacks intensity.",
+                        "duration": 25,
+                        "icon": "https://render.guildwars2.com/file/6B797B70EF545937F677BCD463BD23DC749B0801/2479350.png",
+                        "status": "Blight",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "duration": 1,
+                        "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                        "text": "주기",
+                        "type": "Time"
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/C9CA706909A104A509F594AADA150D680AA948BC/2479400.png",
+                "id": 62567,
+                "name": "Harbinger Shroud",
+                "traited_facts": [
+                    {
+                        "apply_count": 3,
+                        "description": "넉다운, 넉백, 풀, 런치, 스턴, 데이즈, 플로트, 싱크, 피어, 타운트에 면역된다.",
+                        "duration": 5,
+                        "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                        "requires_trait": 2192,
+                        "status": "스태빌리티",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "넉다운, 넉백, 풀, 런치, 스턴, 데이즈, 플로트, 싱크, 피어, 타운트에 면역된다.",
+                        "duration": 3,
+                        "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                        "requires_trait": 2192,
+                        "status": "스태빌리티",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    }
+                ]
+            }
+        ],
+        "slot": "Minor",
+        "specialization": 64,
+        "tier": 1
+    }
+]

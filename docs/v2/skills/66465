@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BqEDAQA=]",
+        "description": "리 장관은 순차적으로 목표물에 에너지 볼트를 발사합니다. 이 볼트는 충돌 시 폭발하여 상당한 피해를 입히고 해당 지역의 대상에게 극도의 취약성을 부여합니다. 극도로 취약한 대상은 이 공격으로 상당한 피해를 입습니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 2000
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/4748940D7F7202571302CACBF2B6DF564B6BB128/2604888.png",
+        "id": 66465,
+        "name": "Dragon Slash—Burst"
+    }
+]

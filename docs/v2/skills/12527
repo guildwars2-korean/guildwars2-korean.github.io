@@ -1,0 +1,66 @@
+[
+    {
+        "chat_link": "[&Bu8wAAA=]",
+        "description": "대상의 체력이 적을수록 더 큰 피해를 입히는 샷을 발사합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1500
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 12
+            },
+            {
+                "dmg_multiplier": 1,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Base Damage",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 1.75,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Less than 66% Health",
+                "type": "Damage"
+            },
+            {
+                "dmg_multiplier": 2.5,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "Less than 33% Health",
+                "type": "Damage"
+            },
+            {
+                "finisher_type": "Projectile",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "콤보 피니셔",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/19ED791002A149311A3E26AF6A386C9A586AE6D0/104002.png",
+        "id": 12527,
+        "name": "Mercy Shot",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Weapon_4",
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
+                "requires_trait": 1698,
+                "text": "관통",
+                "type": "NoData"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Speargun"
+    }
+]

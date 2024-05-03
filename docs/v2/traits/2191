@@ -1,0 +1,38 @@
+[
+    {
+        "description": "추가 컨디션 데미지를 획득한다. Willbender's Flame이 적을 타격할 때, 적들에게 버닝을 유발한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+                "target": "ConditionDamage",
+                "type": "AttributeAdjust",
+                "value": 120
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "버닝",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "버닝",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/A99C37B4DD3A04B496DE2A601B724ED6B193B8A2/2479314.png",
+        "id": 2191,
+        "name": "Searing Pact",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 65,
+        "tier": 1
+    }
+]

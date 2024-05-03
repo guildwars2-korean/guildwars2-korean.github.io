@@ -1,0 +1,35 @@
+[
+    {
+        "chat_link": "[&BptvAAA=]",
+        "cost": 10,
+        "description": "방어 자세를 취하여 들어오는 공격을 차단합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 12
+            },
+            {
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Block Duration",
+                "type": "Time"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "flip_skill": 28472,
+        "icon": "https://render.guildwars2.com/file/062B156A523B4803A3BC6EA2A1D17ED2A392230F/1013005.png",
+        "id": 28571,
+        "name": "Duelist's Preparation",
+        "professions": [
+            "Revenant"
+        ],
+        "slot": "Weapon_4",
+        "specialization": 61,
+        "type": "Weapon",
+        "weapon_type": "Sword"
+    }
+]

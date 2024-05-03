@@ -1,0 +1,45 @@
+[
+    {
+        "categories": [
+            "Signet"
+        ],
+        "chat_link": "[&Bv4wAAA=]",
+        "description": "인장 패시브: 당신과 당신의 애완동물의 이동 속도가 25% 증가합니다. 인장 활성: 당신과 당신의 애완동물의 공격을 막을 수 없게 됩니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 40
+            },
+            {
+                "apply_count": 1,
+                "description": "25% increased movement speed.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/4008F219B5DA1B0BF059EA7CF6CD3157C8ED76F8/104005.png",
+                "status": "Signet of the Hunt",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 10,
+                "description": "Your attacks are unblockable",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/BD6C4CEEC95711F20FC62A4CA310C5A6574F9664/2261523.png",
+                "status": "Unblockable",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/4008F219B5DA1B0BF059EA7CF6CD3157C8ED76F8/104005.png",
+        "id": 12542,
+        "name": "Signet of the Hunt",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "description": "바이탈리티에 비례하여 엑스퍼티즈를 획득한다. 적이 갖고있는 컨디션 갯수에 따라 그 적에게 받는 데미지가 감소한다. Rot Wallow Venom이 더 긴 지속시간의 토먼트를 유발한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+                "percent": 13,
+                "source": "Vitality",
+                "target": "ConditionDuration",
+                "text": "Attribute Conversion",
+                "type": "BuffConversion"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 2,
+                "text": "Damage Reduced per Condition",
+                "type": "Percent"
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Rot Wallow Venom Torment Increase",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/BAF9A03EB934BFBA801461A5CCE0FD0B7E461506/2503650.png",
+        "id": 2264,
+        "name": "Strength of Shadows",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 71,
+        "tier": 3
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "bundle_skills": [
+            5595,
+            5720,
+            5568,
+            5723,
+            5721
+        ],
+        "categories": [
+            "Conjure"
+        ],
+        "chat_link": "[&Br8VAAA=]",
+        "description": "상상하다 손과 목표 위치에 서리 활을 나타냅니다. 이 무기의 사용자는 상태 지속 시간과 치유력이 증가합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 60
+            },
+            {
+                "apply_count": 1,
+                "description": "Increased condition duration and healing power.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/CC6D556B7C3F95C49E54D697CC2B4E79105DC594/103348.png",
+                "status": "Conjure Frost Attributes",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 30,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "지속시간",
+                "type": "Time"
+            }
+        ],
+        "flags": [
+            "GroundTargeted",
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/CC6D556B7C3F95C49E54D697CC2B4E79105DC594/103348.png",
+        "id": 5567,
+        "name": "Conjure Frost Bow",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Utility",
+        "type": "Utility",
+        "weapon_type": "None"
+    }
+]

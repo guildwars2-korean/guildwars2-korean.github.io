@@ -1,0 +1,25 @@
+[
+    {
+        "chat_link": "[&Blr8AAA=]",
+        "description": "저격수가 대상에게 튕기는 총알을 발사하여 큰 피해를 입히고 근처의 적에게 튕기며 튕길 때마다 피해가 증가합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 8000
+            },
+            {
+                "finisher_type": "Projectile",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "콤보 피니셔",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/170FEF0C80AE0E4FBF3FEAF05FF11871D242F346/2221493.png",
+        "id": 64602,
+        "name": "Jade Ricochet"
+    }
+]

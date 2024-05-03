@@ -1,0 +1,36 @@
+[
+    {
+        "categories": [
+            "Elixir"
+        ],
+        "chat_link": "[&Br/0AAA=]",
+        "description": "비약. 당신의 무한한 야망을 비약에 주입하여 가능한 모든 혜택을 얻은 다음, 대상 지역에 비약을 던져 적에게 모든 피해를 입히는 조건을 가합니다. 당신이 비약의 스플래시 영역에 있다면 역병을 얻습니다. 이 기술을 활성화할 때 역병 임계값 이상인 경우 해당 양의 역병을 소모하여 피해와 상태 지속 시간을 두 배로 늘립니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 900
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 90
+            }
+        ],
+        "flags": [
+            "GroundTargeted"
+        ],
+        "icon": "https://render.guildwars2.com/file/29ABACF1A407D95BD9D1A232F51C6E0003413010/2479394.png",
+        "id": 62655,
+        "name": "Elixir of Ambition",
+        "professions": [
+            "Necromancer"
+        ],
+        "slot": "Elite",
+        "specialization": 64,
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

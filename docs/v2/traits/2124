@@ -1,0 +1,12 @@
+[
+    {
+        "description": "두 손에 대거를 장착할 수 있다.",
+        "icon": "https://render.guildwars2.com/file/63C774F65356553298150A5D3031C5340876E806/1770025.png",
+        "id": 2124,
+        "name": "Dagger Proficiency",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 61,
+        "tier": 0
+    }
+]

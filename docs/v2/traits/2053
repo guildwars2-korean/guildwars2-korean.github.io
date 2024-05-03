@@ -1,0 +1,47 @@
+[
+    {
+        "description": "셀레스티얼 아바타 폼에서 벗어날때 주변의 아군들에게 슈퍼스피드와 스텔스를 부여한다.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "보이지 않는다. 공격시 해제된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+                "status": "스텔스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "보이지 않는다. 공격시 해제된다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+                "status": "스텔스",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 대폭 증가한다; 최대 지속시간: 10초",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+                "status": "슈퍼스피드",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 아군",
+                "type": "Number",
+                "value": 5
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/93010741F5F7F22A0F20EB4EBA14F9D3B1321059/1128533.png",
+        "id": 2053,
+        "name": "Celestial Shadow",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 5,
+        "tier": 2
+    }
+]

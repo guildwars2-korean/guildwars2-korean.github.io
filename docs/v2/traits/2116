@@ -1,0 +1,87 @@
+[
+    {
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "prefix": {
+                    "description": "Virtue:Burn foes every few attacks.<br>Activate:Pull forth a magical tome on the dangers of the blazing heat in Kourna.<br>Each tome skill use consumes a page.",
+                    "icon": "https://render.guildwars2.com/file/2710AF269B38A4A365089BC7B3C9389B354DE59D/1770472.png",
+                    "status": "Tome of Justice",
+                    "text": "Apply Buff/Condition"
+                },
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매 초마다 생명력을 회복한다; 지속시간이 중첩된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "prefix": {
+                    "description": "Virtue:Regenerate health.<br>Activate:Draw forth an enchanted tome that recounts the trials undergone by the people of Vabbi.<br>Each tome skill use consumes a page.",
+                    "icon": "https://render.guildwars2.com/file/E206770FD62BB63B71F56209F34BF99392BADF9E/1770478.png",
+                    "status": "Tome of Resolve",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "리제너레이션",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "매 초마다 생명력을 회복한다; 지속시간이 중첩된다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                "prefix": {
+                    "description": "Virtue:Regenerate health.<br>Activate:Draw forth an enchanted tome that recounts the trials undergone by the people of Vabbi.<br>Each tome skill use consumes a page.",
+                    "icon": "https://render.guildwars2.com/file/E206770FD62BB63B71F56209F34BF99392BADF9E/1770478.png",
+                    "status": "Tome of Resolve",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "리제너레이션",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "prefix": {
+                    "description": "Virtue:Gain aegis periodically. <br>Activate:Conjure a mystic tome containing stories about the heroes of Istan.<br>Each tome skill use consumes a page.",
+                    "icon": "https://render.guildwars2.com/file/49B3D2E829962602205B09619770E1650BF07108/1770466.png",
+                    "status": "Tome of Courage",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "프로텍션",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            },
+            {
+                "apply_count": 1,
+                "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "prefix": {
+                    "description": "Virtue:Gain aegis periodically. <br>Activate:Conjure a mystic tome containing stories about the heroes of Istan.<br>Each tome skill use consumes a page.",
+                    "icon": "https://render.guildwars2.com/file/49B3D2E829962602205B09619770E1650BF07108/1770466.png",
+                    "status": "Tome of Courage",
+                    "text": "Apply Buff/Condition"
+                },
+                "status": "프로텍션",
+                "text": "Apply Buff/Condition",
+                "type": "PrefixedBuff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/0B9351C97E03000DA106650C1116BA3F5715AFDD/1769944.png",
+        "id": 2116,
+        "name": "Legendary Lore",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 62,
+        "tier": 2
+    }
+]

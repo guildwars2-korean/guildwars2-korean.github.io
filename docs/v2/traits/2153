@@ -1,0 +1,23 @@
+[
+    {
+        "description": "Full Counter스킬을 성공적으로 마치고나서 프로텍션을 획득한다.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                "status": "프로텍션",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/612A9DC2C632D8D64CA2630768A61AF26F7E7305/1770013.png",
+        "id": 2153,
+        "name": "Guard Counter",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 61,
+        "tier": 1
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "description": "임계 범위 안에있는 적을 대상으로 한 타격데미지가 증가한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 10,
+                "text": "데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 7,
+                "text": "데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "임계 거리",
+                "type": "Number",
+                "value": 600
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/B32B3E90552D3AE773E403D6D7AA00F50F750580/2479328.png",
+        "id": 2208,
+        "name": "Mental Focus",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 66,
+        "tier": 1
+    }
+]

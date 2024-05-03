@@ -1,0 +1,34 @@
+[
+    {
+        "description": "펫 스킬 시전 시, 펫의 다음 공격이 포이즌을 가한다; 포이즌 데미지가 증가한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 25,
+                "text": "데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "apply_count": 2,
+                "description": "매초 데미지를 준다; 힐링 효과가 33% 감소한다; 강도가 중첩된다.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                "status": "포이즌",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "전투시에만 적용",
+                "type": "NoData"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/31F8DA3B6BEE52B1AC76FEE0C10E4A075F5524DA/1012662.png",
+        "id": 1701,
+        "name": "Poison Master",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 33,
+        "tier": 3
+    }
+]

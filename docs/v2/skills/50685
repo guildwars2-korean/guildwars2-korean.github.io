@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&Bv3FAAA=]",
+        "description": "기본 근접 공격입니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 170
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/37FF121D3DF16CA847D1163CACBC673F575C927E/1012931.png",
+        "id": 50685,
+        "name": "Life Slash"
+    }
+]

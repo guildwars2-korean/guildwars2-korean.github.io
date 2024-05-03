@@ -1,0 +1,32 @@
+[
+    {
+        "description": "분이 없는 적을 상대로 자신과 일루전의 타격 데미지가 증가한다.. 적을 무력화 시키면 분을 제거한다. <br>무력화는 스턴, 데이즈, 넉백, 풀, 넉다운, 싱크, 플로트, 런치, 타운트, 피어를 포함한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 15,
+                "text": "데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Boons Removed",
+                "type": "Number",
+                "value": 2
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Boons Removed",
+                "type": "Number",
+                "value": 1
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/E9CB4990C405C00D34DB07C5C5291FD5E90EF90C/1012486.png",
+        "id": 681,
+        "name": "Vicious Expression",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 10,
+        "tier": 3
+    }
+]

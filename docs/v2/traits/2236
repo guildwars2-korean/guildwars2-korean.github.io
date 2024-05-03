@@ -1,0 +1,29 @@
+[
+    {
+        "description": "폭발 공격시 짧은 시간동안 추가 페로시티를 획득한다. 이 효과는 지속시간 중첩된다.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "",
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/0B2291AEBD4B3755F0CD9A38987797763AD34790/2491554.png",
+                "status": "Guns and Glory",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "duration": 10,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Maximum Duration",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/0B2291AEBD4B3755F0CD9A38987797763AD34790/2491554.png",
+        "id": 2236,
+        "name": "Guns and Glory",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 68,
+        "tier": 3
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "chat_link": "[&Bln2AAA=]",
+        "description": "매복을 발동합니다. 회전하여 적을 반복적으로 공격합니다. 마지막 공격은 공격한 대상 아래에 포자를 생성합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 170
+            },
+            {
+                "dmg_multiplier": 0.7,
+                "hit_count": 3,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "finisher_type": "Whirl",
+                "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                "percent": 100,
+                "text": "콤보 피니셔",
+                "type": "ComboFinisher"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/E80F113FF83F26A6A5FFDEF5EE050FA6A0135840/2565752.png",
+        "id": 63065,
+        "name": "Vicious Pike",
+        "professions": [
+            "Ranger"
+        ],
+        "slot": "Weapon_1",
+        "specialization": 72,
+        "type": "Weapon",
+        "weapon_type": "Spear"
+    }
+]

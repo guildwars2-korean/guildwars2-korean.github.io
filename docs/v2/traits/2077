@@ -1,0 +1,40 @@
+[
+    {
+        "description": "듀얼 어택 스킬을 사용할시, 자신과 주변의 아군들에게 배리어를 부여한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "배리어",
+                "type": "AttributeAdjust",
+                "value": 523
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "배리어",
+                "type": "AttributeAdjust",
+                "value": 260
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/32D4A99DECA90337DC0722ACF84C38B44A93429C/1769925.png",
+        "id": 2077,
+        "name": "Elemental Refreshment",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 56,
+        "tier": 2
+    }
+]

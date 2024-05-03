@@ -1,0 +1,71 @@
+[
+    {
+        "description": "생명력 임계 이하에서 공격받으면 Armor of Earth를 시전한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 50,
+                "text": "생명력 임계",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/94B6E0582A0CC93604F12220F703C5D22C59097A/1012294.png",
+        "id": 282,
+        "name": "Earth's Embrace",
+        "order": 0,
+        "skills": [
+            {
+                "categories": [
+                    "Cantrip"
+                ],
+                "chat_link": "[&BpEWAAA=]",
+                "description": "주문. 흙 갑옷으로 자신을 보호하고 보호와 안정성을 얻으십시오.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                        "text": "Recharge",
+                        "type": "Recharge",
+                        "value": 75
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                        "text": "스턴 해제",
+                        "type": "StunBreak",
+                        "value": true
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "받는 타격 데미지가 33% 감소한다; 지속시간이 중첩된다.",
+                        "duration": 6,
+                        "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                        "status": "프로텍션",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "apply_count": 10,
+                        "description": "넉다운, 넉백, 풀, 런치, 스턴, 데이즈, 플로트, 싱크, 피어, 타운트에 면역된다.",
+                        "duration": 6,
+                        "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+                        "status": "스태빌리티",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "duration": 6,
+                        "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                        "text": "지속시간",
+                        "type": "Time"
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/C4FF5D0F0942BC27D7277CC9CB64280F451B16C5/103070.png",
+                "id": 5777,
+                "name": "Armor of Earth"
+            }
+        ],
+        "slot": "Major",
+        "specialization": 26,
+        "tier": 1
+    }
+]

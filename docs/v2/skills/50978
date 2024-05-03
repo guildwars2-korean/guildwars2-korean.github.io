@@ -1,0 +1,21 @@
+[
+    {
+        "chat_link": "[&BiLHAAA=]",
+        "description": "깊은 곳에서 강력한 암흑 에너지 폭발.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "버닝",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/080F4AC49809C32040C80512EAEA769EE7EA4FB7/103109.png",
+        "id": 50978,
+        "name": "Spectral Flame"
+    }
+]

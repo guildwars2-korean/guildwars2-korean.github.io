@@ -1,0 +1,35 @@
+[
+    {
+        "description": "추가 바이탈리티를 획득한다. 바이탈리티에 비례해서 주는 힐링량이 증가한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 1,
+                "text": "Healing Increase to Others per 100 Vitality",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 0.5,
+                "text": "Healing Increase to Others per 100 Vitality",
+                "type": "Percent"
+            },
+            {
+                "apply_count": 1,
+                "description": "",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/AA9EDC9B5B343F27372ADDBA320702D3A19CD7D5/1012410.png",
+                "status": "Force of Will",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/AA9EDC9B5B343F27372ADDBA320702D3A19CD7D5/1012410.png",
+        "id": 1682,
+        "name": "Force of Will",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 49,
+        "tier": 3
+    }
+]

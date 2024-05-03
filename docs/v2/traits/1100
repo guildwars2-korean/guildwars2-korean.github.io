@@ -1,0 +1,12 @@
+[
+    {
+        "description": "받는 무력화를 펫이 대신 받는다.<br>무력화는 스턴, 타운트, 데이즈, 넉백, 풀, 넉다운, 싱크, 플로트, 피어, 런치를 포함한다.",
+        "icon": "https://render.guildwars2.com/file/C59B052F29BB21A6471F5080CB5A416F3A6CE7A8/1012659.png",
+        "id": 1100,
+        "name": "Shared Anguish",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 33,
+        "tier": 2
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "chat_link": "[&Bo73AAA=]",
+        "description": "주포를 발사하여 일렬로 목표물을 제거합니다. 기계는 비취 버스터 대포를 발사하는 동안 목표물을 추적하기 위해 회전할 수 있지만 움직일 수는 없습니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1200
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 1
+            },
+            {
+                "dmg_multiplier": 0.95,
+                "hit_count": 5,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
+                "text": "관통",
+                "type": "NoData"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
+                "text": "방어 불가",
+                "type": "NoData"
+            },
+            {
+                "apply_count": 5,
+                "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                "duration": 6,
+                "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                "status": "버닝",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/6493C9915A90E449EFE30323233F960B68C1BDF9/1770418.png",
+        "id": 63374,
+        "name": "Jade Buster Cannon",
+        "next_chain": 63374,
+        "prev_chain": 63374,
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Elite",
+        "specialization": 70,
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "description": "크리티컬 공격시 에어 어튠먼트의 재사용 대기시간이 초기화된다. 에어 어튠먼트에서 추가 페로시티를 획득한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "percent": 100,
+                "text": "재사용 대기시간 감소",
+                "type": "Percent"
+            },
+            {
+                "apply_count": 1,
+                "description": "Critical damage is increased.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/FA64C9F2750F986E52E8376F22EDBA3844A8C603/1012277.png",
+                "status": "Fresh Air",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/FA64C9F2750F986E52E8376F22EDBA3844A8C603/1012277.png",
+        "id": 1503,
+        "name": "Fresh Air",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 41,
+        "tier": 3
+    }
+]

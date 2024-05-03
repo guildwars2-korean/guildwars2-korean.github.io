@@ -1,0 +1,68 @@
+[
+    {
+        "description": "행동 불능에 걸렸을 때 \"Eye of the Storm!\"을 시전한다. <br>행동불능에는 스턴, 데이즈, 풀, 넉다운, 싱크, 플로트, 런치, 도발, 공포를 포함한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 40
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/65ED3B2F3816172BC7E23598DA93A0731D6D0245/1029943.png",
+        "id": 1952,
+        "name": "Gale Song",
+        "order": 0,
+        "skills": [
+            {
+                "categories": [
+                    "Shout"
+                ],
+                "chat_link": "[&Bhl4AAA=]",
+                "description": "외침. 당신의 목소리에 공기의 요소를 불어넣어 주변 아군의 속도를 크게 증가시킵니다. 이 외침의 효과는 지속되어 주변 아군을 기절시킵니다.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                        "text": "Recharge",
+                        "type": "Recharge",
+                        "value": 40
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                        "text": "스턴 해제",
+                        "type": "StunBreak",
+                        "value": true
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "이동속도가 대폭 증가한다; 최대 지속시간: 10초",
+                        "duration": 5,
+                        "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+                        "status": "슈퍼스피드",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "text": "적용 대상",
+                        "type": "Number",
+                        "value": 5
+                    },
+                    {
+                        "distance": 600,
+                        "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                        "text": "범위",
+                        "type": "Distance"
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/0A4809D69EDAD4FC34F9D46A035096B2EA48D412/1029990.png",
+                "id": 30745,
+                "name": "\"Eye of the Storm!\""
+            }
+        ],
+        "slot": "Major",
+        "specialization": 48,
+        "tier": 1
+    }
+]

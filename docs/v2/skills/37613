@@ -1,0 +1,24 @@
+[
+    {
+        "chat_link": "[&Bu2SAAA=]",
+        "description": "데이모스는 사울의 죄를 풀어 엄청난 피해를 입힙니다. 무적 상태로 회피하거나 완화할 수 없습니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 1500
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 30
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1521713AFAFC0BA9C5642F65393751B124AA7602/1635207.png",
+        "id": 37613,
+        "name": "Mind Crush"
+    }
+]

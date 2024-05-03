@@ -1,0 +1,24 @@
+[
+    {
+        "chat_link": "[&Brj9AAA=]",
+        "description": "리 장관은 강력한 힘으로 검을 휘둘러 원뿔 모양의 충격파를 만들어 상당한 피해를 입히고 적을 날려버립니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 300
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 1
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/E10E62663EDE5FD4C635B9E2D01212C2BF48E891/2491630.png",
+        "id": 64952,
+        "name": "Dragon Slash—Wave"
+    }
+]

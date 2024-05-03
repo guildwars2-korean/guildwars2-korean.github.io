@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BpiUAAA=]",
+        "description": "Rigom은 그의 앞에서 호를 그리며 단검을 휘둘렀습니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 100
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/26FC2A2FCF0A6498C83EB74C9497F65F29E908EC/1635229.png",
+        "id": 38040,
+        "name": "Prison Shank"
+    }
+]

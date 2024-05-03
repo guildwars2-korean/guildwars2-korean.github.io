@@ -1,0 +1,29 @@
+[
+    {
+        "description": "적에게 블라인드를 유발하면, 칠도 함께 유발한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 3
+            },
+            {
+                "apply_count": 1,
+                "description": "이동속도가 66% 감소한다; 스킬 재사용 대기시간이 66% 증가한다; 지속시간이 중첩된다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "status": "칠",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/6B150BF59E2064171BBDF1B9085054080F31C46A/1012548.png",
+        "id": 815,
+        "name": "Chilling Darkness",
+        "order": 2,
+        "slot": "Major",
+        "specialization": 39,
+        "tier": 1
+    }
+]

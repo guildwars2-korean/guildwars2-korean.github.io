@@ -1,0 +1,26 @@
+[
+    {
+        "description": "트릭 스킬의 재사용 대기시간이 감소하고, 트릭 스킬을 사용시 컨디션을 제거한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "percent": 20,
+                "text": "재사용 대기시간 감소",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "컨디션 해제",
+                "type": "Number",
+                "value": 1
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/F2DAE84AE2A6D6C7F336F1C6076962F50FA6AA0A/1012766.png",
+        "id": 1286,
+        "name": "Trickster",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 44,
+        "tier": 2
+    }
+]

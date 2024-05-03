@@ -1,0 +1,44 @@
+[
+    {
+        "description": "적을 무력화하면 배리어를 부여한다. 펑션 자이로를 시전할 때 적을 데이즈한다. <br>무력화는 스턴, 데이즈, 넉백, 풀, 넉다운, 싱크, 플로트, 런치, 타운트, 피어를 포함한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "배리어",
+                "type": "AttributeAdjust",
+                "value": 724
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                "target": "Healing",
+                "text": "배리어",
+                "type": "AttributeAdjust",
+                "value": 362
+            },
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+                "text": "데이즈",
+                "type": "Time"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/D218686E042F19144D99A11F7205FB4763D053EF/2175050.png",
+        "id": 1971,
+        "name": "System Shocker",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 43,
+        "tier": 1,
+        "traited_facts": [
+            {
+                "duration": 1,
+                "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+                "overrides": 2,
+                "requires_trait": 2052,
+                "text": "데이즈",
+                "type": "Time"
+            }
+        ]
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "description": "힐링 스킬 사용 시 Dome of the Mists가 발동된다.",
+        "icon": "https://render.guildwars2.com/file/6FCF4CED0607CA91AD1F2F03FCE118637BDDB5D8/1012694.png",
+        "id": 1811,
+        "name": "Planar Protection",
+        "order": 0,
+        "skills": [
+            {
+                "chat_link": "[&Bj5qAAA=]",
+                "description": "투사체를 차단하고 적을 약화시키는 영역을 생성합니다.",
+                "facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                        "text": "Recharge",
+                        "type": "Recharge",
+                        "value": 20
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "지구력 재생력이 50% 감소한다. 50%의 공격이 빗나간다(50% 데미지). 지속시간이 중첩된다.",
+                        "duration": 1,
+                        "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                        "status": "위크니스",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "duration": 8,
+                        "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                        "text": "지속시간",
+                        "type": "Time"
+                    },
+                    {
+                        "duration": 4,
+                        "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                        "text": "지속시간",
+                        "type": "Time"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "text": "적용 대상",
+                        "type": "Number",
+                        "value": 5
+                    },
+                    {
+                        "distance": 240,
+                        "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                        "text": "범위",
+                        "type": "Distance"
+                    },
+                    {
+                        "duration": 1,
+                        "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                        "text": "주기",
+                        "type": "Time"
+                    },
+                    {
+                        "field_type": "Dark",
+                        "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                        "text": "콤보 필드",
+                        "type": "ComboField"
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/B744222B69B2E5A27F51C6D005DD4BA5AA17D374/961482.png",
+                "id": 27198,
+                "name": "Dome of the Mists"
+            }
+        ],
+        "slot": "Major",
+        "specialization": 9,
+        "tier": 1
+    }
+]

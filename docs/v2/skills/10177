@@ -1,0 +1,43 @@
+[
+    {
+        "categories": [
+            "Manipulation"
+        ],
+        "chat_link": "[&BsEnAAA=]",
+        "description": "시장 조작. 발사체를 반사하고 자신을 치유하십시오.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 15
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "힐링",
+                "type": "AttributeAdjust",
+                "value": 4299
+            },
+            {
+                "apply_count": 1,
+                "description": "Reflects incoming projectiles.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/CED3F1AE9294F9C5045DA8017F25170CE87C0AE2/103726.png",
+                "status": "Mirror",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/CED3F1AE9294F9C5045DA8017F25170CE87C0AE2/103726.png",
+        "id": 10177,
+        "name": "Mirror",
+        "professions": [
+            "Mesmer"
+        ],
+        "slot": "Heal",
+        "type": "Heal",
+        "weapon_type": "None"
+    }
+]

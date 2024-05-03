@@ -1,0 +1,52 @@
+[
+    {
+        "description": "구르기를 사용한 후나, Quick Shot을 사용한 후에 가하는 데미지와 컨디션의 지속시간이 증가한다. 숏보우 스킬이 피어싱 효과를 갖고 적의 후방이나 측면에서 공격할때 향상된다. 숏보우 스킬의 재사용 대기시간이 감소한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+                "percent": 20,
+                "text": "재사용 대기시간 감소",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "화살당 타겟",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
+                "text": "관통",
+                "type": "NoData"
+            },
+            {
+                "apply_count": 1,
+                "description": "Your conditions last longer, and your damage is increased.",
+                "duration": 4,
+                "icon": "https://render.guildwars2.com/file/4D37A694088038DA9266F6107C9604AD9CBC2752/1012649.png",
+                "status": "Light on Your Feet",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "percent": 10,
+                "text": "데미지 증가",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "percent": 10,
+                "text": "지속시간 증가",
+                "type": "Percent"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/4D37A694088038DA9266F6107C9604AD9CBC2752/1012649.png",
+        "id": 1912,
+        "name": "Light on your Feet",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 30,
+        "tier": 3
+    }
+]

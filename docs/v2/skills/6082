@@ -1,0 +1,16 @@
+[
+    {
+        "chat_link": "[&BsIXAAA=]",
+        "description": "병을 터트려 안정과 아군에게 다음 중 하나의 혜택을 제공합니다: 분노, 힘, 보복 또는 신속.",
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/7835AE041957D0DCCB7B2373CA76A90864017E09/103481.png",
+        "id": 6082,
+        "name": "Detonate Elixir B",
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Toolbelt",
+        "type": "Toolbelt",
+        "weapon_type": "None"
+    }
+]

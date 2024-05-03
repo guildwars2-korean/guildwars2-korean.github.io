@@ -1,0 +1,27 @@
+[
+    {
+        "description": "스스로에게 분 적용시 라이프 포스를 획득한다. 리퍼 슈라우드 상태에서는 생명력을 대신 획득한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "percent": 1,
+                "text": "라이프 포스",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                "target": "Healing",
+                "text": "힐링",
+                "type": "AttributeAdjust",
+                "value": 165
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/14D43D5970C25B59DA6E750DB6DA057EF40B25F6/1012576.png",
+        "id": 1932,
+        "name": "Blighter's Boon",
+        "order": 0,
+        "slot": "Major",
+        "specialization": 34,
+        "tier": 3
+    }
+]

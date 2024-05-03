@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BlgLAAA=]",
+        "description": "기본 근접 공격입니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 130
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/C245443EDDB8456F4926982F013F2820510D58CE/102762.png",
+        "id": 2904,
+        "name": "Slash"
+    }
+]

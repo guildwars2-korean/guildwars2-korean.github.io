@@ -1,0 +1,24 @@
+[
+    {
+        "chat_link": "[&Bk3vAAA=]",
+        "description": "",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 375
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 14
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/0CC6E97CF3DD32E5B57001980702C10F1538F97E/1058639.png",
+        "id": 61261,
+        "name": "Arc Divider"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "chat_link": "[&Bk/dAAA=]",
+        "description": "",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "Applies conditions and reduces outgoing damage by 10%.",
+                "duration": 0,
+                "icon": "https://render.guildwars2.com/file/DC4B190B7601AE06454E2178574606D51F2B4F1D/2156518.png",
+                "status": "Enfeebled Force",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/5AF8170865B353E26127E10E34EFE8B90B9096D6/1451806.png",
+        "id": 56655,
+        "name": "Poisoned Power"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "chat_link": "[&BvmTAAA=]",
+        "description": "악마의 눈물은 플레이어 위치에 투사체를 발사합니다. 눈물은 그들의 공허에 발을 들여놓음으로써 닫힐 수 있다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                "text": "사정거리",
+                "type": "Range",
+                "value": 2500
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 2
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/1D55D34FB4EE20B1962E315245E40CA5E1042D0E/62248.png",
+        "id": 37881,
+        "name": "Demonic Projection"
+    }
+]

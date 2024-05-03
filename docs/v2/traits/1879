@@ -1,0 +1,35 @@
+[
+    {
+        "description": "공포 유발시 칠도 함께 유발한다.",
+        "facts": [
+            {
+                "apply_count": 1,
+                "description": "이동속도가 66% 감소한다; 스킬 재사용 대기시간이 66% 증가한다; 지속시간이 중첩된다.",
+                "duration": 2,
+                "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                "status": "칠",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/3BAA64BE683E69F89860E875170B45300060F1CA/1012580.png",
+        "id": 1879,
+        "name": "Shivers of Dread",
+        "order": 0,
+        "slot": "Minor",
+        "specialization": 34,
+        "tier": 2,
+        "traited_facts": [
+            {
+                "apply_count": 3,
+                "description": "받는 데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 8,
+                "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                "requires_trait": 1863,
+                "status": "벌너러빌리티",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ]
+    }
+]

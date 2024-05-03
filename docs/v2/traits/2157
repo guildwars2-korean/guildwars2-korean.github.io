@@ -1,0 +1,35 @@
+[
+    {
+        "description": "Photon Forge 상태에서 벗어날때 현재 열기 축적레벨에 따라 자신에게 걸린 컨디션들을 분으로 변환한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "분으로 전환되는 컨디션",
+                "type": "Number",
+                "value": 1
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "50% 히트 이상에서 분으로 전환되는 컨디션",
+                "type": "Number",
+                "value": 2
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/DC0BB7751AFC3CC425E66E774179F00B9C3C9E29/1769928.png",
+        "id": 2157,
+        "name": "Prismatic Converter",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 57,
+        "tier": 1,
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "requires_trait": 2137,
+                "text": "Conditions to Boons Over 100% Heat",
+                "type": "Number",
+                "value": 3
+            }
+        ]
+    }
+]

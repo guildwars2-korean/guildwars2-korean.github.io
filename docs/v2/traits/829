@@ -1,0 +1,23 @@
+[
+    {
+        "description": "마이트의 파워 증가량이 증가하고, 컨디션 데미지 증가량이 감소한다. 슈라우드 상태로 들어갈때 마이트를 획득한다.",
+        "facts": [
+            {
+                "apply_count": 5,
+                "description": "데미지가 증가한다; 강도가 중첩된다.",
+                "duration": 5,
+                "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                "status": "마이트",
+                "text": "Apply Buff/Condition",
+                "type": "Buff"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/6272F31C9A6D02196C0891040C4A9C0108901BDA/1012598.png",
+        "id": 829,
+        "name": "Awaken the Pain",
+        "order": 1,
+        "slot": "Major",
+        "specialization": 53,
+        "tier": 2
+    }
+]

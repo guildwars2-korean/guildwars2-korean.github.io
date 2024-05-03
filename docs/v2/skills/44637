@@ -1,0 +1,50 @@
+[
+    {
+        "chat_link": "[&Bl2uAAA=]",
+        "description": "짜여진 요소를 모두 해제하고 Weave Self 자세를 종료하여 중력 자체가 주변에서 풀리도록 합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "방어 불가",
+                "type": "Unblockable",
+                "value": true
+            },
+            {
+                "dmg_multiplier": 0.75,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "duration": 3,
+                "icon": "https://render.guildwars2.com/file/18F6E20EB4F7A812FD2C13723F130166BC54C6D1/2440713.png",
+                "text": "Float",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "distance": 360,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/33DBB3D7536A4D4E4A3B0CB60CB1FEE2E8F20A15/1770327.png",
+        "id": 44637,
+        "name": "Tailored Victory",
+        "professions": [
+            "Elementalist"
+        ],
+        "slot": "Elite",
+        "specialization": 56,
+        "type": "Elite",
+        "weapon_type": "None"
+    }
+]

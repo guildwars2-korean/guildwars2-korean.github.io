@@ -1,0 +1,119 @@
+[
+    {
+        "description": "레전드 변경 시 주위로 토먼트를 유발하는 범위 데미지를 가한다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "전투시에만 적용",
+                "type": "NoData"
+            }
+        ],
+        "icon": "https://render.guildwars2.com/file/414A9704F7C62C49DB2604DACDAFABDE7A400499/2261512.png",
+        "id": 1799,
+        "name": "Invoking Torment",
+        "order": 0,
+        "skills": [
+            {
+                "chat_link": "[&BsfoAAA=]",
+                "description": "충전하고 주변 적에게 고통 에너지를 방출합니다.",
+                "facts": [
+                    {
+                        "dmg_multiplier": 1,
+                        "hit_count": 1,
+                        "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                        "text": "데미지",
+                        "type": "Damage"
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "매초 데미지를 준다. 움직이지 않는 적에게 추가 피해를 준다. 강도가 중첩된다.",
+                        "duration": 10,
+                        "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                        "status": "토먼트",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "distance": 240,
+                        "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                        "text": "범위",
+                        "type": "Distance"
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                        "text": "적용 대상",
+                        "type": "Number",
+                        "value": 5
+                    }
+                ],
+                "flags": [],
+                "icon": "https://render.guildwars2.com/file/414A9704F7C62C49DB2604DACDAFABDE7A400499/2261512.png",
+                "id": 59591,
+                "name": "Invoke Torment",
+                "traited_facts": [
+                    {
+                        "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                        "requires_trait": 1721,
+                        "text": "Conditions Copied",
+                        "type": "Number",
+                        "value": 3
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                        "requires_trait": 1721,
+                        "text": "Conditions Copied",
+                        "type": "Number",
+                        "value": 2
+                    },
+                    {
+                        "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
+                        "requires_trait": 1721,
+                        "text": "방어 불가",
+                        "type": "NoData"
+                    },
+                    {
+                        "description": "다음 공격이 빗나간다; 지속시간이 중첩된다.",
+                        "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                        "requires_trait": 1721,
+                        "status": "블라인드",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "매초 데미지를 준다; 힐링 효과가 33% 감소한다; 강도가 중첩된다.",
+                        "duration": 10,
+                        "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                        "requires_trait": 1795,
+                        "status": "포이즌",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "매초 데미지를 준다; 강도가 중첩된다.",
+                        "duration": 4,
+                        "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                        "requires_trait": 1795,
+                        "status": "버닝",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    },
+                    {
+                        "apply_count": 1,
+                        "description": "데미지를 주지 않는 컨디션의 영향을 받지 않는다; 지속시간이 중첩된다.",
+                        "duration": 5,
+                        "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+                        "requires_trait": 1720,
+                        "status": "레지스턴스",
+                        "text": "Apply Buff/Condition",
+                        "type": "Buff"
+                    }
+                ]
+            }
+        ],
+        "slot": "Minor",
+        "specialization": 14,
+        "tier": 1
+    }
+]

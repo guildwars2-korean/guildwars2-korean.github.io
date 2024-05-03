@@ -1,0 +1,51 @@
+[
+    {
+        "chat_link": "[&Bjc4AAA=]",
+        "description": "짧은 시간 동안 집결하고 정상적으로 싸우십시오. 적을 죽이면 완전히 집결할 기회가 있습니다. 복수가 끝나면 패배합니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                "text": "Recharge",
+                "type": "Recharge",
+                "value": 20
+            },
+            {
+                "duration": 15,
+                "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                "text": "Vengeance Duration",
+                "type": "Time"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "percent": 25,
+                "text": "퍼센트",
+                "type": "Percent"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Prevents Capture-Point Contribution",
+                "type": "NoData"
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/4EDE3CEDF8BE6153441B25F69AD4DEF55BF627F6/102847.png",
+        "id": 14391,
+        "name": "Vengeance",
+        "professions": [
+            "Warrior"
+        ],
+        "slot": "Downed_3",
+        "traited_facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "overrides": 2,
+                "percent": 100,
+                "requires_trait": 1381,
+                "text": "퍼센트",
+                "type": "Percent"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "None"
+    }
+]

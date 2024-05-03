@@ -1,0 +1,18 @@
+[
+    {
+        "chat_link": "[&BkKVAAA=]",
+        "description": "케른은 고통을 너무 심하게 일으켜 대상의 주변 아군에게까지 퍼집니다.",
+        "facts": [
+            {
+                "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                "text": "Maximum Jumps",
+                "type": "Number",
+                "value": 4
+            }
+        ],
+        "flags": [],
+        "icon": "https://render.guildwars2.com/file/B801990293E13E5FD3440B6C63647331613D16DC/563500.png",
+        "id": 38210,
+        "name": "Shared Agony"
+    }
+]

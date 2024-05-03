@@ -1,0 +1,55 @@
+[
+    {
+        "chat_link": "[&Bu8JAQA=]",
+        "description": "소총에서 폭발성 수류탄을 발사하십시오.",
+        "facts": [
+            {
+                "dmg_multiplier": 0.4,
+                "hit_count": 1,
+                "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                "text": "데미지",
+                "type": "Damage"
+            },
+            {
+                "distance": 120,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "text": "범위",
+                "type": "Distance"
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                "text": "적용 대상",
+                "type": "Number",
+                "value": 5
+            },
+            {
+                "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
+                "text": "폭발",
+                "type": "NoData"
+            }
+        ],
+        "flags": [
+            "NoUnderwater"
+        ],
+        "icon": "https://render.guildwars2.com/file/5B2AB667667749BC1BC7AEFD27362E3E0E0F2FE6/103294.png",
+        "id": 68079,
+        "name": "Rifle Burst Grenade",
+        "prev_chain": 6003,
+        "professions": [
+            "Engineer"
+        ],
+        "slot": "Weapon_1",
+        "traited_facts": [
+            {
+                "distance": 180,
+                "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                "overrides": 1,
+                "requires_trait": 514,
+                "text": "범위",
+                "type": "Distance"
+            }
+        ],
+        "type": "Weapon",
+        "weapon_type": "Rifle"
+    }
+]
