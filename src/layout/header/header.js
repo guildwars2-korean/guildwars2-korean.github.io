@@ -64,7 +64,6 @@ function Header(props) {
                       워리어
                     </NavDropdown.Item>
                 </NavDropdown>
-                <Nav.Link href="/board" style={{flex: "left"}}>댓글</Nav.Link>
               </Nav>
               <a href="https://hits.seeyoufarm.com" style={{float: "right" }}><img alt="counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fguildwars2-korean.github.io&count_bg=%23212121&title_bg=%234D4D4D&icon=&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false"/></a>
             </Container>
